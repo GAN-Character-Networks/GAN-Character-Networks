@@ -1,0 +1,39 @@
+# Continuous integration
+name: CI
+
+# Runs on pushes to main and develop branches and on pull requests
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches:
+      - main
+      - develop
+  pull_request:
+
+jobs:
+  tests:
+    name: Tests
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.9, "3.10", 3.11]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: Full dependencies
+        run: |
+          sudo apt-get update
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Unittests with pytest
+        run: |
+          pytest tests/unittests
