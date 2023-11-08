@@ -1,4 +1,8 @@
-"""
+r"""
+
+Authors
+-------
+ * Gabriel Desbouis 2023
 """
 import os
 

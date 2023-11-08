@@ -1,11 +1,23 @@
-"""
+r"""
+
+Authors
+-------
+ * Gabriel Desbouis 2023
 """
 import re
 
 
 def process_file(file_path: str) -> None:
-    """
-    Function to apply the regex and replace the content of the file
+    r"""Function to apply the regex and replace the content of the file
+
+    Arguments
+    ---------
+    file_path: str
+        Path to the file to process
+
+    Returns
+    -------
+    None
     """
     try:
         with open(file_path, "r", errors="ignore") as file:
