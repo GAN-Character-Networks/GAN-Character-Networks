@@ -1,0 +1,10 @@
+<docteur Gerrigel;Baley>
+<Romain;Paul>
+<Baley;expert>
+<Daneel;Baley>
+<Enderby;Baley>
+<Jessie;Baley>
+<commissaire principal;R. Daneel>
+<Dr Sarton;Enderby>
+<R. Sammy;R. Daneel>
+<Vince Barrett/Bentley;Baley>

@@ -1,0 +1,24 @@
+<R. Daneel; Francis>
+<R. Daneel; Clousarr>
+<Baley; Clousarr>
+<R. Daneel; monsieur Clousarr>
+<Baley; R. Daneel>
+<Clousarr; R. Daneel>
+<Clousarr; enfants>
+<R. Daneel; enfants>
+<Baley; R. Daneel>
+<Clousarr; R. Daneel>
+<Baley; R. Daneel>
+<R. Daneel; Elijah>
+<Baley; R. Daneel>
+<R. Daneel; Elijah>
+<Baley; R. Daneel>
+<R. Daneel; Elijah>
+<Baley; R. Sammy>
+<Enderby; Baley>
+<Clousarr; R. Sammy>
+<R. Daneel; Clousarr>
+<Baley; R. Daneel>
+<R. Daneel; Vince Barrett>
+<Baley; R. Daneel>
+<R. Daneel; Elijah>

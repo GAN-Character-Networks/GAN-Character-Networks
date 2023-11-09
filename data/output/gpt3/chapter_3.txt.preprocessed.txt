@@ -1,0 +1,10 @@
+<Romain Daneel;Baley>
+<Romain Daneel;bottier>
+<Romain Daneel;femme1>
+<Baley;femme1>
+<père;Lije Baley>
+<oncle Boris;Lije Baley>
+<associé;R. Daneel>
+<femme2;R. Daneel>
+<foule;robots du magasin>
+<femme3;R. Daneel>

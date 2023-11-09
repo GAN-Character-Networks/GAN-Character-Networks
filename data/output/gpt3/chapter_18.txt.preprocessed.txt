@@ -1,0 +1,19 @@
+<Enderby;Clousarr>
+<Baley;Enderby>
+<Baley;Jessie>
+<Baley;R. Sammy>
+<Daneel;Baley>
+<Sarton;Enderby>
+<Enderby;R. Sammy>
+<Enderby;Dr Gerrigel>
+<Sarton;Daneel>
+<Baley;Daneel>
+<Enderby;Baley>
+<Enderby;Sarton>
+<Baley;Dr Gerrigel>
+<Sarton;Daneel>
+<Enderby;Daneel>
+<Enderby;Bentley>
+<Sammy;Enderby>
+<Bentley;Daneel>
+<Fastolfe;Daneel>
