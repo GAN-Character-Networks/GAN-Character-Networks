@@ -19,7 +19,9 @@ client = OpenAI()
 
 directory_path = 'data/kaggle/les_cavernes_d_acier'
 folder_path = 'data/output/gpt3'
+
 txt_files = glob.glob(os.path.join(directory_path, '*'))
+
 for txt_file in txt_files:
     with open(txt_file, 'r') as file:
         content = file.read()
