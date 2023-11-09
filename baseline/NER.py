@@ -108,6 +108,29 @@ def add_bio_tags(entities):
     return entities
 
 
+def chunk_text(text):
+    """
+    Chunk the text into a list of subtexts of a size of 500 tokens.
+
+    Args:
+        text (str): The input text.
+
+    Returns:
+        list: A list of subtexts.
+    """
+    chunked_text = []
+    chunk = []
+    words = text.split()
+    for word in words:
+        if len(" ".join(chunk)) + len(word) > 500:
+            chunked_text.append(" ".join(chunk))
+            chunk = []
+        chunk.append(word)
+    if chunk:
+        chunked_text.append(" ".join(chunk))
+    return chunked_text
+
+
 def tag_text(text: str, entities: list):
     """
     Tags the text with BIO tags based on the given entities.
@@ -128,6 +151,30 @@ def tag_text(text: str, entities: list):
     tagged_text += text[start:]
 
     return tagged_text
+
+
+def tag_file(input_file_path: str):
+    """
+    Tags the text in the given file with BIO tags.
+
+    Args:
+        input_file_path (str): The path to the input file.
+
+    Returns:
+        str: The tagged text.
+    """
+    with open(input_file_path, "r") as f:
+        text = f.read()
+
+    chunks = chunk_text(text)
+    tagged_chunks = []
+    for chunk in chunks:
+        entities = add_bio_tags(get_entities(chunk))
+        tagged_chunks.append(tag_text(chunk, entities))
+    return " ".join(tagged_chunks)
+
+
+# TODO: method to generate NER list on the whole textfile
 
 
 # def tokenize(entities: list):
