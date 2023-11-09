@@ -1,0 +1,45 @@
+<Romain;Paul>
+<Baley;express>
+<Spacetown; barrière>
+<New York;New Yorkais>
+<Spaciens;New York>
+<Enderby;autorités de la ville>
+<Enderby;Spaciens>
+<Spacetown;contrôle de l’immigration>
+<Spacetown;inspection des douanes>
+<Spacetown;services de police de New York>
+<Spacetown;loi isolationnistes>
+<Baley;Enderby>
+<Baley;Julius>
+<J. Enderby;usages archaïques>
+<Baley;études historiques>
+<New York;New York City>
+<Terriens;Mondes Extérieurs>
+<New York;Los Angeles>
+<Spacetown;New York>
+<Enderby;autorités de Spacetown>
+<Baley;R. Daneel Olivaw>
+<Baley;associé>
+<Daneel;initiale R>
+<Baley;R. Sammy>
+<Daneel;Spacien>
+<Daneel;vue de New York>
+<Baley;Rechercher>
+<R. Daneel Olivaw;robot>
+<R. Daneel Olivaw;cerveau positronique>
+<Baley;R. Daneel>
+<associés;caractéristiques humanoïdes>
+<Baley;associé>
+<R. Daneel;peau faite de matière plastique>
+<R. Daneel;regard figé>
+<R. Sammy;matière plastique>
+<R. Daneel;regard naturel>
+<Daneel;cachet de l’express>
+<Baley;rassemblement devant le magasin>
+<employés;robots>
+<Daneel;paroles de l’homme>
+<Baley;foule>
+<police;foule>
+<Cité;organisation>
+<robots;déclassement d’hommes>
+<robots;emploi généralisé>

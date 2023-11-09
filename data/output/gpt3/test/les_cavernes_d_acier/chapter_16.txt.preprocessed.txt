@@ -1,0 +1,17 @@
+<R. Daneel;Romain Daneel>
+<R. Daneel;Francis>
+<R. Daneel;Baley>
+<Clousarr;Baley>
+<Baley;Daneel>
+<Clousarr;Daneel>
+<Baley;Clousarr>
+<Baley;Elijah>
+<Daneel;Clousarr>
+<Daneel;Baley>
+<Daneel;Elijah>
+<Daneel;Julius>
+<Baley;Enderby>
+<Gerrigel;Baley>
+<Daneel;Baley>
+<Jessie;Baley>
+<Jessie;Daneel>

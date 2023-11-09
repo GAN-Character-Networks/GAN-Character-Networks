@@ -1,0 +1,14 @@
+<Baley;R. Daneel>
+<Bottier;Six femmes>
+<Baley;père>
+<Baley;deux sœurs aînées>
+<oncle Boris;Baley;deux sœurs aînées>
+<femme1;Bottier>
+<femme1;Baley>
+<Baley;femme1>
+<femme1;enfants>
+<Baley;R. Daneel>
+<R. Daneel;foule>
+<Baley;R. Daneel>
+<foule;directeur du magasin>
+<Baley;R. Daneel>

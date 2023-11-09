@@ -18,7 +18,10 @@ Exécute cette mission avec le texte ci-dessous et assure-toi de formater ta ré
 client = OpenAI()
 
 directory_path = 'data/kaggle/les_cavernes_d_acier'
-folder_path = 'data/output/gpt3'
+folder_path = 'data/output/gpt3/les_cavernes_d_acier/test'
+
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
 
 txt_files = glob.glob(os.path.join(directory_path, '*'))
 
@@ -31,8 +34,9 @@ for txt_file in txt_files:
         response = client.chat.completions.create(
           model="gpt-3.5-turbo-16k",
           messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": content},
+            #{"role": "system", "content": system_prompt},
+            {"role": "user", "content": system_prompt + content},
+            #{"role": "user", "content": content},
           ]
         )
         generated_content = response.choices[0].message.content
