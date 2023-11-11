@@ -174,6 +174,19 @@ def tag_file(input_file_path: str):
     return " ".join(tagged_chunks)
 
 
+def write_tag_file(input_file_path: str, output_file_path: str):
+    """
+    Tags the text in the given file with BIO tags and writes the tagged text to the output file.
+
+    Args:
+        input_file_path (str): The path to the input file.
+        output_file_path (str): The path to the output file.
+    """
+    tagged_text = tag_file(input_file_path)
+    with open(output_file_path, "w") as f:
+        f.write(tagged_text)
+
+
 # TODO: method to generate NER list on the whole textfile
 
 
