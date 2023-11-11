@@ -6,6 +6,8 @@ from transformers import (
 )
 import json
 from transformers import pipeline
+from flair.data import Sentence
+from flair.models import SequenceTagger
 
 # import torch
 
@@ -174,7 +176,7 @@ def tag_file(input_file_path: str):
     return " ".join(tagged_chunks)
 
 
-def write_tag_file(input_file_path: str, output_file_path: str):
+def write_bio_tag_file(input_file_path: str, output_file_path: str):
     """
     Tags the text in the given file with BIO tags and writes the tagged text to the output file.
 
@@ -185,6 +187,32 @@ def write_tag_file(input_file_path: str, output_file_path: str):
     tagged_text = tag_file(input_file_path)
     with open(output_file_path, "w") as f:
         f.write(tagged_text)
+
+
+def write_pos_tag_file(input_file_path: str, output_file_path: str):
+    """
+    Tags the text in the given file with pos tags and writes the tagged text to the output file.
+
+    Args:
+        input_file_path (str): The path to the input file.
+        output_file_path (str): The path to the output file.
+    """
+    with open(input_file_path, "r") as f:
+        text = f.read()
+
+    model = SequenceTagger.load("qanastek/pos-french")
+    sentence = Sentence(text)
+    model.predict(sentence)
+
+    with open(output_file_path, "w") as file:
+        tokens = [token.text for token in sentence.tokens]
+        pos_tags = [token.labels[0].value for token in sentence.tokens]
+
+        result = " ".join(
+            [f"{token} <{pos_tag}>" for token, pos_tag in zip(tokens, pos_tags)]
+        )
+
+        file.write(result)
 
 
 # TODO: method to generate NER list on the whole textfile
