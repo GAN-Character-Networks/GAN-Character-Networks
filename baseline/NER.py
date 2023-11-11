@@ -1,3 +1,10 @@
+r"""  Package for Named Entity Recognition (NER) tasks.
+
+Authors
+--------
+ * Nicolas Bataille 2023
+"""
+
 from transformers import (
     AutoTokenizer,
     AutoModelForTokenClassification,
@@ -8,8 +15,6 @@ import json
 from transformers import pipeline
 from flair.data import Sentence
 from flair.models import SequenceTagger
-
-# import torch
 
 
 def read_file(file_path: str):
@@ -22,29 +27,7 @@ def write_json_file(file_path: str, data: list):
         json.dump(data, f, indent=4)
 
 
-def remove_duplicates_by_word(data):
-    """
-    Removes duplicate entities based on the 'word' attribute.
-
-    Args:
-        data (list): A list of dictionaries representing the entities.
-
-    Returns:
-        list: A list of dictionaries with duplicate entities removed.
-    """
-    unique_dicts = []
-    words = set()
-
-    for entity in data:
-        word = entity["word"]
-        if word not in words:
-            unique_dicts.append(entity)
-            words.add(word)
-
-    return unique_dicts
-
-
-def get_entities(text: str, keep_duplicates: bool = False):
+def get_entities(text: str):
     """
     Extracts named entities from the given text.
 
@@ -79,10 +62,6 @@ def get_entities(text: str, keep_duplicates: bool = False):
     filtered_results = [
         entity for entity in raw_result if entity["entity_group"] == "PER"
     ]
-
-    # Remove duplicates
-    if keep_duplicates:
-        filtered_results = remove_duplicates_by_word(filtered_results)
 
     return filtered_results
 
@@ -139,8 +118,7 @@ def tag_text(text: str, entities: list):
 
     Args:
         text (str): The input text.
-        entities (list): A list of dictionaries representing the named entities. Each dictionary contains the keys 'entity_group',
-                          'word', 'start', 'end', and 'bio_tag'.
+        entities (list): A list of entities with the corresponding BIO tag for each words.
 
     Returns:
         str: The tagged text.
@@ -218,7 +196,24 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
 # TODO: method to generate NER list on the whole textfile
 
 
-# def tokenize(entities: list):
-#     model_name = 'camembert-base'
-#     tokenizer = CamembertTokenizer.from_pretrained(model_name)
-#     model = CamembertModel.from_pretrained(model_name)
+def get_entities_from_file(file_path: str):
+    """
+    Extracts named entities from the given file.
+
+    Args:
+        file_path (str): The path to the input file.
+
+    Returns:
+        list: A list of list dictionaries representing the named entities for each text chunk. Each dictionary contains the keys 'entity_group',
+              'word', 'start', and 'end'.
+        list: A list of chunks of the text.
+    """
+    with open(file_path, "r") as f:
+        text = f.read()
+
+    chunks = chunk_text(text)
+    entities = []
+    for chunk in chunks:
+        entities.append(get_entities(chunk))
+
+    return entities, chunks
