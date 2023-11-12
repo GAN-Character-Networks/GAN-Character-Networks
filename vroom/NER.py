@@ -3,6 +3,7 @@ r"""  Package for Named Entity Recognition (NER) tasks.
 Authors
 --------
  * Nicolas Bataille 2023
+ * Adel Moumen 2023
 """
 
 from transformers import (
@@ -15,7 +16,7 @@ import json
 from transformers import pipeline
 from flair.data import Sentence
 from flair.models import SequenceTagger
-
+import os 
 
 def read_file(file_path: str):
     with open(file_path, "r") as f:
@@ -163,6 +164,10 @@ def write_bio_tag_file(input_file_path: str, output_file_path: str):
         output_file_path (str): The path to the output file.
     """
     tagged_text = tag_file(input_file_path)
+    
+    if not os.path.exists(os.path.dirname(output_file_path)):
+        os.makedirs(os.path.dirname(output_file_path))
+
     with open(output_file_path, "w") as f:
         f.write(tagged_text)
 
@@ -181,6 +186,9 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
     model = SequenceTagger.load("qanastek/pos-french")
     sentence = Sentence(text)
     model.predict(sentence)
+
+    if not os.path.exists(os.path.dirname(output_file_path)):
+        os.makedirs(os.path.dirname(output_file_path))
 
     with open(output_file_path, "w") as file:
         tokens = [token.text for token in sentence.tokens]

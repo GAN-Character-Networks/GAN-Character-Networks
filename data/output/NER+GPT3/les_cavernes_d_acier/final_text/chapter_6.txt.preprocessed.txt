@@ -1,0 +1,7 @@
+Les interactions identifiées dans le texte sont :
+
+<Elijah Baley ; Jessie>
+<R. Daneel Olivaw ; Elijah Baley>
+<Elijah Baley ; Julius Enderby>
+<Julius Enderby ; Elijah Baley>
+<Elijah Baley ; Jessie>
