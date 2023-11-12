@@ -1,5 +1,6 @@
 -r lint-requirements.txt
+flair
+nltk
+openai
 torch
 transformers
-openai
-flair

@@ -201,9 +201,6 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
         file.write(result)
 
 
-# TODO: method to generate NER list on the whole textfile
-
-
 def get_entities_from_file(file_path: str):
     """
     Extracts named entities from the given file.
