@@ -16,7 +16,8 @@ import json
 from transformers import pipeline
 from flair.data import Sentence
 from flair.models import SequenceTagger
-import os 
+import os
+
 
 def read_file(file_path: str):
     with open(file_path, "r") as f:
@@ -164,7 +165,7 @@ def write_bio_tag_file(input_file_path: str, output_file_path: str):
         output_file_path (str): The path to the output file.
     """
     tagged_text = tag_file(input_file_path)
-    
+
     if not os.path.exists(os.path.dirname(output_file_path)):
         os.makedirs(os.path.dirname(output_file_path))
 

@@ -1,23 +1,23 @@
-<R. Daneel; Francis> 
+<R. Daneel; Francis>
 <R. Daneel; Clousarr>
-<R. Daneel; Francis> 
-<R. Daneel; Clousarr> 
+<R. Daneel; Francis>
+<R. Daneel; Clousarr>
 <Daneel; Baley>
 <Clousarr; Baley>
-<Daneel; Clousarr> 
+<Daneel; Clousarr>
 <R. Daneel; Clousarr>
 <R. Daneel; Baley>
 <R. Daneel; Baley>
-<Elijah Baley; Clousarr> 
+<Elijah Baley; Clousarr>
 <R. Daneel; Baley>
-<R. Daneel; Clousarr> 
-<Elijah Baley; Clousarr> 
+<R. Daneel; Clousarr>
+<Elijah Baley; Clousarr>
 <R. Daneel; Elijah Baley>
 <Elijah Baley; R. Daneel>
 <Enderby; Baley>
-<R. Daneel; Clousarr> 
+<R. Daneel; Clousarr>
 <Daneel; Elijah Baley>
-<R. Daneel; Clousarr> 
+<R. Daneel; Clousarr>
 <Enderby; Baley>
 <R. Daneel; Elijah Baley>
 <Baley; R. Daneel>
