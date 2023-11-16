@@ -1,5 +1,5 @@
 -r lint-requirements.txt
-torch
-transformers
 openai
 tiktoken
+torch
+transformers
