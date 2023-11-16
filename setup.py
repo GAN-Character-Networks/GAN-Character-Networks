@@ -14,6 +14,7 @@ setup(
     name="vroom",
     version="0",
     description="Automatic extraction library of character networks.",
+    package_dir={"": "src"},
     packages=setuptools.find_packages(),
     long_description=long_description,
     long_description_content_type="text/markdown",
