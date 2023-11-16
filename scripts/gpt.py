@@ -13,13 +13,13 @@ from vroom.NER import write_bio_tag_file
 
 
 system_prompt = r"""
-Vous êtes un expert capable d'extraire avec précision les interactions entre les personnages d'un texte donné. Le texte comprend des balises de personnage marquées avec <B-PER> pour le début et <I-PER> pour les parties intermédiaires du nom du personnage. Vous devez identifier et fournir une représentation des interactions sous le format : <personnage 1 ; personnage 2>. Par exemple, "Romain <B-PER> est le frère de Paul <B-PER>", la réponse attendue est <Romain;Paul>.  Je ne veux qu'uniquement la liste des interactions. Fait le pour ce texte :
+Tu es un expert capable d'extraire avec précision les interactions entre les personnages d'un texte donné. Le texte comprend des balises de personnage marquées avec <B-PER> pour le début et <I-PER> pour les parties intermédiaires du nom du personnage. Tu dois identifier et fournir une représentation des interactions sous le format : <personnage 1 ; personnage 2>. Par exemple, "Romain <B-PER> est le frère de Paul <B-PER>", la réponse attendue est <Romain;Paul>.  Je ne veux qu'uniquement la liste des interactions. Pense bien a prendre en compte toutes les balises. Fait le pour ce texte :
 """
 
 client = OpenAI()
 
 directory_path = 'data/kaggle/les_cavernes_d_acier'
-output_folder = 'data/output/NER+GPT3/les_cavernes_d_acier/'
+output_folder = 'data/output/NER+GPT4/les_cavernes_d_acier/'
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
@@ -40,7 +40,7 @@ for txt_file in txt_files:
         print(f"Processing {output_file_path}")
 
         response = client.chat.completions.create(
-          model="gpt-3.5-turbo-16k",
+          model="gpt-4-32k-0613",
           messages=[
             {"role": "system", "content": system_prompt},
             #{"role": "user", "content": system_prompt + content},
