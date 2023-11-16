@@ -3,14 +3,14 @@
 #
 
 import os
-import vroom.Tokenizer
+import vroom.GPTTokenizer
 
 cavernes_files = os.listdir("data/kaggle/les_cavernes_d_acier")
 prelude_files = os.listdir("data/kaggle/prelude_a_fondation")
 
 total_tokens = 0
 
-tokenizer = vroom.Tokenizer.Tokenizer()
+tokenizer = vroom.GPTTokenizer.Tokenizer()
 
 for file in cavernes_files:
     with open("data/kaggle/les_cavernes_d_acier/" + file, "r") as f:
@@ -29,4 +29,3 @@ for file in prelude_files:
 
 
 print(total_tokens)
-
