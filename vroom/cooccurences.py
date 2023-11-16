@@ -44,6 +44,7 @@ def get_cooccurences(text_chunks: list, entities: list):
     """
     interactions = []
     text = " ".join(text_chunks)
+    # TODO: Manage the aliases here
     entities = set_entities_indexes(text_chunks, entities)
     entities = [entity for sublist in entities for entity in sublist]
 
