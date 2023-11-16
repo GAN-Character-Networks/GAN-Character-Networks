@@ -1,6 +1,6 @@
 import tiktoken
 
-class Tokenizer:
+class GPTTokenizer:
     def __init__(self, model: str = "gpt-4"):
         self.encoding = tiktoken.encoding_for_model(model)
 
