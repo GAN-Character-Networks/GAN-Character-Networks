@@ -2,6 +2,7 @@
 flair
 nltk
 openai
+tiktoken
 textdistance
 torch
 transformers

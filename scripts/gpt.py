@@ -8,9 +8,7 @@ Authors
 from openai import OpenAI
 import os
 import glob
-import json
 from vroom.NER import write_bio_tag_file
-
 
 system_prompt = r"""
 Tu es un expert capable d'extraire avec précision les interactions entre les personnages d'un texte donné. Le texte comprend des balises de personnage marquées avec <B-PER> pour le début et <I-PER> pour les parties intermédiaires du nom du personnage. Tu dois identifier et fournir une représentation des interactions sous le format : <personnage 1 ; personnage 2>. Par exemple, "Romain <B-PER> est le frère de Paul <B-PER>", la réponse attendue est <Romain;Paul>.  Je ne veux qu'uniquement la liste des interactions. Pense bien a prendre en compte toutes les balises. Fait le pour ce texte :
@@ -18,13 +16,13 @@ Tu es un expert capable d'extraire avec précision les interactions entre les pe
 
 client = OpenAI()
 
-directory_path = 'data/kaggle/les_cavernes_d_acier'
-output_folder = 'data/output/NER+GPT4/les_cavernes_d_acier/'
+directory_path = "data/kaggle/les_cavernes_d_acier"
+folder_path = "data/output/gpt3/les_cavernes_d_acier/test"
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
-txt_files = glob.glob(os.path.join(directory_path, '*'))
+txt_files = glob.glob(os.path.join(directory_path, "*"))
 
 for txt_file in txt_files:
     output_file_path = os.path.join(output_folder, "text_augmented_with_ner", os.path.basename(txt_file))
