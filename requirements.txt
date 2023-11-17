@@ -3,6 +3,7 @@ flair
 nltk
 openai
 tiktoken
+rapidfuzz
 textdistance
 torch
 transformers
