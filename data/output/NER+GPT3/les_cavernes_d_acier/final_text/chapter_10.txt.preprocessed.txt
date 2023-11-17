@@ -1,0 +1,14 @@
+<R.; Daneel>
+<B.-PER; Daneel>
+<Baley; R. Daneel>
+<Baley; commissaire principal>
+<Fastolfe; Baley>
+<Sarton; Enderby>
+<Jessie; Baley>
+<Baley; commissaire principal>
+<Baley; Daneel>
+<Baley; Jessie>
+<Baley; Enderby>
+<Baley; Fastolfe>
+<Baley; Daneel>
+<Daneel; Baley>

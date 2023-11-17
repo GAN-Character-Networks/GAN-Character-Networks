@@ -1,0 +1,3 @@
+Les interactions identifiées dans le texte sont :
+- Baley et R. Daneel
+- Baley et Ben

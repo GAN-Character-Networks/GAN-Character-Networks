@@ -1,0 +1,8 @@
+<Robots;Romain>
+<Lije;Romain>
+<Lije;Paul>
+<Romain;Sammy>
+<Lije;Julius>
+<Romain;Daneel>
+<Gerrigel;Baley>
+<Gerrigel;Daneel>
