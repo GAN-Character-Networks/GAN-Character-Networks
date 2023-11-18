@@ -1,7 +1,3 @@
-# Récupérer le contenu de tous les fichiers dans data/kaggle/ et compter le nombre de tokens
-# dans chaque fichier. Afficher le nombre total de tokens.
-#
-
 import os
 import vroom.GPTTokenizer
 
