@@ -15,9 +15,22 @@ class TestGraphManager:
         # Gestionnaire pour graphe pondéré
         self.weighted_graph_manager = GraphManager(weighted=True)
         self.cooccurrences = [
-            ("Sheldon", "Arthur"),
-            ("Arthur", "Bilal"),
-            ("Sheldon", "Arthur"),
+            (
+                ["Sheldon", "Arthur", "S.A", "José au moine"],
+                ["Bilal Merzougue", "Bilal", "B.M", "Pointe à pitre"],
+            ),
+            (
+                ["François Hollande", "François", "F.H", "François le grand"],
+                ["Bilal Merzougue", "Bilal", "B.M", "Pointe à pitre"],
+            ),
+            (
+                ["Macron", "Emmanuel Macron", "E.M", "Manu"],
+                ["Bilal Merzougue", "Bilal", "B.M", "Pointe à pitre"],
+            ),
+            (
+                ["Sheldon", "Arthur", "S.A", "José au moine"],
+                ["François Hollande", "François", "F.H", "François le grand"],
+            ),
         ]
         self.weighted_graph_manager.add_cooccurrences(self.cooccurrences)
         self.weighted_graph_manager.save_graph_to_graphml(
