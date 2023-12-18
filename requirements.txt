@@ -1,9 +1,9 @@
 -r lint-requirements.txt
 flair
 nltk
+nltk
 openai
-tiktoken
 textdistance
+tiktoken
 torch
 transformers
-nltk
