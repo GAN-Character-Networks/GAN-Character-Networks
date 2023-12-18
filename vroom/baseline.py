@@ -10,7 +10,7 @@ from vroom.cooccurences import get_cooccurences
 
 def get_cooccurences_from_text(path: str):
     """
-    Removes duplicate entities based on the 'word' attribute.
+    Get the coocurences of characters from the given text.
 
     Args:
         path (str): The path of the text file.
