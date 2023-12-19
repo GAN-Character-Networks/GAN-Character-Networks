@@ -57,17 +57,17 @@ class GraphManager:
             for alias in cooccurrence:
                 self.graph.nodes[alias]["names"] = ";".join(aliases[alias])
 
-        print(self.graph)
-
     def generate_graph(self) -> nx.graphml:
         """
         Génère le graphe à partir des cooccurrences ajoutées.
 
         :return: Le graphe généré.
         """
-        return nx.generate_graphml(self.graph)
+        return nx.generate_graphml(
+            self.graph, encoding="utf-8", prettyprint=True
+        )
 
-    def save_graph_to_graphml(self, filename):
+    def save_graph_to_graphml(self, filename: str) -> None:
         """
         Sauvegarde le graphe actuel au format GraphML.
 
