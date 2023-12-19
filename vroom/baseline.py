@@ -38,6 +38,22 @@ def get_cooccurences_with_aliases(path: str):
     entities, _ = get_entities_from_file(path)
     entities = [entity for sublist in entities for entity in sublist]
     aliases = get_aliases_fuzzy(entities, 99)
+
+    for cooc in cooccurences:
+        no_alias_1 = True
+        no_alias_2 = True
+        for alias in aliases:
+            if cooc[0] in alias:
+                no_alias_1 = False
+            if cooc[1] in alias:
+                no_alias_2 = False
+        if no_alias_1:
+            print("no alias 1 : ", cooc[0])
+        if no_alias_2:
+            print("no alias 2 : ", cooc[1])
+
+    print("aliases : ", aliases)
+
     cooccurences_aliases = []
     for cooccurence in cooccurences:
         cooc_1_aliases = [
@@ -49,3 +65,6 @@ def get_cooccurences_with_aliases(path: str):
         cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
 
     return cooccurences_aliases
+
+
+# TODO: Idée de solving d'alias : Récup tout les alias de tout les chapitres du livre, puis construire par chapitre la liste d'alias correspondante

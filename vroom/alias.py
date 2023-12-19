@@ -150,8 +150,14 @@ def get_aliases_fuzzy(entities: list, treshold: int = 80):
         raw_names[entity["word"].lower().replace(" ", "_")] = entity["word"]
         name = entity["word"].lower().replace(" ", "_")
         # print(f"Looking for alias for {name}")
-        if group_associations.get(name) is None:
 
+        alias_already_found = False
+        for key in group_associations:
+            if key == name:
+                alias_already_found = True
+                break
+
+        if not alias_already_found:
             best_name, best_score = get_best_alias_fuzzy(
                 name, entities, group_associations, treshold
             )
@@ -182,9 +188,9 @@ def get_aliases_fuzzy(entities: list, treshold: int = 80):
             else:
                 # print(f"{name} has no alias")
                 group_associations[name] = len(group_associations)
-        # else:
-        # print("================== Already has an alias ==================")
-        # print(group_associations)
+            # else:
+            # print("================== Already has an alias ==================")
+            # print(group_associations)
 
     for entity in group_associations:
         if group_associations[entity] == -1:
