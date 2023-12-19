@@ -58,6 +58,7 @@ def get_entities(text: str):
             "end": entity["end"],
         }
         for entity in raw_result
+        if len(entity["word"]) > 1
     ]
 
     # Only keep the entities that are persons
