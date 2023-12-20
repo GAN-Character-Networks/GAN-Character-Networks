@@ -14,8 +14,8 @@ def generate_submission():
     """
 
     books = [
-        (list(range(1, 2)), "paf"),
-        # (list(range(3, 4)), "lca"),
+        (list(range(1, 20)), "paf"),
+        (list(range(1, 19)), "lca"),
     ]
 
     df_dict = {"ID": [], "graphml": []}
@@ -26,7 +26,7 @@ def generate_submission():
                 path = f"data/kaggle/prelude_a_fondation/chapter_{chapter}.txt.preprocessed"
             else:
                 path = f"data/kaggle/les_cavernes_d_acier/chapter_{chapter}.txt.preprocessed"
-
+            print("Processing : ", path)
             graph_manager = GraphManager()
             coocurrences = get_cooccurences_with_aliases(path)
             graph_manager.add_cooccurrences(coocurrences)
