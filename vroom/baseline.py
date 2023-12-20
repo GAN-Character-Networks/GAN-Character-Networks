@@ -57,10 +57,14 @@ def get_cooccurences_with_aliases(path: str):
     cooccurences_aliases = []
     for cooccurence in cooccurences:
         cooc_1_aliases = [
-            alias for alias in aliases if cooccurence[0] in alias
+            alias
+            for alias in aliases
+            if cooccurence[0].lower() in [a.lower() for a in alias]
         ][0]
         cooc_2_aliases = [
-            alias for alias in aliases if cooccurence[1] in alias
+            alias
+            for alias in aliases
+            if cooccurence[1].lower() in [a.lower() for a in alias]
         ][0]
         cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
 
