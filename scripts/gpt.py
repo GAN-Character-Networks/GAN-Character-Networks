@@ -18,19 +18,16 @@ client = OpenAI()
 
 directory_path = "data/kaggle/les_cavernes_d_acier"
 folder_path = "data/output/gpt3/les_cavernes_d_acier/test"
+output_folder = os.path.join(folder_path, "output")
 
-if not os.path.exists(output_folder):
-    os.makedirs(output_folder)
+os.makedirs(output_folder, exist_ok=True)
 
 txt_files = glob.glob(os.path.join(directory_path, "*"))
 
 for txt_file in txt_files:
     output_file_path = os.path.join(output_folder, "text_augmented_with_ner", os.path.basename(txt_file))
     
-    write_bio_tag_file(
-      txt_file, 
-      output_file_path
-    )
+    write_bio_tag_file(txt_file, output_file_path)
 
     with open(output_file_path, 'r') as file:
         content = file.read()
