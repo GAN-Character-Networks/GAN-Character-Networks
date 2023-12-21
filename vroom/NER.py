@@ -31,20 +31,21 @@ def write_json_file(file_path: str, data: list):
     with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
 
-def get_entities(text: str, model: AutoTokenizer, tokenizer: AutoModelForTokenClassification):
+def get_entities(text: str, model: AutoTokenizer, tokenizer: AutoModelForTokenClassification, device = "cpu"):
     """ Extracts named entities from the given text.
 
     Args:
         text (str): The input text.
         model: The model to use for the NER task.
         tokenizer: The tokenizer to use for the NER task.
+        device: The device to use for the NER task.
 
     Returns:
         list: A list of dictionaries representing the named entities. Each dictionary contains the keys 'entity_group',
               'word', 'start', and 'end'.
     """
     nlp = pipeline(
-        "ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple"
+        "ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple", device = device
     )
 
     raw_result = nlp(text)
