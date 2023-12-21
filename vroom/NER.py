@@ -9,42 +9,40 @@ Authors
 from transformers import (
     AutoTokenizer,
     AutoModelForTokenClassification,
-    # CamembertModel,
-    # CamembertTokenizer,
+    pipeline
 )
 import json
-from transformers import pipeline
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import os
+import re
 
+def read_file(file_path: str): 
+    content = ""
+    with open(file_path, "r", encoding="utf-8") as f:
+        content = f.read().rstrip()
 
-def read_file(file_path: str):
-    with open(file_path, "r") as f:
-        return f.read()
+    # Remove extra whitespaces using regular expression
+    content = re.sub(r'\s+', ' ', content)
+    return content
 
 
 def write_json_file(file_path: str, data: list):
     with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
 
-
-def get_entities(text: str):
-    """
-    Extracts named entities from the given text.
+def get_entities(text: str, model: AutoTokenizer, tokenizer: AutoModelForTokenClassification):
+    """ Extracts named entities from the given text.
 
     Args:
         text (str): The input text.
-        keep_duplicates (bool, optional): Whether to keep duplicate entities. Defaults to False.
+        model: The model to use for the NER task.
+        tokenizer: The tokenizer to use for the NER task.
 
     Returns:
         list: A list of dictionaries representing the named entities. Each dictionary contains the keys 'entity_group',
               'word', 'start', and 'end'.
     """
-    tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
-    model = AutoModelForTokenClassification.from_pretrained(
-        "Jean-Baptiste/camembert-ner"
-    )
     nlp = pipeline(
         "ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple"
     )
@@ -85,19 +83,20 @@ def add_bio_tags(entities):
         bio_tag = ""
         for i, token in enumerate(word.split()):
             if i == 0:
-                bio_tag += token + "<B-PER>"
+                bio_tag += "<PER> " + token
             else:
-                bio_tag += " " + token + "<I-PER>"
-        entity["bio_tag"] = bio_tag
+                bio_tag += " " + token
+        entity["bio_tag"] = bio_tag + " </PER> "
     return entities
 
 
-def chunk_text(text):
+def chunk_text(text, chunk_size=500):
     """
-    Chunk the text into a list of subtexts of a size of 500 tokens.
+    Chunk the text into a list of subtexts of a size of chunk_size words.
 
     Args:
         text (str): The input text.
+        chunk_size (int): The size of the chunks.
 
     Returns:
         list: A list of subtexts.
@@ -106,7 +105,7 @@ def chunk_text(text):
     chunk = []
     words = text.split()
     for word in words:
-        if len(" ".join(chunk)) + len(word) > 500:
+        if len(" ".join(chunk)) + len(word) > chunk_size:
             chunked_text.append(" ".join(chunk))
             chunk = []
         chunk.append(word)
@@ -130,30 +129,34 @@ def tag_text(text: str, entities: list):
     start = 0
     for entity in entities:
         tagged_text += text[start : entity["start"] + 1] + entity["bio_tag"]
-        start = entity["end"] + 1
+        # warning : having + 1 may cause issues when you have a word that ends with a punctuation
+        start = entity["end"]
     tagged_text += text[start:]
 
     return tagged_text
 
 
-def tag_file(input_file_path: str):
+def tag_file(input_file_path: str, source: str = "Jean-Baptiste/camembert-ner"):
     """
     Tags the text in the given file with BIO tags.
 
     Args:
         input_file_path (str): The path to the input file.
+        source (str): The source of the model to use for the NER task.
 
     Returns:
         str: The tagged text.
     """
-    with open(input_file_path, "r") as f:
-        text = f.read()
+    text = read_file(input_file_path)
+    tokenizer = AutoTokenizer.from_pretrained(source)
+    model = AutoModelForTokenClassification.from_pretrained(source)
 
     chunks = chunk_text(text)
     tagged_chunks = []
     for chunk in chunks:
-        entities = add_bio_tags(get_entities(chunk))
+        entities = add_bio_tags(get_entities(chunk, model, tokenizer))
         tagged_chunks.append(tag_text(chunk, entities))
+        
     return " ".join(tagged_chunks)
 
 
@@ -182,8 +185,7 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
         input_file_path (str): The path to the input file.
         output_file_path (str): The path to the output file.
     """
-    with open(input_file_path, "r") as f:
-        text = f.read()
+    text = read_file(input_file_path)
 
     model = SequenceTagger.load("qanastek/pos-french")
     sentence = Sentence(text)
@@ -203,24 +205,27 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
         file.write(result)
 
 
-def get_entities_from_file(file_path: str):
+def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/camembert-ner"):
     """
     Extracts named entities from the given file.
 
     Args:
-        file_path (str): The path to the input file.
+        input_file_path (str): The path to the input file.
+        source (str): The source of the model to use for the NER task.
 
     Returns:
         list: A list of list dictionaries representing the named entities for each text chunk. Each dictionary contains the keys 'entity_group',
               'word', 'start', and 'end'.
         list: A list of chunks of the text.
     """
-    with open(file_path, "r") as f:
-        text = f.read()
+    text = read_file(input_file_path)
+
+    tokenizer = AutoTokenizer.from_pretrained(source)
+    model = AutoModelForTokenClassification.from_pretrained(source)
 
     chunks = chunk_text(text)
     entities = []
     for chunk in chunks:
-        entities.append(get_entities(chunk))
+        entities.append(get_entities(chunk, model, tokenizer))
 
     return entities, chunks
