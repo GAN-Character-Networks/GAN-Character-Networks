@@ -88,9 +88,9 @@ def get_cooccurences_with_aliases_and_gpt(path: str):
     """
     system_prompt = r"""
 Tu es un expert dans la résolution d'alias de personnages de fiction.
-Ton but est d'à partir d'une liste de personnages de déterminer qui est qui.
+Ton but est d'à partir d'une liste de personnages de déterminer qui est qui en faisant un clustering.
 En effet, ces noms représentent des personnages issus du livre 'Fondation' d'Isaac Asimov. Cependant, 
-certains personnages ont plusieurs noms, et tu dois les regrouper.
+certains personnages ont plusieurs noms, et tu cherches a trouver qui est la bonne personne. Chaque cluster représente donc un personnage avec tous ses alias.
 Tu dois faire attention à la sémantique des mots, notamment le genre, les  titres, etc. 
 
 Donne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :
@@ -118,13 +118,8 @@ Sorti JSON attendu :
     '2' : ['Hari Seldon'],
 }
 
-Tu ne dois absolument pas modifier le nom des personnages ni en supprimer. Tous doivent être présents dans le JSON de sortie. 
-Tu n'as pas le droit de modifier les noms des personnages, et ils doivent tous être présents dans le JSON de sortie.
-Si tu modifies les noms des personnages, ou si tu en supprimes, tu seras pénalisé.
 
 Fait le pour les personnages suivant et essaye de trouver le plus d'alias possible :
-
-Personnages :
     """
 
     entities, chunks = get_entities_from_file(path, device = "cuda")
