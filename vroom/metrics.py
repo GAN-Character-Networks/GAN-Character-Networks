@@ -60,6 +60,11 @@ def evaluate(predicted_text: str, true_text: str):
     predicted_entities = get_entities_from_file(predicted_text)
     true_entities = get_entities_from_file(true_text)
 
+    print("predicted_entities", predicted_entities)
+    print("*" * 100)
+    print("true_entities", true_entities)
+    
+
     for predicted_entity in predicted_entities:
         for true_entity in true_entities:
             if predicted_entity["words"] == true_entity["words"]:
@@ -76,7 +81,9 @@ def evaluate(predicted_text: str, true_text: str):
                     break
         else:
             false_negatives += 1
-
+    print("true_positives", true_positives)
+    print("false_positives", false_positives)
+    print("false_negatives", false_negatives)
     precision = true_positives / (true_positives + false_positives)
     recall = true_positives / (true_positives + false_negatives)
     f1_score = 2 * (precision * recall) / (precision + recall)
