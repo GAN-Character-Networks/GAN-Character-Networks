@@ -206,7 +206,7 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
         file.write(result)
 
 
-def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/camembert-ner"):
+def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/camembert-ner", device = "cpu"):
     """
     Extracts named entities from the given file.
 
@@ -221,7 +221,7 @@ def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/ca
     """
     text = read_file(input_file_path)
 
-    tokenizer = AutoTokenizer.from_pretrained(source)
+    tokenizer = AutoTokenizer.from_pretrained(source, device=device)
     model = AutoModelForTokenClassification.from_pretrained(source)
 
     chunks = chunk_text(text)
@@ -230,3 +230,73 @@ def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/ca
         entities.append(get_entities(chunk, model, tokenizer))
 
     return entities, chunks
+
+def tag_named_entities(text, named_entities):
+    # Sort named entities by length in descending order
+    sorted_entities = sorted(named_entities, key=len, reverse=True)
+
+    tagged_text = text
+
+    for entity in sorted_entities:
+        # Handling multi-word entities
+        entity_words = entity.split()
+        if len(entity_words) > 1:
+            entity_pattern = r'\b{}\b'.format(re.escape(' '.join(entity_words)))
+        else:
+            entity_pattern = r'\b{}\b'.format(re.escape(entity))
+
+        # Tagging the entity in the text
+        tagged_text = re.sub(entity_pattern, ' <PER> {} </PER> '.format(entity), tagged_text)
+
+    return tagged_text
+
+def remove_nested_tags(text):
+
+    words = text.split(" ")
+    is_PER_main_context = False
+    is_PER_second_context = False
+    cpt_second_context = 0
+    text = []
+    for word in words:
+
+      if word == "<PER>" and is_PER_main_context == False:
+        is_PER_main_context = True
+        text.append(word)
+      elif word == "<PER>" and is_PER_main_context == True:
+        is_PER_second_context = True
+        cpt_second_context += 1
+      elif word == "</PER>":
+
+        if is_PER_second_context:
+          if cpt_second_context > 0:
+            cpt_second_context -= 1
+            if cpt_second_context == 0:
+              is_PER_second_context = False
+        else:
+          is_PER_main_context = False
+          is_PER_second_context = False
+          cpt_second_context = 0
+          text.append(word)
+      else:
+        text.append(word)
+
+    return ' '.join(text)
+
+def tag_text_with_entities(input_file_path, entities):
+    """
+    Tags the text with the given entities.
+
+    Args:
+        text (str): The input text.
+        entities (list): A list of entities with the corresponding BIO tag for each words.
+
+    Returns:
+        str: The tagged text.
+    """
+    text = read_file(input_file_path)
+    
+    output = tag_named_entities(text, entities)
+    output = remove_nested_tags(output)
+
+    return output
+    
