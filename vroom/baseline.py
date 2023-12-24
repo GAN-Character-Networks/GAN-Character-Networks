@@ -34,8 +34,8 @@ def get_cooccurences_with_aliases(path: str):
     Returns:
         list: A list of tuples representing the interactions between entities in the text.
     """
-    cooccurences = get_cooccurences_from_text(path)
-    entities, _ = get_entities_from_file(path)
+    entities, chunks = get_entities_from_file(path)
+    cooccurences = get_cooccurences(chunks, entities)
     entities = [entity for sublist in entities for entity in sublist]
     aliases = get_aliases_fuzzy(entities, 99)
 
