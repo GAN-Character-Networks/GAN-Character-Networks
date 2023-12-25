@@ -9,7 +9,7 @@ Authors
 from transformers import (
     AutoTokenizer,
     AutoModelForTokenClassification,
-    pipeline
+    pipeline,
 )
 import json
 from flair.data import Sentence
@@ -17,13 +17,14 @@ from flair.models import SequenceTagger
 import os
 import re
 
-def read_file(file_path: str): 
+
+def read_file(file_path: str):
     content = ""
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read().rstrip()
 
     # Remove extra whitespaces using regular expression
-    content = re.sub(r'\s+', ' ', content)
+    content = re.sub(r"\s+", " ", content)
     return content
 
 
@@ -31,7 +32,13 @@ def write_json_file(file_path: str, data: list):
     with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
 
-def get_entities(text: str, model: AutoTokenizer, tokenizer: AutoModelForTokenClassification, device = "cpu"):
+
+def get_entities(
+    text: str,
+    model: AutoTokenizer,
+    tokenizer: AutoModelForTokenClassification,
+    device="cpu",
+):
     """ Extracts named entities from the given text.
 
     Args:
@@ -45,7 +52,11 @@ def get_entities(text: str, model: AutoTokenizer, tokenizer: AutoModelForTokenCl
               'word', 'start', and 'end'.
     """
     nlp = pipeline(
-        "ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple", device = device
+        "ner",
+        model=model,
+        tokenizer=tokenizer,
+        aggregation_strategy="simple",
+        device=device,
     )
 
     raw_result = nlp(text)
@@ -157,7 +168,7 @@ def tag_file(input_file_path: str, source: str = "Jean-Baptiste/camembert-ner"):
     for chunk in chunks:
         entities = add_bio_tags(get_entities(chunk, model, tokenizer))
         tagged_chunks.append(tag_text(chunk, entities))
-        
+
     return " ".join(tagged_chunks)
 
 
@@ -206,7 +217,11 @@ def write_pos_tag_file(input_file_path: str, output_file_path: str):
         file.write(result)
 
 
-def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/camembert-ner", device = "cpu"):
+def get_entities_from_file(
+    input_file_path: str,
+    source: str = "Jean-Baptiste/camembert-ner",
+    device="cpu",
+):
     """
     Extracts named entities from the given file.
 
@@ -231,6 +246,7 @@ def get_entities_from_file(input_file_path: str, source: str = "Jean-Baptiste/ca
 
     return entities, chunks
 
+
 def tag_named_entities(text, named_entities):
     # Sort named entities by length in descending order
     sorted_entities = sorted(named_entities, key=len, reverse=True)
@@ -241,14 +257,17 @@ def tag_named_entities(text, named_entities):
         # Handling multi-word entities
         entity_words = entity.split()
         if len(entity_words) > 1:
-            entity_pattern = r'\b{}\b'.format(re.escape(' '.join(entity_words)))
+            entity_pattern = r"\b{}\b".format(re.escape(" ".join(entity_words)))
         else:
-            entity_pattern = r'\b{}\b'.format(re.escape(entity))
+            entity_pattern = r"\b{}\b".format(re.escape(entity))
 
         # Tagging the entity in the text
-        tagged_text = re.sub(entity_pattern, ' <PER> {} </PER> '.format(entity), tagged_text)
+        tagged_text = re.sub(
+            entity_pattern, " <PER> {} </PER> ".format(entity), tagged_text
+        )
 
     return tagged_text
+
 
 def remove_nested_tags(text):
 
@@ -259,35 +278,36 @@ def remove_nested_tags(text):
     text = []
     for word in words:
 
-      if word == "<PER>" and is_PER_main_context == False:
-        is_PER_main_context = True
-        text.append(word)
-      elif word == "<PER>" and is_PER_main_context == True:
-        is_PER_second_context = True
-        cpt_second_context += 1
-      elif word == "</PER>":
+        if word == "<PER>" and is_PER_main_context is False:
+            is_PER_main_context = True
+            text.append(word)
+        elif word == "<PER>" and is_PER_main_context is True:
+            is_PER_second_context = True
+            cpt_second_context += 1
+        elif word == "</PER>":
 
-        if is_PER_second_context:
-          if cpt_second_context > 0:
-            cpt_second_context -= 1
-            if cpt_second_context == 0:
-              is_PER_second_context = False
+            if is_PER_second_context:
+                if cpt_second_context > 0:
+                    cpt_second_context -= 1
+                    if cpt_second_context == 0:
+                        is_PER_second_context = False
+            else:
+                is_PER_main_context = False
+                is_PER_second_context = False
+                cpt_second_context = 0
+                text.append(word)
         else:
-          is_PER_main_context = False
-          is_PER_second_context = False
-          cpt_second_context = 0
-          text.append(word)
-      else:
-        text.append(word)
+            text.append(word)
 
-    return ' '.join(text)
+    return " ".join(text)
+
 
 def merge_special_words(word_list):
     merged_list = []
     current_word = ""
 
     for word in word_list:
-        if word in ['<', 'PER', '</', '>', '/']:
+        if word in ["<", "PER", "</", ">", "/"]:
             current_word += word
         else:
             if current_word:
@@ -300,10 +320,12 @@ def merge_special_words(word_list):
 
     return merged_list
 
+
 def separate_words(text):
-    words = re.findall(r'\b\w+\b|[^\w\s]', text)
+    words = re.findall(r"\b\w+\b|[^\w\s]", text)
 
     return merge_special_words(words)
+
 
 def get_positions_of_entities(text):
     words = separate_words(text)
@@ -319,12 +341,19 @@ def get_positions_of_entities(text):
             current_entity_start = i
         elif word == "</PER>":
             current_entity_end = i
-            word = ' '.join(current_entity)
-            positions.append({"word":word, "start":current_entity_start, "end":current_entity_end})
+            word = " ".join(current_entity)
+            positions.append(
+                {
+                    "word": word,
+                    "start": current_entity_start,
+                    "end": current_entity_end,
+                }
+            )
         else:
             i += 1
             current_entity.append(word)
     return positions
+
 
 def tag_text_with_entities(input_file_path, entities):
     """
@@ -338,9 +367,8 @@ def tag_text_with_entities(input_file_path, entities):
         str: The tagged text.
     """
     text = read_file(input_file_path)
-    
+
     output = tag_named_entities(text, entities)
     output = remove_nested_tags(output)
 
     return output
-    
