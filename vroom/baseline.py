@@ -69,7 +69,9 @@ def get_cooccurences_with_aliases(path: str):
             if cooccurence[1].lower() in [a.lower() for a in alias]
         ][0]
         cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
-
+        if cooc_1_aliases != cooc_2_aliases:
+            cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
+            
     return cooccurences_aliases
 
 
