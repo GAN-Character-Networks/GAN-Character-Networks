@@ -6,10 +6,11 @@ Authors
  * Adel Moumen 2023
 """
 from vroom.NER import get_entities_from_file
-from vroom.alias import get_aliases_fuzzy
+from vroom.alias import get_aliases_fuzzy_partial_token
 from vroom.cooccurences import get_cooccurences
 from openai import OpenAI
 import json
+
 
 def get_cooccurences_from_text(path: str):
     """
@@ -39,7 +40,7 @@ def get_cooccurences_with_aliases(path: str):
     entities, chunks = get_entities_from_file(path)
     cooccurences = get_cooccurences(chunks, entities)
     entities = [entity for sublist in entities for entity in sublist]
-    aliases = get_aliases_fuzzy(entities, 99)
+    aliases = get_aliases_fuzzy_partial_token(entities, 99)
 
     for cooc in cooccurences:
         no_alias_1 = True
@@ -68,8 +69,8 @@ def get_cooccurences_with_aliases(path: str):
             for alias in aliases
             if cooccurence[1].lower() in [a.lower() for a in alias]
         ][0]
-        cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
-
+        if cooc_1_aliases != cooc_2_aliases:
+            cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
     return cooccurences_aliases
 
 
@@ -89,9 +90,9 @@ def get_cooccurences_with_aliases_and_gpt(path: str):
     system_prompt = r"""
 Tu es un expert dans la résolution d'alias de personnages de fiction.
 Ton but est d'à partir d'une liste de personnages de déterminer qui est qui en faisant un clustering.
-En effet, ces noms représentent des personnages issus du livre 'Fondation' d'Isaac Asimov. Cependant, 
+En effet, ces noms représentent des personnages issus du livre 'Fondation' d'Isaac Asimov. Cependant,
 certains personnages ont plusieurs noms, et tu cherches a trouver qui est la bonne personne. Chaque cluster représente donc un personnage avec tous ses alias.
-Tu dois faire attention à la sémantique des mots, notamment le genre, les  titres, etc. 
+Tu dois faire attention à la sémantique des mots, notamment le genre, les  titres, etc.
 
 Donne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :
 
@@ -101,9 +102,9 @@ Donne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche 
 
 Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses alias. La clé est un chiffre qui représente uniquement sa position dans le JSON. La liste associée correspond à l'ensemble des alias de ce personnage.
 
-Example : 
+Example :
 
-Personnages : 
+Personnages :
 Cléon
 CLÉON Ier-
 Empereur
@@ -122,8 +123,8 @@ Sorti JSON attendu :
 Fait le pour les personnages suivant et essaye de trouver le plus d'alias possible :
     """
 
-    entities, chunks = get_entities_from_file(path, device = "cuda")
-    
+    entities, chunks = get_entities_from_file(path, device="cuda")
+
     entities = [entity for sublist in entities for entity in sublist]
     word_entities = [entity["word"] for entity in entities]
     print("entities = ", set(word_entities))
@@ -132,14 +133,14 @@ Fait le pour les personnages suivant et essaye de trouver le plus d'alias possib
     client = OpenAI()
 
     response = client.chat.completions.create(
-      model="gpt-4-1106-preview", # gpt-3.5-turbo-1106, gpt-4-1106-preview
-      messages=[
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": user_prompt},
-      ],
-      seed=42,
-      temperature=0,
-      response_format={ "type": "json_object" },
+        model="gpt-4-1106-preview",  # gpt-3.5-turbo-1106, gpt-4-1106-preview
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        seed=42,
+        temperature=0,
+        response_format={"type": "json_object"},
     )
 
     generated_content = response.choices[0].message.content
