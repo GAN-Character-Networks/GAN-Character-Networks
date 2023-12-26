@@ -1,112 +1,110 @@
-from vroom.NER import tag_file, read_file
+from vroom.NER import *
 from vroom.metrics import evaluate
+import json
+import os 
 
-unlabeled_chapter = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.gpt.labeled"
-labeled_chapter = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.labeled"
+# TODO: load JSON entities found 
 
-def extract_entities(text: str):
-    """ Read a file and extract the entities from it.
+unlabeled_chapter = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled")
+labeled_chapter = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.labeled")
 
-    Args:
-        file_path (str): The path to the file.
+labeled_gpt_file = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.gpt.ner.v4.labeled.json")
+labeled_gpt_entities = json.load(open(labeled_gpt_file, "r", encoding="utf-8"))["personnages"]
 
-    Returns:
-        list: A list of list of entities. Each list of entities represents an entity between <PER>word</PER>.
-    """
-    is_entity = False
-    entities = []
-    for word in text.split():
-        if "<PER>" == word:
-            entities.append({})
-            entities[-1]["words"] = []
-            is_entity = True
-            continue
+known_not_entities = ["Empire", "psychohistoire", "mathématicien", "ministre"]
+labeled_gpt_entities = [entity for entity in labeled_gpt_entities if entity not in known_not_entities]
+print("entities = ", labeled_gpt_entities)
 
-        if "</PER>" == word:
-            is_entity = False
-            continue
+unlabeled_text_tagged = tag_text_with_entities(unlabeled_chapter, labeled_gpt_entities)
+labeled_text_tagged = read_file(labeled_chapter)
 
-        if is_entity:
-            entities[-1]["words"].append(word)
-    return entities
+import re
 
-def annotate_text_with_entities(text: str, entities: list):
-    """ Annotate a text with entities.
 
-    Args:
-        text (str): The text to annotate.
-        entities (list): A list of entities.
+def separate_words(text):
+    # Use regular expression to find words and punctuation, including special words like <PER> and </PERS>
+    words = re.findall(r'\b\w+\b|[.,;!?<>/]+|<PER>|</PER>', text)
+    return words
 
-    Returns:
-        str: The annotated text.
-    """
-    annotated_text = ""
-    
-    unfold_entities = []
-    for entity in entities:
-        wrd = ""
-        for i, word in enumerate(entity["words"]):
-            if i == 0:
-                wrd += word
-            else:
-                wrd += " " + word
-        unfold_entities.append(wrd)
-    entities = unfold_entities
-    print(entities)
-    exit()
-    for word in text.split():
-        if word in entities:
-            annotated_text += f"<PER> {word} </PER> "
+def merge_special_words(word_list):
+    merged_list = []
+    current_word = ""
+
+    for word in word_list:
+        if word in ['<', 'PER', '</', '>']:
+            current_word += word
         else:
-            annotated_text += f"{word} "
-    print(annotated_text)
-    exit()
-    return annotated_text
+            if current_word:
+                merged_list.append(current_word)
+                current_word = ""
+            merged_list.append(word)
 
-def annotate_entities(text, entities):
-    annotated_text = []
-    words = text.split()
+    if current_word:
+        merged_list.append(current_word)
 
+    return merged_list
+
+def get_positions_of_entities(text):
+    words = separate_words(text)
+    words = merge_special_words(words)
+    positions = {}
+    current_entity = []
+    current_entity_start = 0
+    current_entity_end = 0
     i = 0
-    while i < len(words):
-        # Removing punctuation to match entities
-        word_cleaned = words[i].strip('.,;:"\'!?()[]{}')
-
-        # Check if the current word is part of a multi-word entity
-        multi_word_entity = None
-        for entity in entities:
-            if word_cleaned == entity.split()[0]:
-                entity_words = entity.split()
-                if words[i:i+len(entity_words)] == entity_words:
-                    multi_word_entity = entity
-                    break
-
-        if multi_word_entity:
-            annotated_text.append('<PER> ' + ' '.join(entity_words) + ' </PER> ')
-            i += len(entity_words)
+    for word in words:
+        if word == "<PER>":
+            current_entity = []
+            current_entity_start = i
+        elif word == "</PER>":
+            current_entity_end = i
+            positions[(current_entity_start, current_entity_end)] = ' '.join(current_entity)
         else:
-            annotated_text.append(words[i])
             i += 1
+            current_entity.append(word)
+    return positions
 
-    return ' '.join(annotated_text)
+positions_ner = get_positions_of_entities(unlabeled_text_tagged)
+true_position = get_positions_of_entities(labeled_text_tagged)
 
-gpt = read_file(unlabeled_chapter)
-print('*' * 100)
-true_label = read_file(labeled_chapter)
+true_entities = [] 
+for entity in true_position.values():
+    true_entities.append(entity)
 
-entities = extract_entities(gpt)
+print("true entities = ", set(true_entities))
 
-unlabeled_chapter = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.unlabeled"
-raw_text = read_file(unlabeled_chapter)
 
-entities = [" ".join(entity["words"]) for entity in entities]
-# remove empty entities
-entities = [entity for entity in entities if entity != ""]
+def evaluate_ner(positions_ner, true_position):
+    true_positives = 0
+    false_positives = 0
+    false_negatives = 0
 
-gpt = annotate_entities(raw_text, entities)
-print(gpt[:600])
-exit()
-print(evaluate(gpt, true_label))
-exit()
+    # check if the position of the entity is the same
+    for entity in positions_ner:
+        if entity in true_position:
+            true_positives += 1
+        else:
+            false_positives += 1
+        
+    # check if the entity is missing
+    for entity in true_position:
+        if entity not in positions_ner:
+            false_negatives += 1
 
-print(evaluate(tag_file(unlabeled_chapter), read_file(labeled_chapter)))
+    print("true_positive", true_positives)
+    print("false_positive", false_positives)
+    print("false_negative", false_negatives)
+
+    precision = true_positives / (true_positives + false_positives)
+    recall = true_positives / (true_positives + false_negatives)
+    f1_score = 2 * (precision * recall) / (precision + recall)
+    accuracy = true_positives / (true_positives + false_positives + false_negatives)
+
+    print("precision", precision)
+    print("recall", recall)
+    print("f1_score", f1_score)
+    print("accuracy", accuracy)
+
+evaluate_ner(positions_ner, true_position)
+
+
