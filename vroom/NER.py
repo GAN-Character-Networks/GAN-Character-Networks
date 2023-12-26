@@ -18,7 +18,6 @@ import os
 import re
 
 def read_file(file_path: str): 
-    content = ""
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read().rstrip()
 
@@ -322,7 +321,7 @@ def get_positions_of_entities(text):
             word = ' '.join(current_entity)
             positions.append({"word":word, "start":current_entity_start, "end":current_entity_end})
         else:
-            i += 1
+            i += len(word) + 1
             current_entity.append(word)
     return positions
 
