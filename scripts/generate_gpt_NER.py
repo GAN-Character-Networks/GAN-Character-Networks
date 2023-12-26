@@ -9,121 +9,201 @@ from openai import OpenAI
 import os
 import glob
 from vroom.NER import chunk_text, read_file
+import json 
 
 client = OpenAI()
 
-input_file = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.unlabeled"
-output_file_path = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.gpt.v1.labeled"
 
+# output_file_path = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.gpt.v1.labeled"
+input_file = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled")
+output_file = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.gpt.ner.v4.labeled.json")
 content = read_file(input_file)
 chunks = chunk_text(content, 500)
 
 output = ""
 
-historic = "{}"
-example = """
-Le format JSON est le suivant, il peut y avoir plusieurs alias pour un personnage.
-Voici des examples, contenant une entrée, le texte, et une sortie, le JSON attendu : 
+system_prompt = """
+Tu es un extracteur d'entités. 
+Ton but est d'extraire tous les personnages du livre de science-fiction 'Le Cycle des Fondations' d'Isaac Asimov. 
+Tu verras des passages du livre que tu devras utiliser. Dans ta définition, un personnage est un individu qui apparaît dans un passage du livre. 
+Ce personnage peut être uniquement cité par son nom ou être très actif dans la discussion. 
+Pour réaliser cette tâche, je souhaite que tu me retournes la liste des personnages que tu rencontres. 
+Tu dois me donner l'ensemble des entités. Tu n'as pas le droit de modifier le nom des personnages ou d'en inventer de nouveaux, utilise seulement le texte. 
+Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références. 
+Par exemple, Hari Seldon est souvent appelé Hari et/ou Seldon. Je veux que tu listes aussi cela. 
+Le retour doit être fait dans un JSON. Fait attention à ne pas capturer des noms de personnages qui ne sont pas des personnages comme par exemple
+des noms de planètes, des fonctions (ministre), etc.
 
-Texte entrée : 
+Pour t'aider, voici la liste officielle des personnages du livre :
+<start>
+Arcadia Darell
+Agis XIV
+Ammel Brodrig
+Bail Channis
+Bayta Darell
+Bel Arvardan
+Bel Riose
+Chetter Hummin
+Cléon Ier
+Cléon II
+Dagobert IX
+Dame Callia
+Dors Venabili
+Ducem Barr
+Ebling Mis
+Elijah Baley
+Eskel Gorov
+Eto Demerzel
+Fallom
+Gaal Dornick
+Golan Trevize
+Han Pritcher
+Hari Seldon
+Harlan Branno
+Hober Mallow
+Homir Munn
+Indbur III
+Janov Pelorat
+Joie
+Jole Turbor
+Jord Commasson
+Lathan Devers
+Lepold Ier
+Lev Meirus
+Lewis Pirenne
+Le Mulet
+Limmar Ponyets
+Munn Li Compor
+Novi Sura
+Pelleas Anthor
+Preem Palver
+Quindor Shandess
+R. Daneel Olivaw
+Raych Seldon
+Salvor Hardin
+StettinStor Gendibal
+Toran Darell
+Toran Darell II
+Wanda Seldon
+Wienis
+Yugo Amaryl
+<end>
 
-TRANTOR. — ... Elle n’est presque jamais décrite comme
-un monde vu de l’espace. Depuis longtemps, l’inconscient
-collectif la voit comme un monde de l’intérieur dont l’image est
-celle de la ruche humaine vivant sous dôme. Pourtant, il
-existait également un extérieur, et il nous reste encore des
-hologrammes pris de l’espace qui le montrent plus ou moins en
-détail (cf. figures 14 et 15). On remarquera que la surface des
-dômes, l’interface de la vaste cité et de l’atmosphère qui la
-surmonte, surface appelée à l’époque la « Couverture », est...
+Voici des exemples : 
 
-Sortie : 
+Exemple 1 : 
+
+Texte : 
+<start>
+                           Mathématicien
+
+
+     CLÉON Ier— ... dernier Empereur galactique de la
+dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+année que Hari Seldon. (On pense que la date de naissance de
+Seldon, que certains estiment douteuse, aurait pu être
+« ajustée » pour coïncider avec celle de Cléon que Seldon, peu
+après son arrivée sur Trantor, est censé avoir rencontré.)
+     Cléon est monté sur le trône impérial en 12010, à l’âge de
+vingt-deux ans, et son règne représente un étrange intervalle
+de calme dans ces temps troublés. Cela est dû sans aucun doute
+aux talents de son chef d’état-major, Eto Demerzel, qui sut si
+bien se dissimuler à la curiosité médiatique que l’on a fort peu
+de renseignements à son sujet. La psychohistoire nous apprend
+bien des choses.
+     Cléon, quant à lui...
+                                       ENCYCLOPAEDIA GALACTICA2
+<end>
+
+Output : 
 
 {
-
+  'personnages': [ 'CLÉON Ier', 'Empereur', 'Hari Seldon', 'Seldon' , 'Cléon', 'Eto Demerzel']
 }
 
-Texte entrée :
+Exemple 2 : 
 
-ROBOT. — ... Terme employé dans les légendes antiques
-de plusieurs mondes pour qualifier ce qu’on appelle plus
-communément des « automates ». Les robots sont
-généralement décrits comme faits de métal et d’apparence
-humaine, mais l’on suppose que certains auraient été de nature
-pseudo-organique. La croyance populaire veut qu’au cours de
-la Fuite, Hari Seldon ait aperçu un véritable robot, mais la
-véracité de cette anecdote reste douteuse. Nulle part, dans les
-volumineux écrits laissés par Seldon, il n’est fait mention du
-moindre robot, quoique...
+Texte : 
+<start>
+     Étouffant un léger bâillement, Cléon demanda :
+« Demerzel, auriez-vous, par hasard, entendu parler d’un
+certain Hari Seldon ? »
+     Cléon était empereur depuis dix ans à peine et, quand le
+protocole l’exigeait, il y avait des moments où, pourvu qu’il fût
+revêtu des atours et ornements idoines, il réussissait à paraître
+majestueux. Il y était arrivé, par exemple, pour son portrait
+<end>
 
-                                  ENCYCLOPAEDIA GALACTICA
+Output : 
 
-Sortie : 
 {
-    "Hari Seldon": [
-        "Seldon"
-    ]
+  'personnages': ['Cléon', 'Demerzel', 'Hari Seldon', 'Cléon']
 }
 
-Texte entrée :
+Exemple 3 : 
 
-Seldon réitéra son coup, une deuxième, puis une troisième
-fois, mais cette fois le sergent Thalus, anticipant l’attaque,
-abaissa l’épaule pour l’encaisser dans le gras du muscle.
-      Dors avait sorti ses couteaux.
-      « Sergent, lança-t-elle d’une voix forte. Tournez-vous dans
-cette direction. Comprenez bien que je serai peut-être obligée de
-vous blesser sérieusement si vous persistez à emmener le
-docteur Seldon contre son gré. »
+Texte : 
+<start>
+     2 Toutes les citations de l'Encyclopaedia Galactica reproduites ici
+proviennent de la 116e édition, publiée en 1020 E.F. par la Société
+d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable
+autorisation des éditeurs.
+semblerait malgré tout qu’il puisse encore arriver des choses
+intéressantes. Du moins, à ce que j’ai entendu dire.
+     — Par le ministre des Sciences ?
+     — Effectivement. Il m’a appris que ce Hari Seldon  a assisté
+à un congrès de mathématiciens ici même, à Trantor – ils
+l’organisent tous les dix ans, pour je ne sais quelle raison ; il
+aurait démontré qu’on peut prévoir mathématiquement
+l’avenir. »
+<end>
 
-Sortie :
+Output : 
+
 {
-    "Seldon": [],
-    "Thalus": []
+  'personnages': ['Hari Seldon']
 }
 
+Exemple 4 : 
+
+Texte : 
+<start>
+     — Je le crois bien, Sire  », répondit Demerzel . Ses yeux
+scrutaient attentivement l’Empereur , comme pour voir jusqu’où
+il pouvait se permettre d’aller. « Pourtant, s’il devait en être
+ainsi, n’importe qui pourrait prophétiser. Le ministre n'a-t-il
+pas pensé à cela ?
+<end>
+
+Output : 
+
+{
+  'personnages': ['Sire', 'Demerzel', 'Empereur']
+}
+
+
+Fait le pour l'exemple suivant.
+
+Texte :
+
+     Demerzel se permit un petit sourire. « Ou le ministre des
+Sciences, homme sans grande jugeote, a été induit en erreur, ou
+ce mathématicien s’est trompé. Il ne fait aucun doute que cette
+histoire de prédiction de l’avenir relève d’un puéril rêve de
+magie.
+
+Output : 
+<start>
 """
+entities = []
 for i, chunk in enumerate(chunks):
     print("chunk = ", chunk)
-
-    system_prompt_1 = r"""
-    Tu es un expert en extration d'entités personnages des livres de science fiction 'Fondations' de Isaac Asimov. 
-    
-    Trouve toutes les entités personnages et toutes les façons dont ils sont mentionnés dans le texte et 
-    donne ta réponse sous le format JSON.
-
-    Il peut exister plusieurs personnages, et tu dois ajouter autant de lignes que de personnages dans le JSON. 
-    """
-
-    system_prompt_1 = system_prompt_1 + example
-
-    system_prompt_2 = """
-    Voici l'historique des précédents personnages et leur alias trouvés :
-
-    Historique : 
-
-    """ + historic + """
-    
-    Tu dois absolument réutiliser l'historique, et ajouter dedans les nouveaux personnages et alias trouvés. 
-    Tu ne dois pas retirer des personnages de l'historique. Utilise uniquement ce qui est écrit litérallement dans le texte.
-
-    Il se peut qu'il n'existe pas de personnages dans le texte donné. Si tel est le cas, tu dois renvoyer l'historique.
-
-    Fait attention à ne pas supplémenter les entrées de l'historique. Si un personnage est dans l'historique, 
-    mais n'apparait pas dans le texte, tu dois le laisser dans le json de sortie.
-
-    Texte entrée : 
-    """
-
-    system_prompt = system_prompt_1 + system_prompt_2
-
-    print("system_prompt = ", system_prompt)
     
     response = client.chat.completions.create(
-      model="gpt-3.5-turbo-1106", # gpt-4-1106-preview
+      model="gpt-3.5-turbo-1106", # gpt-4-1106-preview / gpt-3.5-turbo-1106
       messages=[
         {"role": "system", "content": system_prompt},
-        {"role": "user", "content": chunk},
+        {"role": "user", "content": chunk + "\n<end>"},
       ],
       seed=42,
       temperature=0,
@@ -132,21 +212,22 @@ for i, chunk in enumerate(chunks):
     )
 
     generated_content = response.choices[0].message.content
+    generated_content = json.loads(generated_content)
     print()
     print("content = ", generated_content)
-    historic = generated_content
-    
+
+    entities += generated_content["personnages"]
+    print("total entities = ", set(entities))
     print('*' * 100)
 
-    if i > 5:
-        exit()
-    
-print("*" * 200)
-print("generated_content = ", generated_content)
+
+
 print()
-print("historic = ", historic)
+print('*' * 100)
+print("FINAL")
+print("total entities = ", set(entities))
 
+with open(output_file, "w") as f:
+    # write entities as json
+     json.dump({"personnages": list(set(entities))}, f, indent=4)
 
-exit()
-with open(output_file_path, "w") as f:
-    f.write(output)
