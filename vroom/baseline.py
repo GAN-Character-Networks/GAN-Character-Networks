@@ -4,10 +4,12 @@ Authors
 --------
  * Nicolas Bataille 2023
  * Adel Moumen 2023
+ * Gabriel Desbouis 2023
 """
 from vroom.NER import get_entities_from_file
 from vroom.alias import get_aliases_fuzzy_partial_token
 from vroom.cooccurences import get_cooccurences
+from vroom.loggers import JSONLogger
 from openai import OpenAI
 import json
 
@@ -26,51 +28,77 @@ def get_cooccurences_from_text(path: str):
     entities, chunks = get_entities_from_file(path)
     return get_cooccurences(chunks, entities)
 
+def find_cooccurrences_aliases(cooccurrences, aliases):
+    no_alias_1_list = []
+    no_alias_2_list = []
+    cooccurrences_aliases = []
 
-def get_cooccurences_with_aliases(path: str):
+    for cooc in cooccurrences:
+        no_alias_1 = True
+        no_alias_2 = True
+
+        for alias in aliases:
+            if cooc[0] in alias:
+                no_alias_1 = False
+            if cooc[1] in alias:
+                no_alias_2 = False
+
+        if no_alias_1:
+            no_alias_1_list.append(cooc[0])
+        if no_alias_2:
+            no_alias_2_list.append(cooc[1])
+
+    print("no alias 1 list: ", no_alias_1_list)
+    print("no alias 2 list: ", no_alias_2_list)
+
+    for cooccurence in cooccurrences:
+        cooc_1_aliases = [
+            alias
+            for alias in aliases
+            if cooccurence[0].lower() in [a.lower() for a in alias]
+        ]
+        cooc_2_aliases = [
+            alias
+            for alias in aliases
+            if cooccurence[1].lower() in [a.lower() for a in alias]
+        ]
+
+        if cooc_1_aliases and cooc_2_aliases and cooc_1_aliases[0] != cooc_2_aliases[0]:
+            cooccurrences_aliases.append((cooc_1_aliases[0], cooc_2_aliases[0]))
+
+    print("aliases: ", aliases)
+    return cooccurrences_aliases
+
+
+def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
     """
     Get the aliases of the cooccurences of characters from the given text.
 
     Args:
         path (str): The path of the text file.
+        logger (JSONLogger, optional): The logger to save the aliases. Defaults to None.
 
     Returns:
         list: A list of tuples representing the interactions between entities in the text.
     """
     entities, chunks = get_entities_from_file(path)
     cooccurences = get_cooccurences(chunks, entities)
-    entities = [entity for sublist in entities for entity in sublist]
-    aliases = get_aliases_fuzzy_partial_token(entities, 99)
+    entities_unfold = [entity for sublist in entities for entity in sublist]
+    aliases = get_aliases_fuzzy_partial_token(entities_unfold, 99)
 
-    for cooc in cooccurences:
-        no_alias_1 = True
-        no_alias_2 = True
-        for alias in aliases:
-            if cooc[0] in alias:
-                no_alias_1 = False
-            if cooc[1] in alias:
-                no_alias_2 = False
-        if no_alias_1:
-            print("no alias 1 : ", cooc[0])
-        if no_alias_2:
-            print("no alias 2 : ", cooc[1])
+    if logger is not None: 
+        saves = {}
+        for i, (chunk, entity) in enumerate(zip(chunks, entities)):
+            saves[f"chunk_{i}"] = {
+                "chunk": chunk,
+                "entities": entity,
+            }
+        saves["entities"] = list(set([entity["word"] for entity in entities_unfold]))
+        saves["aliases"] = aliases
+        saves["cooccurences"] = cooccurences
+        logger(saves)
 
-    print("aliases : ", aliases)
-
-    cooccurences_aliases = []
-    for cooccurence in cooccurences:
-        cooc_1_aliases = [
-            alias
-            for alias in aliases
-            if cooccurence[0].lower() in [a.lower() for a in alias]
-        ][0]
-        cooc_2_aliases = [
-            alias
-            for alias in aliases
-            if cooccurence[1].lower() in [a.lower() for a in alias]
-        ][0]
-        if cooc_1_aliases != cooc_2_aliases:
-            cooccurences_aliases.append((cooc_1_aliases, cooc_2_aliases))
+    cooccurences_aliases = find_cooccurrences_aliases(cooccurences, aliases)
     return cooccurences_aliases
 
 
