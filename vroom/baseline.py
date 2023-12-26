@@ -118,9 +118,9 @@ def get_cooccurences_with_aliases_and_gpt(path: str, logger: JSONLogger = None):
     """
     system_prompt = r"""
 Tu es un expert dans la résolution de références de personnes issus de livres de science fiction.
-Ton but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personnage avec toutes ses références.
+Ton but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.
 
-Pour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances, etc. Fait  attention, certains noms ne sont pas des personnes mais tu les traiteras quand même de la même façon.
+Pour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. Fait  attention, certains noms ne sont pas des personnes mais tu les traiteras quand même de la même façon.
 
 Donne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :
 
@@ -131,11 +131,10 @@ Donne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche 
 
 Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.
 
-Tu vas recevoir une liste de personnes en input, et tu devrais les regrouper s'ils referent a la meme personne. Tu n'as pas le droit d'inventer de nouveaux personnages. Tu dois uniquement utiliser ceux en input. 
+Tu vas recevoir une liste de personnes en input, et tu dois les regrouper s'ils referent a la meme personne. Tu n'as pas le droit d'inventer de nouveaux personnages. Tu dois uniquement utiliser ceux en input. 
+Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles tu seras fortement penalise.  
 
-Tu dois préserver la même typographie des noms. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Tu n'as pas le droit de faire intervenir de nouvelles personnes, utilise uniquement ce qui est en input. Si tu ne respectes pas ces règles tu seras fortement penalise.  
-
-Fait le pour les personnages suivant et essaye de trouver le plus d'alias possible :
+Fait le pour les personnes suivantes et essaye de trouver les meilleurs regroupements possibles, je compte sur toi :
 
 Input : 
     """
@@ -166,8 +165,6 @@ Input :
     aliases = []
     for key in generated_content:
         aliases.append(generated_content[key])
-
-    print("aliases : ", aliases)
 
     if logger is not None: 
         saves = {}
