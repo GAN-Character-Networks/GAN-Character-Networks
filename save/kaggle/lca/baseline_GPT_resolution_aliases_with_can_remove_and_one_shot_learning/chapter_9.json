@@ -1,0 +1,423 @@
+{
+    "experiment_details": "\n    GPT-3.5-turbo-1106 avec 1 example de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "manche autant qu’il le put, découvrant ainsi le poignet. La chair du robot était douce au toucher, mais on sentait que, sous cette couche, il y avait une matière plus dure que des os. R. Daneel laissa le policier lui serrer le bras, et Baley l’examina longuement, pinçant la peau le long de la ligne médiane. Comportait-elle une légère couture ? Logiquement, il devait y en avoir une. Un robot, recouvert de peau synthétique, et construit pour ressembler vraiment à un être humain, ne pouvait être",
+        "entities": {
+            "entity_group": "PER",
+            "word": "R. Daneel",
+            "start": 183,
+            "end": 193
+        }
+    },
+    "chunk_1": {
+        "chunk": "préparé par des procédés ordinaires. On ne pouvait, dans ce but, dériveter une poitrine métallique, ou retirer un crâne. Il fallait, au lieu de cela, dissocier les diverses parties d’un corps mécanique assemblées par une succession de joints micromagnétiques. Un bras, ou une tête, ou un corps tout entier, devait pouvoir, sur un simple contact en un point déterminé, s’ouvrir en deux, et se refermer de même par une manœuvre contraire. Baley, rouge de confusion, leva les yeux vers le Dr Fastolfe. —",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 235,
+            "end": 241
+        }
+    },
+    "chunk_2": {
+        "chunk": "Où est donc le commissaire principal ? demanda-t-il. Il avait à s’occuper d’affaires urgentes. Je l’ai vivement encouragé à nous quitter, en l’assurant que nous prendrions soin de vous. — Vous venez déjà de le faire fort bien, dit Baley, d’un ton bourru. Et maintenant, je crois que nous n’avons plus rien à nous dire. Il se leva péniblement ; ses articulations lui faisaient mal, et, subitement, il se sentit un vieil homme, trop vieux pour repartir à zéro... Il n’avait certes pas besoin de beaucoup",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 934,
+            "end": 940
+        }
+    },
+    "chunk_3": {
+        "chunk": "réfléchir pour imaginer ce que l’avenir lui réservait. Son chef allait être moitié furieux, moitié épouvanté ; il le regarderait froidement, et ôterait ses lunettes pour les essuyer toutes les trente secondes ; comme il ne criait presque jamais, il expliquerait d’une voix douce à Baley toutes les raisons pour lesquelles les Spaciens avaient été mortellement offensés ; et le détective pouvait entendre déjà, jusque dans ses moindres intonations, cette diatribe : « On ne parle pas aux Spaciens de",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Dr Fastolfe",
+            "start": 983,
+            "end": 995
+        }
+    },
+    "chunk_4": {
+        "chunk": "cette façon-là, Lije ! C’est tout simplement impossible, car ils ne l’admettent pas. Je vous sanctions qui allait le frapper serait la rétrogradation, mesure déjà fort redoutable. Sans doute, le simple fait d’habiter une Cité moderne comportait implicitement l’assurance que l’on pouvait y subsister. Mais à quel point une telle existence était étriquée, cela Baley ne le savait que trop bien. Ce qui, petit à petit, valait d’appréciables avantages, c’était de bénéficier d’un statut s’améliorant à",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 1229,
+            "end": 1235
+        }
+    },
+    "chunk_5": {
+        "chunk": "mesure que l’on gravissait l’échelle administrative ; on obtenait ainsi une place plus confortable au spectacle, une meilleure qualité de viande dans la ration quotidienne, ou encore le droit de faire moins longtemps la queue à tel magasin. Quiconque aurait jugé de ces choses en philosophe n’aurait sans doute pas estimé que des privilèges aussi minimes valaient la peine qu’on se donnait pour les obtenir. Et pourtant personne, si philosophe que l’on fût, ne pouvait renoncer sans douleur à ces",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 1781,
+            "end": 1787
+        }
+    },
+    "chunk_6": {
+        "chunk": "droits, une fois qu’on les avait acquis. C’était là un fait incontestable. Ainsi, c’était sans doute un insignifiant avantage que de posséder, dans un appartement, un lavabo à eau courante, surtout quand on avait pris l’habitude, pendant trente ans, d’aller automatiquement se laver dans les Toilettes, sans même y faire attention. Bien plus, on pouvait à bon droit considérer cet appareil sanitaire comme inutile, surtout en tant que privilège accordé par statut spécial, car rien n’était plus impoli",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Lije",
+            "start": 2015,
+            "end": 2020
+        }
+    },
+    "chunk_7": {
+        "chunk": "que de se vanter des avantages dont on bénéficiait ainsi. Et cependant, Baley se dit que, si l’on venait à lui supprimer ce lavabo, chaque déplacement supplémentaire qu’il aurait alors à faire aux Toilettes serait plus humiliant et plus intolérable, et qu’il garderait toujours le souvenir lancinant du plaisir qu’il avait à se raser chez lui, dans sa chambre à coucher : ce serait pour lui le symbole même d’un luxe à jamais perdu... Dans les milieux politiques avancés, il était de bon ton de parler",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 2359,
+            "end": 2365
+        }
+    },
+    "chunk_8": {
+        "chunk": "de l’Epoque Médiévale avec dédain, et de dénigrer le « fiscalisme » de ces régimes qui basaient l’économie des Etats sur la monnaie. C’est ainsi que les écrivains politiques dénonçaient les concurrences effroyables et la brutale « lutte pour la vie » qui sévissaient en ce temps-là ; et ils affirmaient que, à cause du souci permanent du pain quotidien, qui — Mon cher monsieur Baley, répliqua le Spacien, j’ai été extrêmement intéressé par vos raisonnements. Quant à vous décharger de l’enquête, j’en",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 3569,
+            "end": 3575
+        }
+    },
+    "chunk_9": {
+        "chunk": "doute fort. Car, avant de couper la communication avec le commissaire principal, j’ai spécialement insisté pour que l’on vous en laisse la pleine responsabilité. Et je suis convaincu que votre chef continuera, comme vous, à nous aider à la mener à bien. Baley s’assit, d’assez mauvaise grâce, et dit durement : — Et pourquoi en êtes-vous donc si convaincu ? Le Dr Fastolfe croisa les jambes et soupira. — Monsieur Baley, dit-il, jusqu’à présent, j’ai en général rencontré deux types de New-Yorkais :",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 4377,
+            "end": 4383
+        }
+    },
+    "chunk_10": {
+        "chunk": "des émeutiers et des politiciens. Votre chef nous est utile, mais c’est un politicien. Il nous dit ce que nous désirons entendre, il s’efforce de savoir nous prendre : vous voyez ce que je veux dire. Or, voilà que vous entrez en scène, vous venez nous voir, et, courageusement, vous nous accusez de crimes abominables, que vous tentez de prouver. J’ai eu beaucoup de plaisir à assister à votre démonstration, et j’ai estimé qu’elle permet de fonder de sérieux espoirs sur notre collaboration. — Eh",
+        "entities": {
+            "entity_group": "PER",
+            "word": "le Spacien",
+            "start": 4393,
+            "end": 4404
+        }
+    },
+    "chunk_11": {
+        "chunk": "bien, vous n’êtes pas difficile ! s’écria Baley, sarcastique. — Oh ! si, oh ! si, reprit l’autre, calmement. Vous êtes un homme avec lequel je peux jouer cartes sur table. La nuit dernière, monsieur Baley, R. Daneel s’est mis en communication avec moi, par radio, car il a, sur lui, un appareil émetteur-récepteur ; il m’a fait son rapport, et certains renseignements qu’il m’a donnés sur vous m’ont vivement intéressé : par exemple, la composition de votre bibliothèque. — Ah ? Qu’est-ce qu’elle a",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 4755,
+            "end": 4761
+        }
+    },
+    "chunk_12": {
+        "chunk": "donc d’extraordinaire ? — Un bon nombre de vos livres filmés traitent d’histoire et d’archéologie. Cela prouve que vous vous intéressez aux questions sociales, et que vous avez quelques connaissances sur l’évolution de la société humaine. — Même un policier peut passer ses loisirs à lire si cela lui plaît... — Entièrement d’accord, et je suis heureux précisément que vous ayez de tels goûts, car cela va m’aider à mener à bien mon — Ainsi donc, vous n’avez jamais été malade, docteur Fastolfe ? —",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Dr Fastolfe",
+            "start": 4862,
+            "end": 4874
+        }
+    },
+    "chunk_13": {
+        "chunk": "Jamais par l’action d’un microbe parasite, monsieur Baley. Nous sommes tous sujets à des maladies dues à la dégénérescence, bien entendu, par exemple, à l’artériosclérose, mais je n’ai jamais eu ce que vous appelez la grippe. Si j’attrapais la grippe, je pourrais fort bien en mourir, car je n’ai en moi-même aucune capacité de résistance à l’action de ce microbe. Voilà quel est notre point faible, à nous autres Spaciens. Ceux d’entre nous qui viennent habiter Spacetown courent un très grand",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 4915,
+            "end": 4921
+        }
+    },
+    "chunk_14": {
+        "chunk": "risque. La Terre est une fourmilière de maladies contre lesquelles nous n’avons aucun moyen de nous défendre ; j’entends aucune défense naturelle. Vous-même, vous êtes porteur des germes d’à peu près toutes les maladies actuellement connues. Vous ne vous en rendez pas compte, parce que, la plupart du temps, vous réussissez à en contrôler l’évolution, grâce aux anticorps qui, d’année en année, se sont développés dans votre organisme. Mais moi, je n’ai pas d’anticorps. Dans ces conditions, vous",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 5541,
+            "end": 5547
+        }
+    },
+    "chunk_15": {
+        "chunk": "étonnez-vous de ce que je ne m’approche pas plus de vous ? Croyez-moi, monsieur Baley, je ne me tiens à distance que par mesure d’auto-défense. — S’il en est ainsi, dit Baley, pourquoi ne pas faire connaître ce fait aux Terriens ? Je veux dire, pourquoi ne pas expliquer ouvertement que les Terriens ne vous dégoûtent pas, mais que vous devez prendre vos précautions contre un réel danger physique ? — Ce n’est pas si simple que cela, répliqua Fastolfe en secouant la tête. Nous sommes peu nombreux,",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 5698,
+            "end": 5704
+        }
+    },
+    "chunk_16": {
+        "chunk": "et, en tant qu’étrangers, on ne nous a guère en sympathie. Nous arrivons à garantir notre sécurité, grâce à un prestige assez fragile, celui d’une race supérieure. Nous ne pouvons pas nous permettre de perdre la face, en reconnaissant ouvertement que nous avons peur d’approcher d’un Terrien ; nous ne le pouvons pas, en tout cas, tant qu’une meilleure compréhension n’aura pas été instaurée entre Terriens et Spaciens. — Il ne pourra y en avoir de meilleure sur les bases actuelles, docteur Fastolfe,",
+        "entities": {
+            "entity_group": "PER",
+            "word": "R. Daneel",
+            "start": 5705,
+            "end": 5715
+        }
+    },
+    "chunk_17": {
+        "chunk": "car c’est précisément à cause de votre prétendue supériorité que... nous vous haïssons. — Nous nous en tirons quand même, répéta Baley, obstinément. — A peine. Une Cité comme New York doit faire des prodiges pour s’approvisionner en eau et évacuer ses détritus. Les centrales d’énergie nucléaire ne fonctionnent encore que grâce à des importations d’uranium de jour en jour plus difficiles à obtenir, même en provenance des autres planètes, et cela en même temps que les besoins augmentent sans cesse.",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Fastolfe",
+            "start": 6484,
+            "end": 6493
+        }
+    },
+    "chunk_18": {
+        "chunk": "L’existence même des citoyens dépend à tout moment de l’arrivée de la pulpe de bois nécessaire aux usines de levure, et du minerai destiné aux centrales hydroponiques. Il vous faut, sans jamais une seconde d’arrêt, faire circuler l’air dans toutes les directions, et il est de plus en plus délicat de maintenir l’équilibre de cette aération conditionnée. Que surviendrait-il si jamais le formidable courant d’air frais introduit et d’air vicié évacué s’arrêtait, ne serait-ce qu’une heure ? — Cela ne",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 6549,
+            "end": 6555
+        }
+    },
+    "chunk_19": {
+        "chunk": "s’est jamais produit ! — Ce n’est pas une raison pour qu’il n’arrive rien de tel dans l’avenir. Aux temps primitifs, les centres urbains individuels pouvaient virtuellement se suffire à eux-mêmes, et vivaient surtout du produit des fermes avoisinantes. Rien ne pouvait les atteindre que des désastres subits, tels qu’une inondation, une épidémie, ou une mauvaise récolte. Mais, à mesure que ces centres se sont développés, et que la technologie s’est perfectionnée, on a pu parer aux désastres locaux",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 7570,
+            "end": 7576
+        }
+    },
+    "chunk_20": {
+        "chunk": "en faisant appel au secours des centres plus éloignés ; cela n’a cependant été possible qu’en accroissant toujours plus des régions, qui, obligatoirement, devinrent dépendantes les unes des autres. A l’Epoque Médiévale, les villes ouvertes, même les plus vastes, pouvaient subsister au moins pendant une semaine sur leurs stocks, et grâce à des secours d’urgence. Quand New York est devenu la première Cité moderne, elle pouvait vivre sur elle- même pendant une journée. Aujourd’hui, elle ne pourrait",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 7659,
+            "end": 7665
+        }
+    },
+    "chunk_21": {
+        "chunk": "pas tenir une heure. Un désastre qui aurait été un peu gênant il y a dix mille ans, et à peine sérieux il y a mille ans, serait devenu il y a cent ans quelque chose de grave ; mais aujourd’hui, ce serait une catastrophe irrémédiable. vous une improbabilité cent fois plus grande. En vérité, monsieur, le civisme de vos Cités est en train de tuer la Terre. — Et puis après ? s’écria Baley rageusement. En admettant que ce soit vrai, en quoi cela vous regarde-t-il ? C’est notre affaire, et nous",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Fastolfe",
+            "start": 7934,
+            "end": 7943
+        }
+    },
+    "chunk_22": {
+        "chunk": "résoudrons ce problème ! Et si nous n’y parvenons pas, eh bien, admettons que c’est notre façon à nous d’aller en enfer ! — Et mieux vaut votre façon d’aller en enfer que la façon dont les autres vont au paradis, n’est-ce pas ? Je comprends votre réaction, car il est fort déplaisant de se voir donner des leçons par un étranger. Et pourtant, j’aimerais que, vous autres Terriens, vous puissiez nous donner des leçons, à nous Spaciens, car, nous aussi, nous avons à résoudre un problème, et il est",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Fastolfe",
+            "start": 8482,
+            "end": 8491
+        }
+    },
+    "chunk_23": {
+        "chunk": "tout à fait analogue au vôtre ! — Surpopulation ? fit Baley en souriant méchamment. — J’ai dit analogue et non pas identique. Le nôtre est sous- population. Quel âge me donnez-vous ? Le détective réfléchit un instant, puis se décida à donner un chiffre nettement exagéré : — Je dirai environ la soixantaine. — Eh bien, vous devriez y ajouter cent ans ! — Quoi ? — Pour être précis, j’aurai cent soixante-trois ans à mon prochain anniversaire. Je ne plaisante pas. J’utilise le calendrier normal",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 8621,
+            "end": 8627
+        }
+    },
+    "chunk_24": {
+        "chunk": "terrien. Si j’ai de la chance, si je fais attention, et surtout si je n’attrape aucune maladie terrienne, je peux arriver à vivre encore autant d’années, et atteindre plus de trois cents ans. Dans ma planète Aurore, on vit jusqu’à trois cent cinquante ans, et les chances de survie ne font que croître actuellement. Baley jeta un regard vers R. Daneel, qui avait écouté impassiblement tout l’entretien, et il eut l’air de chercher auprès du robot une confirmation de cette incroyable révélation. —",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 10879,
+            "end": 10885
+        }
+    },
+    "chunk_25": {
+        "chunk": "Comment donc est-ce possible ? demanda-t-il. — Dans une société sous-peuplée, il est normal que l’on pousse l’étude de la gérontologie, et que l’on recherche les causes de la vieillesse. Dans un monde comme le vôtre, prolonger la durée moyenne de la vie serait un désastre. L’accroissement de population qui en résulterait serait — C’est pourtant vrai, monsieur Baley. Voilà deux siècles et demi qu’aucun Monde Extérieur n’a plus colonisé de nouvelle planète, et l’on n’envisage aucune autre",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 11543,
+            "end": 11549
+        }
+    },
+    "chunk_26": {
+        "chunk": "colonisation dans l’avenir : cela tient à ce que l’existence que nous menons dans les Mondes Extérieurs est trop longue pour que nous la risquions, et trop confortable pour que nous la bouleversions dans des entreprises hasardeuses. — Cela ne me semble pas exact, docteur Fastolfe, car, en venant sur la Terre, vous avez risqué de contracter des maladies. — C’est vrai. Mais nous sommes un certain nombre, monsieur Baley, à estimer que l’avenir de la race humaine vaut la peine que l’on fasse le",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 12300,
+            "end": 12306
+        }
+    },
+    "chunk_27": {
+        "chunk": "sacrifice d’une existence confortablement prolongée. Malheureusement, j’ai le regret d’avouer que nous sommes trop peu à penser cela. — Bon ! Nous voici parvenus au point essentiel en quoi les Spaciens peuvent-ils améliorer la situation ? — En essayant d’introduire des robots sur Terre, nous faisons tout notre possible pour rompre l’équilibre de votre économie. — Voilà, certes, une étrange façon de nous venir en aide ! s’écria Baley dont les lèvres tremblèrent. Si je vous comprends bien, vous",
+        "entities": {
+            "entity_group": "PER",
+            "word": "R. Daneel",
+            "start": 12326,
+            "end": 12336
+        }
+    },
+    "chunk_28": {
+        "chunk": "vous efforcez de provoquer exprès la création d’une catégorie de plus en plus importante de gens déclassés et de chômeurs ? — Ce n’est, croyez-moi, ni par cruauté ni par manque de charité. Cette catégorie de gens déclassés, comme vous dites, nous en avons besoin pour servir de noyau à des colonisations nouvelles. Votre vieille Amérique a été découverte par des navigateurs dont les vaisseaux avaient pour équipages des galériens tirés de prison. Ne voyez-vous donc pas que la Cité en est arrivée à",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 12844,
+            "end": 12850
+        }
+    },
+    "chunk_29": {
+        "chunk": "ne plus pouvoir nourrir le citoyen déclassé ? En quittant la Terre, non seulement il n’aura rien à perdre, mais il pourra gagner des Mondes Nouveaux. — C’est possible, mais nous n’en sommes pas là, tant s’en faut ! — C’est hélas vrai ! soupira tristement le Dr Fastolfe. Il y a quelque chose qui ne va pas : c’est la phobie qu’ont les Terriens des robots qui paralyse tout. Et pourtant, ces robots qu’ils Fastolfe enfant, pour décider après examen s’il était digne de parvenir à l’âge d’homme ?",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Fastolfe",
+            "start": 13246,
+            "end": 13255
+        }
+    },
+    "chunk_30": {
+        "chunk": "N’était-il pas trop laid ? Ou leur jugement ne tenait-il aucun compte de l’aspect physique de l’individu ? Quand la laideur humaine devenait-elle une tare ? Et quelles étaient les tares rédhibitoires ?... Mais lorsque le soleil disparut et qu’ils pénétrèrent dans les Toilettes, il sentit qu’il ne parviendrait pas sans peine à rester maître de lui. Une sourde exaspération lui fit secouer violemment la tête. Que tout cela était donc ridicule ! Prétendre contraindre les Terriens à émigrer pour",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 13389,
+            "end": 13395
+        }
+    },
+    "chunk_31": {
+        "chunk": "édifier une société nouvelle, quelle stupidité ! En réalité, ces Spaciens ne poursuivaient-ils pas un autre but ? Mais lequel ? Il eut beau y réfléchir, aucune explication ne lui vint à l’esprit... Remontant en voiture, il s’engagea de nouveau sur l’autoroute. Petit à petit, il reprit conscience de la réalité ; le poids et la chaleur de son arme accrochée à son ceinturon lui firent du bien, et il éprouva un vrai réconfort à retrouver le bruit et l’agitation de la cité. Quand ils entrèrent en",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Baley",
+            "start": 13901,
+            "end": 13907
+        }
+    },
+    "chunk_32": {
+        "chunk": "ville, il ressentit un picotement léger et fugitif dans ses narines, et il dut s’avouer que la Cité sentait. Il songea aux vingt millions d’êtres humains entassés entre les murs de l’immense caverne d’acier, et, pour la première fois de sa vie, il renifla leur air avec des narines que l’air libre du dehors avait nettoyées. « Est-ce que ce serait différent dans un autre monde ? se demanda-t-il. Y aurait-il moins de gens et plus d’air ?... Un air plus propre ?.... » Mais le grondement formidable de",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Dr Fastolfe",
+            "start": 14726,
+            "end": 14738
+        }
+    },
+    "chunk_33": {
+        "chunk": "la Cité en pleine effervescence les submergea, l’odeur disparut, et il eut un peu honte de lui. Il actionna lentement la manette d’accélération, et le véhicule se lança à toute vitesse sur l’autoroute déserte. — Daneel ! dit-il. — Oui, Elijah. — Pourquoi le Dr Fastolfe m’a-t-il dit tout cela ? — Il me semble probable, Elijah, qu’il a voulu vous montrer combien cette enquête est importante. Nous n’avons pas seulement à trouver l’explication d’un meurtre, mais à sauver Spacetown, et, en même temps,",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Fastolfe",
+            "start": 14873,
+            "end": 14882
+        }
+    },
+    "chunk_34": {
+        "chunk": "l’avenir de la race humaine.",
+        "entities": {
+            "entity_group": "PER",
+            "word": "Daneel",
+            "start": 16670,
+            "end": 16677
+        }
+    },
+    "entities": [
+        "Fastolfe",
+        "Dr Fastolfe",
+        "le Spacien",
+        "Baley",
+        "Elijah",
+        "Daneel",
+        "R. Daneel",
+        "Lije"
+    ],
+    "aliases": [
+        [
+            "Fastolfe",
+            "Dr Fastolfe"
+        ],
+        [
+            "le Spacien"
+        ],
+        [
+            "Baley",
+            "Elijah",
+            "Lije"
+        ],
+        [
+            "Daneel",
+            "R. Daneel"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Baley",
+            "le Spacien"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Dr Fastolfe"
+        ],
+        [
+            "Elijah",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Elijah"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans la résolution de références de personnes issus des livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nTu vas recevoir une liste de personnes en input, et tu dois les regrouper s'ils referent a la meme personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. \nLes noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles tu seras fortement penalise.  \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre.\nEn effet, le systeme qui predit un personnage peut se tromper, et tu dois donc le corriger.\n\nVoici un example d'input et d'output :\n\nInput : \nCléon 1er-\nCléon\nEmpereur\nEmpereurs\nHari Seldon\nHari\nTrantor \n\nOutput :\n{\n    '0' : ['Cléon 1er', 'Cléon', 'Empereur', 'Empereurs'],\n    '1' : ['Hari Seldon', 'Hari'],\n}\n\nFait le pour les personnes suivantes et essaye de trouver les meilleurs regroupements possibles, je compte sur toi, merci !\n\nInput : \n    ",
+        "user_prompt": "Fastolfe\nDr Fastolfe\nle Spacien\nBaley\nElijah\nDaneel\nR. Daneel\nLije\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ],
+            "1": [
+                "le Spacien"
+            ],
+            "2": [
+                "Baley",
+                "Elijah",
+                "Lije"
+            ],
+            "3": [
+                "Daneel",
+                "R. Daneel"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}
