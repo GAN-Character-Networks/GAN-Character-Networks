@@ -371,3 +371,26 @@ def tag_text_with_entities(input_file_path, entities):
     output = remove_nested_tags(output)
 
     return output
+
+
+def set_determinants(name: str, determinant_path: str):
+    """
+    Takes a name and retunds a list of every possible combinations of determinants with the name.
+
+    Args:
+        name (str): The name to use.
+        determinant_path (str): The path to the file containing the determinants.
+
+    Returns:
+        list: A list of every possible combinations of determinants with the name.
+    """
+    determinants = []
+    with open(determinant_path, "r") as file:
+        for line in file:
+            if "_" in line:
+                line = line.replace("_", "")
+                determinants.append(line.strip() + " ")
+            else:
+                determinants.append(line.strip())
+
+    return [determinant + name for determinant in determinants]
