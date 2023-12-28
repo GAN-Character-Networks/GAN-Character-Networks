@@ -3,1426 +3,1094 @@
         "chunk": "Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par",
         "entities": [
             {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 86,
-                "end": 98
+                "start": 15,
+                "end": 17,
+                "word": "Hari Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 468,
-                "end": 475
-            }
-        ]
-    },
-    "chunk_1": {
-        "chunk": "accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer. Ce n’était qu’une cérémonie officielle où il",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Empereur de toute la Galaxie",
-                "start": 566,
-                "end": 594
-            }
-        ]
-    },
-    "chunk_2": {
-        "chunk": "s’agissait de rencontrer maires, vice-rois et ministres avec leurs épouses ou époux, venus de telle ou telle région de Trantor ou (pire) de la Galaxie. Il y avait près de mille participants, tous en costumes tantôt fleuris, tantôt franchement exotiques, et il avait fallu prêter l’oreille à un concert d’accents variés et encore aggravés par l’effort de parler le galactique de l’Empereur tel qu’on le parle à l’université galactique. Pis que tout, l’Empereur avait dû se garder d’annoncer des",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 1372,
-                "end": 1380
+                "start": 67,
+                "end": 68,
+                "word": "Dahl"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 1443,
-                "end": 1451
-            }
-        ]
-    },
-    "chunk_3": {
-        "chunk": "engagements concrets, tout en tartinant à l’envi une épaisse pommade de mots creux. Tout cela sûr, une révolution de palais ou l’assassinat par un intime. C’était d’ailleurs surtout pour éviter cela qu’il se reposait entièrement sur Demerzel. Cléon eut un petit frisson à l’idée de se passer de Demerzel, ou d’essayer. Certains Empereurs avaient gouverné personnellement, dotés d’une suite de chefs d’état-major sans talent, servis par des incapables qu’ils avaient maintenus dans leurs fonctions ; et",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 1718,
-                "end": 1727
+                "start": 74,
+                "end": 75,
+                "word": "Trantor"
             },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 1728,
-                "end": 1734
+                "start": 85,
+                "end": 86,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 1780,
-                "end": 1789
+                "start": 105,
+                "end": 110,
+                "word": "Empereur de toute la Galaxie"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereurs",
-                "start": 1813,
-                "end": 1823
-            }
-        ]
-    },
-    "chunk_4": {
-        "chunk": "malgré tout, ils avaient fait leur chemin tant bien que mal pendant quelque temps. Mais Cléon en était incapable. Il avait besoin de Demerzel. En fait, maintenant que l’idée de l’assassinat lui était venue – et, au vu de l’histoire récente de l’Empire, il ne pouvait pas la laisser échapper –, il voyait sans peine qu’il était tout à fait impossible de se passer de cet homme. C’était infaisable. Si habilement qu’il s’y prenne, Cléon était sûr que Demerzel, d’une manière ou d’une autre, prévoirait",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 2075,
-                "end": 2081
+                "start": 213,
+                "end": 214,
+                "word": "Trantor"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
+                "start": 262,
+                "end": 264,
+                "word": "l Empereur"
+            },
+            {
+                "start": 279,
+                "end": 280,
+                "word": "Empereur"
+            },
+            {
+                "start": 332,
+                "end": 333,
+                "word": "Demerzel"
+            },
+            {
+                "start": 334,
+                "end": 335,
+                "word": "Cléon"
+            },
+            {
+                "start": 346,
+                "end": 347,
+                "word": "Demerzel"
+            },
+            {
+                "start": 353,
+                "end": 354,
+                "word": "Empereurs"
+            },
+            {
+                "start": 400,
+                "end": 401,
+                "word": "Cléon"
+            },
+            {
+                "start": 409,
+                "end": 410,
+                "word": "Demerzel"
+            },
+            {
+                "start": 433,
+                "end": 435,
+                "word": "l Empire"
+            },
+            {
+                "start": 474,
+                "end": 475,
+                "word": "Cléon"
+            },
+            {
+                "start": 478,
+                "end": 479,
+                "word": "Demerzel"
+            },
+            {
+                "start": 513,
+                "end": 514,
+                "word": "Cléon"
+            },
+            {
+                "start": 519,
+                "end": 520,
+                "word": "Demerzel"
+            },
+            {
+                "start": 532,
+                "end": 533,
+                "word": "Empereur"
+            },
+            {
+                "start": 534,
+                "end": 535,
+                "word": "Demerzel"
+            },
+            {
+                "start": 553,
+                "end": 554,
+                "word": "Empereur"
+            },
+            {
+                "start": 569,
+                "end": 570,
+                "word": "Demerzel"
+            },
+            {
+                "start": 591,
+                "end": 592,
+                "word": "Cléon"
+            },
+            {
+                "start": 612,
+                "end": 613,
+                "word": "Cléon"
+            },
+            {
+                "start": 627,
+                "end": 628,
+                "word": "Demerzel"
+            },
+            {
+                "start": 655,
+                "end": 656,
+                "word": "Cléon"
+            },
+            {
+                "start": 695,
+                "end": 696,
+                "word": "Demerzel"
+            },
+            {
+                "start": 703,
+                "end": 704,
+                "word": "Demerzel"
+            },
+            {
+                "start": 706,
+                "end": 712,
+                "word": "l Empereur de toute la Galaxie"
+            },
+            {
+                "start": 722,
+                "end": 723,
+                "word": "Sire"
+            },
+            {
+                "start": 725,
+                "end": 726,
+                "word": "Demerzel"
+            },
+            {
+                "start": 743,
+                "end": 744,
+                "word": "Sire"
+            },
+            {
+                "start": 758,
+                "end": 759,
+                "word": "Mycogène"
+            },
+            {
+                "start": 780,
+                "end": 782,
+                "word": "l Empereur"
+            },
+            {
+                "start": 804,
+                "end": 805,
+                "word": "Mycogène"
+            },
+            {
+                "start": 836,
+                "end": 837,
+                "word": "Cléon"
+            },
+            {
+                "start": 846,
+                "end": 848,
+                "word": "le Maire"
+            },
+            {
+                "start": 849,
+                "end": 850,
+                "word": "Mycogène"
+            },
+            {
+                "start": 854,
+                "end": 857,
+                "word": "le Grand Ancien"
+            },
+            {
+                "start": 858,
+                "end": 859,
+                "word": "Sire"
+            },
+            {
+                "start": 868,
+                "end": 870,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 878,
+                "end": 879,
+                "word": "Sire"
+            },
+            {
+                "start": 885,
+                "end": 886,
+                "word": "Seldon"
+            },
+            {
+                "start": 911,
+                "end": 912,
+                "word": "Cléon"
+            },
+            {
+                "start": 923,
+                "end": 924,
+                "word": "Sire"
+            },
+            {
+                "start": 937,
+                "end": 938,
+                "word": "Maire"
+            },
+            {
+                "start": 939,
+                "end": 940,
+                "word": "Kan"
+            },
+            {
+                "start": 945,
+                "end": 946,
+                "word": "Sire"
+            },
+            {
+                "start": 956,
+                "end": 957,
+                "word": "Kan"
+            },
+            {
+                "start": 979,
+                "end": 980,
+                "word": "Empereur"
+            },
+            {
+                "start": 996,
+                "end": 997,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1041,
+                "end": 1042,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1051,
+                "end": 1053,
+                "word": "l Empereur"
+            },
+            {
+                "start": 1055,
+                "end": 1056,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1083,
+                "end": 1084,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1088,
+                "end": 1089,
+                "word": "Sire"
+            },
+            {
+                "start": 1102,
+                "end": 1103,
+                "word": "Kan"
+            },
+            {
+                "start": 1115,
+                "end": 1116,
+                "word": "Sire"
+            },
+            {
+                "start": 1140,
+                "end": 1142,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 1143,
+                "end": 1145,
+                "word": "Maître Hummin"
+            },
+            {
+                "start": 1178,
+                "end": 1179,
+                "word": "Seldon"
+            },
+            {
+                "start": 1185,
+                "end": 1186,
+                "word": "Hummin"
+            },
+            {
+                "start": 1193,
+                "end": 1194,
+                "word": "Dahl"
+            },
+            {
+                "start": 1195,
+                "end": 1196,
+                "word": "Seldon"
+            },
+            {
+                "start": 1222,
+                "end": 1224,
+                "word": "l Empire"
+            },
+            {
+                "start": 1280,
+                "end": 1282,
+                "word": "l Empereur"
+            },
+            {
+                "start": 1321,
+                "end": 1322,
+                "word": "Hummin"
+            },
+            {
+                "start": 1324,
+                "end": 1325,
+                "word": "Seldon"
+            },
+            {
+                "start": 1369,
+                "end": 1370,
+                "word": "Hummin"
+            },
+            {
+                "start": 1382,
+                "end": 1383,
+                "word": "Streeling"
+            },
+            {
+                "start": 1390,
+                "end": 1391,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1397,
+                "end": 1398,
+                "word": "Dahl"
+            },
+            {
+                "start": 1404,
+                "end": 1405,
+                "word": "Venabili"
+            },
+            {
+                "start": 1414,
+                "end": 1415,
+                "word": "Seldon"
+            },
+            {
+                "start": 1438,
+                "end": 1439,
+                "word": "Trantor"
+            },
+            {
+                "start": 1464,
+                "end": 1465,
+                "word": "Dors"
+            },
+            {
+                "start": 1506,
+                "end": 1507,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1553,
+                "end": 1554,
+                "word": "Dahl"
+            },
+            {
+                "start": 1589,
+                "end": 1591,
+                "word": "l Empereur"
+            },
+            {
+                "start": 1605,
+                "end": 1607,
+                "word": "les Tisalver"
+            },
+            {
+                "start": 1621,
+                "end": 1622,
+                "word": "Seldon"
+            },
+            {
+                "start": 1660,
+                "end": 1661,
+                "word": "Dors"
+            },
+            {
+                "start": 1663,
+                "end": 1664,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1703,
+                "end": 1704,
+                "word": "Seldon"
+            },
+            {
+                "start": 1873,
+                "end": 1874,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1921,
+                "end": 1923,
+                "word": "l Empereur"
+            },
+            {
+                "start": 1925,
+                "end": 1926,
+                "word": "Dors"
+            },
+            {
+                "start": 1959,
+                "end": 1960,
+                "word": "Hummin"
+            },
+            {
+                "start": 1999,
+                "end": 2003,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 2051,
+                "end": 2052,
+                "word": "Dahl"
+            },
+            {
+                "start": 2077,
+                "end": 2078,
+                "word": "Dors"
+            },
+            {
+                "start": 2106,
+                "end": 2107,
+                "word": "Seldon"
+            },
+            {
+                "start": 2110,
+                "end": 2111,
+                "word": "Trantor"
+            },
+            {
                 "start": 2120,
-                "end": 2129
+                "end": 2122,
+                "word": "Maîtresse Tisalver"
             },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 2416,
-                "end": 2422
+                "start": 2168,
+                "end": 2169,
+                "word": "Mycogène"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 2436,
-                "end": 2445
-            }
-        ]
-    },
-    "chunk_5": {
-        "chunk": "l’opération, devinerait qu’elle était en route et saurait, avec une habilité très supérieure, déclencher une révolution de palais. Cléon serait mort avant même que Demerzel puisse être jeté aux fers ; il y aurait juste un autre Empereur que Demerzel servirait – et dominerait. Ou bien se lasserait-il de ce jeu et se couronnerait-il lui- même Empereur ? Jamais ! L’habitude de l’anonymat était trop forte en lui. Si Demerzel se montrait à visage découvert, alors ses pouvoirs, sa sagacité ou sa chance",
-        "entities": [
+                "start": 2176,
+                "end": 2177,
+                "word": "Dors"
+            },
+            {
+                "start": 2210,
+                "end": 2211,
+                "word": "Seldon"
+            },
+            {
+                "start": 2227,
+                "end": 2228,
+                "word": "Seldon"
+            },
+            {
+                "start": 2229,
+                "end": 2231,
+                "word": "d Hélicon"
+            },
+            {
+                "start": 2233,
+                "end": 2235,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 2260,
+                "end": 2261,
+                "word": "Seldon"
+            },
+            {
+                "start": 2268,
+                "end": 2269,
+                "word": "Hari"
+            },
+            {
+                "start": 2271,
+                "end": 2272,
+                "word": "Seldon"
+            },
+            {
+                "start": 2319,
+                "end": 2320,
+                "word": "Trantor"
+            },
+            {
+                "start": 2321,
+                "end": 2322,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2349,
+                "end": 2350,
+                "word": "Jirad"
+            },
+            {
+                "start": 2363,
+                "end": 2364,
+                "word": "Casilia"
+            },
+            {
+                "start": 2376,
+                "end": 2378,
+                "word": "d Hélicon"
+            },
+            {
+                "start": 2379,
+                "end": 2381,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 2383,
+                "end": 2384,
+                "word": "Seldon"
+            },
+            {
+                "start": 2408,
+                "end": 2409,
+                "word": "Trantor"
+            },
+            {
+                "start": 2422,
+                "end": 2423,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2435,
+                "end": 2436,
+                "word": "Trantor"
+            },
+            {
+                "start": 2443,
+                "end": 2444,
+                "word": "Trantor"
+            },
+            {
+                "start": 2481,
+                "end": 2482,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2508,
+                "end": 2509,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2520,
+                "end": 2521,
+                "word": "Seldon"
+            },
+            {
+                "start": 2590,
+                "end": 2592,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 2612,
+                "end": 2613,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2637,
+                "end": 2639,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 2679,
+                "end": 2680,
+                "word": "Dahl"
+            },
+            {
+                "start": 2734,
+                "end": 2735,
+                "word": "Seldon"
+            },
+            {
+                "start": 2758,
+                "end": 2759,
+                "word": "Dahl"
+            },
+            {
+                "start": 2767,
+                "end": 2768,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2792,
+                "end": 2793,
+                "word": "Seldon"
+            },
+            {
+                "start": 2849,
+                "end": 2850,
+                "word": "Dahlite"
+            },
+            {
+                "start": 2902,
+                "end": 2903,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2942,
+                "end": 2944,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 2972,
+                "end": 2973,
+                "word": "Tisalver"
+            },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 2618,
-                "end": 2624
+                "start": 2987,
+                "end": 2989,
+                "word": "Hano Lindor"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 2651,
-                "end": 2660
+                "start": 2994,
+                "end": 2995,
+                "word": "Tisalver"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 2715,
-                "end": 2724
+                "start": 2996,
+                "end": 2997,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 2728,
-                "end": 2737
+                "start": 3049,
+                "end": 3050,
+                "word": "Lindor"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 2830,
-                "end": 2839
+                "start": 3077,
+                "end": 3078,
+                "word": "Dors"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 2903,
-                "end": 2912
-            }
-        ]
-    },
-    "chunk_6": {
-        "chunk": "– au choix – l’abandonneraient certainement. Cléon en était convaincu. Ça ne se discutait même pas. Ainsi, tant qu’il savait se tenir, Cléon était-il en sûreté. Tant qu’il serait dénué d’ambitions propres, Demerzel le servirait fidèlement. Et voici que l’homme se tenait devant lui, avec sa mise si simple et si sévère qu’elle rappelait douloureusement à Cléon les inutiles falbalas de sa tenue d’apparat – qu’il venait de retirer, Dieu merci, avec l’aide de deux domestiques. Bien sûr, c’était",
-        "entities": [
+                "start": 3103,
+                "end": 3104,
+                "word": "Seldon"
+            },
+            {
+                "start": 3159,
+                "end": 3160,
+                "word": "Dahl"
+            },
+            {
+                "start": 3221,
+                "end": 3222,
+                "word": "Tisalver"
+            },
+            {
+                "start": 3226,
+                "end": 3227,
+                "word": "Seldon"
+            },
+            {
+                "start": 3230,
+                "end": 3231,
+                "word": "Lindor"
+            },
+            {
+                "start": 3235,
+                "end": 3236,
+                "word": "Dors"
+            },
+            {
+                "start": 3246,
+                "end": 3247,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 3262,
+                "end": 3263,
+                "word": "Dors"
+            },
+            {
+                "start": 3280,
+                "end": 3281,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 3283,
+                "end": 3284,
+                "word": "Lindor"
+            },
+            {
+                "start": 3321,
+                "end": 3322,
+                "word": "Dors"
+            },
+            {
+                "start": 3350,
+                "end": 3351,
+                "word": "Dors"
+            },
+            {
+                "start": 3495,
+                "end": 3496,
+                "word": "Dors"
+            },
+            {
+                "start": 3498,
+                "end": 3499,
+                "word": "Seldon"
+            },
+            {
+                "start": 3504,
+                "end": 3505,
+                "word": "Hari"
+            },
+            {
+                "start": 3548,
+                "end": 3549,
+                "word": "Dors"
+            },
+            {
+                "start": 3586,
+                "end": 3587,
+                "word": "Dors"
+            },
+            {
+                "start": 3591,
+                "end": 3592,
+                "word": "Lindor"
+            },
+            {
+                "start": 3697,
+                "end": 3698,
+                "word": "Dahl"
+            },
+            {
+                "start": 3765,
+                "end": 3766,
+                "word": "Tisalver"
+            },
+            {
+                "start": 3806,
+                "end": 3807,
+                "word": "Tisalver"
+            },
+            {
+                "start": 3816,
+                "end": 3818,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3824,
+                "end": 3825,
+                "word": "Casilia"
+            },
+            {
+                "start": 3837,
+                "end": 3838,
+                "word": "Seldon"
+            },
+            {
+                "start": 3850,
+                "end": 3852,
+                "word": "Casilia Tisalver"
+            },
+            {
+                "start": 3884,
+                "end": 3885,
+                "word": "Seldon"
+            },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 3034,
-                "end": 3040
+                "start": 3898,
+                "end": 3900,
+                "word": "Maîtresse Tisalver"
             },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 3124,
-                "end": 3130
+                "start": 3913,
+                "end": 3914,
+                "word": "Jirad"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 3195,
-                "end": 3204
+                "start": 3922,
+                "end": 3924,
+                "word": "Maîtresse Tisalver"
             },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 3344,
-                "end": 3350
-            }
-        ]
-    },
-    "chunk_7": {
-        "chunk": "immanquablement quand il se retrouvait seul et en chemise que Demerzel choisissait de faire son apparition. « Demerzel, dit l’Empereur de toute la Galaxie, je suis las ! — Certaines fonctions sont lassantes, Sire, murmura Demerzel. — Alors, faut-il que je les endure tous les soirs ? — Moi non plus, Sire. Je comptais l’encourager à commettre quelque acte blasphématoire – c’est facile à Mycogène, surtout pour un étranger – qui aurait entraîné un châtiment sévère. Le mathématicien aurait été",
-        "entities": [
+                "start": 3967,
+                "end": 3969,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 3974,
+                "end": 3975,
+                "word": "Hari"
+            },
+            {
+                "start": 3982,
+                "end": 3984,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 3988,
+                "end": 3989,
+                "word": "Seldon"
+            },
+            {
+                "start": 4029,
+                "end": 4030,
+                "word": "Seldon"
+            },
+            {
+                "start": 4034,
+                "end": 4036,
+                "word": "Maîtresse Tisalver"
+            },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 3546,
-                "end": 3555
+                "start": 4108,
+                "end": 4109,
+                "word": "Dahl"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 3594,
-                "end": 3603
+                "start": 4151,
+                "end": 4154,
+                "word": "Grimace de Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur de toute la Galaxie",
-                "start": 3611,
-                "end": 3639
+                "start": 4216,
+                "end": 4221,
+                "word": "Goutte de Pluie Quarante trois"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 3692,
-                "end": 3697
+                "start": 4274,
+                "end": 4275,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 3706,
-                "end": 3715
+                "start": 4339,
+                "end": 4340,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 3784,
-                "end": 3789
-            }
-        ]
-    },
-    "chunk_8": {
-        "chunk": "contraint d’en appeler à l’Empereur et nous n’avions plus qu’à le cueillir. Tout ceci au prix de concessions insignifiantes de notre part – importantes pour Mycogène mais dérisoires pour nous –, et j’avais prévu de ne jouer aucun rôle direct dans la tractation. L’affaire devait être menée subtilement. — J’entends bien, dit Cléon, mais elle a échoué. Est-ce que le Maire de Mycogène... — On l’appelle le Grand Ancien, Sire. — Ne chicanez pas sur les titres. Le Grand Ancien a-t-il refusé ? — Au",
-        "entities": [
+                "start": 4354,
+                "end": 4355,
+                "word": "Dors"
+            },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 4006,
-                "end": 4014
+                "start": 4392,
+                "end": 4393,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Mycogène",
-                "start": 4135,
-                "end": 4144
+                "start": 4394,
+                "end": 4395,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 4303,
-                "end": 4309
+                "start": 4421,
+                "end": 4422,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Maire",
-                "start": 4344,
-                "end": 4350
+                "start": 4468,
+                "end": 4469,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "My",
-                "start": 4353,
-                "end": 4356
+                "start": 4500,
+                "end": 4501,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Grand Ancien",
-                "start": 4383,
-                "end": 4396
+                "start": 4546,
+                "end": 4547,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 4397,
-                "end": 4402
+                "start": 4652,
+                "end": 4653,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Grand Ancien",
-                "start": 4440,
-                "end": 4453
-            }
-        ]
-    },
-    "chunk_9": {
-        "chunk": "contraire, Sire, il était d’accord et Seldon, le mathématicien, est bien tombé dans le piège. — Alors ? — Il a pu s’en sortir sans encombre. — Pourquoi ? » Cléon était indigné. « Je n’en suis pas certain, Sire, mais je soupçonne qu’on nous a doublés. — Qui ? Le Maire de Kan ? — C’est possible, Sire, mais j’en doute. J’ai fait placer Kan sous surveillance. S’ils avaient récupéré le mathématicien, je le saurais à l’heure qu’il est. » L’Empereur ne se contentait plus de froncer les sourcils. Il",
-        "entities": [
+                "start": 4663,
+                "end": 4664,
+                "word": "Amaryl"
+            },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 4485,
-                "end": 4490
+                "start": 4677,
+                "end": 4678,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 4512,
-                "end": 4519
+                "start": 4751,
+                "end": 4752,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Cléon",
-                "start": 4630,
-                "end": 4636
+                "start": 4756,
+                "end": 4757,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 4679,
-                "end": 4684
+                "start": 4786,
+                "end": 4787,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 4769,
-                "end": 4774
+                "start": 4804,
+                "end": 4805,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 4913,
-                "end": 4921
-            }
-        ]
-    },
-    "chunk_10": {
-        "chunk": "enrageait pour de bon. « Demerzel, ça ne va pas du tout. Je suis fort mécontent. Un échec de cet ordre m’amène à me demander si par hasard vous auriez cessé d’être l’homme que vous étiez naguère. Quelles mesures allons-nous prendre contre Mycogène après ce refus manifeste d’accéder aux désirs de l’Empereur ? » Demerzel courba l’échine, laissant passer l’orage, mais c’est d’un ton inflexible qu’il répondit : « Ce serait une erreur d’agir contre Mycogène pour l’instant, Sire. Nous causerions une",
-        "entities": [
+                "start": 4816,
+                "end": 4819,
+                "word": "d Anat Bigell"
+            },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 4996,
-                "end": 5005
+                "start": 4905,
+                "end": 4906,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Mycogène",
-                "start": 5210,
-                "end": 5219
+                "start": 4909,
+                "end": 4910,
+                "word": "Dors"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 5271,
-                "end": 5279
+                "start": 4932,
+                "end": 4933,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 5283,
-                "end": 5292
+                "start": 5125,
+                "end": 5126,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Mycogène",
-                "start": 5419,
-                "end": 5428
+                "start": 5140,
+                "end": 5142,
+                "word": "Maître Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 5444,
-                "end": 5449
-            }
-        ]
-    },
-    "chunk_11": {
-        "chunk": "rupture d’équilibre, qui jouerait en faveur de Kan. — Mais nous devons faire quelque chose. — Peut-être pas, Sire. La situation n’est pas aussi mauvaise qu’il n’y paraît. — Comment cela ? — Ce n’est pas un fardeau, Maître Seldon. Maître Hummin a fait en sorte de nous payer généreusement pour l’utilisation de notre humble demeure ; ces crédits seraient les bienvenus même si vous ne l’étiez pas – et vous l’êtes. Seldon se souvint des derniers mots de Hummin en le quittant après l’arrivée à Dahl : «",
-        "entities": [
+                "start": 5148,
+                "end": 5149,
+                "word": "Trantor"
+            },
             {
-                "entity_group": "PER",
-                "word": "Kan",
-                "start": 5517,
-                "end": 5521
+                "start": 5204,
+                "end": 5205,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Sire",
-                "start": 5579,
-                "end": 5584
+                "start": 5241,
+                "end": 5242,
+                "word": "Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "Maître Seldon",
-                "start": 5685,
-                "end": 5699
+                "start": 5275,
+                "end": 5276,
+                "word": "Dahl"
             },
             {
-                "entity_group": "PER",
-                "word": "Maître Hummin",
-                "start": 5700,
-                "end": 5714
+                "start": 5292,
+                "end": 5293,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 5884,
-                "end": 5891
+                "start": 5296,
+                "end": 5297,
+                "word": "Dors"
             },
             {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 5923,
-                "end": 5930
-            }
-        ]
-    },
-    "chunk_12": {
-        "chunk": "Seldon, avait-il dit, voici le troisième sanctuaire que je vous ai trouvé. Les deux premiers étaient notoirement hors d’atteinte des forces de l’Empire, ce qui a fort bien pu attirer leur attention ; après tout, c’étaient des refuges logiques pour vous. Celui-ci est différent. C’est un secteur pauvre, quelconque, et à vrai dire peu sûr par certains côtés. C’est tout le contraire d’un refuge naturel, et l’Empereur et son chef d’état-major n’auront peut-être pas l’idée de regarder par là. Alors,",
-        "entities": [
+                "start": 5308,
+                "end": 5309,
+                "word": "Amaryl"
+            },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 5973,
-                "end": 5979
+                "start": 5397,
+                "end": 5398,
+                "word": "Dors"
             },
             {
-                "entity_group": "PER",
-                "word": "Empire",
-                "start": 6118,
-                "end": 6124
+                "start": 5413,
+                "end": 5414,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 6381,
-                "end": 6389
-            }
-        ]
-    },
-    "chunk_13": {
-        "chunk": "est-ce que ça vous dérangerait d’éviter les ennuis, cette fois-ci ? — Je vais essayer, Hummin, dit Seldon, un peu vexé. Soyez assuré que je ne cherche pas délibérément les ennuis. J’essaie d’apprendre ce qui me prendra peut-être trente existences si je veux avoir la moindre chance d’ordonner la psychohistoire. — Je comprends, dit Hummin. Vos efforts d’apprentissage vous ont conduit sur la Couverture de Streeling et dans l’aire des Anciens de Mycogène, et Dieu sait où à Dahl. Quant à vous, docteur",
-        "entities": [
+                "start": 5536,
+                "end": 5537,
+                "word": "Amaryl"
+            },
             {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 6558,
-                "end": 6565
+                "start": 5568,
+                "end": 5570,
+                "word": "Mère Rittah"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 6570,
-                "end": 6577
+                "start": 5609,
+                "end": 5611,
+                "word": "Mère Rittah"
             },
             {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 6803,
-                "end": 6810
-            },
-            {
-                "entity_group": "PER",
-                "word": "Streeling",
-                "start": 6877,
-                "end": 6887
-            },
-            {
-                "entity_group": "PER",
-                "word": "Mycogène",
-                "start": 6917,
-                "end": 6926
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 6945,
-                "end": 6950
-            }
-        ]
-    },
-    "chunk_14": {
-        "chunk": "Venabili, je sais que vous avez essayé de protéger Seldon, mais vous devez redoubler d’efforts. Mettez-vous bien dans la tête qu’il est le personnage le plus important de Trantor – sinon de la Galaxie entière – et que sa sécurité doit être assurée à tout prix. — Je continuerai à faire de mon mieux, répondit Dors, crispée. — Quant à votre famille d’accueil, ils ont leurs particularités mais ce sont essentiellement de braves gens à qui j’ai déjà eu affaire. Essayez de ne pas leur attirer d’ennuis",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Venabili",
-                "start": 6974,
-                "end": 6982
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 7024,
-                "end": 7031
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 7282,
-                "end": 7287
-            }
-        ]
-    },
-    "chunk_15": {
-        "chunk": "non plus. » Tisalver, en tout cas, ne semblait pas s’attendre à des ennuis de la part de ses nouveaux locataires ; et le plaisir qu’il manifestait en leur compagnie – indépendamment du loyer qu’il touchait – semblait parfaitement sincère. Il n’était jamais sorti de Dahl et son appétit pour les récits sur les contrées lointaines était gigantesque. Sa femme aussi, tout en courbettes et en sourires, avait coutume de les écouter quand celui-ci remarqua négligemment que l’Empereur parlait et se",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 7485,
-                "end": 7494
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 7739,
-                "end": 7744
-            },
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 7946,
-                "end": 7954
-            }
-        ]
-    },
-    "chunk_16": {
-        "chunk": "comportait tout à fait comme le commun des mortels. Pour les Tisalver, la chose paraissait totalement impossible. Après trois soirées de ce régime, Seldon commença à se lasser. Il avait, au début, goûté cette occasion de ne rien faire pour quelque temps (au moins durant la journée), sinon visionner quelques-uns des vidéo-livres d’histoire recommandés par Dors. Les Tisalver leur prêtaient de bonne grâce leur lecteur pendant la journée, au vif mécontentement de la petite qu’on envoyait faire ses",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 8116,
-                "end": 8123
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 8325,
-                "end": 8330
-            }
-        ]
-    },
-    "chunk_17": {
-        "chunk": "devoirs chez une voisine. « Ça ne sert à rien », répéta pour la énième fois Seldon, dès qu’ils eurent retrouvé la sécurité de leur chambre (et après avoir mis un fond sonore musical pour décourager les oreilles indiscrètes). « Je comprends votre fascination pour l’histoire, mais ce ne sont que des détails à l’infini. Je me retrouve avec une montagne – non, un amas galactique – de données dont je suis incapable de discerner l’organisation de base. — Admettez qu’il a bien dû exister un temps où",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 8543,
-                "end": 8550
-            }
-        ]
-    },
-    "chunk_18": {
-        "chunk": "l’homme ne voyait aucune organisation dans les étoiles du ciel, et l’on a bien fini pourtant par découvrir la structure galactique. — Et je peux vous dire que ça a pris des générations, et non quelques semaines. Il fut aussi un temps où la physique n’était qu’une masse d’observations sans relations entre elles avant que l’on découvre les lois fondamentales de la nature, et cela aussi, ça a pris des générations. Au fait, que pensez-vous des Tisalver ? — Ce que j’en pense ? Qu’ils sont très",
-        "entities": []
-    },
-    "chunk_19": {
-        "chunk": "gentils. — Ils sont curieux. — Évidemment. Vous ne le seriez pas, à leur place ? — Mais n’est-ce que de la curiosité ? Ils me semblent férocement passionnés par ma rencontre avec l’Empereur. » Dors marqua son impatience : « Encore une fois, ce n’est que naturel. Ne le seriez-vous pas... si la situation était inversée ? — Ça me rend nerveux. — C’est Hummin qui nous a amenés ici. — Certes, mais il n’est pas parfait. Il m’a amené à l’Université et l’on m’y a attiré sur la Couverture. Il nous a",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 9641,
-                "end": 9649
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 9652,
-                "end": 9657
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 9810,
-                "end": 9817
-            }
-        ]
-    },
-    "chunk_20": {
-        "chunk": "conduits auprès de Maître-du-Soleil Quatorze qui nous a pris au piège. Vous le savez aussi bien que moi. Chat échaudé... Je suis las des interrogatoires. moitié, provient des puits thermiques. Il y en a un peu partout mais aucun – aucun – n’est aussi riche que ceux de Dahl. Vous êtes sérieux quand vous dites que vous n’étiez pas au courant ? Vous restez planté là, l’air ahuri... » Dors s’empressa d’intervenir : « Nous sommes des Exos. » Elle avait failli dire des barbares mais s’était reprise à",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Maître-du-Soleil Quatorze",
-                "start": 9974,
-                "end": 10000
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 10224,
-                "end": 10229
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 10339,
-                "end": 10344
-            }
-        ]
-    },
-    "chunk_21": {
-        "chunk": "temps. « Et le docteur Seldon n’est sur Trantor que depuis deux mois. — Vraiment ? » dit Maîtresse Tisalver. Elle était un peu plus petite que son mari, dodue sans être tout à fait grasse, avec des cheveux bruns tirés en chignon et de superbes yeux noirs. Comme son époux, elle avait apparemment la trentaine. (Après son séjour à Mycogène, assez court mais combien marquant, Dors était toute surprise de voir une femme intervenir dans la conversation. Comme on se fait vite aux mœurs locales,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 10478,
-                "end": 10485
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 10544,
-                "end": 10563
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 10830,
-                "end": 10835
-            }
-        ]
-    },
-    "chunk_22": {
-        "chunk": "songea-t-elle, et elle se promit de le signaler à Seldon : encore un point pour sa psychohistoire). « Eh oui, dit-elle. Le docteur Seldon vient d’Hélicon. » Maîtresse Tisalver marqua son ignorance polie. « Et où cela se trouve-t-il ? — Eh bien, c’est... » Elle se tourna vers Seldon : « Où est-ce au juste, Hari ? » Seldon parut pris de court. « Pour vous dire la vérité, je ne crois pas que je serais capable de la localiser facilement sur un modèle galactique sans vérifier les coordonnées. Tout ce",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 10998,
-                "end": 11005
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 11079,
-                "end": 11086
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 11105,
-                "end": 11124
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 11224,
-                "end": 11231
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 11264,
-                "end": 11271
-            }
-        ]
-    },
-    "chunk_23": {
-        "chunk": "que je peux dire, c’est que, par rapport à Trantor, Hélicon est située de l’autre côté du trou noir central, et que le trajet en hypernef est interminable. — Je n’ai pas l’impression que Jirad ou moi monterons jamais à bord d’une hypernef... — Un jour, Casilia, dit son mari pour la réconforter. Mais parlez-nous donc d’Hélicon, Maître Seldon. » Seldon hocha la tête. « Pour moi, c’est sans intérêt. Ce n’est jamais qu’une planète comme une autre. Trantor seule est singulière. Il n’y a pas de puits",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Jirad",
-                "start": 11636,
-                "end": 11642
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maître Seldon",
-                "start": 11778,
-                "end": 11792
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 11795,
-                "end": 11802
-            }
-        ]
-    },
-    "chunk_24": {
-        "chunk": "thermiques sur Hélicon – ni sans doute ailleurs. Il n’y en a qu’à Trantor. Parlez-m’en. » (« Trantor seule est singulière. » La phrase résonna dans son esprit et, durant quelques instants, il s’y raccrocha, tandis que l’anecdote de la main sur la cuisse lui revenait soudain, mais Tisalver avait pris la parole et le souvenir s’envola aussi vite qu’il était venu.) « Il va vous falloir des vêtements adéquats », dit Tisalver. Derrière lui, sa femme ricana dédaigneusement. Prudent, Seldon qui",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Hélicon",
-                "start": 11964,
-                "end": 11972
-            },
-            {
-                "entity_group": "PER",
-                "word": "Trantor",
-                "start": 12015,
-                "end": 12023
-            },
-            {
-                "entity_group": "PER",
-                "word": "Trantor",
-                "start": 12042,
-                "end": 12050
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 12230,
-                "end": 12239
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 12365,
-                "end": 12374
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 12431,
-                "end": 12438
-            }
-        ]
-    },
-    "chunk_25": {
-        "chunk": "imaginait déjà une quelconque tunique, demanda : « Que voulez-vous dire par vêtements adéquats ? — Quelque chose de léger, comme ce que je porte. Un maillot à manches très courtes, un pantalon ample, un slip lâche, des socquettes, des sandales ouvertes. J’ai tout ce qu’il vous faut. — Parfait. Ça me paraît très bien. — Et pour Maîtresse Venabili, j’ai la même chose. J’espère que ça lui ira. » Les habits que leur prêta Tisalver (et qui étaient les siens) leur allaient très bien, quoique un peu",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Venabili",
-                "start": 12771,
-                "end": 12790
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 12864,
-                "end": 12873
-            }
-        ]
-    },
-    "chunk_26": {
-        "chunk": "courts. Quand ils furent prêts, ils prirent congé de Maîtresse Tisalver et celle-ci, l’air résigné mais toujours désapprobateur, les regarda partir sur le seuil de sa porte. On était en début de soirée et une jolie lueur crépusculaire illuminait encore le ciel. Les lumières de Dahl n’allaient pas tarder à s’allumer. La température était douce et l’on ne voyait quasiment aucun véhicule ; tout le monde marchait. On entendait dans le lointain le grondement omniprésent du réseau express et par",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 12993,
-                "end": 13012
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 13218,
-                "end": 13223
-            }
-        ]
-    },
-    "chunk_27": {
-        "chunk": "moments on distinguait sans peine le scintillement de ses voitures. Les Dahlites, remarqua Seldon, semblaient marcher sans but précis. On avait plutôt l’impression qu’ils flânaient pour le plaisir. Peut-être, si Dahl était aussi pauvre que l’avait laissé entendre Tisalver, les distractions peu coûteuses étaient-elles de mise, et quoi de plus agréable (et de plus économique) qu’une promenade vespérale ? Seldon se surprit à adopter machinalement la démarche tranquille du promeneur, soudain gagné",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 13526,
-                "end": 13533
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 13647,
-                "end": 13652
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 13699,
-                "end": 13708
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 13841,
-                "end": 13848
-            }
-        ]
-    },
-    "chunk_28": {
-        "chunk": "par l’atmosphère d’amitié ambiante. En se croisant, les gens se saluaient et échangeaient quelques mots. Les moustaches noires de toutes tailles et de toutes épaisseurs fleurissaient à l’envi (c’était apparemment l’ornement de rigueur pour tout Dahlite mâle), aussi communes que les crânes lisses des Frères mycogéniens. — On l’utilise, mais c’est une question de coût. On ventile, on rafraîchit, on assèche, mais si on va trop loin on dépense trop d’énergie et le processus devient trop coûteux. »",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dahlite",
-                "start": 14179,
-                "end": 14187
-            },
-            {
-                "entity_group": "PER",
-                "word": "cogéniens",
-                "start": 14245,
-                "end": 14254
-            }
-        ]
-    },
-    "chunk_29": {
-        "chunk": "Tisalver s’arrêta devant une porte où il s’annonça. Le battant s’ouvrit, livrant passage à un brusque courant d’air froid : « On devrait trouver ici quelqu’un pour nous guider – et surveiller les remarques dont Maîtresse Venabili risque d’être la cible... du moins de la part des hommes. — Oh, les remarques ne me gêneront pas. — Moi, si », fit Tisalver. Un jeune homme sortit du bureau et se présenta sous le nom de Hano Lindor. Il ressemblait beaucoup à Tisalver mais Seldon estima que, tant qu’il",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 14434,
-                "end": 14442
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Venabili",
-                "start": 14644,
-                "end": 14663
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 14778,
-                "end": 14787
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hano Lindor",
-                "start": 14850,
-                "end": 14862
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 14889,
-                "end": 14898
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 14903,
-                "end": 14910
-            }
-        ]
-    },
-    "chunk_30": {
-        "chunk": "ne se serait pas accoutumé à ces nuées de petits bruns basanés aux moustaches luxuriantes, il serait incapable de les distinguer les uns des autres. « Je serai ravi de vous faire visiter tout ce qu’il y a à voir, leur dit Lindor. Ce n’est pas que ce soit particulièrement spectaculaire, vous savez. » Il s’adressait à eux trois mais ses yeux restaient fixés sur Dors. Il ajouta : « Ça risque d’être pénible. Je suggère que nous ôtions nos chemises. — Il fait agréablement frais ici, observa Seldon. —",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Lindor",
-                "start": 15155,
-                "end": 15162
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 15295,
-                "end": 15300
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 15424,
-                "end": 15431
-            }
-        ]
-    },
-    "chunk_31": {
-        "chunk": "Bien sûr, mais c’est parce que nous sommes des cadres. Le privilège du rang... Hors du bureau, on ne peut pas maintenir la climatisation à ce niveau. Les gens qui travaillent là sont mieux payés que moi. En fait, ces boulots sont les mieux payés de Dahl, et c’est l’unique raison qui fait qu’on trouve du monde pour bosser ici. Mais il devient de plus en plus difficile de trouver des puisatiers. » Il inspira un bon coup. « Bon, on plonge dans la soupe. » Il retira sa chemise et se l’attacha autour",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 15683,
-                "end": 15688
-            }
-        ]
-    },
-    "chunk_32": {
-        "chunk": "de la taille. Tisalver fit de même et Seldon les imita. Lindor jeta un œil à Dors et dit : « C’est pour votre confort personnel, Maîtresse, mais ce n’est pas une obligation. — Pas de problème, » et Dors retira son chemisier. Son soutien-gorge était blanc, sans renforts et extrêmement décolleté. « Maîtresse, dit Lindor, ce n’est pas... » Il réfléchit une seconde, puis haussa les épaules et conclut : « Bon, très bien. On fera avec. » — Qu’est-ce qu’ils boivent ? demanda Dors. — Des boissons",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 15949,
-                "end": 15958
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 15973,
-                "end": 15980
-            },
-            {
-                "entity_group": "PER",
-                "word": "Lindor",
-                "start": 15991,
-                "end": 15998
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 16012,
-                "end": 16017
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse",
-                "start": 16064,
-                "end": 16074
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 16133,
-                "end": 16138
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse",
-                "start": 16233,
-                "end": 16243
-            },
-            {
-                "entity_group": "PER",
-                "word": "Lindor",
-                "start": 16248,
-                "end": 16255
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 16408,
-                "end": 16413
-            }
-        ]
-    },
-    "chunk_33": {
-        "chunk": "spéciales pour compenser les pertes en électrolyte. Des jus de fruits. — Vous ne pouvez quand même pas le leur reprocher ! s’indigna Dors. Dans cette chaleur sèche, il faut bien se réhydrater. — Savez-vous combien de temps un C-3 bien entraîné peut faire traîner sa pause-boisson ? Et on ne peut rien y faire. Si on leur accorde une pause de cinq minutes et qu’on étale leurs horaires pour leur éviter de se réunir, c’est la révolte. » Ils approchaient du petit groupe d’hommes et de femmes (l’égalité",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 16562,
-                "end": 16567
-            }
-        ]
-    },
-    "chunk_34": {
-        "chunk": "des sexes paraissait plus ou moins la règle dans la société dahlite) et les uns comme les autres étaient en chemise. Les femmes portaient des sous-vêtements apparentés à des soutiens-gorge mais conçus de manière strictement fonctionnelle : s’ils servaient à soulever et à séparer les seins pour améliorer la ventilation et limiter la transpiration, ils n’en masquaient rien. En aparté, Dors confia à Seldon : « C’est logique, Hari. Je suis trempée, là-dedans. — Eh bien, ôtez votre soutien-gorge. Ce",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17317,
-                "end": 17322
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 17331,
-                "end": 17338
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 17357,
-                "end": 17362
-            }
-        ]
-    },
-    "chunk_35": {
-        "chunk": "n’est pas moi qui lèverai le petit doigt pour vous en empêcher. — Je ne sais pas pourquoi mais je m’en doutais », répondit Dors qui laissa son soutien-gorge où il était. Ils arrivèrent près du groupe qui comprenait une douzaine de personnes. « Si l’un d’eux fait une remarque grossière, j’y survivrai, avertit Dors. — Merci, dit Lindor. Je ne vous promets pas qu’ils s’en abstiendront... Mais il va falloir que je vous présente. S’ils se mettent dans la tête que j’accompagne deux inspecteurs, ils",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17554,
-                "end": 17559
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17741,
-                "end": 17746
-            },
-            {
-                "entity_group": "PER",
-                "word": "Lindor",
-                "start": 17760,
-                "end": 17767
-            }
-        ]
-    },
-    "chunk_36": {
-        "chunk": "risquent de devenir nerveux. Les inspecteurs sont censés fouiner tout seuls, sans représentants de la direction pour les surveiller. » Il leva les bras. « Puisatiers, j’ai deux personnes à vous présenter. Voici des visiteurs du dehors – des Exos, des chercheurs. Sur leur monde, ils ont une pénurie d’énergie et ils sont venus voir comment on se débrouille à Dahl. Ils pensent pouvoir apprendre quelque chose. L’intéressé n’avait pas l’air enchanté. « Je n’en vois pas l’utilité. Ce n’est qu’un",
-        "entities": []
-    },
-    "chunk_37": {
-        "chunk": "puisatier. — Il m’a reconnu. Il sait quelque chose à mon sujet. Ce n’est sûrement pas n’importe qui. Je le recevrai dans ma chambre. » Puis, voyant que Tisalver ne faisait pas mine de se radoucir, il ajouta : « Ma chambre personnelle, pour laquelle on vous verse un loyer. Et vous serez alors au travail, hors de l’appartement. » A voix basse, Tisalver expliqua : « Ce n’est pas pour moi, Maître Seldon. C’est ma femme, Casilia. Elle ne le supportera pas. — Je lui parlerai, dit Seldon, résolu. Il",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 18576,
-                "end": 18585
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 18768,
-                "end": 18777
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maître Seldon",
-                "start": 18813,
-                "end": 18827
-            },
-            {
-                "entity_group": "PER",
-                "word": "Casilia",
-                "start": 18844,
-                "end": 18852
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 18903,
-                "end": 18910
-            }
-        ]
-    },
-    "chunk_38": {
-        "chunk": "faudra bien qu’elle le supporte. » Casilia Tisalver ouvrit tout grand les yeux : « Un puisatier thermique ? Pas dans mon appartement. — Pourquoi pas ? D’ailleurs, c’est dans ma chambre qu’il va venir, précisa Seldon. A quatorze heures. — Il n’en est pas question, dit Maîtresse Tisalver. Voilà ce qui arrive quand on descend dans les puits thermiques. Jirad est un idiot. — Pas du tout, Maîtresse Tisalver. Nous sommes descendus sur ma demande et la visite m’a fasciné. Je dois absolument voir ce",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Casilia Tisalver",
-                "start": 18957,
-                "end": 18974
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 19131,
-                "end": 19138
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 19190,
-                "end": 19209
-            },
-            {
-                "entity_group": "PER",
-                "word": "Jirad",
-                "start": 19274,
-                "end": 19280
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 19309,
-                "end": 19328
-            }
-        ]
-    },
-    "chunk_39": {
-        "chunk": "jeune homme, c’est nécessaire pour mes travaux de recherche. — Je suis désolée mais il n’en est pas question. » Dors Venabili leva la main. « Hari, laissez-moi m’en occuper. Maîtresse Tisalver, si le docteur Seldon doit recevoir quelqu’un dans sa chambre cet après-midi, cette personne supplémentaire signifie naturellement un complément de loyer. Nous le comprenons parfaitement. Nous dirons donc que pour aujourd’hui le loyer de la chambre du docteur Seldon sera doublé. » Maîtresse Tisalver",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors Venabili",
-                "start": 19531,
-                "end": 19545
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 19561,
-                "end": 19566
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 19593,
-                "end": 19612
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 19627,
-                "end": 19634
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 19872,
-                "end": 19879
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 19894,
-                "end": 19913
-            }
-        ]
-    },
-    "chunk_40": {
-        "chunk": "réfléchit à la question. « Eh bien, c’est aimable de votre part, mais tout ça, ce ne sont que des crédits. Il faut songer aux voisins. Un puisatier suant, puant... ― psychohistoire ‖. Tout cela m’a paru inhabituel, littéralement déplacé, et j’aimerais lui parler. — Parce que ça flatte votre vanité d’être devenu célèbre jusque chez les puisatiers de Dahl ? — Eh bien... peut-être. Mais ça pique également ma curiosité. — Et comment savez-vous qu’il n’a pas reçu d’instructions et ne compte pas vous",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 20264,
-                "end": 20269
-            }
-        ]
-    },
-    "chunk_41": {
-        "chunk": "attirer dans un piège comme c’est déjà arrivé ? » Grimace de Seldon. « Je ne le laisserai pas me passer la main dans les cheveux. En tout cas, nous sommes mieux préparés désormais, non ? Et je suis sûr que vous serez à mes côtés. Je veux dire, vous m’avez laissé monter sur la Couverture tout seul, vous m’avez laissé visiter les microfermes seul avec Goutte-de-Pluie Quarante-trois, et vous n’allez certainement pas recommencer, n’est-ce pas ? — Vous pouvez en être absolument certain. — Eh bien,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Grimace de Seldon",
-                "start": 20463,
-                "end": 20481
-            },
-            {
-                "entity_group": "PER",
-                "word": "Goutte-de-Pluie Quarante-trois",
-                "start": 20765,
-                "end": 20796
-            }
-        ]
-    },
-    "chunk_42": {
-        "chunk": "dans ce cas, je m’en vais parler à ce jeune homme et vous pourrez toujours guetter les pièges éventuels. J’ai toute confiance en vous. Amaryl arriva peu avant quatorze heures, l’air méfiant. Il était bien coiffé et son épaisse moustache était peignée et légèrement retroussée aux extrémités. Son tee-shirt était d’un blanc éclatant. Il sentait, certes, mais c’était une odeur fruitée due à un léger excès d’enthousiasme dans l’usage du parfum. Il portait un paquet. Seldon, qui l’avait attendu dehors,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 21046,
-                "end": 21053
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 21377,
-                "end": 21384
-            }
-        ]
-    },
-    "chunk_43": {
-        "chunk": "le prit doucement par un coude, Dors fit de même de l’autre côté, et tous trois gagnèrent rapidement l’ascenseur. Une fois arrivés à l’étage, ils gagnèrent l’appartement et le traversèrent pour se rendre dans la chambre de Seldon. Amaryl nota aussitôt, d’une voix sourde de chien battu : « Personne à la maison, hein ? — Tout le monde est au boulot », répondit Seldon d’un ton neutre. Il lui indiqua l’unique siège de la chambre, un coussin posé à même le sol. qu’elle me considérait comme une espèce",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 21445,
-                "end": 21450
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 21636,
-                "end": 21643
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 21644,
-                "end": 21651
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 21774,
-                "end": 21781
-            }
-        ]
-    },
-    "chunk_44": {
-        "chunk": "de fils. Elle n’avait pas d’enfant. » (Peut-être, songea fugitivement Seldon, une autre émotion avait-elle également joué, mais il écarta cette idée. Ça ne le regardait pas.) « J’aimais bien la théorie des nombres, poursuivit Amaryl. J’ai élaboré plusieurs choses à partir de ce que j’ai appris par l’ordinateur et les vidéo-livres qui servaient à m’enseigner les mathématiques. J’ai débouché sur quelques trucs nouveaux qui n’étaient pas dans les vidéos. » Seldon haussa les sourcils. « C’est",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 21984,
-                "end": 21991
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 22140,
-                "end": 22147
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 22372,
-                "end": 22379
-            }
-        ]
-    },
-    "chunk_45": {
-        "chunk": "intéressant. Dans quel genre ? — Je vous en ai apporté quelques-uns. Je ne les ai encore montrés à personne. Les gens autour de moi... » (Il haussa les épaules.) « Ou ils rigolent, ou ça les ennuie. Une fois, j’ai même essayé d’en parler à une fille que je connaissais, mais elle a juste dit que j’étais bizarre et n’a plus voulu me revoir. Ça ne vous dérange pas que je vous les montre ? — Pas du tout, croyez-moi. » Seldon tendit la main et, après une brève hésitation, Amaryl lui donna le sac qu’il",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 22826,
-                "end": 22833
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 22880,
-                "end": 22887
-            }
-        ]
-    },
-    "chunk_46": {
-        "chunk": "portait. Durant un long moment, Seldon examina les papiers qu’il contenait. Le travail était naïf à l’extrême, mais il ne se permit pas un sourire. Il suivit les démonstrations – dont aucune n’était nouvelle, bien sûr, ni même particulièrement récente, ou d’une quelconque importance. Mais là n’était pas le problème. Il leva la tête : « Vous avez fait tout cela tout seul ? » Passablement effrayé, Amaryl hocha la tête. Seldon sélectionna deux ou trois feuillets. « Qu’est-ce qui vous a donné l’idée",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 22942,
-                "end": 22949
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 23309,
-                "end": 23316
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 23331,
-                "end": 23338
-            }
-        ]
-    },
-    "chunk_47": {
-        "chunk": "de ça ? » Son doigt parcourut une suite de déductions mathématiques. Amaryl examina la démonstration, fronça les sourcils, réfléchit. Puis il lui expliqua sa démarche. Seldon l’écouta et lui demanda s’il avait lu un ouvrage d’Anat Bigell. « Sur la théorie des nombres ? — Le titre en est Déduction mathématique. Il ne traite pas spécialement de la théorie des nombres. » — Vous pouvez toujours la ras... » mais le regard furieux de l’autre le fit taire. « Jamais. Et pourquoi, d’abord ? Ma moustache,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 23480,
-                "end": 23487
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 23579,
-                "end": 23586
-            },
-            {
-                "entity_group": "PER",
-                "word": "Anat Bigell",
-                "start": 23638,
-                "end": 23649
-            }
-        ]
-    },
-    "chunk_48": {
-        "chunk": "c’est ma virilité. — Vous rasez bien votre barbe. C’est également un signe de virilité. — Pour mon peuple, c’est la moustache. » Seldon consulta de nouveau Dors du regard et murmura : « Des chauves, des moustachus... ils sont fous, ces Trantoriens. — Quoi ? s’emporta Amaryl. — Rien. Dites-moi encore ce qu’ils n’aiment pas chez les Dahlites. — Ils inventent des prétextes. Ils disent qu’on pue. Qu’on est sales. Qu’on est voleurs. Violents. Ils disent qu’on est bêtes. — Pourquoi racontent-ils tout",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 24041,
-                "end": 24048
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 24068,
-                "end": 24073
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 24180,
-                "end": 24187
-            }
-        ]
-    },
-    "chunk_49": {
-        "chunk": "ça ? — Parce que c’est facile à dire et que ça les rassure. Évidemment, quand on travaille aux puits thermiques, on se salit et on sent mauvais. Quand les gens sont pauvres et maintenus délibérément dans cet état, certains peuvent prendre l’habitude du vol et de la violence. Mais ce n’est pas une règle générale. Et tous ces grands blonds du secteur impérial qui s’imaginent posséder la Galaxie – non, qui possèdent réellement la Galaxie. Eux alors, ils ne sont jamais violents ? Ils ne volent pas,",
-        "entities": []
-    },
-    "chunk_50": {
-        "chunk": "des fois ? S’ils faisaient mon boulot, ils sentiraient pareil. S’ils devaient vivre comme je vis, ils se saliraient aussi. — Qui nie qu’il faille toutes sortes de gens pour faire un monde ? dit Seldon. — Personne n’en parle ! Pour eux, ça va de soi. Maître Seldon, il faut que je quitte Trantor. Ici, je n’ai aucune chance, aucune possibilité de gagner de l’argent, d’acquérir une formation, de devenir mathématicien, aucune possibilité de devenir autre chose que ce qu’ils disent... un moins que",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 25106,
-                "end": 25113
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 25169,
-                "end": 25176
-            }
-        ]
-    },
-    "chunk_51": {
-        "chunk": "rien. » Cette ultime tirade avait été lancée avec dépit – et désespoir. Seldon essaya de se montrer rassurant : « La personne à qui je loue cette chambre est dahlite. Cet homme a un boulot décent. Il est instruit. — Oh, ça, bien sûr, dit Amaryl avec emportement. Il y en a quelques-uns. On les laisse faire pour pouvoir dire que c’est possible. Et ceux-là peuvent vivre agréablement pourvu qu’ils restent à Dahl. Qu’ils sortent et ils verront comment on les — Descendants de quoi ? s’écria Seldon en",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 25481,
-                "end": 25488
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 25647,
-                "end": 25654
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 25899,
-                "end": 25906
-            }
-        ]
-    },
-    "chunk_52": {
-        "chunk": "tournant vers Dors un regard ahuri. — Du peuple de la Terre, cria Amaryl. La planète d’où est originaire l’espèce humaine. — Une planète ? Rien qu’une planète ? — Une seule et unique planète, bien sûr. La Terre. — Quand vous dites la Terre, vous voulez parler d’Aurora, n’est-ce pas ? — Aurora ? Qu’est-ce que c’est que ça ? Je parle de la Terre. Vous n’en avez jamais entendu parler ? — Non. A vrai dire, non. — C’est un monde mythique, commença Dors, qui... — Pas mythique. C’était une vraie",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 25923,
-                "end": 25928
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 25975,
-                "end": 25982
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 26356,
-                "end": 26361
-            }
-        ]
-    },
-    "chunk_53": {
-        "chunk": "planète. » Soupir de Seldon. « J’ai déjà entendu ça quelque part. Enfin, bon, on va reprendre depuis le début. Y a-t-il un livre dahlite qui parle de la Terre ? — Hein ? — Un logiciel informatique, alors ? — Je ne vois pas de quoi vous voulez parler. — Jeune homme, vous avez bien obtenu cette information quelque part. — Mon père m’en parlait. Tout le monde est au courant. — Y a-t-il quelqu’un qui soit plus particulièrement au courant ? Vous l’a-t-on enseigné à l’école ? — A l’école, ils n’en",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 26424,
-                "end": 26431
-            }
-        ]
-    },
-    "chunk_54": {
-        "chunk": "disaient pas un mot. — Alors, comment les gens le savent-ils ? » Amaryl haussa les épaules, avec l’air d’être inutilement harcelé. « Tout le monde sait ça. Si vous voulez des histoires là- dessus, il y a toujours Mère Rittah. Elle n’est pas morte que je sache... — Votre mère ? Ne le sauriez-vous pas, si... — Ce n’est pas ma mère à moi. C’est simplement ainsi qu’on l’appelle. Mère Rittah. C’est une vieille femme. Elle vit à Billibotton. Enfin, elle y vivait. — C’est où, ça ? — Par là, indiqua",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 26965,
-                "end": 26972
-            },
-            {
-                "entity_group": "PER",
-                "word": "Mère Rittah",
-                "start": 27113,
-                "end": 27125
-            },
-            {
-                "entity_group": "PER",
-                "word": "Mère Rittah",
-                "start": 27278,
-                "end": 27290
-            }
-        ]
-    },
-    "chunk_55": {
-        "chunk": "Amaryl avec un geste vague. — Comment s’y rend-on ? — S’y rendre ? Vous ne voulez pas aller là-bas ? Vous risquez de ne jamais en revenir. — Pourquoi ça ?",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 27398,
-                "end": 27404
+                "start": 5639,
+                "end": 5640,
+                "word": "Amaryl"
             }
         ]
     },
     "entities": [
-        "Anat Bigell",
-        "Amaryl",
-        "Hari Seldon",
+        "Maître Seldon",
         "Dors",
-        "Hari",
-        "Demerzel",
-        "Hummin",
-        "Dahlite",
         "Venabili",
+        "le Maire",
+        "Dahl",
+        "le Grand Ancien",
+        "Trantor",
         "Dors Venabili",
         "Maîtresse Tisalver",
-        "Trantor",
-        "Streeling",
-        "Empire",
         "Maître Hummin",
-        "Grand Ancien",
-        "Maîtresse Venabili",
-        "Empereur de toute la Galaxie",
-        "Cléon",
-        "Kan",
+        "l Empereur de toute la Galaxie",
         "Tisalver",
-        "cogéniens",
-        "Hélicon",
-        "Casilia Tisalver",
-        "Mère Rittah",
-        "Grimace de Seldon",
-        "Goutte-de-Pluie Quarante-trois",
-        "Empereurs",
-        "Jirad",
-        "Maîtresse",
-        "Maître-du-Soleil Quatorze",
-        "Maître Seldon",
-        "Casilia",
         "Sire",
-        "Mycogène",
-        "Hano Lindor",
+        "Empereur de toute la Galaxie",
         "Maire",
-        "My",
-        "Dahl",
+        "Casilia Tisalver",
+        "Streeling",
+        "les Tisalver",
+        "Dahlite",
+        "Goutte de Pluie Quarante trois",
+        "Hano Lindor",
+        "Grimace de Seldon",
+        "Hari",
+        "l Empereur",
+        "Kan",
+        "Hummin",
+        "Mère Rittah",
+        "Maître du Soleil Quatorze",
+        "l Empire",
+        "Casilia",
+        "Grand Ancien",
+        "Hélicon",
+        "Lindor",
         "Seldon",
+        "d Hélicon",
+        "d Anat Bigell",
+        "Jirad",
+        "Amaryl",
         "Empereur",
-        "Lindor"
+        "Demerzel",
+        "Maîtresse",
+        "Maîtresse Venabili",
+        "Mycogène",
+        "Hari Seldon",
+        "Cléon",
+        "Empereurs"
     ],
     "aliases": [
         [
@@ -1433,8 +1101,17 @@
             "Seldon"
         ],
         [
+            "Dahl",
+            "Dahlite"
+        ],
+        [
+            "Trantor"
+        ],
+        [
             "Empereur de toute la Galaxie",
+            "l Empereur",
             "Empereurs",
+            "l Empereur de toute la Galaxie",
             "Empereur"
         ],
         [
@@ -1444,16 +1121,20 @@
             "Cléon"
         ],
         [
+            "l Empire"
+        ],
+        [
             "Sire"
         ],
         [
-            "Mycogène",
-            "My"
+            "Mycogène"
         ],
         [
+            "le Maire",
             "Maire"
         ],
         [
+            "le Grand Ancien",
             "Grand Ancien"
         ],
         [
@@ -1464,14 +1145,7 @@
             "Hummin"
         ],
         [
-            "Empire"
-        ],
-        [
             "Streeling"
-        ],
-        [
-            "Dahl",
-            "Dahlite"
         ],
         [
             "Venabili",
@@ -1482,37 +1156,33 @@
         ],
         [
             "Tisalver",
+            "Maîtresse Tisalver",
             "Casilia Tisalver",
             "Casilia",
-            "Maîtresse Tisalver"
+            "les Tisalver"
         ],
         [
-            "Maître-du-Soleil Quatorze"
+            "Maître du Soleil Quatorze"
         ],
         [
-            "Jirad"
-        ],
-        [
+            "d Hélicon",
             "Hélicon"
         ],
         [
-            "Trantor"
-        ],
-        [
-            "cogéniens"
+            "Jirad"
         ],
         [
             "Hano Lindor",
             "Lindor"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte de Pluie Quarante trois"
         ],
         [
             "Amaryl"
         ],
         [
-            "Anat Bigell"
+            "d Anat Bigell"
         ],
         [
             "Mère Rittah"
@@ -1520,10 +1190,126 @@
     ],
     "cooccurences": [
         [
+            "Hari Seldon",
+            "Dahl"
+        ],
+        [
+            "Hari Seldon",
+            "Trantor"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Empereur de toute la Galaxie"
+        ],
+        [
             "Seldon",
             "Empereur de toute la Galaxie"
         ],
         [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "l Empereur"
+        ],
+        [
+            "Trantor",
+            "Empereur"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Cléon"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Empereurs"
+        ],
+        [
+            "l Empereur",
+            "Empereur"
+        ],
+        [
+            "l Empereur",
+            "Demerzel"
+        ],
+        [
+            "l Empereur",
+            "Cléon"
+        ],
+        [
+            "l Empereur",
+            "Demerzel"
+        ],
+        [
+            "l Empereur",
+            "Empereurs"
+        ],
+        [
+            "l Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Empereurs"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
             "Demerzel",
             "Cléon"
         ],
@@ -1532,6 +1318,14 @@
             "Empereurs"
         ],
         [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "l Empire"
+        ],
+        [
             "Cléon",
             "Demerzel"
         ],
@@ -1540,16 +1334,104 @@
             "Empereurs"
         ],
         [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "l Empire"
+        ],
+        [
             "Demerzel",
             "Empereurs"
         ],
         [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "l Empire"
+        ],
+        [
+            "Empereurs",
+            "Cléon"
+        ],
+        [
+            "Empereurs",
+            "Demerzel"
+        ],
+        [
+            "Empereurs",
+            "l Empire"
+        ],
+        [
+            "Empereurs",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "l Empire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "l Empire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "l Empire",
+            "Cléon"
+        ],
+        [
+            "l Empire",
+            "Demerzel"
+        ],
+        [
+            "l Empire",
+            "Cléon"
+        ],
+        [
+            "l Empire",
+            "Demerzel"
+        ],
+        [
+            "l Empire",
+            "Empereur"
+        ],
+        [
+            "l Empire",
+            "Demerzel"
+        ],
+        [
+            "l Empire",
+            "Empereur"
+        ],
+        [
             "Cléon",
             "Demerzel"
         ],
         [
             "Cléon",
             "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
         ],
         [
             "Cléon",
@@ -1565,19 +1447,15 @@
         ],
         [
             "Demerzel",
-            "Empereur"
-        ],
-        [
-            "Empereur",
-            "Demerzel"
+            "Cléon"
         ],
         [
             "Demerzel",
             "Empereur"
         ],
         [
-            "Empereur",
-            "Demerzel"
+            "Demerzel",
+            "Empereur"
         ],
         [
             "Demerzel",
@@ -1588,36 +1466,452 @@
             "Demerzel"
         ],
         [
-            "Demerzel",
-            "Empereur de toute la Galaxie"
+            "Cléon",
+            "Empereur"
         ],
         [
-            "Demerzel",
-            "Empereur de toute la Galaxie"
-        ],
-        [
-            "Demerzel",
-            "Sire"
-        ],
-        [
-            "Empereur de toute la Galaxie",
-            "Sire"
-        ],
-        [
-            "Empereur de toute la Galaxie",
+            "Cléon",
             "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "l Empereur de toute la Galaxie"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "l Empereur de toute la Galaxie"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "l Empereur de toute la Galaxie"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "l Empereur de toute la Galaxie"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "l Empereur de toute la Galaxie"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "l Empereur"
+        ],
+        [
+            "Demerzel",
+            "l Empereur de toute la Galaxie"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "l Empereur"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "l Empereur de toute la Galaxie",
+            "Sire"
+        ],
+        [
+            "l Empereur de toute la Galaxie",
+            "Demerzel"
+        ],
+        [
+            "l Empereur de toute la Galaxie",
+            "Sire"
+        ],
+        [
+            "l Empereur de toute la Galaxie",
+            "Mycogène"
+        ],
+        [
+            "l Empereur de toute la Galaxie",
+            "l Empereur"
+        ],
+        [
+            "l Empereur de toute la Galaxie",
+            "Mycogène"
         ],
         [
             "Sire",
             "Demerzel"
         ],
         [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "l Empereur"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
             "Demerzel",
             "Sire"
         ],
         [
-            "Empereur",
+            "Demerzel",
             "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "l Empereur"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "l Empereur"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "le Maire"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "le Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "l Empereur"
+        ],
+        [
+            "Mycogène",
+            "Cléon"
+        ],
+        [
+            "Mycogène",
+            "le Maire"
+        ],
+        [
+            "Mycogène",
+            "le Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "l Empereur",
+            "Mycogène"
+        ],
+        [
+            "l Empereur",
+            "Cléon"
+        ],
+        [
+            "l Empereur",
+            "le Maire"
+        ],
+        [
+            "l Empereur",
+            "Mycogène"
+        ],
+        [
+            "l Empereur",
+            "le Grand Ancien"
+        ],
+        [
+            "l Empereur",
+            "Sire"
+        ],
+        [
+            "l Empereur",
+            "Grand Ancien"
+        ],
+        [
+            "l Empereur",
+            "Sire"
+        ],
+        [
+            "l Empereur",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Cléon"
+        ],
+        [
+            "Mycogène",
+            "le Maire"
+        ],
+        [
+            "Mycogène",
+            "le Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "le Maire"
+        ],
+        [
+            "Cléon",
+            "Mycogène"
+        ],
+        [
+            "Cléon",
+            "le Grand Ancien"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Grand Ancien"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Sire"
         ],
         [
             "Cléon",
@@ -1625,115 +1919,751 @@
         ],
         [
             "Cléon",
-            "My"
+            "Kan"
         ],
         [
-            "Cléon",
-            "Grand Ancien"
+            "le Maire",
+            "Mycogène"
         ],
         [
-            "Cléon",
+            "le Maire",
+            "le Grand Ancien"
+        ],
+        [
+            "le Maire",
             "Sire"
         ],
         [
-            "Maire",
-            "My"
-        ],
-        [
-            "Maire",
+            "le Maire",
             "Grand Ancien"
         ],
         [
-            "Maire",
+            "le Maire",
             "Sire"
         ],
         [
-            "Maire",
-            "Grand Ancien"
-        ],
-        [
-            "My",
-            "Grand Ancien"
-        ],
-        [
-            "My",
-            "Sire"
-        ],
-        [
-            "My",
-            "Grand Ancien"
-        ],
-        [
-            "Grand Ancien",
-            "Sire"
-        ],
-        [
-            "Grand Ancien",
-            "Sire"
-        ],
-        [
-            "Sire",
-            "Grand Ancien"
-        ],
-        [
-            "Grand Ancien",
-            "Sire"
-        ],
-        [
-            "Grand Ancien",
+            "le Maire",
             "Seldon"
         ],
         [
-            "Sire",
-            "Seldon"
+            "le Maire",
+            "Cléon"
         ],
         [
-            "Cléon",
+            "le Maire",
             "Sire"
         ],
         [
-            "Empereur",
-            "Demerzel"
+            "le Maire",
+            "Maire"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Sire"
         ],
         [
             "Mycogène",
+            "le Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Cléon"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Maire"
+        ],
+        [
+            "Mycogène",
+            "Kan"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "le Grand Ancien",
+            "Sire"
+        ],
+        [
+            "le Grand Ancien",
+            "Grand Ancien"
+        ],
+        [
+            "le Grand Ancien",
+            "Sire"
+        ],
+        [
+            "le Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "le Grand Ancien",
+            "Cléon"
+        ],
+        [
+            "le Grand Ancien",
+            "Sire"
+        ],
+        [
+            "le Grand Ancien",
+            "Maire"
+        ],
+        [
+            "le Grand Ancien",
+            "Kan"
+        ],
+        [
+            "le Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Grand Ancien"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Grand Ancien",
+            "Cléon"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Maire"
+        ],
+        [
+            "Grand Ancien",
+            "Kan"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Maire"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
             "Empereur"
         ],
         [
-            "Mycogène",
-            "Demerzel"
-        ],
-        [
-            "Empereur",
-            "Demerzel"
-        ],
-        [
-            "Mycogène",
+            "Cléon",
             "Sire"
         ],
         [
-            "Mycogène",
+            "Cléon",
+            "Maire"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
             "Kan"
         ],
         [
             "Sire",
             "Kan"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Empereur"
+        ],
+        [
+            "Maire",
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "Mycogène"
+        ],
+        [
+            "Maire",
+            "l Empereur"
         ],
         [
             "Kan",
             "Sire"
         ],
         [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Kan",
+            "l Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "l Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Kan",
+            "l Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "l Empereur"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "l Empereur"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "l Empereur"
+        ],
+        [
+            "Mycogène",
+            "Demerzel"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Kan"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Maître Seldon"
+        ],
+        [
+            "Mycogène",
+            "Maître Hummin"
+        ],
+        [
+            "l Empereur",
+            "Demerzel"
+        ],
+        [
+            "l Empereur",
+            "Mycogène"
+        ],
+        [
+            "l Empereur",
+            "Sire"
+        ],
+        [
+            "l Empereur",
+            "Kan"
+        ],
+        [
+            "l Empereur",
+            "Sire"
+        ],
+        [
+            "l Empereur",
+            "Maître Seldon"
+        ],
+        [
+            "l Empereur",
+            "Maître Hummin"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Maître Seldon"
+        ],
+        [
+            "Demerzel",
+            "Maître Hummin"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Kan"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Maître Seldon"
+        ],
+        [
+            "Mycogène",
+            "Maître Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Maître Seldon"
+        ],
+        [
+            "Sire",
+            "Maître Hummin"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Hummin"
+        ],
+        [
+            "Sire",
+            "Dahl"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Maître Seldon"
+        ],
+        [
+            "Kan",
+            "Maître Hummin"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Maître Seldon"
+        ],
+        [
+            "Sire",
+            "Maître Hummin"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Hummin"
+        ],
+        [
+            "Sire",
+            "Dahl"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "l Empire"
+        ],
+        [
             "Maître Seldon",
             "Maître Hummin"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Hummin"
+        ],
+        [
+            "Maître Seldon",
+            "Dahl"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "l Empire"
+        ],
+        [
+            "Maître Hummin",
+            "Seldon"
+        ],
+        [
+            "Maître Hummin",
+            "Hummin"
+        ],
+        [
+            "Maître Hummin",
+            "Dahl"
+        ],
+        [
+            "Maître Hummin",
+            "Seldon"
+        ],
+        [
+            "Maître Hummin",
+            "l Empire"
         ],
         [
             "Seldon",
             "Hummin"
         ],
         [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "l Empire"
+        ],
+        [
+            "Seldon",
+            "l Empereur"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
             "Hummin",
             "Seldon"
+        ],
+        [
+            "Hummin",
+            "l Empire"
+        ],
+        [
+            "Hummin",
+            "l Empereur"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "l Empire"
+        ],
+        [
+            "Dahl",
+            "l Empereur"
+        ],
+        [
+            "Dahl",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "l Empire"
+        ],
+        [
+            "Seldon",
+            "l Empereur"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "l Empire",
+            "l Empereur"
+        ],
+        [
+            "l Empire",
+            "Hummin"
+        ],
+        [
+            "l Empire",
+            "Seldon"
+        ],
+        [
+            "l Empereur",
+            "Hummin"
+        ],
+        [
+            "l Empereur",
+            "Seldon"
+        ],
+        [
+            "l Empereur",
+            "Hummin"
+        ],
+        [
+            "l Empereur",
+            "Streeling"
         ],
         [
             "Hummin",
@@ -1748,6 +2678,66 @@
             "Mycogène"
         ],
         [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Streeling"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Streeling"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
             "Streeling",
             "Mycogène"
         ],
@@ -1760,6 +2750,18 @@
             "Venabili"
         ],
         [
+            "Streeling",
+            "Seldon"
+        ],
+        [
+            "Streeling",
+            "Trantor"
+        ],
+        [
+            "Streeling",
+            "Dors"
+        ],
+        [
             "Mycogène",
             "Dahl"
         ],
@@ -1772,68 +2774,860 @@
             "Seldon"
         ],
         [
+            "Mycogène",
+            "Trantor"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Tisalver"
+        ],
+        [
             "Dahl",
             "Venabili"
         ],
         [
             "Dahl",
             "Seldon"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
         ],
         [
             "Venabili",
             "Seldon"
         ],
         [
-            "Empereur",
+            "Venabili",
+            "Trantor"
+        ],
+        [
+            "Venabili",
+            "Dors"
+        ],
+        [
+            "Venabili",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
             "Dors"
         ],
         [
             "Seldon",
-            "Maîtresse Tisalver"
+            "Tisalver"
         ],
         [
-            "Seldon",
-            "Maîtresse Tisalver"
+            "Trantor",
+            "Dors"
         ],
         [
-            "Seldon",
-            "Maîtresse Tisalver"
+            "Trantor",
+            "Tisalver"
         ],
         [
-            "Maîtresse Tisalver",
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "l Empereur"
+        ],
+        [
+            "Tisalver",
+            "les Tisalver"
+        ],
+        [
+            "Dahl",
+            "l Empereur"
+        ],
+        [
+            "Dahl",
+            "les Tisalver"
+        ],
+        [
+            "Dahl",
             "Seldon"
         ],
         [
-            "Maître Seldon",
+            "l Empereur",
+            "les Tisalver"
+        ],
+        [
+            "l Empereur",
             "Seldon"
         ],
         [
-            "Hélicon",
-            "Trantor"
+            "l Empereur",
+            "Dors"
         ],
         [
-            "Hélicon",
-            "Trantor"
+            "l Empereur",
+            "Tisalver"
+        ],
+        [
+            "les Tisalver",
+            "Seldon"
+        ],
+        [
+            "les Tisalver",
+            "Dors"
+        ],
+        [
+            "les Tisalver",
+            "Tisalver"
+        ],
+        [
+            "les Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
         ],
         [
             "Tisalver",
             "Seldon"
         ],
         [
-            "Maîtresse Venabili",
+            "Tisalver",
+            "l Empereur"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Hummin"
+        ],
+        [
+            "Tisalver",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "l Empereur",
+            "Dors"
+        ],
+        [
+            "l Empereur",
+            "Hummin"
+        ],
+        [
+            "l Empereur",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "l Empereur",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dahl"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Trantor"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Trantor",
+            "Mycogène"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Mycogène"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "d Hélicon"
+        ],
+        [
+            "Mycogène",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "d Hélicon"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "d Hélicon"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "d Hélicon"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "d Hélicon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "d Hélicon",
+            "Seldon"
+        ],
+        [
+            "d Hélicon",
+            "Hari"
+        ],
+        [
+            "d Hélicon",
+            "Seldon"
+        ],
+        [
+            "d Hélicon",
+            "Trantor"
+        ],
+        [
+            "d Hélicon",
+            "Hélicon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hari"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Trantor"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Casilia"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Trantor"
+        ],
+        [
+            "Hari",
+            "Hélicon"
+        ],
+        [
+            "Hari",
+            "Jirad"
+        ],
+        [
+            "Hari",
+            "Casilia"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Casilia"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Jirad"
+        ],
+        [
+            "Trantor",
+            "Casilia"
+        ],
+        [
+            "Trantor",
+            "d Hélicon"
+        ],
+        [
+            "Trantor",
+            "Maître Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Jirad"
+        ],
+        [
+            "Hélicon",
+            "Casilia"
+        ],
+        [
+            "Hélicon",
+            "d Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Maître Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Jirad",
+            "Casilia"
+        ],
+        [
+            "Jirad",
+            "d Hélicon"
+        ],
+        [
+            "Jirad",
+            "Maître Seldon"
+        ],
+        [
+            "Jirad",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Trantor"
+        ],
+        [
+            "Jirad",
+            "Hélicon"
+        ],
+        [
+            "Jirad",
+            "Trantor"
+        ],
+        [
+            "Jirad",
+            "Trantor"
+        ],
+        [
+            "Casilia",
+            "d Hélicon"
+        ],
+        [
+            "Casilia",
+            "Maître Seldon"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Trantor"
+        ],
+        [
+            "Casilia",
+            "Hélicon"
+        ],
+        [
+            "Casilia",
+            "Trantor"
+        ],
+        [
+            "Casilia",
+            "Trantor"
+        ],
+        [
+            "d Hélicon",
+            "Maître Seldon"
+        ],
+        [
+            "d Hélicon",
+            "Seldon"
+        ],
+        [
+            "d Hélicon",
+            "Trantor"
+        ],
+        [
+            "d Hélicon",
+            "Hélicon"
+        ],
+        [
+            "d Hélicon",
+            "Trantor"
+        ],
+        [
+            "d Hélicon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Hélicon"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Seldon",
             "Tisalver"
         ],
         [
             "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
             "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahl"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahl"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
         ],
         [
             "Dahl",
             "Tisalver"
         ],
         [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dahlite"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dahlite"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dahlite"
+        ],
+        [
+            "Seldon",
+            "Dahlite"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
             "Dahlite",
-            "cogéniens"
+            "Tisalver"
+        ],
+        [
+            "Dahlite",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
         ],
         [
             "Tisalver",
@@ -1844,6 +3638,42 @@
             "Seldon"
         ],
         [
+            "Maîtresse Venabili",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Hano Lindor"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Hano Lindor"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
             "Hano Lindor",
             "Tisalver"
         ],
@@ -1852,12 +3682,108 @@
             "Seldon"
         ],
         [
-            "Tisalver",
+            "Hano Lindor",
+            "Lindor"
+        ],
+        [
+            "Hano Lindor",
+            "Dors"
+        ],
+        [
+            "Hano Lindor",
             "Seldon"
         ],
         [
             "Tisalver",
             "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Lindor"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Maîtresse"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse"
         ],
         [
             "Tisalver",
@@ -1880,16 +3806,64 @@
             "Maîtresse"
         ],
         [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
             "Lindor",
             "Dors"
         ],
         [
             "Lindor",
+            "Maîtresse"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Maîtresse"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Dors",
             "Maîtresse"
         ],
         [
             "Dors",
             "Maîtresse"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Lindor"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
         ],
         [
             "Maîtresse",
@@ -1908,6 +3882,22 @@
             "Lindor"
         ],
         [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
             "Dors",
             "Seldon"
         ],
@@ -1916,12 +3906,56 @@
             "Hari"
         ],
         [
+            "Dors",
+            "Lindor"
+        ],
+        [
             "Seldon",
             "Hari"
         ],
         [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Lindor"
+        ],
+        [
             "Dors",
             "Lindor"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Lindor",
+            "Dahl"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
         ],
         [
             "Tisalver",
@@ -1932,6 +3966,46 @@
             "Casilia"
         ],
         [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Jirad"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
             "Maître Seldon",
             "Casilia"
         ],
@@ -1940,8 +4014,48 @@
             "Seldon"
         ],
         [
+            "Maître Seldon",
+            "Casilia Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Jirad"
+        ],
+        [
+            "Maître Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
             "Casilia",
             "Seldon"
+        ],
+        [
+            "Casilia",
+            "Casilia Tisalver"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia",
+            "Jirad"
+        ],
+        [
+            "Casilia",
+            "Maîtresse Tisalver"
         ],
         [
             "Seldon",
@@ -1952,12 +4066,128 @@
             "Maîtresse Tisalver"
         ],
         [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Casilia Tisalver",
+            "Seldon"
+        ],
+        [
+            "Casilia Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia Tisalver",
+            "Jirad"
+        ],
+        [
+            "Casilia Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia Tisalver",
+            "Dors Venabili"
+        ],
+        [
+            "Casilia Tisalver",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
             "Maîtresse Tisalver",
             "Jirad"
         ],
         [
+            "Maîtresse Tisalver",
+            "Dors Venabili"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hari"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
             "Jirad",
             "Maîtresse Tisalver"
+        ],
+        [
+            "Jirad",
+            "Dors Venabili"
+        ],
+        [
+            "Jirad",
+            "Hari"
+        ],
+        [
+            "Jirad",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Jirad",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors Venabili"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hari"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
         ],
         [
             "Dors Venabili",
@@ -1972,11 +4202,31 @@
             "Seldon"
         ],
         [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Maîtresse Tisalver"
+        ],
+        [
             "Hari",
             "Maîtresse Tisalver"
         ],
         [
             "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Tisalver",
             "Seldon"
         ],
         [
@@ -1989,11 +4239,99 @@
         ],
         [
             "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Grimace de Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahl"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Grimace de Seldon"
+        ],
+        [
+            "Dahl",
+            "Grimace de Seldon"
+        ],
+        [
+            "Dahl",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Grimace de Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Dors"
+        ],
+        [
+            "Seldon",
             "Dors"
         ],
         [
             "Seldon",
             "Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
         ],
         [
             "Seldon",
@@ -2009,18 +4347,130 @@
         ],
         [
             "Amaryl",
-            "Seldon"
+            "d Anat Bigell"
         ],
         [
             "Seldon",
-            "Anat Bigell"
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "d Anat Bigell"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "d Anat Bigell"
+        ],
+        [
+            "Seldon",
+            "d Anat Bigell"
         ],
         [
             "Seldon",
             "Dors"
         ],
         [
+            "d Anat Bigell",
+            "Seldon"
+        ],
+        [
+            "d Anat Bigell",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
             "Dors",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Amaryl"
+        ],
+        [
+            "Maître Seldon",
+            "Dahl"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Amaryl"
+        ],
+        [
+            "Trantor",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Dahl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
             "Amaryl"
         ],
         [
@@ -2036,8 +4486,28 @@
             "Amaryl"
         ],
         [
+            "Amaryl",
+            "Dors"
+        ],
+        [
             "Dors",
             "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Mère Rittah"
+        ],
+        [
+            "Amaryl",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Amaryl"
+        ],
+        [
+            "Mère Rittah",
+            "Amaryl"
         ]
     ]
 }

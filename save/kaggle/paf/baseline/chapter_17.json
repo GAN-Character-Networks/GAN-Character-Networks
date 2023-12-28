@@ -3,1237 +3,986 @@
         "chunk": "Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA",
         "entities": [
             {
-                "entity_group": "PER",
-                "word": "Empereurs",
+                "start": 0,
+                "end": 1,
+                "word": "Kan"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "word": "Trantor"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "word": "Kan"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "word": "Empereurs"
+            },
+            {
+                "start": 59,
+                "end": 61,
+                "word": "Mannix IV"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "word": "Kan"
+            },
+            {
+                "start": 154,
+                "end": 155,
+                "word": "Mycogène"
+            },
+            {
+                "start": 157,
+                "end": 158,
+                "word": "Seldon"
+            },
+            {
+                "start": 200,
+                "end": 201,
+                "word": "Seldon"
+            },
+            {
+                "start": 231,
+                "end": 233,
+                "word": "Emmer Thalus"
+            },
+            {
+                "start": 253,
+                "end": 255,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 256,
+                "end": 257,
+                "word": "Seldon"
+            },
+            {
+                "start": 274,
+                "end": 275,
+                "word": "Thalus"
+            },
+            {
                 "start": 292,
-                "end": 302
+                "end": 293,
+                "word": "Dors"
             },
             {
-                "entity_group": "PER",
-                "word": "Mannix IV",
-                "start": 320,
-                "end": 330
+                "start": 299,
+                "end": 300,
+                "word": "Sergent"
             },
             {
-                "entity_group": "PER",
-                "word": "Kan",
-                "start": 331,
-                "end": 335
-            }
-        ]
-    },
-    "chunk_1": {
-        "chunk": "GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites. Il avait les cheveux si blonds et taillés si court qu’un bref instant, le désagréable souvenir de Mycogène revint hanter Seldon. Le nouveau venu portait indubitablement un uniforme. Rouge et blanc, avec un large ceinturon clouté d’argent. Lorsqu’il",
-        "entities": [
+                "start": 332,
+                "end": 335,
+                "word": "le docteur Seldon"
+            },
             {
-                "entity_group": "PER",
-                "word": "Mycogène",
+                "start": 373,
+                "end": 376,
+                "word": "le docteur Seldon"
+            },
+            {
+                "start": 405,
+                "end": 406,
+                "word": "Dors"
+            },
+            {
+                "start": 423,
+                "end": 424,
+                "word": "Raych"
+            },
+            {
+                "start": 532,
+                "end": 533,
+                "word": "Raych"
+            },
+            {
+                "start": 581,
+                "end": 582,
+                "word": "Seldon"
+            },
+            {
+                "start": 593,
+                "end": 594,
+                "word": "Raych"
+            },
+            {
+                "start": 628,
+                "end": 629,
+                "word": "Sergent"
+            },
+            {
+                "start": 737,
+                "end": 738,
+                "word": "Raych"
+            },
+            {
+                "start": 759,
+                "end": 760,
+                "word": "Raych"
+            },
+            {
+                "start": 761,
+                "end": 762,
+                "word": "Dors"
+            },
+            {
+                "start": 779,
+                "end": 780,
+                "word": "Raych"
+            },
+            {
+                "start": 809,
+                "end": 810,
+                "word": "Seldon"
+            },
+            {
+                "start": 816,
+                "end": 817,
+                "word": "Dors"
+            },
+            {
+                "start": 819,
+                "end": 820,
+                "word": "Dors"
+            },
+            {
                 "start": 842,
-                "end": 851
+                "end": 843,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 865,
-                "end": 872
-            }
-        ]
-    },
-    "chunk_2": {
-        "chunk": "parla, ce fut d’une voix basse résonnante dont l’accent différait de tout ce qu’avait entendu Seldon. Il trouvait les accents exotiques souvent grossiers mais celui-là semblait mélodieux, peut-être à cause de sa richesse en intonations graves. « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 1087,
-                "end": 1094
+                "start": 854,
+                "end": 856,
+                "word": "docteur Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Emmer Thalus",
-                "start": 1258,
-                "end": 1271
+                "start": 881,
+                "end": 882,
+                "word": "Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 1379,
-                "end": 1391
+                "start": 885,
+                "end": 886,
+                "word": "Davan"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 1392,
-                "end": 1399
+                "start": 887,
+                "end": 888,
+                "word": "Davan"
             },
             {
-                "entity_group": "PER",
-                "word": "Thalus",
-                "start": 1483,
-                "end": 1490
-            }
-        ]
-    },
-    "chunk_3": {
-        "chunk": "anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte. Tournez-vous dans cette direction. Comprenez bien que je serai peut-être obligée de vous blesser sérieusement si vous persistez à emmener le docteur Seldon contre son gré. » Le sergent s’immobilisa, considéra avec gravité les lames qui décrivaient de lents cercles devant lui, puis répondit : « Mes ordres ne m’interdisent pas de malmener d’autres",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 1571,
-                "end": 1576
+                "start": 917,
+                "end": 918,
+                "word": "Thalus"
             },
             {
-                "entity_group": "PER",
-                "word": "Sergent",
-                "start": 1604,
-                "end": 1612
+                "start": 921,
+                "end": 923,
+                "word": "Yugo Amaryl"
             },
             {
-                "entity_group": "PER",
-                "word": "docteur Seldon",
-                "start": 1785,
-                "end": 1800
-            }
-        ]
-    },
-    "chunk_4": {
-        "chunk": "personnes que le docteur Seldon. » Et, avec une vivacité surprenante, sa main droite se porta vers l’étui du fouet neuronique pendu à sa ceinture. Tout aussi vive, Dors brandit ses lames. Aucun des deux n’acheva son mouvement. Se ruant en avant, Raych avait poussé le sergent dans le dos, de la main gauche, tandis que la droite le délestait de son arme. Il s’écarta rapidement, tenant à deux mains le fouet neuronique et lança : « Les mains en l’air, sergent, ou vous allez y avoir droit ! » Le",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "docteur Seldon",
-                "start": 2009,
-                "end": 2024
+                "start": 976,
+                "end": 977,
+                "word": "Davan"
             },
             {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 2156,
-                "end": 2161
+                "start": 1000,
+                "end": 1001,
+                "word": "Raych"
             },
             {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 2238,
-                "end": 2244
-            }
-        ]
-    },
-    "chunk_5": {
-        "chunk": "sous-officier pivota et un rictus nerveux traversa son visage cramoisi. Ce fut le seul instant où son impassibilité devait être prise en défaut. Il gronda : « Pose ça, fiston. Tu sais pas comment ça marche. — Je sais qu’il y a un cran de sûreté, hurla Raych. Il est relevé et on peut tirer. Et j’m’en priverai pas si vous essayez d’me sauter d’ssus. » Le sergent se figea. Il savait clairement quel danger il y avait à laisser un gamin surexcité tripoter une arme meurtrière. Seldon n’avait pas l’air",
-        "entities": [
+                "start": 1004,
+                "end": 1006,
+                "word": "Hari Seldon"
+            },
             {
-                "entity_group": "PER",
-                "word": "Raych",
+                "start": 1007,
+                "end": 1008,
+                "word": "Raych"
+            },
+            {
+                "start": 1041,
+                "end": 1042,
+                "word": "Seldon"
+            },
+            {
+                "start": 1046,
+                "end": 1047,
+                "word": "Trantor"
+            },
+            {
+                "start": 1112,
+                "end": 1113,
+                "word": "Thalus"
+            },
+            {
+                "start": 1153,
+                "end": 1154,
+                "word": "Hari"
+            },
+            {
+                "start": 1178,
+                "end": 1180,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 1188,
+                "end": 1189,
+                "word": "Dahl"
+            },
+            {
+                "start": 1200,
+                "end": 1201,
+                "word": "Seldon"
+            },
+            {
+                "start": 1220,
+                "end": 1221,
+                "word": "Dors"
+            },
+            {
+                "start": 1256,
+                "end": 1257,
+                "word": "Dahl"
+            },
+            {
+                "start": 1335,
+                "end": 1336,
+                "word": "Raych"
+            },
+            {
+                "start": 1349,
+                "end": 1350,
+                "word": "Seldon"
+            },
+            {
+                "start": 1364,
+                "end": 1365,
+                "word": "Dors"
+            },
+            {
+                "start": 1464,
+                "end": 1465,
+                "word": "Seldon"
+            },
+            {
+                "start": 1507,
+                "end": 1508,
+                "word": "Dors"
+            },
+            {
+                "start": 1549,
+                "end": 1550,
+                "word": "Dors"
+            },
+            {
+                "start": 1562,
+                "end": 1563,
+                "word": "Hari"
+            },
+            {
+                "start": 1627,
+                "end": 1628,
+                "word": "Seldon"
+            },
+            {
+                "start": 1629,
+                "end": 1630,
+                "word": "Dors"
+            },
+            {
+                "start": 1636,
+                "end": 1637,
+                "word": "Raych"
+            },
+            {
+                "start": 1665,
+                "end": 1666,
+                "word": "Thalus"
+            },
+            {
+                "start": 1669,
+                "end": 1670,
+                "word": "Seldon"
+            },
+            {
+                "start": 1702,
+                "end": 1703,
+                "word": "Dors"
+            },
+            {
+                "start": 1704,
+                "end": 1705,
+                "word": "Raych"
+            },
+            {
+                "start": 1765,
+                "end": 1766,
+                "word": "Seldon"
+            },
+            {
+                "start": 1810,
+                "end": 1811,
+                "word": "Seldon"
+            },
+            {
+                "start": 1846,
+                "end": 1847,
+                "word": "Seldon"
+            },
+            {
+                "start": 1848,
+                "end": 1849,
+                "word": "Dors"
+            },
+            {
+                "start": 1860,
+                "end": 1861,
+                "word": "Raych"
+            },
+            {
+                "start": 1974,
+                "end": 1975,
+                "word": "Dors"
+            },
+            {
+                "start": 1977,
+                "end": 1978,
+                "word": "Raych"
+            },
+            {
+                "start": 2018,
+                "end": 2020,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 2039,
+                "end": 2041,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 2105,
+                "end": 2106,
+                "word": "Dors"
+            },
+            {
+                "start": 2144,
+                "end": 2145,
+                "word": "Raych"
+            },
+            {
+                "start": 2172,
+                "end": 2173,
+                "word": "Raych"
+            },
+            {
+                "start": 2195,
+                "end": 2196,
+                "word": "dame"
+            },
+            {
+                "start": 2221,
+                "end": 2222,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2256,
+                "end": 2257,
+                "word": "Dors"
+            },
+            {
+                "start": 2268,
+                "end": 2269,
+                "word": "Kan"
+            },
+            {
+                "start": 2283,
+                "end": 2284,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2302,
+                "end": 2303,
+                "word": "Dors"
+            },
+            {
+                "start": 2333,
+                "end": 2334,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2345,
+                "end": 2346,
+                "word": "Venabili"
+            },
+            {
+                "start": 2439,
+                "end": 2440,
+                "word": "Kan"
+            },
+            {
+                "start": 2449,
+                "end": 2450,
+                "word": "Seldon"
+            },
+            {
+                "start": 2467,
+                "end": 2468,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2508,
+                "end": 2509,
+                "word": "Dors"
+            },
+            {
+                "start": 2523,
+                "end": 2524,
+                "word": "Hummin"
+            },
+            {
+                "start": 2541,
+                "end": 2542,
+                "word": "Kan"
+            },
+            {
+                "start": 2550,
+                "end": 2551,
+                "word": "Hummin"
+            },
+            {
+                "start": 2570,
+                "end": 2571,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2604,
+                "end": 2605,
+                "word": "Hari"
+            },
+            {
+                "start": 2609,
+                "end": 2610,
+                "word": "Dors"
+            },
+            {
+                "start": 2617,
+                "end": 2618,
+                "word": "Raych"
+            },
+            {
+                "start": 2638,
+                "end": 2639,
+                "word": "Seldon"
+            },
+            {
+                "start": 2640,
+                "end": 2641,
+                "word": "Raych"
+            },
+            {
+                "start": 2644,
+                "end": 2645,
+                "word": "Trantor"
+            },
+            {
+                "start": 2654,
+                "end": 2657,
+                "word": "Dors de Cinna"
+            },
+            {
+                "start": 2671,
+                "end": 2672,
+                "word": "Seldon"
+            },
+            {
+                "start": 2721,
+                "end": 2722,
+                "word": "Thalus"
+            },
+            {
+                "start": 2731,
+                "end": 2732,
+                "word": "Dahl"
+            },
+            {
+                "start": 2738,
+                "end": 2739,
+                "word": "Dors"
+            },
+            {
                 "start": 2740,
-                "end": 2746
+                "end": 2741,
+                "word": "Raych"
             },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
+                "start": 2744,
+                "end": 2745,
+                "word": "Seldon"
+            },
+            {
+                "start": 2759,
+                "end": 2760,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2823,
+                "end": 2824,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2827,
+                "end": 2828,
+                "word": "Raych"
+            },
+            {
+                "start": 2868,
+                "end": 2869,
+                "word": "dame"
+            },
+            {
+                "start": 2871,
+                "end": 2872,
+                "word": "Raych"
+            },
+            {
+                "start": 2878,
+                "end": 2879,
+                "word": "Dors"
+            },
+            {
+                "start": 2894,
+                "end": 2895,
+                "word": "Raych"
+            },
+            {
+                "start": 2908,
+                "end": 2909,
+                "word": "Dors"
+            },
+            {
+                "start": 2944,
+                "end": 2945,
+                "word": "Kan"
+            },
+            {
+                "start": 2955,
+                "end": 2956,
+                "word": "Kan"
+            },
+            {
                 "start": 2964,
-                "end": 2971
-            }
-        ]
-    },
-    "chunk_6": {
-        "chunk": "plus rassuré. « Fais attention Raych, lança-t-il. Ne tire pas. Ne laisse pas le doigt sur le contact. — J’vais pas l’laisser m’sauter d’ssus. — Il ne le fera pas... Sergent, je vous en conjure, ne bougez pas. Mettons les choses au point. On vous a dit de m’emmener d’ici. C’est bien exact ? — C’est exact », confirma le sergent qui, de ses yeux légèrement exorbités, continuait à fixer le jeune garçon (lequel, pour sa part, l’observait avec la même intensité). — A la bonne heure. Ai-je votre parole",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 3020,
-                "end": 3026
-            },
-            {
-                "entity_group": "PER",
-                "word": "Sergent",
-                "start": 3154,
-                "end": 3162
-            }
-        ]
-    },
-    "chunk_7": {
-        "chunk": "d’honneur, votre parole de soldat, que vous allez faire comme vous avez dit... honnêtement ? — Vous avez ma parole d’honneur de soldat, dit le sergent. — Bien. Raych, rends-lui le fouet – tout de suite. Ne me fais pas attendre. » Avec une grimace dépitée, Raych regarda Dors qui hésita puis hocha lentement la tête. Elle avait l’air aussi déconfite que lui. Raych tendit le fouet au sergent en disant : « C’est eux qui m’y forcent, ’spèce de grand... » La fin de sa phrase était inintelligible. Seldon",
-        "entities": [
+                "end": 2965,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2970,
+                "end": 2971,
+                "word": "Kan"
+            },
+            {
+                "start": 3010,
+                "end": 3011,
+                "word": "Dahl"
+            },
+            {
+                "start": 3045,
+                "end": 3046,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3060,
+                "end": 3061,
+                "word": "Dors"
+            },
+            {
+                "start": 3080,
+                "end": 3081,
+                "word": "Kan"
+            },
+            {
+                "start": 3092,
+                "end": 3093,
+                "word": "Kan"
+            },
+            {
+                "start": 3108,
+                "end": 3109,
+                "word": "Dors"
+            },
+            {
+                "start": 3116,
+                "end": 3117,
+                "word": "Trantor"
+            },
+            {
+                "start": 3121,
+                "end": 3122,
+                "word": "Kan"
+            },
+            {
+                "start": 3158,
+                "end": 3159,
+                "word": "Kan"
+            },
+            {
+                "start": 3162,
+                "end": 3163,
+                "word": "Maire"
+            },
+            {
+                "start": 3185,
+                "end": 3186,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3193,
+                "end": 3194,
+                "word": "Raych"
+            },
+            {
+                "start": 3211,
+                "end": 3212,
+                "word": "Maire"
+            },
+            {
+                "start": 3221,
+                "end": 3222,
+                "word": "Kan"
+            },
+            {
+                "start": 3279,
+                "end": 3280,
+                "word": "Raych"
+            },
+            {
+                "start": 3301,
+                "end": 3302,
+                "word": "Raych"
+            },
+            {
+                "start": 3311,
+                "end": 3313,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3339,
+                "end": 3340,
+                "word": "Raych"
+            },
+            {
+                "start": 3349,
+                "end": 3350,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3351,
+                "end": 3352,
+                "word": "Seldon"
+            },
+            {
+                "start": 3368,
+                "end": 3370,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3372,
+                "end": 3375,
+                "word": "dame </PER><PER> Venabili"
+            },
+            {
+                "start": 3377,
+                "end": 3378,
+                "word": "Raych"
+            },
+            {
+                "start": 3386,
+                "end": 3387,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3389,
+                "end": 3391,
+                "word": "le Maître"
+            },
+            {
+                "start": 3414,
+                "end": 3415,
+                "word": "Dors"
+            },
+            {
+                "start": 3441,
+                "end": 3442,
+                "word": "Raych"
+            },
+            {
+                "start": 3445,
+                "end": 3446,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3519,
+                "end": 3520,
+                "word": "Seldon"
+            },
+            {
+                "start": 3535,
+                "end": 3536,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3544,
+                "end": 3546,
+                "word": "le Maire"
+            },
             {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 3650,
-                "end": 3656
-            },
+                "start": 3550,
+                "end": 3551,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3563,
+                "end": 3564,
+                "word": "Hari"
+            },
+            {
+                "start": 3569,
+                "end": 3570,
+                "word": "Dors"
+            },
+            {
+                "start": 3608,
+                "end": 3610,
+                "word": "un Hari"
+            },
+            {
+                "start": 3625,
+                "end": 3627,
+                "word": "le Maire"
+            },
+            {
+                "start": 3629,
+                "end": 3630,
+                "word": "Dors"
+            },
+            {
+                "start": 3641,
+                "end": 3642,
+                "word": "Kan"
+            },
+            {
+                "start": 3648,
+                "end": 3649,
+                "word": "Mannix"
+            },
+            {
+                "start": 3687,
+                "end": 3688,
+                "word": "Empereurs"
+            },
+            {
+                "start": 3696,
+                "end": 3697,
+                "word": "Dors"
+            },
+            {
+                "start": 3704,
+                "end": 3705,
+                "word": "Kan"
+            },
+            {
+                "start": 3769,
+                "end": 3770,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3792,
+                "end": 3794,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 3807,
+                "end": 3809,
+                "word": "Mannix IV"
+            },
+            {
+                "start": 3835,
+                "end": 3836,
+                "word": "Kan"
+            },
+            {
+                "start": 3863,
+                "end": 3864,
+                "word": "Empereur"
+            },
+            {
+                "start": 3876,
+                "end": 3877,
+                "word": "Dors"
+            },
+            {
+                "start": 3884,
+                "end": 3885,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3893,
+                "end": 3895,
+                "word": "les Empereurs"
+            },
+            {
+                "start": 3969,
+                "end": 3971,
+                "word": "une Kan"
+            },
+            {
+                "start": 3990,
+                "end": 3991,
+                "word": "Dors"
+            },
+            {
+                "start": 3994,
+                "end": 3995,
+                "word": "Empereur"
+            },
+            {
+                "start": 4045,
+                "end": 4046,
+                "word": "Empereur"
+            },
+            {
+                "start": 4054,
+                "end": 4055,
+                "word": "Trantor"
+            },
+            {
+                "start": 4064,
+                "end": 4065,
+                "word": "Dors"
+            },
+            {
+                "start": 4173,
+                "end": 4174,
+                "word": "Dors"
+            },
+            {
+                "start": 4241,
+                "end": 4242,
+                "word": "Trantor"
+            },
+            {
+                "start": 4254,
+                "end": 4255,
+                "word": "Rachelle"
+            },
+            {
+                "start": 4295,
+                "end": 4296,
+                "word": "Dors"
+            },
+            {
+                "start": 4316,
+                "end": 4317,
+                "word": "Rachelle"
+            },
+            {
+                "start": 4334,
+                "end": 4335,
+                "word": "Seldon"
+            },
+            {
+                "start": 4353,
+                "end": 4354,
+                "word": "Rachelle"
+            },
             {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 3746,
-                "end": 3752
+                "start": 4364,
+                "end": 4366,
+                "word": "docteur Seldon"
             },
             {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 3760,
-                "end": 3765
+                "start": 4377,
+                "end": 4378,
+                "word": "Venabili"
             },
             {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 3848,
-                "end": 3854
-            },
+                "start": 4472,
+                "end": 4474,
+                "word": "docteur Seldon"
+            },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 3985,
-                "end": 3992
-            }
-        ]
-    },
-    "chunk_8": {
-        "chunk": "poursuivit : « Rangez vos couteaux, Dors. » Dors hocha la tête mais elle obtempéra. « Et maintenant, sergent ? » Le sergent regarda le fouet neuronique, puis Seldon, et dit : « Vous êtes un homme d’honneur, docteur Seldon, et je m’en tiens à la parole donnée. » Là-dessus, claquant les talons, il rengaina son fouet neuronique. Seldon se tourna vers Davan : « Davan, oubliez, je vous prie, ce dont vous venez d’être le témoin. C’est de plein gré que tous trois nous allons accompagner le sergent",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 4028,
-                "end": 4033
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 4036,
-                "end": 4041
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 4150,
-                "end": 4157
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 4207,
-                "end": 4214
-            },
+                "start": 4536,
+                "end": 4537,
+                "word": "Hari"
+            },
             {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 4320,
-                "end": 4327
+                "start": 4702,
+                "end": 4703,
+                "word": "Kan"
             },
             {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 4342,
-                "end": 4348
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 4352,
-                "end": 4358
-            }
-        ]
-    },
-    "chunk_9": {
-        "chunk": "Thalus. Dites à Yugo Amaryl, quand vous le verrez, que je ne l’oublierai pas et que, dès que cette affaire sera réglée et que j’aurai retrouvé ma liberté d’action, je veillerai à son admission dans une Université. S’il m’est possible de faire quelque chose pour votre cause, Davan, je le ferai aussi. Et maintenant, sergent, en route ! » « Avais-tu déjà pris l’aérojet, Raych ? » demanda Hari Seldon. Raych secoua la tête, sans piper mot. Il contemplait la Couverture qui défilait sous leurs pieds à",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Thalus",
-                "start": 4489,
-                "end": 4495
-            },
-            {
-                "entity_group": "PER",
-                "word": "Yugo Amaryl",
-                "start": 4504,
-                "end": 4516
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 4763,
-                "end": 4769
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 4858,
-                "end": 4864
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 4876,
-                "end": 4888
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 4889,
-                "end": 4895
-            }
-        ]
-    },
-    "chunk_10": {
-        "chunk": "toute vitesse, avec un mélange de respect et d’effroi. A nouveau. Seldon nota à quel point Trantor était un monde de tunnels et de voies express. Pour la majorité de la population, même les plus longs déplacements se faisaient sous fugitifs cherchant à tout prix à ne pas se faire remarquer. La tactique bien connue du double-double jeu. — Trop bien connue, si vous voulez mon avis. Et il aurait envoyé un crétin comme le sergent Thalus pour le remplacer ? — Le sergent n’est pas un crétin. Il a",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 5054,
-                "end": 5061
-            },
-            {
-                "entity_group": "PER",
-                "word": "Thalus",
-                "start": 5418,
-                "end": 5425
-            }
-        ]
-    },
-    "chunk_11": {
-        "chunk": "simplement été conditionné à obéir aveuglément. Pourvu qu’il ait reçu les instructions convenables, on doit s’y fier totalement. — Tout juste, Hari : on en revient toujours au même point. Pourquoi n’a-t-il pas reçu les instructions convenables ? Je ne peux imaginer que Chetter Hummin lui ait dit de vous faire sortir de Dahl sans parler de moi. Je ne peux pas. » Seldon n’avait rien à répondre et son moral s’en ressentit. Une heure s’écoula encore avant que Dors ne remarque : « On dirait que ça se",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 5627,
-                "end": 5632
-            },
-            {
-                "entity_group": "PER",
-                "word": "Chetter Hummin",
-                "start": 5754,
-                "end": 5769
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 5805,
-                "end": 5810
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 5848,
-                "end": 5855
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 5944,
-                "end": 5949
-            }
-        ]
-    },
-    "chunk_12": {
-        "chunk": "rafraîchit dehors, le vert de la Couverture tourne au brun et j’ai l’impression qu’ils ont mis le chauffage. — Ce qui signifie ? — Dahl est située dans la zone tropicale, et manifestement nous nous dirigeons vers le nord ou vers le sud – et assez loin, en plus. Si je parvenais à voir de quel côté la nuit vient, je pourrais vous préciser notre direction. » Finalement, ils survolèrent des côtes où une frange de glace enserrait des dômes entourés par l’océan. Et puis, sans prévenir, l’aéronef se mit",
-        "entities": []
-    },
-    "chunk_13": {
-        "chunk": "à piquer. Raych hurla : « On va s’écraser ! On va s’écraser ! » Seldon sentit son estomac se nouer et il agrippa les accoudoirs de son siège. Dors, quant à elle, ne parut pas troublée. Elle remarqua : « Les pilotes n’ont pas l’air de s’inquiéter. Nous allons pénétrer dans un tunnel. » A peine l’avait-elle dit qu’effectivement les ailes de l’appareil se rabattaient pour se rétracter sous la coque et, tel un projectile, l’aérojet pénétra dans un tunnel. Instantanément, les ténèbres les",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 6497,
-                "end": 6503
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 6551,
-                "end": 6558
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 6629,
-                "end": 6634
-            }
-        ]
-    },
-    "chunk_14": {
-        "chunk": "enveloppèrent et, quelques secondes plus tard, l’éclairage intérieur s’allumait, révélant les parois qui filaient de part et d’autre de la coque. Seldon grommela : « Sans doute savent-ils que le tunnel est vide, mais je crois bien que je n’aurai jamais confiance. — Je suis certaine qu’ils en avaient l’assurance plusieurs dizaines de kilomètres avant d’y entrer, observa Dors. En tout — Non. Les bâtiments y sont plus rococos et on ne retrouve pas ici l’ambiance ― parcs et jardins ‖ du Secteur",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 7122,
-                "end": 7129
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 7348,
-                "end": 7353
-            }
-        ]
-    },
-    "chunk_15": {
-        "chunk": "impérial, si vous voyez ce que je veux dire... — Alors, où sommes-nous, Dors ? — J’ai peur que nous soyons obligés de le demander, Hari. » Le trajet était court et bientôt ils pénétrèrent dans un parc de stationnement au pied d’un imposant bâtiment de quatre étages. Une frise d’animaux imaginaires courait à son sommet, décoré de bandeaux de pierre d’un rosé chaud. C’était une façade imposante au dessin assez agréable. « Question rococo, on est servis », remarqua Seldon. Dors haussa les épaules,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 7544,
-                "end": 7549
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 7603,
-                "end": 7608
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 7939,
-                "end": 7946
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 7947,
-                "end": 7952
-            }
-        ]
-    },
-    "chunk_16": {
-        "chunk": "incertaine. Raych siffla et dit, essayant en vain de ne pas avoir l’air impressionné : « Eh, non mais regardez-moi c’te palace. » Le sergent Thalus fit signe à Seldon de le suivre. L’intéressé se carra au fond de son siège et, faisant lui aussi appel au langage universel, ouvrit largement les bras pour inclure dans son geste Dors et Raych. Le sergent hésita, comme intimidé par l’imposant porche rosé. Même sa moustache parut retomber. Puis il lança, bourru : « Eh bien, en avant tous les trois. Ma",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 7984,
-                "end": 7990
-            },
-            {
-                "entity_group": "PER",
-                "word": "Thalus",
-                "start": 8113,
-                "end": 8120
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 8132,
-                "end": 8139
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 8299,
-                "end": 8304
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 8307,
-                "end": 8313
-            }
-        ]
-    },
-    "chunk_17": {
-        "chunk": "parole d’honneur tient toujours. D’autres en revanche ne seront peut-être pas obligés de se sentir liés, vous savez. » Seldon acquiesça. « Je ne vous tiendrai responsable que de vos propres actes, sergent. » La remarque parut manifestement le toucher car, durant un instant, son visage s’illumina comme s’il envisageait l’éventualité de serrer la main de Seldon ou de lui exprimer d’une manière quelconque son approbation sincère. Il se ravisa toutefois et posa le pied sur la première marche du",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 8592,
-                "end": 8599
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 8828,
-                "end": 8835
-            }
-        ]
-    },
-    "chunk_18": {
-        "chunk": "perron. Aussitôt l’escalier se mit en branle. Seldon et Dors lui emboîtèrent le pas, conservant sans problème leur équilibre. Raych, un instant pris au dépourvu, s’empressa de monter à son tour sur l’escalator, fourra les deux mains dans les poches et se mit à siffloter, mine de rien. La porte s’ouvrit et deux femmes apparurent, encadrant le seuil, face à face. Elles étaient jeunes et séduisantes. Leurs robes, serrées à la taille par une ceinture, tombaient en plis empesés jusqu’à leurs",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 9015,
-                "end": 9022
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 9025,
-                "end": 9030
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 9095,
-                "end": 9101
-            }
-        ]
-    },
-    "chunk_19": {
-        "chunk": "chevilles, froufroutant lorsqu’elles de bonne humeur et, dans l’ensemble, elle paraissait plus maternelle qu’âgée. Elle leur demanda : « Comment allez-vous, tous les trois ? » La présence de Dors et de Raych ne l’avait pas surprise, et elle les embrassait dans un même salut. « Je vous attendais depuis un certain temps et j’avais même failli vous intercepter sur la Couverture de Streeling. Vous êtes le docteur Hari Seldon, que j’attendais de connaître avec impatience. Et vous devez être, je",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 9652,
-                "end": 9657
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 9663,
-                "end": 9669
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 9874,
-                "end": 9886
-            }
-        ]
-    },
-    "chunk_20": {
-        "chunk": "suppose, le docteur Dors Venabili, car on a signalé votre présence à ses côtés. Je crains, en revanche, de ne pas connaître l’identité du jeune homme, mais je suis ravie de faire sa connaissance. Maintenant ne perdons pas notre temps en palabres car je suis sûre que vous aimeriez d’abord vous délasser. — Et prendre un bain, madame, dit Dors avec une certaine insistance. Nous aurions tous besoin d’une bonne douche. — Oui, sans aucun doute, dit la femme. Et aussi de vous changer. Surtout le jeune",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors Venabili",
-                "start": 9976,
-                "end": 9990
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 10294,
-                "end": 10299
-            }
-        ]
-    },
-    "chunk_21": {
-        "chunk": "homme. » Elle examina Raych sans la moindre trace du mépris ou de la désapprobation qu’avaient manifestés les deux jeunes femmes. « Comment vous appelez-vous, jeune homme ? — Raych », répondit l’intéressé d’une voix légèrement étranglée. Puis il s’empressa d’ajouter, à tout hasard : « M’dame. — Quelle étrange coïncidence, dit la femme, l’œil pétillant. Un présage, peut-être. Moi-même, je me prénomme Rachelle. N’est-ce pas curieux ?... Mais venez, on va s’occuper de vous. Ensuite, nous aurons tout",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 10478,
-                "end": 10484
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 10631,
-                "end": 10637
-            },
-            {
-                "entity_group": "PER",
-                "word": "’dame",
-                "start": 10744,
-                "end": 10749
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 10859,
-                "end": 10868
-            }
-        ]
-    },
-    "chunk_22": {
-        "chunk": "notre temps pour dîner et bavarder. — Attendez, madame, dit Dors. Puis-je vous demander où nous sommes ? — Mais à Kan, quelle question ! Et, je vous en prie, appelez- moi donc Rachelle, nous serons plus à l’aise. Je n’ai jamais beaucoup goûté le cérémonial. » Dors se raidit. « Le moment est-il mal choisi pour vous poser la question ? N’est-il pas naturel que nous désirions savoir où nous sommes ? » Rachelle partit d’un agréable rire gazouillant. « Franchement, docteur Venabili, il faudrait revoir",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 11018,
-                "end": 11023
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 11134,
-                "end": 11143
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 11218,
-                "end": 11223
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 11360,
-                "end": 11369
-            },
-            {
-                "entity_group": "PER",
-                "word": "Venabili",
-                "start": 11431,
-                "end": 11440
-            }
-        ]
-    },
-    "chunk_23": {
-        "chunk": "le nom de cet endroit. Je ne vous renvoyais pas la question, j’y répondais tout simplement. Vous ne m’avez pas demandé où pour que je Le visage replet de leur hôtesse s’éclaira d’un doux sourire qui révélait des dents éclatantes ; elle remarqua : « N’allez pas vous imaginer qu’on mette dans la nourriture des additifs mycogéniens : tout ce que vous consommez est d’origine locale. Il n’y a pas sur toute la planète de secteur plus autosuffisant que Kan. Nous travaillons dur pour y parvenir. » Seldon",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 11955,
-                "end": 11962
-            }
-        ]
-    },
-    "chunk_24": {
-        "chunk": "hocha gravement la tête et répondit : « Tout ce que vous nous avez offert était succulent, Rachelle. Nous vous en sommes extrêmement reconnaissants. » En même temps, il se disait que la nourriture kanite était loin d’avoir la qualité mycogénienne. Plus que jamais, comme il l’avait murmuré plus tôt à Dors, il avait l’impression de fêter sa propre défaite. Ou celle de Hummin, ce qui paraissait revenir au même. Après tout, il s’était fait capturer par Kan, une éventualité qui avait tout",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 12053,
-                "end": 12062
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 12263,
-                "end": 12268
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 12331,
-                "end": 12338
-            },
-            {
-                "entity_group": "PER",
-                "word": "Kan",
-                "start": 12415,
-                "end": 12419
-            }
-        ]
-    },
-    "chunk_25": {
-        "chunk": "particulièrement préoccupé Hummin lors de l’incident de la Couverture. « Peut-être qu’en ma qualité d’hôtesse, reprit Rachelle, vous me pardonnerez si je vous pose des questions personnelles. Ai-je raison de supposer que vous n’êtes pas tous les trois de la même famille ? Que vous, Hari, et vous, Dors, n’êtes pas mariés et que Raych, ici présent, n’est pas votre fils ? — Nous n’avons effectivement aucun lien de parenté, confirma Seldon. Raych est né sur Trantor, je suis moi-même natif d’Hélicon",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 12478,
-                "end": 12485
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 12569,
-                "end": 12578
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 12734,
-                "end": 12739
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 12749,
-                "end": 12754
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 12780,
-                "end": 12786
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 12884,
-                "end": 12891
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 12892,
-                "end": 12898
-            }
-        ]
-    },
-    "chunk_26": {
-        "chunk": "et Dors de Cinna. — Et comment, dans ce cas, avez-vous fait connaissance ? » Seldon l’expliqua brièvement en donnant le moins de détails possible. « Bref, ajouta-t-il, rien de bien intéressant ou de romantique dans ces rencontres. — Pourtant, j’ai cru comprendre que vous auriez créé des difficultés à mon aide de camp, le sergent Thalus, quand il voulait simplement vous faire sortir de Dahl. — Je me suis attaché à Dors et Raych, dit gravement Seldon, et je n’avais pas envie d’être séparé d’eux. »",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors de Cinna",
-                "start": 12954,
-                "end": 12968
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 13028,
-                "end": 13035
-            },
-            {
-                "entity_group": "PER",
-                "word": "Thalus",
-                "start": 13282,
-                "end": 13289
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 13339,
-                "end": 13344
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 13368,
-                "end": 13373
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 13376,
-                "end": 13382
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 13397,
-                "end": 13404
-            }
-        ]
-    },
-    "chunk_27": {
-        "chunk": "Rachelle sourit : « Vous êtes un sentimental, à ce que je vois. — Absolument. Je suis sentimental. Et intrigué. — Intrigué ? s’il l’osait. Mais allons, notre discussion sérieuse devient un peu trop sérieuse. Amusons-nous. Musique ! » A ces mots retentit dans la pièce, en sourdine, une allègre mélodie instrumentale. Rachelle se pencha vers Raych et lui dit doucement : « Mon garçon, si tu n’es pas à l’aise avec la fourchette, sers-toi de ta cuillère ou de tes doigts. Je ne m’en formaliserai pas. —",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 13453,
-                "end": 13461
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 13769,
-                "end": 13778
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 13793,
-                "end": 13799
-            }
-        ]
-    },
-    "chunk_28": {
-        "chunk": "Bien, m’dame, dit Raych en s’étranglant à moitié mais Dors, qui avait attiré son regard, articula en silence : « Ta fourchette. » Raych garda la fourchette. « La musique est superbe, madame, dit Dors, évitant délibérément toute familiarité, mais il ne faut pas qu’elle nous distraie. J’ai toujours pensé, dès le début, que notre poursuivant pouvait être au service du secteur de Kan. Vous ne seriez certainement pas aussi bien renseignée si Kan n’était pas le premier moteur. » Rachelle éclata de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 13971,
-                "end": 13977
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 14007,
-                "end": 14012
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 14083,
-                "end": 14089
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 14148,
-                "end": 14153
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 14431,
-                "end": 14440
-            }
-        ]
-    },
-    "chunk_29": {
-        "chunk": "rire. « Kan a ses yeux et ses oreilles partout, bien sûr, mais nous ne sommes pas les poursuivants. Sinon, nous vous aurions récupérés sans coup férir, comme ce fut le cas au bout du compte à Dahl ; là, nous étions bel et bien à vos trousses. En revanche, lorsqu’une poursuite échoue, lorsqu’une main manque sa proie, vous pouvez être certain que c’est Demerzel qui est derrière. — Le tenez-vous en si piètre estime ? s’étonna Dors. — Eh oui. Ça vous étonne ? Nous l’avons battu. — Vous ? Ou le",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Kan",
-                "start": 14458,
-                "end": 14462
-            },
-            {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 14803,
-                "end": 14812
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 14877,
-                "end": 14882
-            }
-        ]
-    },
-    "chunk_30": {
-        "chunk": "secteur de Kan ? — Le secteur, évidemment, mais dès l’instant où Kan est victorieuse, je suis moi-même victorieuse. — Comme c’est étrange, remarqua Dors. L’opinion semble prévaloir dans tout Trantor que les habitants de Kan ne se préoccupent guère de victoire, de défaite ou de quoi que ce soit. On a le sentiment qu’il n’y a qu’une seule volonté, une seule poigne qui compte à Kan, celle du Maire. Vous, ou n’importe quel autre Kanite, ne devez pas peser lourd en comparaison. » Large sourire de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 15093,
-                "end": 15098
-            }
-        ]
-    },
-    "chunk_31": {
-        "chunk": "Rachelle. Elle prit le temps de contempler Raych avec bienveillance et de lui pincer la joue avant de répondre : « Si vous croyez que notre Maire est un autocrate et qu’une seule volonté dirige Kan, vous avez peut-être bien — J’en suis persuadée comme je suis sûre que tu ressembleras énormément à mon... vieil ami, et mieux vaudra alors que je n’aie pas l’occasion de te voir. Et maintenant, le dîner est terminé et il serait temps pour toi de regagner ta chambre, Raych. Tu pourras regarder un peu",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 15443,
-                "end": 15451
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 15485,
-                "end": 15491
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maire",
-                "start": 15582,
-                "end": 15588
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 15908,
-                "end": 15914
-            }
-        ]
-    },
-    "chunk_32": {
-        "chunk": "l’holovision si tu as envie. Je doute que tu saches lire... » Raych rougit. « Je saurai lire un jour. Maître Seldon l’a dit. — Alors, s’il l’a dit, je suis sûre que tu sauras. » Une jeune femme s’approcha de Raych, après une révérence respectueuse à l’adresse de Rachelle. Seldon n’avait pas remarqué qu’on l’avait appelée. « J’peux pas rester avec Maître Seldon et m’dame Venabili ? demanda Raych. — Tu les verras plus tard, dit Rachelle, mais le Maître, la dame et moi nous avons à discuter",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 16004,
-                "end": 16010
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maître Seldon",
-                "start": 16044,
-                "end": 16058
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 16150,
-                "end": 16156
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 16205,
-                "end": 16214
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 16215,
-                "end": 16222
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maître Seldon",
-                "start": 16291,
-                "end": 16305
-            },
-            {
-                "entity_group": "PER",
-                "word": "Venabili",
-                "start": 16315,
-                "end": 16324
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 16334,
-                "end": 16340
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 16372,
-                "end": 16381
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maître",
-                "start": 16390,
-                "end": 16397
-            }
-        ]
-    },
-    "chunk_33": {
-        "chunk": "maintenant... alors, il faut que tu y ailles. » Silencieusement, Dors lui fit signe d’obéir et, avec une grimace, le garçon se glissa hors de son siège et suivit la servante. Dès que Raych fut parti, Rachelle se tourna vers ses hôtes et leur dit : « Le garçon ne risque rien, évidemment, il sera bien traité. N’ayez aucune crainte à son sujet, je vous en prie. Et je ne risque rien, moi non plus : comme cette servante, une douzaine d’hommes en armes peuvent surgir – et bien plus vite – au premier",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 16500,
-                "end": 16505
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 16618,
-                "end": 16624
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 16635,
-                "end": 16644
-            }
-        ]
-    },
-    "chunk_34": {
-        "chunk": "appel. Je veux que ce soit bien compris. » Seldon remarqua sur un ton égal : « Nous ne songions certainement pas à vous attaquer, Rachelle – ou bien dois-je dire à présent ― madame le Maire ‖ ? — Restons-en à Rachelle. J’ai cru comprendre que vous êtes un véritable lutteur, Hari, et que vous, Dors, savez fort bien manier les couteaux que nous avons d’ailleurs subtilisés dans votre chambre. J’aimerais mieux que vous ne comptiez pas trop sur vos talents en ce domaine car je préférerais avoir devant",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 16977,
-                "end": 16984
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 17064,
-                "end": 17073
-            },
-            {
-                "entity_group": "PER",
-                "word": "le Maire",
-                "start": 17115,
-                "end": 17124
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 17143,
-                "end": 17152
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 17209,
-                "end": 17214
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17228,
-                "end": 17233
-            }
-        ]
-    },
-    "chunk_35": {
-        "chunk": "moi un Hari amical, sans armes, et vivant... — Tout le monde sait pertinemment, madame le Maire, remarqua Dors sans se départir de son hostilité, que le maître de Kan, depuis quarante ans, est Mannix, quatrième du nom, qu’il est toujours en vie et en pleine possession de ses facultés. Alors qu’êtes-vous au juste ? occasions, nous avons effectivement détenu le trône impérial et eu des Empereurs. — Les vidéo-livres d’histoire, remarqua Dors, qualifient en général les dirigeants de Kan d’―",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 17443,
-                "end": 17448
-            },
-            {
-                "entity_group": "PER",
-                "word": "le Maire",
-                "start": 17523,
-                "end": 17532
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17542,
-                "end": 17547
-            },
-            {
-                "entity_group": "PER",
-                "word": "Mannix",
-                "start": 17629,
-                "end": 17636
-            },
-            {
-                "entity_group": "PER",
-                "word": "Empereurs",
-                "start": 17823,
-                "end": 17833
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17874,
-                "end": 17879
-            }
-        ]
-    },
-    "chunk_36": {
-        "chunk": "anti-empereurs ‖, jamais reconnus par la masse de l’Empire. — Tout dépend du vidéo-livre et de son auteur. A l’avenir, nous nous chargerons du travail, car ce trône qui fut nôtre sera nôtre à nouveau. — Pour y parvenir, vous devrez déclencher une guerre civile. — Il n’y a pas grand risque, observa Rachelle en se remettant à sourire. C’est ce que je dois vous expliquer parce que je compte sur l’aide du docteur Seldon pour prévenir une telle catastrophe. Toute sa vie, mon père, Mannix IV, a été un",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 18227,
-                "end": 18236
-            },
-            {
-                "entity_group": "PER",
-                "word": "docteur Seldon",
-                "start": 18333,
-                "end": 18348
-            },
-            {
-                "entity_group": "PER",
-                "word": "Mannix IV",
-                "start": 18409,
-                "end": 18419
-            }
-        ]
-    },
-    "chunk_37": {
-        "chunk": "homme de paix. Il a toujours été loyal envers l’occupant du Palais impérial et il a tout fait pour que Kan reste un pilier, solide et prospère, de l’économie trantorienne, pour le bien de l’Empire tout entier. — Que je sache, l’Empereur ne lui a pas pour autant témoigné plus de confiance, remarqua Dors. — J’en suis certaine, dit Rachelle sans se départir de son calme, car les Empereurs du temps de mon père se savaient des usurpateurs issus d’une lignée usurpatrice. Des usurpateurs ne peuvent se",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 18658,
-                "end": 18666
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 18728,
-                "end": 18733
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 18760,
-                "end": 18769
-            },
-            {
-                "entity_group": "PER",
-                "word": "Empereurs",
-                "start": 18808,
-                "end": 18818
-            }
-        ]
-    },
-    "chunk_38": {
-        "chunk": "fier aux prétendants légitimes. Pourtant mon père a maintenu la paix. Il a, bien sûr, développé et entraîné de superbes forces de sécurité afin de préserver la paix, la prospérité et la stabilité de ce secteur, et les autorités impériales l’ont laissé faire parce qu’elles voulaient une Kan paisible, prospère et stable – et surtout loyale. — Mais, l’est-elle, loyale ? s’enquit Dors. — Au véritable Empereur, bien sûr. Et nous avons aujourd’hui atteint le stade où notre puissance nous permet de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 19308,
-                "end": 19313
-            },
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 19329,
-                "end": 19338
-            }
-        ]
-    },
-    "chunk_39": {
-        "chunk": "renverser le gouvernement en un clin d’œil – dans une attaque éclair, en fait. Avant qu’on ait pu seulement parler de « guerre civile », nous aurons un véritable Empereur – ou une impératrice, si vous préférez – et Trantor se retrouvera tout aussi paisible qu’auparavant. » Dors hocha la tête. « Puis-je vous éclairer de mes lumières d’historienne ? qu’ils ne sont que des néants lointains en ce qui nous concerne ? Notre propre monde surpeuplé – notre cité planétaire – est assez galactique pour",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 19588,
-                "end": 19597
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 19700,
-                "end": 19705
-            }
-        ]
-    },
-    "chunk_40": {
-        "chunk": "nous. Nous avons tout ce qu’il nous faut pour subsister. Quant au reste de la Galaxie, qu’il vole en morceaux si ça lui chante. Chaque minable galonné peut en récupérer un morceau pour lui. Ils n’auront pas besoin de se battre. Il y en aura bien assez pour tous. — Mais ils se battront tout de même, objecta Dors. Chacun refusera de se contenter de sa province. Chacun craindra que son voisin ne se contente pas de la sienne. Chacun se sentira en danger et rêvera d’une autorité galactique comme du",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 20231,
-                "end": 20236
-            }
-        ]
-    },
-    "chunk_41": {
-        "chunk": "seul moyen de garantir la sécurité. Voilà ce qui est certain, madame l’impératrice de Rien. Il y aura des guerres interminables où vous serez irrémédiablement entraînées, Trantor et vous – pour la ruine générale. — Ça se pourrait, répondit Rachelle avec un mépris manifeste, pour peu qu’on ne voie pas plus loin que vous, pour peu qu’on s’appuie sur les leçons ordinaires de l’histoire. — Qu’y a-t-il au-delà ? rétorqua Dors. Qui voudrait s’appuyer sur autre chose que sur les leçons de l’histoire ? —",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "atrice de Rien",
-                "start": 20499,
-                "end": 20513
-            },
-            {
-                "entity_group": "PER",
-                "word": "Trantor",
-                "start": 20593,
-                "end": 20601
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 20662,
-                "end": 20671
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 20842,
-                "end": 20847
-            }
-        ]
-    },
-    "chunk_42": {
-        "chunk": "Qui ? s’exclama Rachelle. Eh bien, lui ! » Et son bras se tendit, l’index pointé vers Seldon. « Moi ? dit l’intéressé. Je vous ai déjà dit que la psychohistoire... » Rachelle l’interrompit : « Ne vous répétez pas, mon bon docteur Seldon. Nous n’y gagnerons rien. Croyez-vous, docteur Venabili, que mon père n’aurait pas été conscient du danger de guerres civiles interminables ? Croyez-vous qu’il n’aurait pas consacré sa grande intelligence à trouver le moyen d’empêcher une telle chose ? Ça fait dix",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 20940,
-                "end": 20949
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 21010,
-                "end": 21017
-            },
-            {
-                "entity_group": "PER",
-                "word": "Rachelle",
-                "start": 21090,
-                "end": 21099
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 21154,
-                "end": 21161
-            },
-            {
-                "entity_group": "PER",
-                "word": "Venabili",
-                "start": 21208,
-                "end": 21217
-            }
-        ]
-    },
-    "chunk_43": {
-        "chunk": "ans qu’il se prépare à mettre la main sur l’Empire en l’espace d’un jour. Il ne lui manquait que la garantie de sécurité par-delà la victoire. — Que vous ne pouvez pas avoir. — Que nous avons eue dès l’instant où nous avons entendu la contribution du docteur Seldon au Congrès décennal. J’ai aussitôt compris que c’était ce qu’il nous fallait. Mon père était trop âgé pour en saisir immédiatement la portée. Mais quand je la lui ai expliquée, il l’a vue à son tour et dès ce moment il m’a",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "docteur Seldon",
-                "start": 21677,
-                "end": 21692
-            }
-        ]
-    },
-    "chunk_44": {
-        "chunk": "officiellement transmis ses pouvoirs. Aussi est-ce à vous, Hari, liberté au reste de la Galaxie, que chacune de ses parties aille son propre chemin selon sa culture et ses coutumes. La Galaxie redeviendra un ensemble harmonieux, librement uni par les liens du commerce, du tourisme et de la communication, et l’on évitera le funeste destin d’un éclatement désastreux qui nous menace sous l’emprise du pouvoir actuel, à peine capable de maintenir même la cohésion d’ensemble. Mon ambition est modérée :",
-        "entities": []
-    },
-    "chunk_45": {
-        "chunk": "un seul monde, non des millions ; la paix, non la guerre ; la liberté, non l’esclavage. Réfléchissez-y et aidez-moi. — Pourquoi la Galaxie devrait-elle me croire plus que vous ? Personne ne me connaît et aucun des commandants de la flotte ne se laissera impressionner par le seul mot de « psychohistoire ». — Vous ne convaincrez pas tout de suite ; mais je n’entends pas agir tout de suite. La maison de Kan a patienté des milliers d’années, elle peut bien attendre quelques milliers de jours.",
-        "entities": []
-    },
-    "chunk_46": {
-        "chunk": "Collaborez avec moi et je rendrai votre nom célèbre. Je ferai rayonner les promesses de la psychohistoire sur tous les mondes et, au moment opportun, quand j’aurai décidé que l’instant d’agir est venu, vous prononcerez votre prédiction et nous frapperons. Alors, en un éclair aux yeux de l’histoire, la Galaxie renaîtra sous un ordre nouveau qui la rendra stable et heureuse pour l’éternité. Allons, Hari, pouvez-vous me refuser ça ? »",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Hari",
-                "start": 23311,
-                "end": 23316
+                "start": 4797,
+                "end": 4798,
+                "word": "Hari"
             }
         ]
     },
     "entities": [
-        "Yugo Amaryl",
-        "Sergent",
-        "’dame",
-        "Maître",
-        "Hari Seldon",
         "Dors",
-        "Hari",
-        "Mannix IV",
-        "Demerzel",
-        "Dors Venabili",
-        "Hummin",
-        "Venabili",
-        "Mannix",
-        "Raych",
-        "Trantor",
-        "atrice de Rien",
-        "Chetter Hummin",
-        "docteur Seldon",
-        "Kan",
-        "Dors de Cinna",
-        "Empereurs",
-        "le Maire",
         "Maître Seldon",
-        "Mycogène",
-        "Thalus",
-        "Maire",
-        "Rachelle",
-        "Dahl",
-        "Seldon",
-        "Empereur",
+        "Venabili",
+        "le Maire",
+        "le Maître",
         "Emmer Thalus",
-        "Davan"
+        "Trantor",
+        "les Empereurs",
+        "Dors Venabili",
+        "Yugo Amaryl",
+        "Dors de Cinna",
+        "Rachelle",
+        "Maire",
+        "Chetter Hummin",
+        "Hari Seldon",
+        "Hari",
+        "Kan",
+        "Mannix IV",
+        "docteur Seldon",
+        "dame",
+        "Mannix",
+        "Hummin",
+        "Davan",
+        "Seldon",
+        "Thalus",
+        "le docteur Seldon",
+        "une Kan",
+        "un Hari",
+        "Sergent",
+        "Empereur",
+        "dame </PER><PER> Venabili",
+        "Demerzel",
+        "Raych",
+        "Mycogène",
+        "Dahl",
+        "Empereurs"
     ],
     "aliases": [
         [
+            "Kan",
+            "une Kan"
+        ],
+        [
+            "Trantor"
+        ],
+        [
             "Empereurs",
+            "les Empereurs",
             "Empereur"
         ],
         [
@@ -1241,17 +990,15 @@
             "Mannix"
         ],
         [
-            "Kan"
-        ],
-        [
             "Mycogène"
         ],
         [
             "Seldon",
+            "le docteur Seldon",
             "docteur Seldon",
             "Hari",
             "Maître Seldon",
-            "Maître",
+            "un Hari",
             "Hari Seldon"
         ],
         [
@@ -1284,7 +1031,8 @@
             "Dahl"
         ],
         [
-            "’dame"
+            "dame",
+            "dame </PER><PER> Venabili"
         ],
         [
             "Rachelle"
@@ -1297,13 +1045,46 @@
             "le Maire"
         ],
         [
-            "atrice de Rien"
-        ],
-        [
-            "Trantor"
+            "le Maître"
         ]
     ],
     "cooccurences": [
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Mannix IV"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Empereurs"
+        ],
+        [
+            "Trantor",
+            "Mannix IV"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Mannix IV"
+        ],
         [
             "Empereurs",
             "Mannix IV"
@@ -1313,12 +1094,108 @@
             "Kan"
         ],
         [
+            "Empereurs",
+            "Mycogène"
+        ],
+        [
+            "Empereurs",
+            "Seldon"
+        ],
+        [
             "Mannix IV",
             "Kan"
         ],
         [
+            "Mannix IV",
+            "Mycogène"
+        ],
+        [
+            "Mannix IV",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
             "Mycogène",
             "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Emmer Thalus"
+        ],
+        [
+            "Mycogène",
+            "Hari Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Thalus"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "Emmer Thalus"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "Emmer Thalus"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "le docteur Seldon"
         ],
         [
             "Emmer Thalus",
@@ -1329,6 +1206,22 @@
             "Seldon"
         ],
         [
+            "Emmer Thalus",
+            "Thalus"
+        ],
+        [
+            "Emmer Thalus",
+            "Dors"
+        ],
+        [
+            "Emmer Thalus",
+            "Sergent"
+        ],
+        [
+            "Emmer Thalus",
+            "le docteur Seldon"
+        ],
+        [
             "Hari Seldon",
             "Seldon"
         ],
@@ -1337,12 +1230,56 @@
             "Thalus"
         ],
         [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Sergent"
+        ],
+        [
+            "Hari Seldon",
+            "le docteur Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "le docteur Seldon"
+        ],
+        [
             "Seldon",
             "Thalus"
         ],
         [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "le docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "le docteur Seldon"
+        ],
+        [
             "Thalus",
             "Dors"
+        ],
+        [
+            "Thalus",
+            "Sergent"
+        ],
+        [
+            "Thalus",
+            "le docteur Seldon"
+        ],
+        [
+            "Thalus",
+            "le docteur Seldon"
         ],
         [
             "Dors",
@@ -1350,11 +1287,75 @@
         ],
         [
             "Dors",
+            "le docteur Seldon"
+        ],
+        [
+            "Dors",
+            "le docteur Seldon"
+        ],
+        [
+            "Sergent",
+            "le docteur Seldon"
+        ],
+        [
+            "Sergent",
+            "le docteur Seldon"
+        ],
+        [
+            "Sergent",
+            "Dors"
+        ],
+        [
+            "le docteur Seldon",
+            "Dors"
+        ],
+        [
+            "le docteur Seldon",
             "Raych"
+        ],
+        [
+            "le docteur Seldon",
+            "Dors"
+        ],
+        [
+            "le docteur Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Sergent"
         ],
         [
             "Seldon",
             "Raych"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Raych",
+            "Sergent"
+        ],
+        [
+            "Sergent",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
         ],
         [
             "Raych",
@@ -1365,10 +1366,118 @@
             "Dors"
         ],
         [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
             "Dors",
             "Raych"
         ],
         [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Yugo Amaryl"
+        ],
+        [
             "Seldon",
             "Dors"
         ],
@@ -1377,12 +1486,8 @@
             "Dors"
         ],
         [
-            "Dors",
-            "Seldon"
-        ],
-        [
-            "Dors",
-            "Seldon"
+            "Seldon",
+            "docteur Seldon"
         ],
         [
             "Seldon",
@@ -1393,7 +1498,147 @@
             "Davan"
         ],
         [
-            "Thalus",
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "docteur Seldon",
+            "Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Davan"
+        ],
+        [
+            "docteur Seldon",
+            "Davan"
+        ],
+        [
+            "docteur Seldon",
+            "Thalus"
+        ],
+        [
+            "docteur Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "docteur Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Thalus"
+        ],
+        [
+            "Davan",
             "Yugo Amaryl"
         ],
         [
@@ -1401,16 +1646,200 @@
             "Raych"
         ],
         [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Thalus"
+        ],
+        [
+            "Davan",
+            "Yugo Amaryl"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Thalus",
+            "Yugo Amaryl"
+        ],
+        [
+            "Thalus",
+            "Davan"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Thalus",
+            "Hari Seldon"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl",
+            "Davan"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl",
+            "Hari Seldon"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Trantor"
+        ],
+        [
             "Raych",
             "Hari Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Thalus"
         ],
         [
             "Hari Seldon",
             "Raych"
         ],
         [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Trantor"
+        ],
+        [
+            "Hari Seldon",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Chetter Hummin"
+        ],
+        [
+            "Trantor",
+            "Thalus"
+        ],
+        [
+            "Trantor",
+            "Hari"
+        ],
+        [
+            "Trantor",
+            "Chetter Hummin"
+        ],
+        [
+            "Trantor",
+            "Dahl"
+        ],
+        [
+            "Thalus",
+            "Hari"
+        ],
+        [
+            "Thalus",
+            "Chetter Hummin"
+        ],
+        [
+            "Thalus",
+            "Dahl"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Dors"
+        ],
+        [
+            "Thalus",
+            "Dahl"
+        ],
+        [
             "Hari",
             "Chetter Hummin"
+        ],
+        [
+            "Hari",
+            "Dahl"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dahl"
         ],
         [
             "Chetter Hummin",
@@ -1421,12 +1850,220 @@
             "Seldon"
         ],
         [
+            "Chetter Hummin",
+            "Dors"
+        ],
+        [
+            "Chetter Hummin",
+            "Dahl"
+        ],
+        [
             "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
             "Seldon"
         ],
         [
             "Seldon",
             "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Thalus"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Dors"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
         ],
         [
             "Raych",
@@ -1437,27 +2074,7 @@
             "Dors"
         ],
         [
-            "Dors",
-            "Hari"
-        ],
-        [
             "Seldon",
-            "Dors"
-        ],
-        [
-            "Seldon",
-            "Raych"
-        ],
-        [
-            "Dors",
-            "Raych"
-        ],
-        [
-            "Thalus",
-            "Seldon"
-        ],
-        [
-            "Dors",
             "Raych"
         ],
         [
@@ -1469,20 +2086,168 @@
             "Raych"
         ],
         [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
             "Dors",
             "Raych"
         ],
         [
             "Dors",
-            "Raych"
+            "Hari Seldon"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Raych",
+            "Dors Venabili"
         ],
         [
             "Hari Seldon",
             "Dors Venabili"
         ],
         [
-            "’dame",
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "dame"
+        ],
+        [
+            "Dors",
             "Rachelle"
+        ],
+        [
+            "Raych",
+            "dame"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "dame"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Rachelle"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Rachelle"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Venabili"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Venabili"
         ],
         [
             "Rachelle",
@@ -1493,24 +2258,252 @@
             "Venabili"
         ],
         [
-            "Seldon",
+            "Dors",
             "Rachelle"
         ],
         [
             "Dors",
-            "Hummin"
+            "Venabili"
         ],
         [
-            "Hummin",
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
             "Kan"
+        ],
+        [
+            "Venabili",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dors"
         ],
         [
             "Kan",
             "Hummin"
         ],
         [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Kan"
+        ],
+        [
             "Hummin",
             "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Dors de Cinna"
+        ],
+        [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors de Cinna"
+        ],
+        [
+            "Hummin",
+            "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Dors de Cinna"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Trantor"
+        ],
+        [
+            "Rachelle",
+            "Dors de Cinna"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
         ],
         [
             "Hari",
@@ -1521,10 +2514,62 @@
             "Raych"
         ],
         [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Trantor"
+        ],
+        [
+            "Hari",
+            "Dors de Cinna"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
             "Dors",
             "Raych"
         ],
         [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Dors de Cinna"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Dors de Cinna"
+        ],
+        [
             "Raych",
             "Seldon"
         ],
@@ -1534,15 +2579,87 @@
         ],
         [
             "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
             "Dors de Cinna"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Trantor"
         ],
         [
             "Raych",
             "Dors de Cinna"
         ],
         [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Trantor",
+            "Dors de Cinna"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Thalus"
+        ],
+        [
             "Dors de Cinna",
             "Seldon"
+        ],
+        [
+            "Dors de Cinna",
+            "Thalus"
+        ],
+        [
+            "Dors de Cinna",
+            "Dahl"
+        ],
+        [
+            "Dors de Cinna",
+            "Dors"
+        ],
+        [
+            "Dors de Cinna",
+            "Raych"
+        ],
+        [
+            "Dors de Cinna",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
         ],
         [
             "Thalus",
@@ -1561,6 +2678,10 @@
             "Seldon"
         ],
         [
+            "Thalus",
+            "Rachelle"
+        ],
+        [
             "Dahl",
             "Dors"
         ],
@@ -1571,6 +2692,10 @@
         [
             "Dahl",
             "Seldon"
+        ],
+        [
+            "Dahl",
+            "Rachelle"
         ],
         [
             "Dors",
@@ -1585,8 +2710,16 @@
             "Rachelle"
         ],
         [
+            "Dors",
+            "Rachelle"
+        ],
+        [
             "Raych",
             "Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
         ],
         [
             "Raych",
@@ -1597,23 +2730,259 @@
             "Rachelle"
         ],
         [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
             "Rachelle",
             "Raych"
         ],
         [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "dame"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "dame"
+        ],
+        [
             "Raych",
             "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Raych"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "dame",
+            "Raych"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Rachelle"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Kan"
         ],
         [
             "Dors",
             "Raych"
         ],
         [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
             "Raych",
             "Dors"
         ],
         [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
             "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Dahl"
+        ],
+        [
+            "Rachelle",
+            "Demerzel"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Demerzel"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
             "Kan"
         ],
         [
@@ -1621,8 +2990,148 @@
             "Dors"
         ],
         [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Maire"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Trantor",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Maire",
+            "Rachelle"
+        ],
+        [
+            "Maire",
+            "Raych"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
             "Rachelle",
             "Raych"
+        ],
+        [
+            "Rachelle",
+            "Maire"
+        ],
+        [
+            "Rachelle",
+            "Kan"
         ],
         [
             "Raych",
@@ -1630,6 +3139,22 @@
         ],
         [
             "Raych",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Raych",
             "Maître Seldon"
         ],
         [
@@ -1641,20 +3166,52 @@
             "Seldon"
         ],
         [
-            "Rachelle",
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "le Maître"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
             "Seldon"
         ],
         [
-            "Rachelle",
+            "Raych",
             "Maître Seldon"
         ],
         [
-            "Seldon",
-            "Maître Seldon"
+            "Raych",
+            "dame </PER><PER> Venabili"
         ],
         [
-            "Maître Seldon",
-            "Venabili"
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "le Maître"
+        ],
+        [
+            "Raych",
+            "Dors"
         ],
         [
             "Maître Seldon",
@@ -1666,34 +3223,26 @@
         ],
         [
             "Maître Seldon",
-            "Maître"
+            "Seldon"
         ],
         [
-            "Venabili",
+            "Maître Seldon",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Maître Seldon",
             "Raych"
         ],
         [
-            "Venabili",
+            "Maître Seldon",
             "Rachelle"
         ],
         [
-            "Venabili",
-            "Maître"
+            "Maître Seldon",
+            "le Maître"
         ],
         [
-            "Raych",
-            "Rachelle"
-        ],
-        [
-            "Raych",
-            "Maître"
-        ],
-        [
-            "Rachelle",
-            "Maître"
-        ],
-        [
-            "Maître",
+            "Maître Seldon",
             "Dors"
         ],
         [
@@ -1701,12 +3250,280 @@
             "Rachelle"
         ],
         [
-            "Seldon",
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "le Maître"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
             "Rachelle"
         ],
         [
             "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Maître Seldon"
+        ],
+        [
+            "Rachelle",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "le Maître"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "le Maître"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Maître Seldon",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "Maître Seldon",
+            "le Maître"
+        ],
+        [
+            "Maître Seldon",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Raych"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Rachelle"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "le Maître"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Dors"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Raych"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "le Maître"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "le Maître"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "le Maître",
+            "Dors"
+        ],
+        [
+            "le Maître",
+            "Raych"
+        ],
+        [
+            "le Maître",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
             "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "le Maire"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "un Hari"
+        ],
+        [
+            "Seldon",
+            "le Maire"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "un Hari"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
         ],
         [
             "le Maire",
@@ -1721,6 +3538,22 @@
             "Dors"
         ],
         [
+            "le Maire",
+            "un Hari"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Mannix"
+        ],
+        [
             "Rachelle",
             "Hari"
         ],
@@ -1729,8 +3562,32 @@
             "Dors"
         ],
         [
+            "Rachelle",
+            "un Hari"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Mannix"
+        ],
+        [
             "Hari",
             "Dors"
+        ],
+        [
+            "Hari",
+            "un Hari"
         ],
         [
             "Hari",
@@ -1741,30 +3598,254 @@
             "Dors"
         ],
         [
-            "le Maire",
-            "Dors"
+            "Hari",
+            "Kan"
         ],
         [
-            "le Maire",
+            "Hari",
             "Mannix"
         ],
         [
             "Dors",
+            "un Hari"
+        ],
+        [
+            "Dors",
+            "le Maire"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
             "Mannix"
+        ],
+        [
+            "un Hari",
+            "le Maire"
+        ],
+        [
+            "un Hari",
+            "Dors"
+        ],
+        [
+            "un Hari",
+            "Kan"
+        ],
+        [
+            "un Hari",
+            "Mannix"
+        ],
+        [
+            "un Hari",
+            "Empereurs"
+        ],
+        [
+            "un Hari",
+            "Dors"
+        ],
+        [
+            "un Hari",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Mannix"
+        ],
+        [
+            "le Maire",
+            "Empereurs"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Mannix"
+        ],
+        [
+            "Dors",
+            "Empereurs"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Mannix"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Mannix",
+            "Empereurs"
+        ],
+        [
+            "Mannix",
+            "Dors"
+        ],
+        [
+            "Mannix",
+            "Kan"
         ],
         [
             "Empereurs",
             "Dors"
         ],
         [
+            "Empereurs",
+            "Kan"
+        ],
+        [
+            "Empereurs",
+            "Rachelle"
+        ],
+        [
+            "Empereurs",
+            "docteur Seldon"
+        ],
+        [
+            "Empereurs",
+            "Mannix IV"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Mannix IV"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "docteur Seldon"
+        ],
+        [
+            "Kan",
+            "Mannix IV"
+        ],
+        [
             "Rachelle",
             "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Mannix IV"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Empereur"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "les Empereurs"
         ],
         [
             "docteur Seldon",
             "Mannix IV"
         ],
         [
+            "docteur Seldon",
+            "Kan"
+        ],
+        [
+            "docteur Seldon",
+            "Empereur"
+        ],
+        [
+            "docteur Seldon",
+            "Dors"
+        ],
+        [
+            "docteur Seldon",
+            "Rachelle"
+        ],
+        [
+            "docteur Seldon",
+            "les Empereurs"
+        ],
+        [
+            "Mannix IV",
+            "Kan"
+        ],
+        [
+            "Mannix IV",
+            "Empereur"
+        ],
+        [
+            "Mannix IV",
+            "Dors"
+        ],
+        [
+            "Mannix IV",
+            "Rachelle"
+        ],
+        [
+            "Mannix IV",
+            "les Empereurs"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "les Empereurs"
+        ],
+        [
             "Empereur",
             "Dors"
         ],
@@ -1773,56 +3854,192 @@
             "Rachelle"
         ],
         [
+            "Empereur",
+            "les Empereurs"
+        ],
+        [
             "Dors",
             "Rachelle"
         ],
         [
             "Dors",
-            "Empereurs"
+            "les Empereurs"
         ],
         [
             "Rachelle",
-            "Empereurs"
+            "les Empereurs"
+        ],
+        [
+            "Rachelle",
+            "une Kan"
+        ],
+        [
+            "les Empereurs",
+            "une Kan"
+        ],
+        [
+            "une Kan",
+            "Dors"
+        ],
+        [
+            "une Kan",
+            "Empereur"
+        ],
+        [
+            "une Kan",
+            "Empereur"
+        ],
+        [
+            "une Kan",
+            "Trantor"
+        ],
+        [
+            "une Kan",
+            "Dors"
         ],
         [
             "Dors",
             "Empereur"
         ],
         [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Trantor"
+        ],
+        [
             "Empereur",
             "Dors"
         ],
         [
-            "atrice de Rien",
+            "Empereur",
             "Trantor"
         ],
         [
+            "Empereur",
+            "Dors"
+        ],
+        [
             "Trantor",
-            "Rachelle"
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Trantor"
         ],
         [
             "Dors",
             "Rachelle"
         ],
         [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
             "Rachelle",
             "Seldon"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
         ],
         [
             "Seldon",
             "Rachelle"
         ],
         [
-            "Rachelle",
-            "Seldon"
-        ],
-        [
-            "Rachelle",
-            "Venabili"
+            "Seldon",
+            "docteur Seldon"
         ],
         [
             "Seldon",
             "Venabili"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "docteur Seldon",
+            "Venabili"
+        ],
+        [
+            "Venabili",
+            "docteur Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Hari"
         ]
     ]
 }

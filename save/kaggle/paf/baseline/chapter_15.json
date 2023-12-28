@@ -1,890 +1,676 @@
 {
     "chunk_0": {
         "chunk": "Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas",
-        "entities": []
-    },
-    "chunk_1": {
-        "chunk": "grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra. Son signal à la porte fut (ou parut) bien timide. Le timbre ne retentit pas longtemps. Seldon",
         "entities": [
             {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 571,
-                "end": 583
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 624,
-                "end": 636
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors Venabili",
-                "start": 639,
-                "end": 653
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 795,
-                "end": 804
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 863,
-                "end": 870
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 991,
-                "end": 998
-            }
-        ]
-    },
-    "chunk_2": {
-        "chunk": "ouvrit la porte et lança plaisamment : « Bien le bonsoir, Maître Tisalver. Et Maîtresse. » Celle-ci se tenait juste derrière son mari, le front plissé de rides perplexes. Comme hésitant sur la conduite à tenir, Tisalver hasarda : « Vous allez bien, Maîtresse Venabili et vous ? » Il hochait la tête, comme pour tenter de suggérer par la gestuelle une réponse affirmative. « Tout à fait bien. Nous avons fait l’aller-retour à Billibotton sans aucun problème et nous nous sommes lavés et changés. Il ne",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Maître Tisalver",
-                "start": 1056,
-                "end": 1072
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse",
-                "start": 1076,
-                "end": 1086
-            },
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 1209,
-                "end": 1218
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Venabili",
-                "start": 1247,
-                "end": 1266
-            }
-        ]
-    },
-    "chunk_3": {
-        "chunk": "reste aucune odeur. » Ce disant, Seldon haussa le — Mon amour, intervint son mari, apaisant, ne fâchons pas nos... — Et pourquoi ? cracha-t-elle avec mépris. Ses couteaux te font peur ? Il ferait beau voir qu’elle s’en serve. — Je n’ai aucune intention de m’en servir ici, rétorqua Dors en reniflant aussi fort que son interlocutrice. De quelle racaille parlez-vous ? — Ce que veut dire mon épouse, c’est qu’un garnement de Billibotton – du moins, à en juger par son apparence – désire vous voir et",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 1532,
-                "end": 1539
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 1781,
-                "end": 1786
-            }
-        ]
-    },
-    "chunk_4": {
-        "chunk": "que nous ne sommes pas accoutumés à ce genre de choses dans le quartier. Cela nuit à notre standing. » Cela dit sur un ton d’excuse. « Eh bien, Maître Tisalver, dit Seldon, nous allons sortir, voir de quoi il retourne et renvoyer ce garçon à ses affaires dès que... — Non, attendez, coupa Dors exaspérée. Nous sommes dans nos appartements. Nous avons payé pour cela. C’est à nous de décider qui nous rend ou non visite. S’il y a dehors un jeune homme de Billibotton, c’est tout de même un Dahlite.",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Maître Tisalver",
-                "start": 2142,
-                "end": 2158
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 2163,
-                "end": 2170
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 2287,
-                "end": 2292
-            }
-        ]
-    },
-    "chunk_5": {
-        "chunk": "Plus important, c’est un Trantorien. Plus important encore, c’est un citoyen de l’Empire et un être humain. Et surtout, en demandant à nous voir, il devient notre hôte. Par conséquent, nous l’invitons à entrer. » Maîtresse Tisalver ne bougea pas. Son mari lui-même parut hésiter. Dors insista : « Puisque vous dites que nous avons tué une centaine de brigands à Billibotton, vous n’allez sûrement pas croire que c’est un garçon ou même deux qui me feraient peur. » Sa main droite tomba négligemment à",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "sse Tisalver",
-                "start": 2716,
-                "end": 2728
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 2776,
-                "end": 2781
-            }
-        ]
-    },
-    "chunk_6": {
-        "chunk": "sa ceinture. Tisalver intervint avec une soudaine énergie : « Maîtresse Venabili, loin de nous l’intention de vous offenser. Bien entendu, ces chambres sont à vous et vous pouvez y recevoir qui bon vous semble. » Il battit en retraite, entraînant sa femme, après ce brusque éclat – une marque de résolution qu’il allait sans doute payer cher. Dors les regarda sans ciller. Seldon sourit sèchement. « Voilà qui ne vous ressemble guère, Dors. Moi qui me croyais un Don Quichotte prompt à foncer tête",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Tisalver",
-                "start": 3010,
-                "end": 3019
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Venabili",
-                "start": 3059,
-                "end": 3078
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 3340,
-                "end": 3345
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 3370,
-                "end": 3377
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 3432,
-                "end": 3437
-            }
-        ]
-    },
-    "chunk_7": {
-        "chunk": "baissée dans les ennuis tandis que vous étiez la — Rien. Suffit de les chambrer un peu. On lance : ― Hé, poulette, laisse-moi te... ‖ Il s’interrompit, se ravisa et dit : « Rien. — Eh bien, avertit Dors, n’essaie pas avec moi. — Vous blaguez ? Après c’que vous avez fait à Marron ? Hé, princesse, où avez-vous appris à vous battre comme ça ? — Sur ma planète. — Vous pourriez m’apprendre ? — Tu es venu me voir pour ça ? — A vrai dire, non. J’suis venu pour porter comme qui dirait un message. — De",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 3693,
-                "end": 3698
-            },
-            {
-                "entity_group": "PER",
-                "word": "Marron",
-                "start": 3768,
-                "end": 3775
-            }
-        ]
-    },
-    "chunk_8": {
-        "chunk": "quelqu’un qui veut se battre avec moi ? — Personne veut se battre avec vous, princesse. Écoutez, z’avez une réputation, à présent. Tout l’monde vous connaît. Z’avez qu’à vous balader dans c’te bon vieux Billibotton et tous les mecs s’écarteront pour vous laisser passer, avec un grand sourire et en faisant gaffe à pas vous loucher d’ssus. Ça, princesse, vous avez réussi votre coup. C’est bien pour ça qu’y veut vous voir. — Qui donc, au juste, Raych ? demanda Seldon. — Un mec nommé Davan. — Et qui",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 4440,
-                "end": 4446
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 4456,
-                "end": 4463
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 4479,
-                "end": 4485
-            }
-        ]
-    },
-    "chunk_9": {
-        "chunk": "est-ce ? — Un mec, c’est tout. Y vit à Billibotton et y porte pas de couteau. — Et il reste en vie, Raych ? — Y lit vach’ment et il aide les mecs quand y z’ont des ennuis avec le gouvernement. Alors, on lui fiche plus ou moins la paix. Il a pas besoin de couteau. — Alors, pourquoi n’est-il pas venu lui-même ? remarqua Dors. Pourquoi t’avoir envoyé ? — L’aime pas c’coin. Y dit qu’ça l’fait gerber. Y dit qu’tous les gens d’ici s’aplatissent devant l’gouvernement, qu’ils lui lèchent le... » Il",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 4595,
-                "end": 4601
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 4815,
-                "end": 4820
-            }
-        ]
-    },
-    "chunk_10": {
-        "chunk": "s’interrompit, considéra les deux Exos et reprit : « Bref, il a pas voulu v’nir. Il a dit qu’on m’laisserait passer pasque j’suis qu’un mioche. » Il sourit. « Z’ont presque failli, non ? J’veux dire, la dame, là, qui f’sait une tête comme si elle sentait quequ’chose. » Il se tut soudain, confus, et se contempla. « D’où que j’viens, on a pas guère de chance de s’laver souvent. Tout le monde avait les yeux braqués sur eux. Quand il fut manifeste que les deux Exos avaient remarqué l’attention dont",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Exos",
-                "start": 5025,
-                "end": 5030
-            },
-            {
-                "entity_group": "PER",
-                "word": "Exos",
-                "start": 5452,
-                "end": 5457
-            }
-        ]
-    },
-    "chunk_11": {
-        "chunk": "ils étaient l’objet, un murmure parcourut la foule, comme si un tonnerre d’applaudissements allait éclater d’une seconde à l’autre. « Maintenant, constata Dors, je vois ce que Maîtresse Tisalver trouvait gênant. J’aurais dû être plus compréhensive. » La foule était en majorité composée de gens pauvrement vêtus, et il n’y avait pas besoin d’être grand clerc pour deviner que la plupart venaient de Billibotton. Sur une impulsion, Seldon sourit et leva la main en un timide salut qui fut accueilli par",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 5646,
-                "end": 5651
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maîtresse Tisalver",
-                "start": 5667,
-                "end": 5686
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 5922,
-                "end": 5929
-            }
-        ]
-    },
-    "chunk_12": {
-        "chunk": "des vivats. Une voix, perdue dans l’anonymat de la foule, lança : « Est-ce que la p’tite dame peut nous faire une démonstration au couteau ? » Quand Dors répondit du tac au tac : « Non, je ne dévoile mes armes secrètes que lorsqu’on m’excite », il y eut un éclat de rire général. Un homme s’avança. Manifestement, il n’était pas de Billibotton et rien chez lui n’évoquait le Dahlite. Déjà, il n’arborait qu’une fine moustache, et celle-ci était châtain et non brune. Il se présenta : « Marlo Tanto, de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 6142,
-                "end": 6147
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahlite",
-                "start": 6368,
-                "end": 6376
-            },
-            {
-                "entity_group": "PER",
-                "word": "Marlo Tanto",
-                "start": 6479,
-                "end": 6491
-            }
-        ]
-    },
-    "chunk_13": {
-        "chunk": "la H.V. trantorienne. Pouvons-nous vous prendre pour notre journal du soir ? — Non, fit Dors sèchement. Pas d’interviews. » Le journaliste ne se démonta pas. « Je crois savoir que vous vous êtes battue contre un grand nombre d’individus à Billibotton – et que vous avez gagné... » Il sourit. « C’est une info, ça, non ? — Non. Nous avons rencontré un petit groupe d’hommes, nous leur avons parlé, puis nous avons poursuivi notre chemin. C’est tout ce qu’il y a à dire et tout ce que vous obtiendrez. —",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 6583,
-                "end": 6588
-            }
-        ]
-    },
-    "chunk_14": {
-        "chunk": "Quel est votre nom ? Vous n’avez pas l’air d’être de Trantor. — Je n’ai pas de nom. — Et votre ami ? — Il n’a pas de nom. » Le journaliste eut l’air embêté. « Bon, écoutez, madame. Vous êtes un scoop et moi j’essaie simplement de faire mon boulot. » Raych tira Dors par la manche. Elle se pencha pour écouter les quelques mots qu’il lui chuchota avec insistance. « C’est comme ça qu’il aime vivre, expliqua Raych. Toujours à déménager, un jour ici, un jour là... Enfin, vous voyez, jamais au même",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 7247,
-                "end": 7253
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 7258,
-                "end": 7263
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 7404,
-                "end": 7410
-            }
-        ]
-    },
-    "chunk_15": {
-        "chunk": "endroit. — Pourquoi ? — Pour se protéger, princesse. — De quoi ? — Du gouvernement. — Pourquoi le gouvernement en voudrait-il à Davan ? — Ch’sais pas, princesse. Savez quoi ? J’vais vous dire où y vit et comment y aller, et vous y allez toute seule, si vous voulez pas que j’vous accompagne. » Seldon s’interposa : « Non, non, Raych. Je suis sûr qu’on se perdra, sans toi. En fait, il vaudrait même mieux que tu attendes qu’on ait fini pour nous ramener. » Aussitôt, Raych demanda : « Qu’est-ce vous",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 7622,
-                "end": 7628
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 7788,
-                "end": 7795
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 7821,
-                "end": 7827
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 7961,
-                "end": 7967
-            }
-        ]
-    },
-    "chunk_16": {
-        "chunk": "m’donnez en échange ? Z’espérez p’t-être que j’vais traîner là à attraper la dalle ? — Tu traînes là à attraper la dalle, Raych, et je te paie à dîner. Ce que tu voudras. — C’est c’que vous dites maintenant, m’sieur. Qu’est-ce qui me l’prouve ? » La main de Dors jaillit, révélant un couteau, lame sortie. « Tu ne nous traiterais pas de menteurs, par hasard, Raych ? » L’intéressé ouvrit tout grand les yeux. La menace n’avait pas l’air de l’effrayer. « Hé, fit-il. J’vous ai même pas vu faire. Vous",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 8116,
-                "end": 8122
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 8252,
-                "end": 8257
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 8353,
-                "end": 8359
-            }
-        ]
-    },
-    "chunk_17": {
-        "chunk": "pouvez recommencer ? — Plus tard – si tu es toujours là. Sinon... (Dors le fusilla du regard) on ira te chercher. — Oh, princesse, allez ! Vous irez pas me chercher. C’est pas vot’genre ! Mais j’s’rai là. » Il prit une pause avantageuse. « Parole. » Sur quoi, il reprit la tête du cortège en silence, tandis que le bruit de leurs semelles résonnait dans les coursives vides. Davan leva les yeux quand ils entrèrent, et son regard mauvais s’adoucit quand il vit Raych. D’un geste bref, il indiqua les",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 8562,
-                "end": 8566
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 8869,
-                "end": 8875
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 8955,
-                "end": 8961
-            }
-        ]
-    },
-    "chunk_18": {
-        "chunk": "deux autres, l’air interrogateur. « Ce sont eux », dit Raych. Et il ressortit. Seldon se présenta : « Je suis Hari Seldon. La jeune femme est Dors Venabili. » — Il ne peut pas vous atteindre ouvertement, mais l’Empire n’est pas obligé de travailler ouvertement. Pour ma part, je vous conseillerais de disparaître... pour de bon. — Comme vous... » Seldon regarda alentour, un peu écœuré. La pièce était aussi désolée que les corridors qu’ils venaient d’emprunter. L’odeur de moisi était omniprésente et",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 9049,
-                "end": 9055
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 9073,
-                "end": 9080
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hari Seldon",
-                "start": 9104,
-                "end": 9116
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors Venabili",
-                "start": 9136,
-                "end": 9150
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 9341,
-                "end": 9348
-            }
-        ]
-    },
-    "chunk_19": {
-        "chunk": "tout était parfaitement déprimant. « Oui, dit Davan. Vous pourriez nous être utile. — Comment ça ? — Vous avez parlé à un jeune homme du nom de Yugo Amaryl. — C’est exact. — Amaryl dit que vous pouvez prédire l’avenir. » Seldon poussa un gros soupir. Il en avait assez d’être planté là, debout dans cette pièce vide. Dors s’était assise sur un coussin, il y en avait bien d’autres mais ils n’avaient pas l’air trop propres. Et il n’avait pas non plus envie de s’adosser au mur couvert de moisissures.",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 9542,
-                "end": 9548
-            },
-            {
-                "entity_group": "PER",
-                "word": "Yugo Amaryl",
-                "start": 9640,
-                "end": 9652
-            },
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 9670,
-                "end": 9677
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 9717,
-                "end": 9724
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 9813,
-                "end": 9818
-            }
-        ]
-    },
-    "chunk_20": {
-        "chunk": "Il remarqua : « Ou vous avez mal compris Amaryl, ou c’est lui qui m’a mal compris. Tout ce que j’ai fait, c’est de démontrer qu’il est possible de choisir des conditions initiales à partir desquelles la prévision historique n’est plus condamnée à aboutir au chaos mais peut devenir opérationnelle dans certaines limites. Que pourraient être ces conditions initiales, je l’ignore pour l’instant, et je ne suis pas sûr qu’elles puissent être découvertes par un seul chercheur quelconque – ou par",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Amaryl",
-                "start": 10038,
-                "end": 10045
-            }
-        ]
-    },
-    "chunk_21": {
-        "chunk": "plusieurs – dans un laps de temps défini. Est-ce que vous me suivez ? — Non. » Nouveau soupir de Seldon. « Alors, laissez-moi essayer à nouveau. Il est possible de prédire l’avenir mais il n’est peut- être pas possible de trouver comment tirer parti de cette possibilité. Là, est-ce que vous me suivez ? » Davan considéra Seldon, l’air sombre, puis Dors : « Alors, vous ne pouvez donc pas prédire le futur. — Maintenant, vous y êtes, Maître Davan. — Appelez-moi Davan, tout court. Mais peut-être qu’un",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 10588,
-                "end": 10595
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 10797,
-                "end": 10803
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 10813,
-                "end": 10820
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 10840,
-                "end": 10845
-            },
-            {
-                "entity_group": "PER",
-                "word": "Maître Davan",
-                "start": 10925,
-                "end": 10938
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 10953,
-                "end": 10959
-            }
-        ]
-    },
-    "chunk_22": {
-        "chunk": "jour vous apprendrez à prédire l’avenir. — C’est concevable. — Alors, c’est pour ça que l’Empire vous recherche. cet état de fait, par principe. Dahl est capable de créer de sérieux ennuis. Que les puisatiers thermiques se mettent en grève et Trantor subira presque aussitôt une grave pénurie d’énergie... avec toutes les conséquences que ça implique. Toutefois, la bourgeoisie même de Dahl s’empressera de payer les voyous de Billibotton – et d’ailleurs – pour se battre contre les puisatiers et",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 11138,
-                "end": 11143
-            },
-            {
-                "entity_group": "PER",
-                "word": "Trantor",
-                "start": 11236,
-                "end": 11244
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 11379,
-                "end": 11384
-            }
-        ]
-    },
-    "chunk_23": {
-        "chunk": "briser la grève. Ça s’est déjà vu. L’Empire laisse certains Dahlites prospérer – comparativement – pour mieux les convertir en laquais de l’impérialisme, tout en refusant d’appliquer les lois sur la limitation du port d’arme assez efficacement pour affaiblir la criminalité. « Le gouvernement impérial fait cela partout – et pas seulement à Dahl. Il ne peut plus imposer sa volonté par la force, comme jadis. Aujourd’hui, Trantor est devenue si complexe, son équilibre si fragile, que les forces",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dahl",
-                "start": 11831,
-                "end": 11836
-            }
-        ]
-    },
-    "chunk_24": {
-        "chunk": "impériales doivent éviter toute ingérence directe... — Une forme de décadence, observa Seldon qui se souvenait des plaintes de Hummin. — Quoi ? — Rien, continuez. » Davan poursuivit : « Les forces impériales doivent éviter toute ingérence directe mais, même ainsi, elles ont découvert qu’il leur reste une importante marge de manœuvre. Ainsi encourage-t-on chaque secteur à se méfier de ses voisins. A l’intérieur de chaque secteur, on encourage une certaine forme de lutte des classes. Le résultat",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 12073,
-                "end": 12080
-            },
-            {
-                "entity_group": "PER",
-                "word": "Hummin",
-                "start": 12113,
-                "end": 12120
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 12151,
-                "end": 12157
-            }
-        ]
-    },
-    "chunk_25": {
-        "chunk": "est que, sur l’ensemble de Trantor, toute unité d’action des forces populaires est devenue impossible. Partout, les gens préfèrent se battre contre eux plutôt que faire front commun contre la tyrannie centrale, de sorte que l’Empire peut régner sans avoir à recourir à la force. — Et selon vous, quel serait le remède ? demanda Dors. — Depuis des années, j’essaie d’instaurer un sentiment de solidarité parmi les peuples de Trantor. — Je peux seulement supposer, observa Seldon d’un ton neutre, que la",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 12813,
-                "end": 12818
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 12956,
-                "end": 12963
-            }
-        ]
-    },
-    "chunk_26": {
-        "chunk": "tâche doit vous paraître presque insurmontable et particulièrement ingrate. — Vous supposez bien, reconnut Davan, mais le parti se renforce. Bon nombre de nos surineurs commencent à se rendre compte qu’il y a mieux à faire avec les couteaux que de s’entretuer. Ceux qui vous ont attaqués dans les corridors de pas vraiment étudié l’histoire. Je le regrette. Cela me manque énormément. — C’est moi l’historienne, Davan, indiqua Dors d’un ton égal, et je peux dire quelques petites choses, si vous le",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 13094,
-                "end": 13100
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 13399,
-                "end": 13405
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 13414,
-                "end": 13419
-            }
-        ]
-    },
-    "chunk_27": {
-        "chunk": "désirez. — Je vous en prie, faites donc », répondit Davan, sur un ton situé entre la politesse et le défi. « Pour commencer, l’histoire de la Galaxie a connu bien des révolutions qui ont renversé des tyrannies, parfois sur une planète isolée, parfois sur un ensemble de planètes, voire dans l’Empire tout entier ou au sein des gouvernements régionaux de la période pré-impériale. Souvent, cela n’a signifié qu’un changement de tyrannie. En d’autres termes, une classe dirigeante est remplacée par une",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 13538,
-                "end": 13544
-            }
-        ]
-    },
-    "chunk_28": {
-        "chunk": "autre – parfois plus efficace et par conséquent plus apte à se maintenir au pouvoir –, et les pauvres et les déshérités restent pauvres et déshérités sauf si leur situation empire. » Davan, qui avait écouté attentivement, remarqua : « J’en suis parfaitement conscient. Nous le sommes tous. Peut-être pouvons-nous tirer les leçons du passé et savoir ainsi ce qu’il faut éviter. En outre, la tyrannie qui existe aujourd’hui est réelle. Celle qui peut exister dans l’avenir n’est jamais que potentielle.",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 14170,
-                "end": 14176
-            }
-        ]
-    },
-    "chunk_29": {
-        "chunk": "S’il faut constamment reporter le changement sous prétexte que la situation pourrait être pire, alors, il n’y a plus aucun espoir d’échapper à l’injustice. — Un second point que vous ne devez pas oublier, poursuivit Dors, c’est que, même si vous avez le droit pour vous, même si la justice cloue au pilori la tyrannie en place, l’équilibre des forces penche le plus souvent en sa faveur. Les émeutes et les manifestations de vos combattants armés de couteaux ne pourront avoir d’effet permanent aussi",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 14704,
-                "end": 14709
-            }
-        ]
-    },
-    "chunk_30": {
-        "chunk": "longtemps qu’ils affrontent une armée équipée d’armes cinétiques, chimiques et neurologiques, et décidée à en faire usage. Vous pourrez bien avoir tous les démunis et même les gens respectables de votre côté, il vous faudra quand même vaincre les forces de sécurité et l’armée impériale, ou du moins affaiblir sérieusement leur loyauté à l’égard du pouvoir. — Trantor est un monde plurigouvernemental. Chaque secteur a ses dirigeants propres et certains sont eux-mêmes opposés à l’Empire. Si nous",
-        "entities": []
-    },
-    "chunk_31": {
-        "chunk": "pouvions avoir dans notre camp un secteur fort, ça changerait la situation, non ? Nous ne serions possibles, a le plus de chances d’avoir des conséquences apparemment favorables, alors je mettrais mes talents à votre disposition – mais je n’ai rien de tel. Le meilleur moyen pour moi de vous aider, c’est d’essayer de mettre au point la psychohistoire. — Combien de temps cela vous prendra-t-il ? » Seldon haussa les épaules. « Je n’en sais rien. — Comment pouvez-vous nous demander d’attendre",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 15885,
-                "end": 15892
-            }
-        ]
-    },
-    "chunk_32": {
-        "chunk": "indéfiniment ? — Quel est l’autre terme de l’alternative, puisque je vous suis inutile à l’heure qu’il est ? Mais je vous dirai ceci : jusqu’à une période toute récente, j’étais entièrement convaincu de la totale impossibilité de rendre opérationnelle la psychohistoire. Aujourd’hui, je n’en suis plus aussi sûr. — Vous voulez dire que vous avez une solution en tête ? — Non, juste l’intuition qu’il pourrait exister une solution. Je n’ai pas encore réussi à localiser ce qui a pu me mettre cette idée",
-        "entities": []
-    },
-    "chunk_33": {
-        "chunk": "en tête. C’est peut-être une illusion, mais j’essaie. Laissez- moi continuer. Peut-être aurons-nous l’occasion de nous revoir. — Ou peut-être, dit Davan, allez-vous retourner là où vous séjournez en ce moment et tomber finalement dans un piège tendu par l’Empire. Vous vous imaginez peut-être qu’il va vous laisser tranquillement vous débattre avec votre psychohistoire, mais je suis sûr que l’Empereur et son lèche-bottes de Demerzel ne sont pas plus que moi d’humeur à attendre indéfiniment. — Ça ne",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 16629,
-                "end": 16635
-            },
-            {
-                "entity_group": "PER",
-                "word": "Empire",
-                "start": 16739,
-                "end": 16745
-            },
-            {
-                "entity_group": "PER",
-                "word": "Empereur",
-                "start": 16877,
-                "end": 16885
-            },
-            {
-                "entity_group": "PER",
-                "word": "Demerzel",
-                "start": 16908,
-                "end": 16917
-            }
-        ]
-    },
-    "chunk_34": {
-        "chunk": "leur servira à rien de me presser, observa Seldon sans se démonter, puisque je ne suis pas de leur côté mais du vôtre... Allons, venez, Dors. » Ils firent demi-tour, laissant Davan seul dans sa chambre sordide, et retrouvèrent Raych qui les attendait dehors. Raych finit de manger, se lécha les doigts et froissa le sac qui avait contenu son repas. Une forte odeur d’oignons imprégnait l’air – un rien différente, peut-être à cause des levures. Dors, légèrement incommodée par l’odeur, demanda : « Où",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 17027,
-                "end": 17034
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17120,
-                "end": 17125
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 17159,
-                "end": 17165
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 17211,
-                "end": 17217
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 17243,
-                "end": 17249
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 17429,
-                "end": 17434
-            }
-        ]
-    },
-    "chunk_35": {
-        "chunk": "as-tu trouvé ça, Raych ? — J’en suis certain, dit Seldon. — Eh bien, nous verrons. Raych, dis-leur de se montrer à découvert, que je puisse les voir. » Elle le lâcha et s’essuya les mains. « Z’êtes un peu tordue dans votre genre, princesse », se lamenta Raych. Puis il éleva la voix : « A moi, Davan ! Montrez- vous un peu, les mecs ! » Il y eut un temps d’attente puis, sortant d’un porche obscur dans le corridor, deux sombres moustachus apparurent, dont l’un avait la joue balafrée sur toute la",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 17502,
-                "end": 17508
-            },
-            {
-                "entity_group": "PER",
-                "word": "Seldon",
-                "start": 17535,
-                "end": 17542
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 17568,
-                "end": 17574
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 17739,
-                "end": 17745
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 17779,
-                "end": 17785
-            }
-        ]
-    },
-    "chunk_36": {
-        "chunk": "longueur. Chacun tenait dans la main un couteau, la lame sortie. « Il y en a beaucoup d’autres, avec vous ? demanda Dors, d’une voix rude. — Quelques-uns. Ce sont les ordres. Pour vous protéger. Davan tient à votre vie. — Merci. Tâchez d’être encore plus silencieux. Raych, tu peux avancer. — M’avez tapé alors que j’vous disais la vérité, maugréa Raych, boudeur. — Tu as raison, reconnut Dors. Enfin, je le crois... et je te fais mes excuses. — J’sais pas si j’dois les accepter, fit Raych en",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 18099,
-                "end": 18104
-            },
-            {
-                "entity_group": "PER",
-                "word": "Davan",
-                "start": 18178,
-                "end": 18184
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 18250,
-                "end": 18256
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 18331,
-                "end": 18337
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 18372,
-                "end": 18377
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 18468,
-                "end": 18474
-            }
-        ]
-    },
-    "chunk_37": {
-        "chunk": "essayant de jouer les durs. Mais d’accord, ça va pour cette fois... » Et il repartit. Quand ils eurent rejoint la galerie principale, leur escorte invisible s’évanouit. Tout du moins, l’oreille affûtée de Dors ne la détecta plus. Ils progressaient maintenant dans la partie respectable du secteur. Dors remarqua, songeuse : « Je n’ai pas l’impression que nous aurions des vêtements qui t’iraient, Raych. — Qu’est-ce que vous voulez faire d’habits qui m’iraient, m’dame ? » La respectabilité semblait",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 18682,
-                "end": 18687
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 18775,
-                "end": 18780
-            },
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 18874,
-                "end": 18880
-            }
-        ]
-    },
-    "chunk_38": {
-        "chunk": "envahir Raych sitôt qu’ils avaient quitté les corridors. « J’ai des habits. — Je m’étais dit que tu aimerais peut-être venir chez nous prendre un bain. — Pour quoi faire ? J’me laverai un d’ces quatre. Et j’mettrai mon aut’chemise. » Il lorgna Dors, l’air finaud. « Z’êtes embêtée d’m’avoir engueulé, c’est ça ? Z’essayez d’rattraper l’coup ? » Dors sourit. « Oui. Si tu veux. »",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Raych",
-                "start": 18985,
-                "end": 18991
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 19221,
-                "end": 19226
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dors",
-                "start": 19322,
-                "end": 19327
+                "start": 14,
+                "end": 15,
+                "word": "Empire"
+            },
+            {
+                "start": 80,
+                "end": 81,
+                "word": "Davan"
+            },
+            {
+                "start": 102,
+                "end": 104,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 111,
+                "end": 113,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 114,
+                "end": 116,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 143,
+                "end": 144,
+                "word": "Tisalver"
+            },
+            {
+                "start": 156,
+                "end": 157,
+                "word": "Seldon"
+            },
+            {
+                "start": 182,
+                "end": 183,
+                "word": "Seldon"
+            },
+            {
+                "start": 194,
+                "end": 196,
+                "word": "Maître Tisalver"
+            },
+            {
+                "start": 198,
+                "end": 199,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 225,
+                "end": 226,
+                "word": "Tisalver"
+            },
+            {
+                "start": 232,
+                "end": 234,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 290,
+                "end": 291,
+                "word": "Seldon"
+            },
+            {
+                "start": 344,
+                "end": 345,
+                "word": "Dors"
+            },
+            {
+                "start": 420,
+                "end": 422,
+                "word": "Maître Tisalver"
+            },
+            {
+                "start": 424,
+                "end": 425,
+                "word": "Seldon"
+            },
+            {
+                "start": 450,
+                "end": 451,
+                "word": "Dors"
+            },
+            {
+                "start": 494,
+                "end": 496,
+                "word": "un Dahlite"
+            },
+            {
+                "start": 514,
+                "end": 516,
+                "word": "l Empire"
+            },
+            {
+                "start": 545,
+                "end": 547,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 558,
+                "end": 559,
+                "word": "Dors"
+            },
+            {
+                "start": 604,
+                "end": 605,
+                "word": "Tisalver"
+            },
+            {
+                "start": 611,
+                "end": 613,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 667,
+                "end": 668,
+                "word": "Dors"
+            },
+            {
+                "start": 673,
+                "end": 674,
+                "word": "Seldon"
+            },
+            {
+                "start": 685,
+                "end": 686,
+                "word": "Dors"
+            },
+            {
+                "start": 741,
+                "end": 742,
+                "word": "Dors"
+            },
+            {
+                "start": 759,
+                "end": 760,
+                "word": "Marron"
+            },
+            {
+                "start": 909,
+                "end": 910,
+                "word": "Raych"
+            },
+            {
+                "start": 912,
+                "end": 913,
+                "word": "Seldon"
+            },
+            {
+                "start": 917,
+                "end": 918,
+                "word": "Davan"
+            },
+            {
+                "start": 948,
+                "end": 949,
+                "word": "Raych"
+            },
+            {
+                "start": 999,
+                "end": 1000,
+                "word": "Dors"
+            },
+            {
+                "start": 1048,
+                "end": 1049,
+                "word": "Exos"
+            },
+            {
+                "start": 1156,
+                "end": 1157,
+                "word": "Exos"
+            },
+            {
+                "start": 1192,
+                "end": 1193,
+                "word": "Dors"
+            },
+            {
+                "start": 1198,
+                "end": 1200,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 1246,
+                "end": 1247,
+                "word": "Seldon"
+            },
+            {
+                "start": 1293,
+                "end": 1294,
+                "word": "Dors"
+            },
+            {
+                "start": 1342,
+                "end": 1344,
+                "word": "le Dahlite"
+            },
+            {
+                "start": 1368,
+                "end": 1370,
+                "word": "Marlo Tanto"
+            },
+            {
+                "start": 1392,
+                "end": 1393,
+                "word": "Dors"
+            },
+            {
+                "start": 1498,
+                "end": 1499,
+                "word": "Trantor"
+            },
+            {
+                "start": 1548,
+                "end": 1549,
+                "word": "Raych"
+            },
+            {
+                "start": 1550,
+                "end": 1551,
+                "word": "Dors"
+            },
+            {
+                "start": 1581,
+                "end": 1582,
+                "word": "Raych"
+            },
+            {
+                "start": 1626,
+                "end": 1627,
+                "word": "Davan"
+            },
+            {
+                "start": 1666,
+                "end": 1667,
+                "word": "Seldon"
+            },
+            {
+                "start": 1674,
+                "end": 1675,
+                "word": "Raych"
+            },
+            {
+                "start": 1708,
+                "end": 1709,
+                "word": "Raych"
+            },
+            {
+                "start": 1743,
+                "end": 1744,
+                "word": "Raych"
+            },
+            {
+                "start": 1780,
+                "end": 1781,
+                "word": "Dors"
+            },
+            {
+                "start": 1802,
+                "end": 1803,
+                "word": "Raych"
+            },
+            {
+                "start": 1852,
+                "end": 1853,
+                "word": "Dors"
+            },
+            {
+                "start": 1922,
+                "end": 1923,
+                "word": "Davan"
+            },
+            {
+                "start": 1939,
+                "end": 1940,
+                "word": "Raych"
+            },
+            {
+                "start": 1962,
+                "end": 1963,
+                "word": "Raych"
+            },
+            {
+                "start": 1968,
+                "end": 1969,
+                "word": "Seldon"
+            },
+            {
+                "start": 1974,
+                "end": 1976,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 1981,
+                "end": 1983,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1994,
+                "end": 1996,
+                "word": "l Empire"
+            },
+            {
+                "start": 2022,
+                "end": 2023,
+                "word": "Seldon"
+            },
+            {
+                "start": 2060,
+                "end": 2061,
+                "word": "Davan"
+            },
+            {
+                "start": 2081,
+                "end": 2083,
+                "word": "Yugo Amaryl"
+            },
+            {
+                "start": 2088,
+                "end": 2089,
+                "word": "Amaryl"
+            },
+            {
+                "start": 2098,
+                "end": 2099,
+                "word": "Seldon"
+            },
+            {
+                "start": 2119,
+                "end": 2120,
+                "word": "Dors"
+            },
+            {
+                "start": 2169,
+                "end": 2170,
+                "word": "Amaryl"
+            },
+            {
+                "start": 2276,
+                "end": 2277,
+                "word": "Seldon"
+            },
+            {
+                "start": 2321,
+                "end": 2322,
+                "word": "Davan"
+            },
+            {
+                "start": 2323,
+                "end": 2324,
+                "word": "Seldon"
+            },
+            {
+                "start": 2330,
+                "end": 2331,
+                "word": "Dors"
+            },
+            {
+                "start": 2349,
+                "end": 2351,
+                "word": "Maître Davan"
+            },
+            {
+                "start": 2354,
+                "end": 2355,
+                "word": "Davan"
+            },
+            {
+                "start": 2383,
+                "end": 2385,
+                "word": "l Empire"
+            },
+            {
+                "start": 2396,
+                "end": 2397,
+                "word": "Dahl"
+            },
+            {
+                "start": 2414,
+                "end": 2415,
+                "word": "Trantor"
+            },
+            {
+                "start": 2438,
+                "end": 2439,
+                "word": "Dahl"
+            },
+            {
+                "start": 2468,
+                "end": 2469,
+                "word": "Empire"
+            },
+            {
+                "start": 2516,
+                "end": 2517,
+                "word": "Dahl"
+            },
+            {
+                "start": 2535,
+                "end": 2536,
+                "word": "Trantor"
+            },
+            {
+                "start": 2562,
+                "end": 2563,
+                "word": "Seldon"
+            },
+            {
+                "start": 2569,
+                "end": 2570,
+                "word": "Hummin"
+            },
+            {
+                "start": 2578,
+                "end": 2579,
+                "word": "Davan"
+            },
+            {
+                "start": 2646,
+                "end": 2647,
+                "word": "Trantor"
+            },
+            {
+                "start": 2681,
+                "end": 2683,
+                "word": "l Empire"
+            },
+            {
+                "start": 2703,
+                "end": 2704,
+                "word": "Dors"
+            },
+            {
+                "start": 2721,
+                "end": 2722,
+                "word": "Trantor"
+            },
+            {
+                "start": 2729,
+                "end": 2730,
+                "word": "Seldon"
+            },
+            {
+                "start": 2752,
+                "end": 2753,
+                "word": "Davan"
+            },
+            {
+                "start": 2815,
+                "end": 2816,
+                "word": "Davan"
+            },
+            {
+                "start": 2818,
+                "end": 2819,
+                "word": "Dors"
+            },
+            {
+                "start": 2846,
+                "end": 2847,
+                "word": "Davan"
+            },
+            {
+                "start": 2894,
+                "end": 2896,
+                "word": "l Empire"
+            },
+            {
+                "start": 2966,
+                "end": 2967,
+                "word": "Davan"
+            },
+            {
+                "start": 3071,
+                "end": 3072,
+                "word": "Dors"
+            },
+            {
+                "start": 3194,
+                "end": 3195,
+                "word": "Trantor"
+            },
+            {
+                "start": 3213,
+                "end": 3215,
+                "word": "l Empire"
+            },
+            {
+                "start": 3297,
+                "end": 3298,
+                "word": "Seldon"
+            },
+            {
+                "start": 3448,
+                "end": 3449,
+                "word": "Davan"
+            },
+            {
+                "start": 3468,
+                "end": 3470,
+                "word": "l Empire"
+            },
+            {
+                "start": 3493,
+                "end": 3495,
+                "word": "l Empereur"
+            },
+            {
+                "start": 3500,
+                "end": 3501,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3524,
+                "end": 3525,
+                "word": "Seldon"
+            },
+            {
+                "start": 3545,
+                "end": 3546,
+                "word": "Dors"
+            },
+            {
+                "start": 3554,
+                "end": 3555,
+                "word": "Davan"
+            },
+            {
+                "start": 3563,
+                "end": 3564,
+                "word": "Raych"
+            },
+            {
+                "start": 3569,
+                "end": 3570,
+                "word": "Raych"
+            },
+            {
+                "start": 3607,
+                "end": 3608,
+                "word": "Dors"
+            },
+            {
+                "start": 3623,
+                "end": 3624,
+                "word": "Raych"
+            },
+            {
+                "start": 3631,
+                "end": 3632,
+                "word": "Seldon"
+            },
+            {
+                "start": 3639,
+                "end": 3640,
+                "word": "Raych"
+            },
+            {
+                "start": 3679,
+                "end": 3680,
+                "word": "Raych"
+            },
+            {
+                "start": 3690,
+                "end": 3691,
+                "word": "Davan"
+            },
+            {
+                "start": 3761,
+                "end": 3762,
+                "word": "Dors"
+            },
+            {
+                "start": 3780,
+                "end": 3781,
+                "word": "Davan"
+            },
+            {
+                "start": 3795,
+                "end": 3796,
+                "word": "Raych"
+            },
+            {
+                "start": 3813,
+                "end": 3814,
+                "word": "Raych"
+            },
+            {
+                "start": 3822,
+                "end": 3823,
+                "word": "Dors"
+            },
+            {
+                "start": 3847,
+                "end": 3848,
+                "word": "Raych"
+            },
+            {
+                "start": 3892,
+                "end": 3893,
+                "word": "Dors"
+            },
+            {
+                "start": 3908,
+                "end": 3909,
+                "word": "Dors"
+            },
+            {
+                "start": 3928,
+                "end": 3929,
+                "word": "Raych"
+            },
+            {
+                "start": 3951,
+                "end": 3952,
+                "word": "Raych"
+            },
+            {
+                "start": 4004,
+                "end": 4005,
+                "word": "Dors"
+            },
+            {
+                "start": 4031,
+                "end": 4032,
+                "word": "Dors"
             }
         ]
     },
     "entities": [
-        "Yugo Amaryl",
-        "Amaryl",
-        "Hari Seldon",
         "Dors",
-        "Demerzel",
-        "Dors Venabili",
-        "Dahlite",
-        "Hummin",
-        "Maîtresse Tisalver",
-        "Raych",
-        "Trantor",
-        "Empire",
         "Marron",
-        "Marlo Tanto",
-        "Maître Davan",
-        "Maître Tisalver",
-        "Maîtresse Venabili",
-        "Tisalver",
-        "Maîtresse",
-        "Exos",
-        "sse Tisalver",
         "Dahl",
+        "Trantor",
+        "Dors Venabili",
+        "Maîtresse Tisalver",
+        "le Dahlite",
+        "Marlo Tanto",
+        "Yugo Amaryl",
+        "Tisalver",
+        "Exos",
+        "Empire",
+        "l Empereur",
+        "Hummin",
+        "Davan",
+        "l Empire",
+        "Maître Davan",
         "Seldon",
-        "Empereur",
-        "Davan"
+        "Amaryl",
+        "Maître Tisalver",
+        "Maîtresse",
+        "un Dahlite",
+        "Demerzel",
+        "Raych",
+        "Maîtresse Venabili",
+        "Hari Seldon"
     ],
     "aliases": [
+        [
+            "Empire",
+            "l Empire"
+        ],
+        [
+            "Davan",
+            "Maître Davan"
+        ],
         [
             "Hari Seldon",
             "Seldon"
@@ -895,7 +681,6 @@
         ],
         [
             "Tisalver",
-            "sse Tisalver",
             "Maîtresse Tisalver",
             "Maître Tisalver"
         ],
@@ -904,40 +689,34 @@
             "Maîtresse Venabili"
         ],
         [
+            "un Dahlite",
+            "le Dahlite",
+            "Dahl"
+        ],
+        [
             "Marron"
         ],
         [
             "Raych"
         ],
         [
-            "Davan",
-            "Maître Davan"
-        ],
-        [
             "Exos"
         ],
         [
-            "Dahlite",
-            "Dahl"
+            "Marlo Tanto"
         ],
         [
-            "Marlo Tanto"
+            "Trantor"
         ],
         [
             "Yugo Amaryl",
             "Amaryl"
         ],
         [
-            "Trantor"
-        ],
-        [
             "Hummin"
         ],
         [
-            "Empire"
-        ],
-        [
-            "Empereur"
+            "l Empereur"
         ],
         [
             "Demerzel"
@@ -945,12 +724,180 @@
     ],
     "cooccurences": [
         [
+            "Empire",
+            "Davan"
+        ],
+        [
+            "Empire",
+            "Hari Seldon"
+        ],
+        [
+            "Empire",
+            "Hari Seldon"
+        ],
+        [
+            "Empire",
+            "Dors Venabili"
+        ],
+        [
+            "Empire",
+            "Tisalver"
+        ],
+        [
+            "Empire",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Dors Venabili"
+        ],
+        [
+            "Davan",
+            "Tisalver"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Maître Tisalver"
+        ],
+        [
+            "Davan",
+            "Maîtresse"
+        ],
+        [
+            "Davan",
+            "Tisalver"
+        ],
+        [
+            "Davan",
+            "Maîtresse Venabili"
+        ],
+        [
             "Hari Seldon",
             "Dors Venabili"
         ],
         [
             "Hari Seldon",
+            "Tisalver"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Maître Tisalver"
+        ],
+        [
+            "Hari Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Hari Seldon",
+            "Tisalver"
+        ],
+        [
+            "Hari Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Hari Seldon",
             "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Tisalver"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Maître Tisalver"
+        ],
+        [
+            "Hari Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Hari Seldon",
+            "Tisalver"
+        ],
+        [
+            "Hari Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Dors Venabili",
+            "Tisalver"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Maître Tisalver"
+        ],
+        [
+            "Dors Venabili",
+            "Maîtresse"
+        ],
+        [
+            "Dors Venabili",
+            "Tisalver"
+        ],
+        [
+            "Dors Venabili",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maître Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
         ],
         [
             "Tisalver",
@@ -965,15 +912,39 @@
             "Maîtresse"
         ],
         [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Seldon",
+            "Maître Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
             "Maître Tisalver",
             "Maîtresse"
         ],
         [
-            "Maîtresse",
+            "Maître Tisalver",
             "Tisalver"
         ],
         [
-            "Tisalver",
+            "Maître Tisalver",
             "Maîtresse Venabili"
         ],
         [
@@ -981,11 +952,135 @@
             "Seldon"
         ],
         [
-            "sse Tisalver",
-            "Dors"
+            "Maîtresse",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Maîtresse",
+            "Seldon"
         ],
         [
             "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Maître Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Maître Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maître Tisalver",
+            "Dors"
+        ],
+        [
+            "Maître Tisalver",
+            "un Dahlite"
+        ],
+        [
+            "Maître Tisalver",
+            "l Empire"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "un Dahlite"
+        ],
+        [
+            "Seldon",
+            "l Empire"
+        ],
+        [
+            "Dors",
+            "un Dahlite"
+        ],
+        [
+            "Dors",
+            "l Empire"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "un Dahlite",
+            "l Empire"
+        ],
+        [
+            "un Dahlite",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "un Dahlite",
+            "Dors"
+        ],
+        [
+            "l Empire",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "l Empire",
+            "Dors"
+        ],
+        [
+            "l Empire",
+            "Tisalver"
+        ],
+        [
+            "l Empire",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
             "Maîtresse Venabili"
         ],
         [
@@ -993,8 +1088,56 @@
             "Seldon"
         ],
         [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Dors"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
             "Seldon",
             "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
         ],
         [
             "Dors",
@@ -1009,15 +1152,27 @@
             "Davan"
         ],
         [
+            "Raych",
+            "Dors"
+        ],
+        [
             "Seldon",
             "Davan"
         ],
         [
-            "Dors",
-            "Maîtresse Tisalver"
+            "Seldon",
+            "Raych"
         ],
         [
-            "Marlo Tanto",
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
             "Dors"
         ],
         [
@@ -1025,8 +1180,164 @@
             "Dors"
         ],
         [
+            "Raych",
+            "Exos"
+        ],
+        [
+            "Dors",
+            "Exos"
+        ],
+        [
+            "Exos",
+            "Dors"
+        ],
+        [
+            "Exos",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Exos",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "le Dahlite"
+        ],
+        [
+            "Seldon",
+            "Marlo Tanto"
+        ],
+        [
+            "Dors",
+            "le Dahlite"
+        ],
+        [
+            "Dors",
+            "Marlo Tanto"
+        ],
+        [
+            "le Dahlite",
+            "Marlo Tanto"
+        ],
+        [
+            "le Dahlite",
+            "Dors"
+        ],
+        [
+            "Marlo Tanto",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Raych"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
             "Seldon",
             "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Davan"
         ],
         [
             "Dors",
@@ -1035,6 +1346,30 @@
         [
             "Davan",
             "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Dors Venabili"
+        ],
+        [
+            "Davan",
+            "l Empire"
+        ],
+        [
+            "Davan",
+            "Seldon"
         ],
         [
             "Raych",
@@ -1049,6 +1384,42 @@
             "Dors Venabili"
         ],
         [
+            "Raych",
+            "l Empire"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Raych",
+            "Dors Venabili"
+        ],
+        [
+            "Raych",
+            "l Empire"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Yugo Amaryl"
+        ],
+        [
             "Seldon",
             "Hari Seldon"
         ],
@@ -1057,12 +1428,120 @@
             "Dors Venabili"
         ],
         [
+            "Seldon",
+            "l Empire"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
             "Hari Seldon",
             "Dors Venabili"
         ],
         [
+            "Hari Seldon",
+            "l Empire"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Davan"
+        ],
+        [
+            "Hari Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Hari Seldon",
+            "Amaryl"
+        ],
+        [
+            "Dors Venabili",
+            "l Empire"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Davan"
+        ],
+        [
+            "Dors Venabili",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors Venabili",
+            "Amaryl"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "l Empire",
+            "Seldon"
+        ],
+        [
+            "l Empire",
+            "Davan"
+        ],
+        [
+            "l Empire",
+            "Yugo Amaryl"
+        ],
+        [
+            "l Empire",
+            "Amaryl"
+        ],
+        [
+            "l Empire",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
             "Davan",
             "Yugo Amaryl"
+        ],
+        [
+            "Davan",
+            "Amaryl"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Dors"
         ],
         [
             "Yugo Amaryl",
@@ -1073,12 +1552,56 @@
             "Seldon"
         ],
         [
+            "Yugo Amaryl",
+            "Dors"
+        ],
+        [
+            "Yugo Amaryl",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Amaryl"
+        ],
+        [
             "Amaryl",
             "Seldon"
         ],
         [
             "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
             "Dors"
+        ],
+        [
+            "Seldon",
+            "Maître Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "l Empire"
         ],
         [
             "Davan",
@@ -1089,8 +1612,44 @@
             "Dors"
         ],
         [
+            "Davan",
+            "Maître Davan"
+        ],
+        [
+            "Davan",
+            "l Empire"
+        ],
+        [
+            "Davan",
+            "Dahl"
+        ],
+        [
+            "Davan",
+            "Trantor"
+        ],
+        [
             "Seldon",
             "Dors"
+        ],
+        [
+            "Seldon",
+            "Maître Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "l Empire"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Trantor"
         ],
         [
             "Dors",
@@ -1101,16 +1660,136 @@
             "Davan"
         ],
         [
+            "Dors",
+            "l Empire"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
             "Maître Davan",
             "Davan"
+        ],
+        [
+            "Maître Davan",
+            "l Empire"
+        ],
+        [
+            "Maître Davan",
+            "Dahl"
+        ],
+        [
+            "Maître Davan",
+            "Trantor"
+        ],
+        [
+            "Maître Davan",
+            "Dahl"
+        ],
+        [
+            "Davan",
+            "l Empire"
+        ],
+        [
+            "Davan",
+            "Dahl"
+        ],
+        [
+            "Davan",
+            "Trantor"
+        ],
+        [
+            "Davan",
+            "Dahl"
+        ],
+        [
+            "l Empire",
+            "Dahl"
+        ],
+        [
+            "l Empire",
+            "Trantor"
+        ],
+        [
+            "l Empire",
+            "Dahl"
+        ],
+        [
+            "l Empire",
+            "Empire"
         ],
         [
             "Dahl",
             "Trantor"
         ],
         [
+            "Dahl",
+            "Empire"
+        ],
+        [
             "Trantor",
             "Dahl"
+        ],
+        [
+            "Trantor",
+            "Empire"
+        ],
+        [
+            "Dahl",
+            "Empire"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Empire",
+            "Dahl"
+        ],
+        [
+            "Empire",
+            "Trantor"
+        ],
+        [
+            "Empire",
+            "Seldon"
+        ],
+        [
+            "Empire",
+            "Hummin"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Hummin"
+        ],
+        [
+            "Dahl",
+            "Davan"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Davan"
         ],
         [
             "Seldon",
@@ -1121,8 +1800,104 @@
             "Davan"
         ],
         [
+            "Seldon",
+            "Trantor"
+        ],
+        [
             "Hummin",
             "Davan"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Davan",
+            "Trantor"
+        ],
+        [
+            "Davan",
+            "l Empire"
+        ],
+        [
+            "Trantor",
+            "l Empire"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Davan"
+        ],
+        [
+            "l Empire",
+            "Dors"
+        ],
+        [
+            "l Empire",
+            "Trantor"
+        ],
+        [
+            "l Empire",
+            "Seldon"
+        ],
+        [
+            "l Empire",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Davan"
+        ],
+        [
+            "Trantor",
+            "Davan"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Dors"
         ],
         [
             "Seldon",
@@ -1134,23 +1909,167 @@
         ],
         [
             "Davan",
-            "Empire"
+            "Dors"
         ],
         [
-            "Empire",
-            "Empereur"
+            "Davan",
+            "l Empire"
         ],
         [
-            "Empereur",
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "l Empire"
+        ],
+        [
+            "Davan",
+            "l Empire"
+        ],
+        [
+            "l Empire",
+            "Davan"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "l Empire"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "l Empire",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "l Empire"
+        ],
+        [
+            "Davan",
+            "l Empereur"
+        ],
+        [
+            "Davan",
             "Demerzel"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "l Empire",
+            "l Empereur"
+        ],
+        [
+            "l Empire",
+            "Demerzel"
+        ],
+        [
+            "l Empire",
+            "Seldon"
+        ],
+        [
+            "l Empire",
+            "Dors"
+        ],
+        [
+            "l Empire",
+            "Davan"
+        ],
+        [
+            "l Empire",
+            "Raych"
+        ],
+        [
+            "l Empire",
+            "Raych"
+        ],
+        [
+            "l Empereur",
+            "Demerzel"
+        ],
+        [
+            "l Empereur",
+            "Seldon"
+        ],
+        [
+            "l Empereur",
+            "Dors"
+        ],
+        [
+            "l Empereur",
+            "Davan"
+        ],
+        [
+            "l Empereur",
+            "Raych"
+        ],
+        [
+            "l Empereur",
+            "Raych"
         ],
         [
             "Demerzel",
             "Seldon"
         ],
         [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Davan"
+        ],
+        [
+            "Demerzel",
+            "Raych"
+        ],
+        [
+            "Demerzel",
+            "Raych"
+        ],
+        [
             "Seldon",
             "Dors"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
         ],
         [
             "Dors",
@@ -1165,32 +2084,136 @@
             "Raych"
         ],
         [
-            "Davan",
-            "Raych"
-        ],
-        [
-            "Davan",
+            "Dors",
             "Raych"
         ],
         [
             "Dors",
+            "Seldon"
+        ],
+        [
+            "Davan",
             "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
         ],
         [
             "Raych",
             "Seldon"
         ],
         [
-            "Seldon",
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Dors",
             "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Seldon"
         ],
         [
             "Raych",
             "Davan"
         ],
         [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
             "Dors",
             "Davan"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Dors"
         ],
         [
             "Davan",
@@ -1201,8 +2224,60 @@
             "Dors"
         ],
         [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
             "Dors",
             "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
         ]
     ]
 }

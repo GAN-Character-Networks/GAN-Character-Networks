@@ -3,543 +3,340 @@
         "chunk": "soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le",
         "entities": [
             {
-                "entity_group": "PER",
-                "word": "cle",
-                "start": 90,
-                "end": 93
-            }
-        ]
-    },
-    "chunk_1": {
-        "chunk": "mentionnait, et la presse ne l’utilisait pas ; mais, dans le langage courant, on désignait ainsi les arrondissements périphériques de la Cité, à savoir Newark, New Brunswick et Trenton. C’était un vaste espace qui s’étendait sur ce que, à l’Epoque Médiévale, on appelait New Jersey ; on y trouvait, surtout à Newark et à Trenton, de nombreux immeubles d’habitation, mais la majeure partie de ce quartier était occupée par des usines de levure ; à vrai dire, c’étaient plutôt des fermes, où l’on",
-        "entities": []
-    },
-    "chunk_2": {
-        "chunk": "cultivait des milliers de variétés de levures, qui servaient à la fabrication d’aliments de toutes espèces. Un cinquième de la population travaillait à cultiver cette denrée, et un autre cinquième était employé dans des usines, où s’effectuait la transformation des autres matières premières nécessaires à l’alimentation de la Cité. Celle-ci recevait quotidiennement, en effet, des montagnes de bois et de cellulose brute qui provenaient des monts Alleghanis ; cette cellulose était traitée dans des",
-        "entities": []
-    },
-    "chunk_3": {
-        "chunk": "bassins colossaux pleins d’acide, où on l’hydrolysait en glucose ; puis on y incorporait principalement des tonnes de nitrates et de phosphates, et, en quantités moins importantes, des matières organiques issues des laboratoires de produits chimiques. Mais toutes ces opérations n’aboutissaient qu’à produire, toujours et davantage, une seule et même denrée : la levure. Sans elle, six des huit milliards d’habitants de la Terre seraient morts de faim en moins d’un an. A cette seule pensée, Baley",
-        "entities": [
+                "start": 380,
+                "end": 381,
+                "word": "Baley"
+            },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 1983,
-                "end": 1989
-            }
-        ]
-    },
-    "chunk_4": {
-        "chunk": "frissonna. Trois jours plus tôt, cette éventualité n’était ni plus ni moins invraisemblable, mais elle ne lui serait jamais venue à l’esprit. Il quitta l’autoroute et s’engagea dans une avenue aboutissant aux faubourgs de Newark ; elle était bordée, de part — Oui. — Bon. Alors, donnez-moi un indicateur. Si je ne trouve pas Clousarr à son poste, je reviendrai vous voir. — Entendu ! fit l’autre, qui ne souriait plus du tout. Je vais vous procurer un indicateur. On appelait ainsi un petit objet",
-        "entities": [
+                "start": 447,
+                "end": 448,
+                "word": "Clousarr"
+            },
             {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 2314,
-                "end": 2323
-            }
-        ]
-    },
-    "chunk_5": {
-        "chunk": "banal que l’on tenait dans la paume de la main, et qui se réchauffait à mesure que l’on s’approchait du lieu cherché ; de même, il se refroidissait dès que l’on s’éloignait du but. Il n’y avait qu’à le régler, au départ, sur une destination donnée, et le directeur du personnel précisa à Baley que l’indicateur le mènerait ainsi au Groupe CG, section 2, ce qui, dans la terminologie de l’établissement, désignait une certaine partie de l’usine, mais Baley ignorait laquelle. Un amateur n’aurait",
-        "entities": [
+                "start": 549,
+                "end": 550,
+                "word": "Baley"
+            },
             {
-                "entity_group": "PER",
-                "word": "Baley",
+                "start": 582,
+                "end": 583,
+                "word": "Baley"
+            },
+            {
+                "start": 703,
+                "end": 704,
+                "word": "Baley"
+            },
+            {
+                "start": 809,
+                "end": 811,
+                "word": "Francis Clousarr"
+            },
+            {
+                "start": 879,
+                "end": 880,
+                "word": "Baley"
+            },
+            {
+                "start": 916,
+                "end": 917,
+                "word": "Clousarr"
+            },
+            {
+                "start": 929,
+                "end": 930,
+                "word": "Baley"
+            },
+            {
+                "start": 931,
+                "end": 932,
+                "word": "Daneel"
+            },
+            {
+                "start": 974,
+                "end": 977,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 983,
+                "end": 984,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1051,
+                "end": 1052,
+                "word": "Baley"
+            },
+            {
+                "start": 1061,
+                "end": 1062,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1317,
+                "end": 1318,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1412,
+                "end": 1413,
+                "word": "Baley"
+            },
+            {
+                "start": 1520,
+                "end": 1521,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1537,
+                "end": 1540,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1558,
+                "end": 1559,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1560,
+                "end": 1561,
+                "word": "Daneel"
+            },
+            {
+                "start": 1568,
+                "end": 1569,
+                "word": "Elijah"
+            },
+            {
+                "start": 1588,
+                "end": 1589,
+                "word": "Elijah"
+            },
+            {
+                "start": 1619,
+                "end": 1620,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1626,
+                "end": 1627,
+                "word": "Daneel"
+            },
+            {
+                "start": 1629,
+                "end": 1630,
+                "word": "Baley"
+            },
+            {
+                "start": 1684,
+                "end": 1685,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1688,
+                "end": 1689,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1692,
+                "end": 1693,
+                "word": "Baley"
+            },
+            {
+                "start": 1718,
+                "end": 1719,
+                "word": "Daneel"
+            },
+            {
+                "start": 1725,
+                "end": 1726,
+                "word": "Baley"
+            },
+            {
+                "start": 1727,
+                "end": 1730,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1742,
+                "end": 1743,
+                "word": "Baley"
+            },
+            {
+                "start": 1746,
+                "end": 1747,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1762,
+                "end": 1763,
+                "word": "Baley"
+            },
+            {
+                "start": 1787,
+                "end": 1788,
+                "word": "Daneel"
+            },
+            {
+                "start": 1837,
+                "end": 1838,
+                "word": "Daneel"
+            },
+            {
+                "start": 1860,
+                "end": 1861,
+                "word": "Daneel"
+            },
+            {
+                "start": 1905,
+                "end": 1906,
+                "word": "Daneel"
+            },
+            {
+                "start": 1911,
+                "end": 1912,
+                "word": "Baley"
+            },
+            {
+                "start": 1915,
+                "end": 1916,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1925,
+                "end": 1926,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1966,
+                "end": 1967,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1985,
+                "end": 1986,
+                "word": "Baley"
+            },
+            {
+                "start": 2100,
+                "end": 2101,
+                "word": "Baley"
+            },
+            {
+                "start": 2114,
+                "end": 2116,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 2144,
+                "end": 2145,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2217,
+                "end": 2218,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2403,
+                "end": 2404,
+                "word": "Baley"
+            },
+            {
+                "start": 2417,
+                "end": 2418,
+                "word": "Daneel"
+            },
+            {
+                "start": 2539,
+                "end": 2540,
+                "word": "Enderby"
+            },
+            {
+                "start": 2541,
+                "end": 2542,
+                "word": "Elijah"
+            },
+            {
+                "start": 2559,
+                "end": 2560,
+                "word": "Baley"
+            },
+            {
+                "start": 2604,
+                "end": 2607,
+                "word": "Dieu du Ciel"
+            },
+            {
+                "start": 2619,
+                "end": 2622,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2623,
+                "end": 2624,
+                "word": "Baley"
+            },
+            {
+                "start": 2651,
+                "end": 2654,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2687,
+                "end": 2688,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2695,
+                "end": 2696,
+                "word": "Baley"
+            },
+            {
+                "start": 2727,
+                "end": 2728,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2737,
+                "end": 2738,
+                "word": "Baley"
+            },
+            {
                 "start": 2774,
-                "end": 2780
+                "end": 2775,
+                "word": "Elijah"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 2936,
-                "end": 2942
-            }
-        ]
-    },
-    "chunk_6": {
-        "chunk": "probablement pas pu se servir d’un tel appareil, tant étaient faibles les variations de température qu’il subissait ; mais, en fait, peu de citoyens new-yorkais étaient des amateurs, dans l’utilisation de ces objets, qui rappelait beaucoup le jeu de la main chaude, très populaire parmi les enfants. Dès leur plus jeune âge, on leur donnait en effet de petits indicateurs miniatures, et ils s’amusaient follement à se cacher et à se chercher les uns les autres, dans le dédale des couloirs de la Cité,",
-        "entities": []
-    },
-    "chunk_7": {
-        "chunk": "en criant : « Tu es froid, tu te réchauffes, tu brûles ! » Baley s’était bien souvent dirigé avec aisance dans des centaines d’usines et de centrales d’énergie, plus vastes les unes que les autres, en se servant de ces sortes d’indicateurs, grâce auxquels il était sûr d’atteindre par le chemin le plus court son objectif, comme si quelqu’un l’y avait véritablement conduit par la main. C’est ainsi qu’après dix minutes de marche, il pénétra dans une grande pièce brillamment éclairée, l’indicateur",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 3542,
-                "end": 3548
-            }
-        ]
-    },
-    "chunk_8": {
-        "chunk": "chauffant la main. Avisant un ouvrier qui travaillait près de l’entrée, il lui demanda : — Est-ce que Francis Clousarr est ici ? L’ouvrier se redressa brusquement, et montra d’un geste l’autre bout de la salle, vers lequel le policier se dirigea aussitôt. L’odeur de levure était forte et pénétrante, en dépit de l’air murs, se trouvaient de délicates balances électroniques manœuvrables de l’extérieur par le moyen des champs magnétiques. Au cours de ses études, Baley avait eu l’occasion de voir des",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Francis Clousarr",
-                "start": 4084,
-                "end": 4101
+                "start": 2798,
+                "end": 2801,
+                "word": "R . Sammy"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 4446,
-                "end": 4452
-            }
-        ]
-    },
-    "chunk_9": {
-        "chunk": "balances de ce genre, mais moins perfectionnées ; et il en reconnut une, capable de peser un milliard d’atomes. — Je ne pense pas, dit Clousarr, que l’on vienne nous déranger ici. — Bon ! grogna Baley. Daneel, ajouta-t-il, voulez-vous faire monter un repas ici ? Et, si vous n’y voyez pas d’inconvénient, j’aimerais que vous attendiez dehors qu’on l’apporte. Il suivit des yeux le départ de R. Daneel, puis, se tournant vers Clousarr, il lui demanda : — Vous êtes chimiste ? — Zymologiste, si ça ne",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 4619,
-                "end": 4628
+                "start": 2818,
+                "end": 2819,
+                "word": "Baley"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 4679,
-                "end": 4685
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 4686,
-                "end": 4693
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 4875,
-                "end": 4885
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 4909,
-                "end": 4918
-            }
-        ]
-    },
-    "chunk_10": {
-        "chunk": "vous fait rien. — Quelle est la différence ? — Un chimiste, fit l’autre fièrement, est un vulgaire fabricant de potages, un manipulateur d’ingrédients. Le zymologiste, lui, fait vivre des milliards d’individus. Je suis spécialisé dans la culture de la levure. — Parfait, dit Baley. — C’est grâce à ce laboratoire, reprit Clousarr, que les usines de levure tournent encore. Il ne se passe pas de jour, ni même d’heure, sans que nous fassions dans nos éprouvettes des expériences sur chaque espèce de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 5258,
-                "end": 5264
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 5304,
-                "end": 5313
-            }
-        ]
-    },
-    "chunk_11": {
-        "chunk": "levure produite par la compagnie. Nous contrôlons et complétons si c’est nécessaire ses propriétés nutritives ; nous nous assurons qu’elle répond à des caractères invariables ; nous déterminons exactement la nature des cellules dont elle est issue, nous opérons des croisements d’espèces, nous éliminons celles que nous estimons défectueuses, et, quand nous sommes certains d’en avoir trouvé une répondant aux besoins de la population, nous en lançons en grand la production. Lorsque, il y a deux ans,",
-        "entities": []
-    },
-    "chunk_12": {
-        "chunk": "les New-Yorkais se sont vu offrir, hors saison, des fraises, ce n’étaient pas des fraises, mon cher monsieur, c’était un produit spécialement étudié ici même, ayant une haute teneur en sucre, répondant exactement à la couleur naturelle du fruit, et dont la saveur était identique à celle de la fraise. Il y a vingt ans, la « Saccharomyces Olei Benedictae » n’était qu’une espèce de levure informe, — Avant-hier soir, il y eut presque un début d’émeute, dans un magasin de chaussures du Bronx. On vous",
-        "entities": []
-    },
-    "chunk_13": {
-        "chunk": "y a vu. — Qui ça ? — Cela s’est passé à l’heure de votre diner. Avez-vous dîné ici avant-hier soir ? Clousarr hésita un instant, puis secoua la tête. — J’avais mal à l’estomac. La levure produit parfois cet effet-là, même sur des vieux du métier comme moi. — Hier soir, à Williamsburg, il y a eu également un incident, et on vous y a vu. — Qui ça ? — Niez-vous avoir été là en ces deux circonstances ? — Vous ne me dites rien que j’aie besoin de nier. Où exactement cela s’est-il passé, et qui déclare",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 6586,
-                "end": 6595
-            }
-        ]
-    },
-    "chunk_14": {
-        "chunk": "m’avoir vu ? Baley regarda bien en face le zymologiste et lui dit : — Je crois que vous savez parfaitement de quoi je parle ; et je pense que vous jouez un rôle important dans un mouvement médiévaliste clandestin. — Je n’ai aucun moyen de vous empêcher de penser ou de croire ce qui vous passe par la tête, inspecteur ! rétorqua l’autre, en souriant ironiquement. Mais vos idées ne constituent pas des preuves : ce n’est pas à moi de vous apprendre ça, j’imagine ! — Il n’empêche que je compte bien",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 7000,
-                "end": 7006
-            }
-        ]
-    },
-    "chunk_15": {
-        "chunk": "tirer de vous, dès maintenant, un peu de vérité, Clousarr ! Il s’en fut jusqu’à la porte, l’ouvrit, et dit à R. Daneel, qui se trouvait planté devant l’entrée : — Est-ce qu’on va bientôt apporter le diner de Clousarr, Daneel ? — Oui, dans un instant, Elijah. — Dès qu’on vous l’aura remis, vous viendrez vous-même le lui donner ! — Entendu, Elijah, fit le robot. Un instant plus tard, il pénétra dans la pièce, portant un plateau métallique cloisonné en plusieurs compartiments. — Posez-le devant M.",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 7535,
-                "end": 7544
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 7595,
-                "end": 7605
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 7694,
-                "end": 7703
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 7704,
-                "end": 7711
-            },
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 7737,
-                "end": 7744
-            },
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 7827,
-                "end": 7834
-            }
-        ]
-    },
-    "chunk_16": {
-        "chunk": "Clousarr, s’il vous plaît, Daneel, dit Baley. Il s’assit sur un des tabourets qui se trouvaient alignés devant les balances, et croisa ses jambes, balançant en cadence zymologiste, lequel battit en retraite. Pendant ce temps, l’inspecteur alla lui-même se placer devant la porte. — Empêchez cette machine de me toucher ! hurla Clousarr. — Voyons, Clousarr, répliqua gentiment Baley, en voilà des manières ! Cet homme est mon collègue ! — C’est faux ! C’est un immonde robot ! — Ca va, Daneel !",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 7987,
-                "end": 7995
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 8013,
-                "end": 8020
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8025,
-                "end": 8031
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 8313,
-                "end": 8322
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 8333,
-                "end": 8342
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8362,
-                "end": 8368
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 8471,
-                "end": 8478
-            }
-        ]
-    },
-    "chunk_17": {
-        "chunk": "Laissez-le !, ordonna vivement Baley. R. Daneel recula aussitôt et vint s’adosser à la porte, juste derrière Baley. Quant à Clousarr, il soufflait bruyamment, et, serrant les poings, il fit face à Baley qui lui dit : — D’accord, mon ami. Vous êtes très fort ! Et peut-on savoir ce qui vous fait dire que Daneel est un robot ? — N’importe qui pourrait s’en rendre compte. — Nous laisserons le tribunal en juger. Pour l’instant c’est à la préfecture de police que je vais vous mener. J’aimerais que vous",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8511,
-                "end": 8517
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 8521,
-                "end": 8528
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8589,
-                "end": 8595
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 8604,
-                "end": 8613
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8677,
-                "end": 8683
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 8784,
-                "end": 8791
-            }
-        ]
-    },
-    "chunk_18": {
-        "chunk": "nous y expliquiez exactement comment vous avez découvert que Daneel est un robot. Et puis beaucoup, beaucoup d’autres choses, mon cher monsieur, par la même occasion ! Daneel, voulez-vous aller téléphoner au commissaire principal ? A cette heure-ci, il doit être rentré chez lui. Dites-lui de revenir à son bureau, car il faut que nous procédions sans retard à l’interrogatoire de ce personnage. Daneel s’exécuta aussitôt, et Baley se tourna vers Clousarr. — Qui est-ce qui vous fait marcher, Clousarr",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 9043,
-                "end": 9050
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 9150,
-                "end": 9157
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 9378,
-                "end": 9385
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 9408,
-                "end": 9414
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 9429,
-                "end": 9438
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 9475,
-                "end": 9484
-            }
-        ]
-    },
-    "chunk_19": {
-        "chunk": "? demanda-t-il. — Je veux un avocat, répliqua l’autre. — D’accord, on vous en donnera un. Mais, en attendant, dites-moi donc qui vous finance, vous autres, Médiévalistes ? Clousarr, décidé à garder le silence, détourna la tête. — Allons, mon vieux, s’écria Baley, inutile de jouer au plus fin ! Nous sommes parfaitement au courant de ce que vous êtes et de ce qu’est votre mouvement. Je ne bluffe pas. Mais pour ma propre gouverne, j’aimerais que vous me disiez simplement ce que vous désirez, vous,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 9656,
-                "end": 9665
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 9741,
-                "end": 9747
-            }
-        ]
-    },
-    "chunk_20": {
-        "chunk": "les Médiévalistes. — Le retour à la terre, dit l’autre sèchement. C’est simple, pas vrai ? — C’est facile à dire, mais moins facile à faire. Comment la Terre réussira-t-elle à nourrir huit milliards d’individus ? l’une et de l’autre, une société nouvelle, et meilleure que ses devancières. Baley se rendit parfaitement compte qu’il ne faisait que paraphraser la théorie du Dr Fastolfe, et cependant les arguments lui venaient à l’esprit comme si, depuis des années, telle était véritablement sa propre",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 10274,
-                "end": 10280
-            },
-            {
-                "entity_group": "PER",
-                "word": "Dr Fastolfe",
-                "start": 10357,
-                "end": 10369
-            }
-        ]
-    },
-    "chunk_21": {
-        "chunk": "opinion. — Quelles balivernes ! répliqua Clousarr. Vous prétendez que nous pourrions coloniser des déserts et en faire, de nos propres mains, des mondes comme le nôtre ? Qui serait assez fou pour tenter une telle entreprise ? — Il y en aurait beaucoup, croyez-moi, et ils ne seraient pas fous du tout ! Ils disposeraient d’ailleurs de robots pour les aider. — Ah, ça non, par exemple ! s’écria Clousarr, furieux. Jamais, vous m’entendez ? Jamais ! Pas de robots ! — Et pourquoi donc, pour l’amour du",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 10527,
-                "end": 10536
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 10880,
-                "end": 10889
-            }
-        ]
-    },
-    "chunk_22": {
-        "chunk": "Ciel ? Je ne les aime pas non plus, soyez-en sûr, mais je ne vais pas me suicider sous prétexte de respecter un préjugé stupide. En quoi les robots sont-ils à craindre ? Si vous voulez mon opinion, c’est uniquement un complexe d’infériorité qui nous incite à en avoir peur. Tous tant que nous sommes, nous nous considérons comme inférieurs aux Spaciens, et cela nous rend malades, furieux, dégoûtés. Nous avons besoin de nous sentir des êtres supérieurs, d’une manière ou d’une autre, et de travailler",
-        "entities": []
-    },
-    "chunk_23": {
-        "chunk": "dans ce but. Cela nous tue de constater que nous ne sommes même pas supérieurs à des robots. Ils ont l’air de valoir mieux que nous, et en réalité c’est faux : c’est justement en cela que réside la terrible ironie de cette situation. A mesure qu’il développait sa thèse, Baley sentait le sang lui monter à la tête. — Regardez par exemple ce Daneel avec lequel je viens de passer deux jours ! Il est plus grand que moi, plus fort, plus bel homme. Il a tout l’air d’un Spacien, n’est-ce pas ? Il a plus",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11759,
-                "end": 11765
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 11829,
-                "end": 11836
-            }
-        ]
-    },
-    "chunk_24": {
-        "chunk": "de mémoire et infiniment plus de connaissances que moi. Il n’a besoin ni de manger ni de dormir. Rien ne le trouble, ni maladie, ni amour, ni sentiment de culpabilité. Mais c’est une machine. Je peux lui faire ce que bon me semble, tout comme s’il s’agissait d’une de vos micro-balances. Si je frappe un de ces — J’ai eu du mal à atteindre le commissaire Enderby, Elijah, et, en fait, il se trouvait encore dans son bureau. — Comment ? fit Baley. A cette heure-ci ? Et pourquoi donc ? — Il semble,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Enderby",
-                "start": 12344,
-                "end": 12352
-            },
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 12353,
-                "end": 12360
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 12429,
-                "end": 12435
-            }
-        ]
-    },
-    "chunk_25": {
-        "chunk": "répondit le robot, qu’il y ait en ce moment une certaine perturbation dans tous les services, car on a trouvé un cadavre dans la préfecture. — Quoi ? Dieu du Ciel ! De qui s’agit-il ? — Du garçon de courses, R. Sammy ! Baley resta un moment bouche bée, puis d’une voix indignée, il répliqua : — Vous avez parlé d’un cadavre, si je ne me trompe ? R. Daneel, d’une voix douce, sembla s’excuser. — Si vous le préférez, je dirai que c’est un robot dont le cerveau est complètement désactivé. A ces mots,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dieu du Ciel",
-                "start": 12637,
-                "end": 12650
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Sammy",
-                "start": 12695,
-                "end": 12704
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 12706,
-                "end": 12712
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 12833,
-                "end": 12843
-            }
-        ]
-    },
-    "chunk_26": {
-        "chunk": "Clousarr se mit à rire bruyamment, et Baley, se tournant vers lui, lui ordonna brutalement : — Je vous prie de vous taire, vous m’avez compris ? Il sortit ostensiblement son arme de son étui, et Clousarr ne dit plus un mot. — Bon, reprit Baley. Qu’est-ce qui s’est passé ? Il y a des fusibles qui ont dû sauter, voilà tout ! Et après ?... — Le commissaire principal ne m’a pas donné de précisions, Elijah. Mais s’il ne m’a rien dit de positif, j’ai tout de même l’impression qu’il croit que R. Sammy a",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 12988,
-                "end": 12996
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 13025,
-                "end": 13031
-            },
-            {
-                "entity_group": "PER",
-                "word": "Clousarr",
-                "start": 13182,
-                "end": 13191
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 13225,
-                "end": 13231
-            },
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 13385,
-                "end": 13392
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Sammy",
-                "start": 13478,
-                "end": 13487
-            }
-        ]
-    },
-    "chunk_27": {
-        "chunk": "été désactivé par une main criminelle. Ou encore, acheva-t-il, tandis que Baley silencieux réfléchissait, si vous préférez ce mot-là, il croit que R. Sammy a été assassiné...",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 13563,
-                "end": 13569
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Sammy",
-                "start": 13636,
-                "end": 13645
+                "start": 2832,
+                "end": 2835,
+                "word": "R . Sammy"
             }
         ]
     },
     "entities": [
-        "Clousarr",
-        "R. Sammy",
-        "cle",
-        "Elijah",
-        "Daneel",
-        "Dieu du Ciel",
-        "Dr Fastolfe",
         "Enderby",
-        "Francis Clousarr",
-        "R. Daneel",
-        "Baley"
+        "Baley",
+        "Dieu du Ciel",
+        "Daneel",
+        "Clousarr",
+        "Elijah",
+        "Dr Fastolfe",
+        "R . Daneel",
+        "R . Sammy",
+        "Francis Clousarr"
     ],
     "aliases": [
-        [
-            "cle"
-        ],
         [
             "Baley"
         ],
@@ -549,7 +346,7 @@
         ],
         [
             "Daneel",
-            "R. Daneel"
+            "R . Daneel"
         ],
         [
             "Elijah"
@@ -564,11 +361,51 @@
             "Dieu du Ciel"
         ],
         [
-            "R. Sammy"
+            "R . Sammy"
         ]
     ],
     "cooccurences": [
         [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Clousarr"
+        ],
+        [
+            "Francis Clousarr",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
             "Clousarr",
             "Baley"
         ],
@@ -577,12 +414,44 @@
             "Daneel"
         ],
         [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
             "Baley",
             "Daneel"
         ],
         [
-            "R. Daneel",
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
             "Clousarr"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
         ],
         [
             "Baley",
@@ -590,15 +459,19 @@
         ],
         [
             "Clousarr",
-            "R. Daneel"
+            "Baley"
         ],
         [
-            "R. Daneel",
+            "Baley",
             "Clousarr"
         ],
         [
-            "R. Daneel",
-            "Daneel"
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
         ],
         [
             "Clousarr",
@@ -609,7 +482,7 @@
             "Elijah"
         ],
         [
-            "Daneel",
+            "Clousarr",
             "Elijah"
         ],
         [
@@ -621,8 +494,184 @@
             "Baley"
         ],
         [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
             "Daneel",
             "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
         ],
         [
             "Clousarr",
@@ -638,7 +687,43 @@
         ],
         [
             "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
             "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Clousarr"
         ],
         [
             "Baley",
@@ -646,6 +731,194 @@
         ],
         [
             "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
             "Clousarr"
         ],
         [
@@ -654,6 +927,38 @@
         ],
         [
             "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
             "Clousarr"
         ],
         [
@@ -665,24 +970,8 @@
             "Baley"
         ],
         [
-            "Daneel",
+            "Clousarr",
             "Baley"
-        ],
-        [
-            "Daneel",
-            "Clousarr"
-        ],
-        [
-            "Daneel",
-            "Clousarr"
-        ],
-        [
-            "Baley",
-            "Clousarr"
-        ],
-        [
-            "Baley",
-            "Clousarr"
         ],
         [
             "Clousarr",
@@ -694,6 +983,26 @@
         ],
         [
             "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Dr Fastolfe",
+            "Clousarr"
+        ],
+        [
+            "Dr Fastolfe",
+            "Clousarr"
+        ],
+        [
+            "Baley",
             "Daneel"
         ],
         [
@@ -705,36 +1014,172 @@
             "Baley"
         ],
         [
+            "Enderby",
+            "Dieu du Ciel"
+        ],
+        [
+            "Enderby",
+            "R . Sammy"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
             "Elijah",
             "Baley"
         ],
         [
-            "Dieu du Ciel",
-            "R. Sammy"
+            "Elijah",
+            "Dieu du Ciel"
         ],
         [
-            "Dieu du Ciel",
-            "Baley"
+            "Elijah",
+            "R . Sammy"
         ],
         [
-            "R. Sammy",
-            "Baley"
-        ],
-        [
-            "Clousarr",
-            "Baley"
-        ],
-        [
-            "Clousarr",
-            "Baley"
-        ],
-        [
-            "R. Sammy",
+            "Elijah",
             "Baley"
         ],
         [
             "Baley",
-            "R. Sammy"
+            "Dieu du Ciel"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Dieu du Ciel",
+            "R . Sammy"
+        ],
+        [
+            "Dieu du Ciel",
+            "Baley"
+        ],
+        [
+            "Dieu du Ciel",
+            "R . Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "R . Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Clousarr"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Elijah",
+            "R . Sammy"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Sammy"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
         ]
     ]
 }

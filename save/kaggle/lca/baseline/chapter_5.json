@@ -3,475 +3,287 @@
         "chunk": "— Je suis désolé de vous faire partir, Jessie. — Oh ! ne vous tracassez pas pour ça, monsieur Olivaw ! répliqua-t-elle. Ce n’est pas à cause de vous que je sors ; j’ai toutes les semaines une réunion de jeunes filles dont je m’occupe, et elle a justement lieu ce soir. Allons, viens, Ben ! Mais le garçon ne voulait rien entendre, et il maugréa : — Je voudrais bien savoir pourquoi il faut que j’y aille ! Je ne les dérangerai pas si je reste ! Ah, la barbe ! — Allons, ça suffit maintenant ! Fais ce",
         "entities": [
             {
-                "entity_group": "PER",
-                "word": "Jessie",
-                "start": 38,
-                "end": 45
+                "start": 8,
+                "end": 9,
+                "word": "Jessie"
             },
             {
-                "entity_group": "PER",
-                "word": "Olivaw",
-                "start": 93,
-                "end": 100
+                "start": 20,
+                "end": 21,
+                "word": "Olivaw"
             },
             {
-                "entity_group": "PER",
-                "word": "Ben",
-                "start": 283,
-                "end": 287
-            }
-        ]
-    },
-    "chunk_1": {
-        "chunk": "que je te dis ! — Alors, emmène-moi au moins avec toi ! — Non. Moi, je vais avec des amies, et toi, tu vas retrouver... La porte se referma sur eux. Le moment fatidique était enfin venu, ce moment que Baley n’avait cessé de retarder ; il avait commencé par vouloir examiner le robot et se rendre compte de ce qu’il était ; puis il y avait eu le retour à l’appartement, et enfin le dîner. Mais, maintenant que tout était terminé, il n’y avait plus moyen de retarder l’échéance. Il fallait enfin aborder",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 701,
-                "end": 707
-            }
-        ]
-    },
-    "chunk_2": {
-        "chunk": "le problème du meurtre, des complications interstellaires, et de tout ce qui pouvait en résulter pour lui-même, soit un avancement, soit une disgrâce. Le pire, c’était qu’il ne voyait aucun autre moyen d’attaquer le problème qu’en cherchant une aide auprès du robot lui-même. Il tambourina nerveusement sur la table, que Jessie n’avait pas repliée contre le mur. — Sommes-nous sûrs de ne pas être entendus ? dit R. Daneel. Baley le regarda, très surpris, et répliqua : — Personne ne se permettrait de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 1414,
-                "end": 1424
+                "start": 65,
+                "end": 66,
+                "word": "Ben"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
+                "start": 160,
+                "end": 161,
+                "word": "Baley"
+            },
+            {
+                "start": 288,
+                "end": 289,
+                "word": "Jessie"
+            },
+            {
+                "start": 307,
+                "end": 310,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 311,
+                "end": 312,
+                "word": "Baley"
+            },
+            {
+                "start": 357,
+                "end": 358,
+                "word": "Daneel"
+            },
+            {
+                "start": 407,
+                "end": 408,
+                "word": "Elijah"
+            },
+            {
+                "start": 409,
+                "end": 410,
+                "word": "Baley"
+            },
+            {
+                "start": 514,
+                "end": 517,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 681,
+                "end": 682,
+                "word": "Baley"
+            },
+            {
+                "start": 837,
+                "end": 838,
+                "word": "Baley"
+            },
+            {
+                "start": 859,
+                "end": 862,
+                "word": "le Dr Sarton"
+            },
+            {
+                "start": 899,
+                "end": 902,
+                "word": "le Dr Sarton"
+            },
+            {
+                "start": 950,
+                "end": 952,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1014,
+                "end": 1016,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1098,
+                "end": 1099,
+                "word": "Baley"
+            },
+            {
+                "start": 1108,
+                "end": 1111,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1118,
+                "end": 1121,
+                "word": "le Dr Sarton"
+            },
+            {
+                "start": 1206,
+                "end": 1207,
+                "word": "Baley"
+            },
+            {
+                "start": 1252,
+                "end": 1253,
+                "word": "Baley"
+            },
+            {
+                "start": 1301,
+                "end": 1302,
+                "word": "Daneel"
+            },
+            {
+                "start": 1345,
+                "end": 1346,
+                "word": "Baley"
+            },
+            {
+                "start": 1377,
+                "end": 1380,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1395,
+                "end": 1396,
+                "word": "Baley"
+            },
+            {
+                "start": 1421,
+                "end": 1424,
+                "word": "R . Daneel"
+            },
+            {
                 "start": 1425,
-                "end": 1431
-            }
-        ]
-    },
-    "chunk_3": {
-        "chunk": "chercher à voir ou à entendre ce qui se passe dans l’appartement d’autrui ! — Ah ! On n’a donc pas l’habitude d’écouter aux portes ? — Non, Daneel. Cela ne se fait pas... pas plus qu’on ne regarde dans l’assiette des gens quand ils mangent... — Pas plus qu’on ne commet d’assassinats ? — Comment ? — Oui. C’est contraire à vos usages de tuer, n’est-ce pas, Elijah ? Baley sentit la colère le gagner. tendance anti-robot, mais vous ne trouverez pas de partis organisés qui préconisent de tels actes de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 1643,
-                "end": 1650
+                "end": 1428,
+                "word": "le Dr Sarton"
             },
             {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 1860,
-                "end": 1867
+                "start": 1470,
+                "end": 1471,
+                "word": "Elijah"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
+                "start": 1534,
+                "end": 1535,
+                "word": "Baley"
+            },
+            {
+                "start": 1557,
+                "end": 1558,
+                "word": "Elijah"
+            },
+            {
+                "start": 1600,
+                "end": 1601,
+                "word": "Baley"
+            },
+            {
+                "start": 1618,
+                "end": 1621,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1683,
+                "end": 1686,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1718,
+                "end": 1719,
+                "word": "Elijah"
+            },
+            {
+                "start": 1741,
+                "end": 1742,
+                "word": "Baley"
+            },
+            {
+                "start": 1793,
+                "end": 1796,
+                "word": "R . Daneel"
+            },
+            {
                 "start": 1869,
-                "end": 1875
-            }
-        ]
-    },
-    "chunk_4": {
-        "chunk": "violence. — Pas ouvertement, sans doute. — Si même il existe une organisation secrète dont le but est de détruire les robots et les ateliers qui les construisent, ces gens ne seraient pas assez stupides pour ne pas comprendre que la pire des erreurs à commettre serait d’assassiner un Spacien. Pour moi, il semble beaucoup plus vraisemblable de penser que c’est un déséquilibré qui a fait le coup. Après avoir écouté soigneusement, R. Daneel, répliqua : — A mon avis, il y a un fort pourcentage de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 2436,
-                "end": 2446
-            }
-        ]
-    },
-    "chunk_5": {
-        "chunk": "probabilités contre la thèse du criminel isolé et fanatique. La victime a été trop bien choisie, et l’heure du crime trop bien calculée, pour qu’on puisse attribuer le meurtre à d’autres auteurs qu’à un groupe de terroristes ayant soigneusement préparé leur coup. — Il faut, pour que vous disiez cela, que vous soyez en possession de plus de renseignements que je n’en ai moi-même. Alors, sortez-les ! — Vous usez d’expressions un peu obscures pour moi, mais je crois que je vous ai tout de même",
-        "entities": []
-    },
-    "chunk_6": {
-        "chunk": "compris. Il va falloir que je vous explique un peu certains éléments du problème. Tout d’abord, je dois vous dire que, vu de Spacetown, l’état des relations avec la Terre est fort peu satisfaisant. — Je dirai qu’elles sont tendues, murmura Baley. — Je crois savoir qu’au moment de la fondation de Spacetown, mes compatriotes ont, pour la plupart, tenu pour assuré que les Terriens étaient décidés à adopter le principe des sociétés intégrées, dont l’application a donné de si bons résultats dans les",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 3238,
-                "end": 3244
-            }
-        ]
-    },
-    "chunk_7": {
-        "chunk": "Mondes Extérieurs. Même après les premières émeutes, nous avons pensé qu’il s’agissait seulement d’une réaction provisoire des Terriens, surpris et choqués par la nouveauté de cette conception. Mais la suite des événements a prouvé que tel n’était pas le cas. Malgré la coopération effective du gouvernement de la Terre et de ceux de vos villes, la résistance aux idées nouvelles n’a jamais cessé, et les progrès réalisés ont été très lents. Naturellement, cet état de choses a causé de graves soucis",
-        "entities": []
-    },
-    "chunk_8": {
-        "chunk": "à notre peuple. — Par pur altruisme, j’imagine, dit Baley. que celle des cinquante Mondes Extérieurs réunis excède à peine cinq milliards et demi. Nos compatriotes, en particulier le Dr Sarton... — C’était un savant ? — Oui, un spécialiste des questions de sociologie, particulièrement celles concernant les robots : il était extrêmement brillant. — Ah, vraiment ? Continuez. — Comme je vous le disais, le Dr Sarton et d’autres personnalités comprirent que Spacetown – et tout ce que cette ville",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 4051,
-                "end": 4057
+                "end": 1870,
+                "word": "Elijah"
             },
             {
-                "entity_group": "PER",
-                "word": "Dr Sarton",
-                "start": 4182,
-                "end": 4192
+                "start": 2251,
+                "end": 2252,
+                "word": "Baley"
             },
             {
-                "entity_group": "PER",
-                "word": "Dr Sarton",
-                "start": 4405,
-                "end": 4415
-            }
-        ]
-    },
-    "chunk_9": {
-        "chunk": "représente – ne pouvait pas subsister longtemps, si des idées comme celles que je viens de vous exposer continuaient à se développer, en puisant leur raison d’être dans nos échecs continuels. Le Dr Sarton sentit que l’heure était venue de faire un suprême effort pour comprendre la psychologie du Terrien. Il est facile de dire que les peuples de la Terre sont par nature conservateurs, et de parler en termes méprisants des « indécrottables Terriens », ou de la « mentalité insondable des populations",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dr Sarton",
-                "start": 4690,
-                "end": 4700
-            }
-        ]
-    },
-    "chunk_10": {
-        "chunk": "terrestres » ; mais cela ne résout pas le problème. Le Dr Sarton déclara que de tels propos ne prouvaient qu’une chose, l’ignorance de leurs auteurs, et qu’il est impossible d’éliminer le Terrien au moyen d’un slogan ou avec du bromure. Il affirma que les Spaciens désireux de réformer la Terre devaient renoncer à la politique isolationniste de Spacetown et se mêler beaucoup plus aux Terriens ; ils devraient vivre comme eux, penser comme eux, concevoir l’existence comme eux. — Les Spaciens ?",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Dr Sarton",
-                "start": 5052,
-                "end": 5062
-            }
-        ]
-    },
-    "chunk_11": {
-        "chunk": "répliqua Baley. Impossible. — Vous avez parfaitement raison, reprit R. Daneel. En dépit de ses théories, le Dr Sarton ne put jamais se décider à pénétrer dans une de vos villes. Il s’en sentait incapable. Il n’aurait jamais pu endurer ni leur énormité ni les foules qui les peuplent. Si même on l’avait contraint d’y venir, sous la menace d’une arme à feu, vos conditions intérieures d’existence lui auraient paru tellement écrasantes qu’il n’aurait jamais réussi à découvrir les vérités intérieures",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 5502,
-                "end": 5508
+                "start": 2280,
+                "end": 2281,
+                "word": "Julius"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 5561,
-                "end": 5571
+                "start": 2299,
+                "end": 2300,
+                "word": "Enderby"
             },
             {
-                "entity_group": "PER",
-                "word": "Dr Sarton",
-                "start": 5601,
-                "end": 5611
-            }
-        ]
-    },
-    "chunk_12": {
-        "chunk": "qu’il cherchait à comprendre. — Mais voyons, demanda Baley, comment admettre cette idée fixe des Spaciens concernant nos maladies ? Ne l’oubliez les modèles si primitifs et si médiocres que j’ai vus dans le magasin de chaussures. Tous vos robots sont-ils ainsi faits ? — Plus ou moins, dit Baley. Vous en désapprouvez l’emploi ? — Bien entendu. Comment faire admettre qu’une aussi grossière parodie de l’être humain puisse prétendre à quelque égalité intellectuelle avec l’homme ? Vos usines ne",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 6046,
-                "end": 6052
+                "start": 2369,
+                "end": 2371,
+                "word": "Julius Enderby"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 6283,
-                "end": 6289
-            }
-        ]
-    },
-    "chunk_13": {
-        "chunk": "peuvent-elles rien construire de mieux ? — Je suis convaincu que si, Daneel. Mais je crois que nous préférons savoir si nous avons ou non affaire à un robot. Ce disant, il regarda son interlocuteur droit dans les yeux ; ils étaient brillants et humides, comme ceux d’un homme, mais Baley eut l’impression que leur regard était fixe, et n’avait pas cette mobilité que l’on trouve chez l’homme. — J’espère qu’avec le temps, dit R. Daneel, je parviendrai à comprendre ce point de vue. Pendant un court",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 6557,
-                "end": 6564
+                "start": 2397,
+                "end": 2398,
+                "word": "Baley"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 6770,
-                "end": 6776
+                "start": 2409,
+                "end": 2411,
+                "word": "d Enderby"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 6914,
-                "end": 6924
-            }
-        ]
-    },
-    "chunk_14": {
-        "chunk": "instant, Baley eut l’impression que cette réponse n’était pas dénuée de sarcasme ; mais il chassa vite cette pensée. — De toutes manières, reprit R. Daneel, le Dr Sarton avait clairement compris que tout le problème consistait à trouver la formule adéquate combinant C/Fe. — C/Fe ? Qu’est-ce que c’est que ça ? — Tout simplement les symboles chimiques du carbone et du fer, Elijah. Le carbone est l’élément de base de la vie humaine, et le fer est celui de la vie des robots. Il devient facile de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 6996,
-                "end": 7002
+                "start": 2414,
+                "end": 2417,
+                "word": "R . Daneel"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 7133,
-                "end": 7143
+                "start": 2444,
+                "end": 2445,
+                "word": "Elijah"
             },
             {
-                "entity_group": "PER",
-                "word": "Dr Sarton",
-                "start": 7147,
-                "end": 7157
+                "start": 2446,
+                "end": 2447,
+                "word": "Baley"
             },
             {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 7361,
-                "end": 7368
-            }
-        ]
-    },
-    "chunk_15": {
-        "chunk": "parler de C/Fe, quand on désire exprimer une forme de culture qui puisse combiner au mieux les propriétés des deux éléments, sur des bases égales et parallèles. — Ah ! fit Baley. Mais, dites-moi, comment écrivez-vous ce symbole C-Fe ? Avec un trait d’union ? — Non, Elijah, avec une barre en diagonale. Elle signifie que ni l’un ni l’autre des éléments ne prédomine, et qu’il s’agit d’un mélange des deux, sans qu’aucun ait la priorité. Malgré lui, Baley ne put s’empêcher de s’avouer qu’il était très",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 7656,
-                "end": 7662
+                "start": 2493,
+                "end": 2496,
+                "word": "R . Daneel"
             },
             {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 7750,
-                "end": 7757
+                "start": 2522,
+                "end": 2523,
+                "word": "Lije"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 7933,
-                "end": 7939
-            }
-        ]
-    },
-    "chunk_16": {
-        "chunk": "intéressé par ce que lui disait R. Daneel. L’instruction que l’on donnait couramment aux jeunes Terriens ne comportait à peu près aucun renseignement sur l’histoire et la sociologie des le tue, et il s’en va comme il était venu. Eh bien, je ne vois pas cela. L’entrée de Spacetown est, bien entendu, gardée ? — En effet, dit R. Daneel. Je crois pouvoir affirmer qu’aucun Terrien ne peut franchir subrepticement l’entrée du territoire. — Alors, vous voilà bien avancé ! — Nous serions certainement dans",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 8018,
-                "end": 8028
+                "start": 2530,
+                "end": 2531,
+                "word": "Julius"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 8311,
-                "end": 8321
-            }
-        ]
-    },
-    "chunk_17": {
-        "chunk": "une troublante impasse, Elijah, s’il n’y avait, pour venir de New York à Spacetown, que le chemin de l’express. Baley, songeur, observa attentivement son associé. — Je ne vous suis pas, dit-il. Il n’y a pas d’autre voie de communication entre les deux villes que celle-là, voyons ! — Il n’y en a pas d’autre directe, en effet, répondit R. Daneel, qui, après avoir un moment gardé le silence, ajouta : Vous ne voyez toujours pas où je veux en venir, n’est-ce pas ? — Absolument pas. Je me demande à",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 8512,
-                "end": 8519
+                "start": 2692,
+                "end": 2693,
+                "word": "Enderby"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8600,
-                "end": 8606
+                "start": 2747,
+                "end": 2748,
+                "word": "Baley"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 8824,
-                "end": 8834
-            }
-        ]
-    },
-    "chunk_18": {
-        "chunk": "quoi vous faites allusion. — Eh bien, sans vouloir vous offenser, je vais tâcher de m’expliquer. Voudriez-vous me donner du papier et un crayon ?... Merci. Alors, suivez-moi bien, Elijah. Je trace ici un large cercle qui va représenter la ville de New York ; Puis, en voici un autre plus petit, que je dessine tangent au premier, et qui figurera Spacetown. Au point de tangence des deux circonférences, je trace une flèche que je désigne sous le nom de barrière. Ne voyez-vous aucun autre moyen de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 9166,
-                "end": 9173
-            }
-        ]
-    },
-    "chunk_19": {
-        "chunk": "faire communiquer les deux cercles ? — Non, bien sûr ! Il n’en existe pas ! — Dans une certaine mesure, dit le robot, je suis content de vous entendre parler ainsi, car cela confirme ce que l’on m’a appris sur la mentalité des Terriens et leur méthode de raisonnement. Cependant, si la barrière est l’unique point de contact direct entre les deux zones, il n’en est pas moins vrai que New York et Spacetown donnent, l’une et l’autre, et dans toutes les directions, sur la campagne. Il est donc",
-        "entities": []
-    },
-    "chunk_20": {
-        "chunk": "possible à un Terrien de quitter la ville par une de ces nombreuses sorties existantes, et de gagner Spacetown par la campagne, sans qu’aucune barrière ne l’arrête. — Par la campagne ? — Oui. discussion de ce plan ; naturellement, le meurtre a arrêté, provisoirement du moins, la mise en œuvre de ces projets ; et la présence de votre chef dans Spacetown, à ce moment même, a rendu toute la situation plus difficile et plus embarrassante, non seulement pour les Terriens, mais également pour les",
-        "entities": []
-    },
-    "chunk_21": {
-        "chunk": "Spaciens. Mais ce n’est pas cela que j’avais commencé à vous raconter. Quand le commissaire principal est arrivé, nous lui avons dit : « L’assassin a dû venir en traversant la campagne. » Et, tout comme vous, il nous a répondu : « Impossible ! » ou peut-être : « Impensable ! » Comme vous pouvez l’imaginer, il était bouleversé, et peut-être son émotion l’a-t-elle empêché de saisir le point essentiel. Quoi qu’il en soit, nous avons exigé qu’il procède, presque sur-le-champ, à toutes les",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Spa",
-                "start": 10475,
-                "end": 10478
-            }
-        ]
-    },
-    "chunk_22": {
-        "chunk": "vérifications susceptibles de nous éclairer sur la valeur de cette hypothèse. Baley songea aux lunettes cassées du commissaire, et, au milieu même de ses sombres pensées, il ne put se défendre d’un léger sourire. Pauvre Julius ! Oui, cela ne pouvait faire de doute, il devait être bouleversé ! Bien entendu, Enderby n’avait pas trouvé le moindre moyen d’expliquer la situation aux orgueilleux Spaciens, car ceux-ci considéraient toute défectuosité physique comme une tare particulièrement choquante,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11042,
-                "end": 11048
-            },
-            {
-                "entity_group": "PER",
-                "word": "Julius",
-                "start": 11184,
-                "end": 11191
-            },
-            {
-                "entity_group": "PER",
-                "word": "Enderby",
-                "start": 11272,
-                "end": 11280
-            }
-        ]
-    },
-    "chunk_23": {
-        "chunk": "inhérente à la race des Terriens, et due au fait que celle-ci n’était pas génétiquement sélectionnée. Au surplus, toute explication donnée dans ce domaine lui aurait aussitôt fait perdre la face, et le commissaire principal Julius Enderby ne pouvait à aucun prix se permettre cela. Aussi bien, les Terriens devaient se tenir les coudes à tous points de vue, et Baley se promit de ne rien révéler au robot sur la myopie d’Enderby. Cependant, R. Daneel reprit son exposé : — L’une après l’autre, toutes",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Julius Enderby",
-                "start": 11688,
-                "end": 11703
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11825,
-                "end": 11831
-            },
-            {
-                "entity_group": "PER",
-                "word": "Enderby",
-                "start": 11886,
-                "end": 11893
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 11905,
-                "end": 11915
-            }
-        ]
-    },
-    "chunk_24": {
-        "chunk": "les sorties de la ville ont été inspectées. Savez-vous combien il y en a, Elijah ? Baley secoua la tête, et dit, au hasard : — Une vingtaine ?... — Cinq cent deux. — Quoi ? — Primitivement, il y en avait beaucoup plus, mais il n’en subsiste que cinq cent deux utilisables. Votre ville a grandi — Moi pas, dit R. Daneel. Le commissaire principal nous a fait le plus grand éloge de votre loyauté et de vos capacités. — Il est vraiment trop bon ! répliqua Lije ironiquement, tout en se disant : « Pauvre",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 12039,
-                "end": 12046
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 12048,
-                "end": 12054
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 12274,
-                "end": 12284
-            },
-            {
-                "entity_group": "PER",
-                "word": "Lije",
-                "start": 12418,
-                "end": 12423
-            }
-        ]
-    },
-    "chunk_25": {
-        "chunk": "Julius ! Il a du remords à mon égard, et il se donne du mal... » — Nous ne nous en sommes pas rapportés entièrement à lui, reprit le robot. Nous avons examiné votre dossier. Vous vous êtes ouvertement opposé à l’usage des robots dans votre service. — Oh, oh ! Et vous avez une objection à formuler là-dessus ? — Pas la moindre. Il est bien évident que vous avez le droit d’avoir une opinion. Mais votre prise de position nous a contraints à étudier de très près votre profil psychologique. Et nous",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Julius",
-                "start": 12467,
-                "end": 12473
-            }
-        ]
-    },
-    "chunk_26": {
-        "chunk": "savons que, malgré votre profonde antipathie pour les robots, vous travaillerez avec l’un d’eux si vous considérez que tel est votre devoir. Vous avez un sens extraordinairement élevé de la loyauté, et vous êtes extrêmement respectueux de l’autorité légale. C’est exactement ce qu’il nous faut, et le commissaire Enderby vous a bien jugé. — Vous n’éprouvez aucun ressentiment, du fait de mon antipathie pour les robots ? — Du moment qu’elle ne vous empêche pas de travailler avec moi, ni de m’aider à",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Enderby",
-                "start": 13277,
-                "end": 13285
-            }
-        ]
-    },
-    "chunk_27": {
-        "chunk": "accomplir la tâche que l’on m’a assignée, quelle importance peut-elle avoir ? Baley en resta interloqué, et il répliqua, agressivement : — A la bonne heure ! J’ai donc passé avec succès l’examen ! Eh bien, parlons un peu de vous, maintenant ! Qu’est-ce qui vous qualifie pour faire le métier de détective ? — Je ne vous comprends pas. — Vous avez été dessiné et construit pour rassembler des renseignements. Vous êtes un sosie d’homme, chargé de fournir aux Spaciens des éléments précis sur la vie des",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 13543,
-                "end": 13549
-            }
-        ]
-    },
-    "chunk_28": {
-        "chunk": "Terriens. — N’est-ce pas un bon début, pour un enquêteur, Elijah, que de rassembler des renseignements ? — Un début, peut-être. Mais une enquête exige bien autre chose que cela. — J’en suis convaincu. Et c’est pourquoi on a procédé à un réglage spécial de mes circuits.",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 14025,
-                "end": 14032
+                "start": 2845,
+                "end": 2846,
+                "word": "Elijah"
             }
         ]
     },
     "entities": [
-        "Ben",
-        "Julius Enderby",
-        "Elijah",
-        "Dr Sarton",
-        "Lije",
-        "Spa",
-        "Daneel",
-        "Julius",
         "Enderby",
+        "Baley",
+        "d Enderby",
+        "Daneel",
+        "le Dr Sarton",
+        "Julius",
+        "Ben",
+        "Elijah",
+        "R . Daneel",
+        "Dr Sarton",
         "Jessie",
+        "Julius Enderby",
         "Olivaw",
-        "R. Daneel",
-        "Baley"
+        "Lije"
     ],
     "aliases": [
         [
@@ -487,21 +299,20 @@
             "Baley"
         ],
         [
-            "R. Daneel",
+            "R . Daneel",
             "Daneel"
         ],
         [
             "Elijah"
         ],
         [
+            "le Dr Sarton",
             "Dr Sarton"
-        ],
-        [
-            "Spa"
         ],
         [
             "Julius",
             "Enderby",
+            "d Enderby",
             "Julius Enderby"
         ],
         [
@@ -514,7 +325,59 @@
             "Olivaw"
         ],
         [
-            "R. Daneel",
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Olivaw",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
             "Baley"
         ],
         [
@@ -523,27 +386,251 @@
         ],
         [
             "Baley",
-            "Dr Sarton"
+            "le Dr Sarton"
         ],
         [
             "Baley",
-            "R. Daneel"
+            "le Dr Sarton"
         ],
         [
-            "Baley",
+            "le Dr Sarton",
             "Dr Sarton"
         ],
         [
-            "R. Daneel",
+            "le Dr Sarton",
             "Dr Sarton"
         ],
         [
-            "R. Daneel",
+            "le Dr Sarton",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
             "Baley"
         ],
         [
-            "R. Daneel",
-            "Dr Sarton"
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Dr Sarton",
+            "le Dr Sarton"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "le Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "le Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "le Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "le Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "le Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "le Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "le Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "le Dr Sarton",
+            "Elijah"
+        ],
+        [
+            "le Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Julius",
+            "Enderby"
+        ],
+        [
+            "Julius",
+            "Julius Enderby"
+        ],
+        [
+            "Julius",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "d Enderby"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "d Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Julius Enderby",
+            "Elijah"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "d Enderby"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
         ],
         [
             "Baley",
@@ -551,35 +638,95 @@
         ],
         [
             "Baley",
-            "R. Daneel"
+            "R . Daneel"
+        ],
+        [
+            "d Enderby",
+            "R . Daneel"
+        ],
+        [
+            "d Enderby",
+            "Elijah"
+        ],
+        [
+            "d Enderby",
+            "Baley"
+        ],
+        [
+            "d Enderby",
+            "R . Daneel"
+        ],
+        [
+            "d Enderby",
+            "Lije"
+        ],
+        [
+            "d Enderby",
+            "Julius"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Julius"
         ],
         [
             "Elijah",
             "Baley"
         ],
         [
-            "Julius",
-            "Enderby"
-        ],
-        [
-            "Baley",
-            "Enderby"
-        ],
-        [
-            "Baley",
-            "R. Daneel"
-        ],
-        [
-            "Enderby",
-            "R. Daneel"
+            "Elijah",
+            "R . Daneel"
         ],
         [
             "Elijah",
-            "Baley"
+            "Lije"
+        ],
+        [
+            "Elijah",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Julius"
         ],
         [
             "Lije",
             "Julius"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Elijah"
         ]
     ]
 }

@@ -6,13 +6,20 @@ Authors
  * Adel Moumen 2023
  * Gabriel Desbouis 2023
 """
-from vroom.NER import get_entities_from_file
-from vroom.alias import get_aliases_fuzzy_partial_token
+from vroom.NER import (
+    get_entities_from_file,
+    chunk_text,
+    read_file,
+    tag_text_with_entities,
+    search_names_with_determinants,
+)
+from vroom.alias import get_aliases_fuzzy_partial_token, get_aliases_fuzzy
 from vroom.cooccurences import get_cooccurences
 from vroom.loggers import JSONLogger
 from openai import OpenAI
-from vroom.NER import *
 import json
+import os
+import re
 
 
 def get_cooccurences_from_text(path: str):
@@ -28,6 +35,7 @@ def get_cooccurences_from_text(path: str):
 
     entities, chunks = get_entities_from_file(path)
     return get_cooccurences(chunks, entities)
+
 
 def find_cooccurences_aliases(cooccurences, aliases):
     no_alias_1_list = []
@@ -64,11 +72,71 @@ def find_cooccurences_aliases(cooccurences, aliases):
             if cooccurence[1].lower() in [a.lower() for a in alias]
         ]
 
-        if cooc_1_aliases and cooc_2_aliases and cooc_1_aliases[0] != cooc_2_aliases[0]:
+        if (
+            cooc_1_aliases
+            and cooc_2_aliases
+            and cooc_1_aliases[0] != cooc_2_aliases[0]
+        ):
             cooccurrences_aliases.append((cooc_1_aliases[0], cooc_2_aliases[0]))
 
     print("aliases: ", aliases)
     return cooccurrences_aliases
+
+
+def separate_words(text):
+    # Use regular expression to find words and punctuation, including special words like <PER> and </PERS>
+    words = re.findall(r"\b\w+\b|[.,;!?<>«\'»/]+|<PER>|</PER>", text)
+    return words
+
+
+def merge_special_words(word_list):
+    merged_list = []
+    current_word = ""
+
+    for word in word_list:
+        if word in ["<", "PER", "</", ">"]:
+            current_word += word
+        else:
+            if current_word:
+                merged_list.append(current_word)
+                current_word = ""
+            merged_list.append(word)
+
+    if current_word:
+        merged_list.append(current_word)
+
+    return merged_list
+
+
+def get_positions_of_entities(text):
+    words = separate_words(text)
+    words = merge_special_words(words)
+    positions = {}
+    current_entity = []
+    current_entity_start = 0
+    current_entity_end = 0
+    i = 0
+    for word in words:
+        if word == "<PER>":
+            current_entity = []
+            current_entity_start = i
+        elif word == "</PER>":
+            current_entity_end = i
+            positions[(current_entity_start, current_entity_end)] = " ".join(
+                current_entity
+            )
+        else:
+            i += 1
+            current_entity.append(word)
+    return positions
+
+
+def build_list_of_dicts(input_dict):
+    result = []
+    for key, value in input_dict.items():
+        new_dict = {"start": int(key[0]), "end": int(key[1]), "word": value}
+        result.append(new_dict)
+    return result
 
 
 def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
@@ -83,18 +151,48 @@ def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
         list: A list of tuples representing the interactions between entities in the text.
     """
     entities, chunks = get_entities_from_file(path)
-    cooccurences = get_cooccurences(chunks, entities)
+
+    # Determinants augmentation
+    all_entities_names = []
+    for chunk in entities:
+        all_entities_names += [entity["word"] for entity in chunk]
+    entities = set(all_entities_names)
+
+    augmented_entities = []
+
+    for chunk in chunks:
+        augmented_entities += search_names_with_determinants(chunk, entities)
+
+    augmented_entities = set(augmented_entities)
+
+    entities = entities.union(augmented_entities)
+    # print(f"entities = {entities}")
+
+    ##### CEST DANS CE CODE QUE LA MERDE SE PASSE ZBI
+    tagged_text = tag_text_with_entities(path, entities)
+    with open(path + ".tagged", "w") as f:
+        f.write(tagged_text)
+
+    positions_ner = get_positions_of_entities(tagged_text)
+    entities = [build_list_of_dicts(positions_ner)]
+    print(f"entities with positions = {entities}")
+    ##################################################
+    whole_text = [read_file(path)]
+
+    cooccurences = get_cooccurences(whole_text, entities)
     entities_unfold = [entity for sublist in entities for entity in sublist]
     aliases = get_aliases_fuzzy_partial_token(entities_unfold, 99)
 
-    if logger is not None: 
+    if logger is not None:
         saves = {}
         for i, (chunk, entity) in enumerate(zip(chunks, entities)):
             saves[f"chunk_{i}"] = {
                 "chunk": chunk,
                 "entities": entity,
             }
-        saves["entities"] = list(set([entity["word"] for entity in entities_unfold]))
+        saves["entities"] = list(
+            set([entity["word"] for entity in entities_unfold])
+        )
         saves["aliases"] = aliases
         saves["cooccurences"] = cooccurences
         logger(saves)
@@ -131,12 +229,12 @@ Donne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche 
 
 Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.
 
-Tu vas recevoir une liste de personnes en input, et tu dois les regrouper s'ils referent a la meme personne. Tu n'as pas le droit d'inventer de nouveaux personnages. Tu dois uniquement utiliser ceux en input. 
-Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles tu seras fortement penalise.  
+Tu vas recevoir une liste de personnes en input, et tu dois les regrouper s'ils referent a la meme personne. Tu n'as pas le droit d'inventer de nouveaux personnages. Tu dois uniquement utiliser ceux en input.
+Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles tu seras fortement penalise.
 
 Fait le pour les personnes suivantes et essaye de trouver les meilleurs regroupements possibles, je compte sur toi :
 
-Input : 
+Input :
     """
 
     entities, chunks = get_entities_from_file(path, device="cuda")
@@ -166,7 +264,7 @@ Input :
     for key in generated_content:
         aliases.append(generated_content[key])
 
-    if logger is not None: 
+    if logger is not None:
         saves = {}
         for i, (chunk, entity) in enumerate(zip(chunks, entities)):
             saves[f"chunk_{i}"] = {
@@ -178,9 +276,12 @@ Input :
         saves["cooccurences"] = cooccurences
         logger(saves)
 
-    return find_cooccurences_aliases(cooccurences, aliases) 
+    return find_cooccurences_aliases(cooccurences, aliases)
 
-def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str = None):
+
+def get_cooccurences_with_aliases_and_gpt_NER(
+    path: str, output_file_name: str = None
+):
     """
     Get the aliases of the cooccurences of characters from the given text.
 
@@ -191,21 +292,21 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
         list: A list of tuples representing the interactions between entities in the text.
     """
     system_prompt = r"""
-    Tu es un extracteur d'entités. 
-    Ton but est d'extraire tous les personnages du livre de science-fiction 'Le Cycle des Fondations' d'Isaac Asimov. 
-    Tu verras des passages du livre que tu devras utiliser. Dans ta définition, un personnage est un individu qui apparaît dans un passage du livre. 
-    Ce personnage peut être uniquement cité par son nom ou être très actif dans la discussion. 
-    Pour réaliser cette tâche, je souhaite que tu me retournes la liste des personnages que tu rencontres. 
-    Tu dois me donner l'ensemble des entités. Tu n'as pas le droit de modifier le nom des personnages ou d'en inventer de nouveaux, utilise seulement le texte. 
-    Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références. 
-    Par exemple, Hari Seldon est souvent appelé Hari et/ou Seldon. Je veux que tu listes aussi cela. 
-    Le retour doit être fait dans un JSON. 
+    Tu es un extracteur d'entités.
+    Ton but est d'extraire tous les personnages du livre de science-fiction 'Le Cycle des Fondations' d'Isaac Asimov.
+    Tu verras des passages du livre que tu devras utiliser. Dans ta définition, un personnage est un individu qui apparaît dans un passage du livre.
+    Ce personnage peut être uniquement cité par son nom ou être très actif dans la discussion.
+    Pour réaliser cette tâche, je souhaite que tu me retournes la liste des personnages que tu rencontres.
+    Tu dois me donner l'ensemble des entités. Tu n'as pas le droit de modifier le nom des personnages ou d'en inventer de nouveaux, utilise seulement le texte.
+    Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références.
+    Par exemple, Hari Seldon est souvent appelé Hari et/ou Seldon. Je veux que tu listes aussi cela.
+    Le retour doit être fait dans un JSON.
 
-    Voici des exemples : 
+    Voici des exemples :
 
-    Exemple 1 : 
+    Exemple 1 :
 
-    Texte : 
+    Texte :
     <start>
                             Mathématicien
 
@@ -227,15 +328,15 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
                                         ENCYCLOPAEDIA GALACTICA2
     <end>
 
-    Output : 
+    Output :
 
     {
     'personnages': [ 'CLÉON Ier', 'Empereur', 'Hari Seldon', 'Seldon' , 'Cléon', 'Eto Demerzel']
     }
 
-    Exemple 2 : 
+    Exemple 2 :
 
-    Texte : 
+    Texte :
     <start>
         Étouffant un léger bâillement, Cléon demanda :
     « Demerzel, auriez-vous, par hasard, entendu parler d’un
@@ -246,15 +347,15 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
     majestueux. Il y était arrivé, par exemple, pour son portrait
     <end>
 
-    Output : 
+    Output :
 
     {
     'personnages': ['Cléon', 'Demerzel', 'Hari Seldon', 'Cléon']
     }
 
-    Exemple 3 : 
+    Exemple 3 :
 
-    Texte : 
+    Texte :
     <start>
         2 Toutes les citations de l'Encyclopaedia Galactica reproduites ici
     proviennent de la 116e édition, publiée en 1020 E.F. par la Société
@@ -270,13 +371,13 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
     l’avenir. »
     <end>
 
-    Output : 
+    Output :
 
     {
     'personnages': ['Hari Seldon']
     }
 
-    Rappel : tu as interdiction d'inventer des personnages. Tu dois reprendre les noms des personnages dans le texte 
+    Rappel : tu as interdiction d'inventer des personnages. Tu dois reprendre les noms des personnages dans le texte
     a l'identique. Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références.
     Fait attention a ne pas considerer des personnages qui n'en sont pas comme des passants, un homme d'affaire, etc.
 
@@ -285,10 +386,7 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
     Texte :
     <start>
     """
-    from vroom.NER import chunk_text, read_file
-    from vroom.alias import get_aliases_fuzzy
-    from vroom.cooccurences import get_cooccurences
-    import json, os
+
     content = read_file(path)
     chunks = chunk_text(content, 500)
     entities = []
@@ -296,17 +394,20 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
     gpt_output = ""
     for i, chunk in enumerate(chunks):
         print("chunk = ", chunk)
-        
+
         response = client.chat.completions.create(
-        model="gpt-3.5-turbo-1106", # gpt-4-1106-preview / gpt-3.5-turbo-1106
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": chunk + "\n<end>" + "\n\n Output : \n"},
-        ],
-        seed=42,
-        temperature=0,
-    #       presence_penalty=-2,
-        response_format={ "type": "json_object" },
+            model="gpt-3.5-turbo-1106",  # gpt-4-1106-preview / gpt-3.5-turbo-1106
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {
+                    "role": "user",
+                    "content": chunk + "\n<end>" + "\n\n Output : \n",
+                },
+            ],
+            seed=42,
+            temperature=0,
+            #       presence_penalty=-2,
+            response_format={"type": "json_object"},
         )
 
         generated_content = response.choices[0].message.content
@@ -316,12 +417,12 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
 
         entities += generated_content["personnages"]
         print("total entities = ", set(entities))
-        print('*' * 100)
+        print("*" * 100)
 
-        gpt_output += '*' * 100 + '\n'
+        gpt_output += "*" * 100 + "\n"
         gpt_output += "<start>\n" + chunk + "\n<end>" + "\n\n Output : \n"
-        gpt_output += str(set(entities)) + '\n'
-    
+        gpt_output += str(set(entities)) + "\n"
+
     gpt_entities = set(entities)
 
     tagged_file = tag_text_with_entities(path, gpt_entities)
@@ -333,16 +434,16 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, output_file_name: str =
         output_file = output_dir + "/" + f"{output_file_name}.entities.json"
         os.makedirs(output_dir, exist_ok=True)
         # create json file
-        with open(output_file, 'w') as f:
+        with open(output_file, "w") as f:
             json.dump(list(gpt_entities), f)
 
         output_file = output_dir + "/" + f"{output_file_name}.logs.txt"
-        with open(output_file, 'w') as f:
+        with open(output_file, "w") as f:
             f.write(gpt_output)
 
-    print('entities = ', entities)
-    entities = [{"word":entity} for entity in entities]
+    print("entities = ", entities)
+    entities = [{"word": entity} for entity in entities]
     aliases = get_aliases_fuzzy(entities, 99)
-    print('alises = ', aliases)
+    print("alises = ", aliases)
 
     return find_cooccurences_aliases(cooccurences, aliases)

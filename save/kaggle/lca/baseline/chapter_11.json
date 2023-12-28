@@ -3,455 +3,297 @@
         "chunk": "fixés sur les fonctions qu’exerçait Baley. Or, pour qu’un détective circulât en compagnie d’un robot humanoïde, il fallait que ce policier fût quelqu’un de très important, et Baley n’eut aucune peine à reconstituer le raisonnement de ses mystérieux adversaires. Il en déduisit qu’ils avaient dû placer des espions aux alentours de l’Hôtel de Ville, pour surveiller ses agissements et ceux de R. Daneel ; peut-être même disposaient-ils de complices au sein même des services officiels et dans",
         "entities": [
             {
-                "entity_group": "PER",
-                "word": "Baley",
+                "start": 6,
+                "end": 7,
+                "word": "Baley"
+            },
+            {
                 "start": 35,
-                "end": 41
+                "end": 36,
+                "word": "Baley"
             },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 174,
-                "end": 180
+                "start": 74,
+                "end": 77,
+                "word": "R . Daneel"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 391,
-                "end": 401
-            }
-        ]
-    },
-    "chunk_1": {
-        "chunk": "l’administration de la Cité. Rien d’étonnant donc à ce que les deux policiers aient été suivis au cours des dernières vingt-quatre heures ; la seule chose qui avait dû dérouter un peu leurs poursuivants, c’était la longue durée de la visite à Spacetown, et de l’entretien que Baley avait eu avec le robot sur l’autoroute. Cependant R. Daneel, ayant achevé son repas, demeurait tranquillement assis à sa place, ses mains sans défaut placées sur le rebord de la table. — Ne croyez-vous pas que nous",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 767,
-                "end": 773
+                "start": 141,
+                "end": 142,
+                "word": "Spacetown"
             },
             {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 823,
-                "end": 833
-            }
-        ]
-    },
-    "chunk_2": {
-        "chunk": "devrions faire quelque chose ? demanda-t-il. — Ici, dans le restaurant, nous ne risquons rien, dit Baley. Laissez-moi l’initiative, je vous prie. Il regarda autour de lui, et ce fut comme s’il voyait un restaurant communautaire pour la première fois. Que de gens ! Des centaines, des milliers !... Il avait lu un jour, dans une étude sur les restaurants de la ville, que leur capacité moyenne était de deux mille deux cents couverts. Mais celui-ci était plus important. Si jamais quelqu’un venait à",
-        "entities": [
+                "start": 148,
+                "end": 149,
+                "word": "Baley"
+            },
             {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 1087,
-                "end": 1093
-            }
-        ]
-    },
-    "chunk_3": {
-        "chunk": "crier « Robot ! » que se passerait-il ? Baley n’osa pas se le figurer, mais il se convainquit rapidement qu’une telle éventualité était invraisemblable. Sans doute, une émeute soudaine pouvait éclater n’importe où, aussi bien au restaurant que dans les avenues ou les ascenseurs de la ville ; peut-être même l’atmosphère du restaurant était-elle plus propice à des désordres, parce que les gens s’y laissaient facilement aller à leurs instincts, et s’y extériorisaient plus qu’ailleurs ; il ne fallait",
-        "entities": [
+                "start": 159,
+                "end": 162,
+                "word": "R . Daneel"
+            },
             {
-                "entity_group": "PER",
-                "word": "Baley",
+                "start": 214,
+                "end": 215,
+                "word": "Baley"
+            },
+            {
+                "start": 305,
+                "end": 306,
+                "word": "Baley"
+            },
+            {
+                "start": 434,
+                "end": 435,
+                "word": "Baley"
+            },
+            {
+                "start": 494,
+                "end": 495,
+                "word": "Ben"
+            },
+            {
+                "start": 537,
+                "end": 538,
+                "word": "Baley"
+            },
+            {
+                "start": 596,
+                "end": 597,
+                "word": "Baley"
+            },
+            {
+                "start": 688,
+                "end": 689,
+                "word": "Baley"
+            },
+            {
+                "start": 766,
+                "end": 767,
+                "word": "Daneel"
+            },
+            {
+                "start": 775,
+                "end": 776,
+                "word": "Elijah"
+            },
+            {
+                "start": 789,
+                "end": 790,
+                "word": "Baley"
+            },
+            {
+                "start": 972,
+                "end": 974,
+                "word": "Elijah Baley"
+            },
+            {
+                "start": 1151,
+                "end": 1152,
+                "word": "Baley"
+            },
+            {
+                "start": 1246,
+                "end": 1249,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1261,
+                "end": 1262,
+                "word": "Daneel"
+            },
+            {
+                "start": 1280,
+                "end": 1281,
+                "word": "Baley"
+            },
+            {
+                "start": 1410,
+                "end": 1411,
+                "word": "Daneel"
+            },
+            {
+                "start": 1432,
+                "end": 1433,
+                "word": "Baley"
+            },
+            {
                 "start": 1527,
-                "end": 1533
+                "end": 1528,
+                "word": "Baley"
+            },
+            {
+                "start": 1529,
+                "end": 1532,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1578,
+                "end": 1579,
+                "word": "Baley"
+            },
+            {
+                "start": 1763,
+                "end": 1764,
+                "word": "Daneel"
+            },
+            {
+                "start": 1825,
+                "end": 1826,
+                "word": "Baley"
+            },
+            {
+                "start": 1843,
+                "end": 1846,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1893,
+                "end": 1894,
+                "word": "Daneel"
+            },
+            {
+                "start": 1989,
+                "end": 1990,
+                "word": "Daneel"
+            },
+            {
+                "start": 2003,
+                "end": 2004,
+                "word": "Baley"
+            },
+            {
+                "start": 2033,
+                "end": 2034,
+                "word": "Spacetown"
+            },
+            {
+                "start": 2067,
+                "end": 2070,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2072,
+                "end": 2073,
+                "word": "Baley"
+            },
+            {
+                "start": 2082,
+                "end": 2083,
+                "word": "Elijah"
+            },
+            {
+                "start": 2097,
+                "end": 2098,
+                "word": "Baley"
+            },
+            {
+                "start": 2254,
+                "end": 2255,
+                "word": "Baley"
+            },
+            {
+                "start": 2285,
+                "end": 2288,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2307,
+                "end": 2308,
+                "word": "Baley"
+            },
+            {
+                "start": 2403,
+                "end": 2404,
+                "word": "Baley"
+            },
+            {
+                "start": 2414,
+                "end": 2415,
+                "word": "Ben"
+            },
+            {
+                "start": 2428,
+                "end": 2429,
+                "word": "Baley"
+            },
+            {
+                "start": 2435,
+                "end": 2436,
+                "word": "Ben"
+            },
+            {
+                "start": 2506,
+                "end": 2507,
+                "word": "Baley"
+            },
+            {
+                "start": 2549,
+                "end": 2550,
+                "word": "Ben"
+            },
+            {
+                "start": 2620,
+                "end": 2621,
+                "word": "Baley"
+            },
+            {
+                "start": 2749,
+                "end": 2750,
+                "word": "Jessie"
+            },
+            {
+                "start": 2754,
+                "end": 2755,
+                "word": "Jessie"
+            },
+            {
+                "start": 2777,
+                "end": 2778,
+                "word": "Baley"
+            },
+            {
+                "start": 2795,
+                "end": 2796,
+                "word": "Jessie"
+            },
+            {
+                "start": 2797,
+                "end": 2798,
+                "word": "Ben"
+            },
+            {
+                "start": 2854,
+                "end": 2855,
+                "word": "Jessie"
+            },
+            {
+                "start": 2871,
+                "end": 2872,
+                "word": "Lije"
+            },
+            {
+                "start": 2921,
+                "end": 2922,
+                "word": "Ben"
+            },
+            {
+                "start": 2969,
+                "end": 2970,
+                "word": "Ben"
             }
         ]
-    },
-    "chunk_4": {
-        "chunk": "pas grand-chose pour qu’une discussion y dégénérât en bagarre. Mais faire éclater exprès une émeute dans un restaurant était une toute autre histoire, car les conspirateurs se dont le cliquetis incessant symbolisait l’énorme quantité de repas distribués. Baley, jetant un regard en arrière, vers la salle bruyante et légèrement enfumée, se remémora soudain, avec une précision qui l’étonna lui-même, une visite du Zoo qu’il avait faite avec son fils, huit ans auparavant (bon sang, que le temps",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 2244,
-                "end": 2250
-            }
-        ]
-    },
-    "chunk_5": {
-        "chunk": "passait vite !...). C’était la première fois que Ben y allait, et cela l’avait impressionné, car il n’avait encore jamais vu de chat ni de chien en chair et en os. Ce qui l’avait enthousiasmé plus que tout, c’était la volière ; et Baley, qui l’avait pourtant vue une douzaine de fois déjà, n’avait pas davantage résisté à la fascination du spectacle. On ne peut nier qu’il y ait en effet quelque chose de saisissant dans le vol d’un oiseau que l’on contemple pour la première fois. Or, ce jour-là,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Ben",
-                "start": 2533,
-                "end": 2537
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 2715,
-                "end": 2721
-            }
-        ]
-    },
-    "chunk_6": {
-        "chunk": "Baley et son fils avaient assisté au repas des oiseaux ; un employé remplissait une longue auge d’avoine écrasée ; si les hommes avaient pris l’habitude de se nourrir d’aliments synthétiques à base de levure, les oiseaux, plus conservateurs, continuaient à ne vouloir manger que de vraies graines. Les oiseaux voletaient donc par centaines, et, aile contre aile, ils venaient s’aligner sur l’auge, en pépiant de façon assourdissante. Telle était l’image qui vint à l’esprit de Baley, au moment de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 2983,
-                "end": 2988
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 3459,
-                "end": 3465
-            }
-        ]
-    },
-    "chunk_7": {
-        "chunk": "quitter le restaurant communautaire. Oui, des oiseaux rangés sur leur auge !... C’était bien ça ! Et cette constatation le dégoûta, au point qu’il se demanda s’il n’y aurait pas moyen de vivre autrement, mieux que cela... Mais qu’y avait-il donc de défectueux dans ce mode d’existence ? Jamais encore cela ne lui était venu à l’esprit... — Prêt, Daneel ? demanda-t-il brusquement. — Prêt, Elijah. — Eh bien, en route ! Ils sortirent du restaurant, et Baley se dit que, désormais, leur salut allait",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 3825,
-                "end": 3832
-            },
-            {
-                "entity_group": "PER",
-                "word": "Elijah",
-                "start": 3868,
-                "end": 3875
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 3930,
-                "end": 3936
-            }
-        ]
-    },
-    "chunk_8": {
-        "chunk": "uniquement dépendre de son astuce et de son adresse. Il y a un jeu que les jeunes adorent pratiquer et qu’ils nomment la « course aux tapis roulants ». Ses règles varient de ville en ville, mais le principe demeure éternellement le même, en sorte qu’un garçon de San Francisco n’aura aucune peine à participer à une partie qui se joue au Caire. Il consiste en ceci : Et cependant on n’a jamais pu trouver le moyen de supprimer ce sport, ni de mettre les équipes qui s’y livrent hors d’état de le",
-        "entities": []
-    },
-    "chunk_9": {
-        "chunk": "pratiquer. Plus il devient dangereux, plus ses adeptes sont sûrs de conquérir le plus précieux des prix, à savoir la gloriole qu’ils en tirent aux yeux de leurs camarades. Tout le monde admet qu’un champion a le droit de se pavaner, et quant aux meneurs connus pour leur adresse, ils font aisément figure de coq de village. Ainsi, par exemple, Elijah Baley se rappelait avec une réelle satisfaction, même à son âge, que jadis il avait été classé parmi les meilleurs coureurs de tapis roulant. Un jour,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Elijah Baley",
-                "start": 4817,
-                "end": 4830
-            }
-        ]
-    },
-    "chunk_10": {
-        "chunk": "il avait semé vingt poursuivants dans une course mémorable, pendant laquelle, à trois reprises, il avait traversé l’express ; en deux heures de poursuite sans répit, il était parvenu, sans faiblir, à disperser certains des meilleurs joueurs de son quartier, et à atteindre seul le but. Et, pendant des mois, on avait parlé de cette performance. Maintenant qu’il avait dépassé la quarantaine, il y avait plus de vingt ans qu’il ne se livrait plus à ce genre de jeu, mais il se souvenait de certaines",
-        "entities": []
-    },
-    "chunk_11": {
-        "chunk": "astuces. Ce qu’il avait perdu en agilité, il le compensait par son expérience. Et puis, il était un policier, et nul mieux que lui ne connaissait la ville, sinon peut-être quelque collègue encore plus expérimenté ; bref, pour Baley, le dédale de ces avenues aux murailles d’acier n’avait pour ainsi dire pas de secret. Il sortit du restaurant d’un pas alerte mais pas trop rapide. A tout moment, il s’attendait à entendre pousser derrière lui les cris de : « Robot ! Robot ! » Ce début de leur fuite",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 5700,
-                "end": 5706
-            }
-        ]
-    },
-    "chunk_12": {
-        "chunk": "était, à son avis, le moment le plus risqué, et il compta ses pas avant de sentir sous ses pieds le premier mouvement du tapis accélérateur. Il s’arrêta un instant, et laissa R. Daneel venir tranquillement à sa hauteur. — Sont-ils toujours derrière nous, Daneel ? murmura-t-il. — Oui. Ils se rapprochent. — Ca ne va pas durer ! dit Baley, très sûr de lui. Il jeta un regard vers les tapis normaux qui s’étendaient de chaque côté de l’accélérateur ; ils étaient chargés de passants, qui disparurent de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 6149,
-                "end": 6159
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 6229,
-                "end": 6236
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 6306,
-                "end": 6312
-            }
-        ]
-    },
-    "chunk_13": {
-        "chunk": "plus en plus vite derrière lui, à mesure qu’il Tout d’un coup, sans avoir marqué le moindre temps d’arrêt, il fit un bond de côté et sauta sur le tapis accélérateur voisin ; le mouvement fut si brusque qu’il eut de la peine à conserver son équilibre, et sentit une douleur dans les muscles de ses cuisses. Il actionna aussitôt les manettes d’accélération, et un instant plus tard, il filait à une vitesse de soixante-dix kilomètres à l’heure. — Et maintenant, Daneel ? demanda-t-il au robot, toujours",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 6935,
-                "end": 6942
-            }
-        ]
-    },
-    "chunk_14": {
-        "chunk": "derrière lui. — Il est encore là, répliqua l’autre calmement. Baley pinça les lèvres. S’il en était ainsi, il fallait alors opérer sur l’express ; cela exigeait un gros entraînement, et peut-être n’en serait-il plus capable... Regardant rapidement autour de lui, pour situer sa position, il vit passer comme un éclair la rue B. 22. Il fit un petit calcul, puis d’un saut prit place sur l’express. Les hommes et les femmes qui l’occupaient, manifestement peu satisfaits de se déplacer ainsi, se",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 7038,
-                "end": 7044
-            }
-        ]
-    },
-    "chunk_15": {
-        "chunk": "montrèrent indignés quand Baley et R. Daneel, faisant irruption parmi eux, jouèrent des coudes pour s’efforcer de gagner l’autre bord du tapis. — Eh là ! Faites donc attention ! glapit une femme, en retenant non sans peine son chapeau qu’elle manqua perdre. — Excusez-moi bredouilla Baley, à court de souffle. Ayant réussi à gagner l’autre côté de l’express, il sauta de nouveau sur le tapis voisin ; mais, au dernier moment, un voyageur, furieux d’avoir été bousculé, lui lança un coup de poing dans",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 7496,
-                "end": 7502
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 7505,
-                "end": 7515
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 7753,
-                "end": 7759
-            }
-        ]
-    },
-    "chunk_16": {
-        "chunk": "le dos, ce qui le fit trébucher. Il fit un effort désespéré pour retrouver son équilibre, car, pris de panique, il eut soudain la vision de ce qui allait se passer, s’il n’y parvenait pas : en tombant, il risquait de faire tomber d’autres gens, qui s’écrouleraient comme un château de cartes, et ces sortes de « marmelades de voyageurs », assez fréquentes sur les tapis roulants, avaient toujours pour résultat d’envoyer des douzaines de blessés à l’hôpital, avec des membres cassés. La différence de",
-        "entities": []
-    },
-    "chunk_17": {
-        "chunk": "vitesse des deux tapis ne fit pourtant qu’accentuer son déséquilibre, et il s’effondra, d’abord sur les genoux, ensuite sur le côté. Mais, instantanément, le bras de Daneel le saisit, et il se vit relevé avec une force et une aisance bien supérieures à celles d’un homme. « cendres chaudes », étaient chassés par de puissantes souffleries dans des tuyaux de plomb, qui aboutissaient, vingt kilomètres au large de l’océan, à des fosses aménagées à mille mètres de profondeur sous les eaux. Baley",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 8638,
-                "end": 8645
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 8961,
-                "end": 8967
-            }
-        ]
-    },
-    "chunk_18": {
-        "chunk": "s’était souvent demandé ce qui se passerait quand ces fosses seraient pleines. Se tournant vers R. Daneel, il lui dit, assez brusquement : — Ne vous approchez pas des signaux rouges ! Puis, ayant réfléchi, il ajouta, un peu confus : — Mais, après tout, cela ne vous gêne peut-être pas... — Est-ce une question de radioactivité ? demanda Daneel. — Oui. — Alors, il faut que j’y fasse attention. Les rayons gamma détruisent en effet le délicat équilibre d’un cerveau positronique. Si je m’y trouvais",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 9063,
-                "end": 9073
-            },
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 9304,
-                "end": 9311
-            }
-        ]
-    },
-    "chunk_19": {
-        "chunk": "exposé, ils me feraient beaucoup plus de mal qu’à vous, et bien plus rapidement. — Voulez-vous dire qu’ils pourraient vous tuer ? — Il faudrait alors me doter d’un nouveau cerveau positronique. Or, comme il ne peut en exister deux identiques, il s’ensuit que je deviendrais dans ce cas un nouvel individu. Le Daneel à qui vous parlez actuellement serait, à proprement parler, mort. Baley le regarda d’un air sceptique. — J’ignorais complètement cela, dit-il. Grimpons là-haut ! — On n’insiste jamais",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Daneel",
-                "start": 9774,
-                "end": 9781
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 9847,
-                "end": 9853
-            }
-        ]
-    },
-    "chunk_20": {
-        "chunk": "sur ce point. Ce que Spacetown désire faire connaître, c’est l’utilité de robots tels que moi, et non pas nos défectuosités. — Alors, pourquoi m’en faites-vous part ? — Parce que, dit R. Daneel en regardant Baley bien en face, vous êtes mon associé, Elijah, et il est bon que vous connaissiez mes faiblesses et mes lacunes. Baley se racla la gorge, et ne trouva rien à ajouter. Un peu plus tard, il indiqua au robot une sortie proche, et lui dit : — Par ici ! Nous sommes à cinq cents mètres de",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Spacetown",
-                "start": 9986,
-                "end": 9996
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 10149,
-                "end": 10159
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 10172,
-                "end": 10178
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 10289,
-                "end": 10295
-            }
-        ]
-    },
-    "chunk_21": {
-        "chunk": "l’appartement. C’était un logement très modeste, un des plus ordinaires que l’on pût trouver : il se composait d’une petite chambre à — Je propose, ajouta-t-il tout haut, que demain matin nous partions de bonne heure. — Avez-vous une raison particulière pour cela ? — Nos bons amis ne connaissent pas encore cet appartement, tout au moins je l’espère. En partant tôt, nous courrons moins de risques. Et quand nous serons à l’Hôtel de Ville, il vous faudra décider si notre association est encore",
-        "entities": []
-    },
-    "chunk_22": {
-        "chunk": "praticable et utile. — Vous croyez qu’elle ne l’est plus ? — Vous devez bien comprendre, dit Baley en haussant les épaules, que nous ne pouvons pas nous livrer tous les jours à des acrobaties comme celles de ce soir. — Mais il me semble que... R. Daneel ne put achever sa phrase : une lampe rouge vif venait de s’allumer au-dessus de la porte. Baley se leva sans bruit et saisit son revolver. Le signal rouge, qui s’était éteint, se ralluma, et le détective, s’approchant à pas de loup de la porte,",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11049,
-                "end": 11055
-            },
-            {
-                "entity_group": "PER",
-                "word": "R. Daneel",
-                "start": 11200,
-                "end": 11210
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11300,
-                "end": 11306
-            }
-        ]
-    },
-    "chunk_23": {
-        "chunk": "tourna un commutateur ; il actionna ainsi un écran translucide, qui permettait de voir de l’intérieur vers l’extérieur de la pièce. L’appareil ne fonctionnait pas très bien ; il était trop petit et usagé, et l’image qu’il donnait n’était pas nette ; mais elle l’était bien assez pour permettre à Baley de reconnaître, debout devant la porte, son fils Ben. Ce qui suivit fut rapide, et même un peu brutal. Baley ouvrit brusquement la porte, saisit Ben par le poignet au moment où celui-ci allait, pour",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11751,
-                "end": 11757
-            },
-            {
-                "entity_group": "PER",
-                "word": "Ben",
-                "start": 11806,
-                "end": 11810
-            },
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 11860,
-                "end": 11866
-            },
-            {
-                "entity_group": "PER",
-                "word": "Ben",
-                "start": 11902,
-                "end": 11906
-            }
-        ]
-    },
-    "chunk_24": {
-        "chunk": "la troisième fois, actionner le signal, et le tira dans la pièce. Le garçon, ahuri et effrayé de cet accueil, s’adossa, un peu essoufflé, contre un mur, et frotta longuement son poignet meurtri, avant de s’écrier : — Mais voyons, papa, pourquoi me bouscules-tu comme ça ? Baley ne lui répondit pas tout de suite ; après avoir refermé la porte, il continua à regarder par l’écran translucide, et il lui sembla que le couloir était vide. — As-tu remarqué quelqu’un, là dehors, Ben ? fit-il. — Non.",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 12228,
-                "end": 12234
-            },
-            {
-                "entity_group": "PER",
-                "word": "Ben",
-                "start": 12431,
-                "end": 12435
-            }
-        ]
-    },
-    "chunk_25": {
-        "chunk": "Ecoute, papa, je suis juste venu voir comment tu allais. — Pourquoi n’irais-je pas bien ? — Oh ! zut. Tu pourrais tout de même me mettre au courant ! Je ne le dirai à personne ! — Non. Au lit ! Allons, ouste !... — Oh ! quelle barbe ! Dès qu’il fut dans la cabine téléphonique, Baley se plaça de façon à pouvoir, le cas échéant, se servir sur-le-champ de son arme. Il commença par donner au microphone son numéro d’identification policière, et attendit un instant ; ce délai permit à une machine à",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 12730,
-                "end": 12736
-            }
-        ]
-    },
-    "chunk_26": {
-        "chunk": "contrôler, située à vingt kilomètres, de s’assurer que la communication serait immédiate. L’opération ne dura comme prévu que très peu de temps, car un détective devait pouvoir demander pour les besoins de son service un nombre illimité de communications. Dès qu’il eut la réponse du contrôle, il demanda le numéro de sa belle-mère. Un petit écran situé au pied de l’appareil s’éclaira alors, et le visage de la mère de Jessie apparut. — Passez-moi Jessie, dit-il à voix basse. Sa femme devait",
-        "entities": []
-    },
-    "chunk_27": {
-        "chunk": "l’attendre car, à son tour, elle apparut instantanément. Baley la regarda un instant, puis il actionna une manette pour assombrir l’écran. — Bon, Jessie. Ben est ici. Alors, qu’est-ce qui ne va pas ? Tout en parlant, il ne cessait de regarder autour de lui si personne n’approchait. — Comment vas-tu ? N’as-tu pas d’ennuis ? répliqua sa femme. — Tu peux constater toi-même que je vais très bien, Jessie. Et maintenant, fais-moi le plaisir de cesser toutes ces histoires ! — Oh ! Lije, je me suis",
-        "entities": [
-            {
-                "entity_group": "PER",
-                "word": "Baley",
-                "start": 13501,
-                "end": 13507
-            },
-            {
-                "entity_group": "PER",
-                "word": "Jessie",
-                "start": 13590,
-                "end": 13597
-            },
-            {
-                "entity_group": "PER",
-                "word": "Ben",
-                "start": 13598,
-                "end": 13602
-            },
-            {
-                "entity_group": "PER",
-                "word": "Jessie",
-                "start": 13840,
-                "end": 13847
-            },
-            {
-                "entity_group": "PER",
-                "word": "Lije",
-                "start": 13923,
-                "end": 13928
-            }
-        ]
-    },
-    "chunk_28": {
-        "chunk": "tellement tourmentée ! — A quel sujet ? répliqua-t-il sèchement. — Tu le sais bien ! Ton ami... — Eh bien ? — Je te l’ai dit hier soir. Ca va mal tourner. — Non. Tu dis des bêtises. Je garde Ben ici cette nuit, et toi, va te coucher ! Bonsoir, ma chérie ! Il coupa la communication et respira profondément avant de quitter la cabine. Son visage était décomposé, tant il avait peur. Quand il rentra chez lui, il trouva Ben debout au milieu de la pièce ; le jeune homme avait retiré d’un de ses yeux la",
-        "entities": []
-    },
-    "chunk_29": {
-        "chunk": "lentille",
-        "entities": []
     },
     "entities": [
+        "Spacetown",
+        "Baley",
+        "Daneel",
         "Ben",
         "Elijah",
-        "Lije",
-        "Daneel",
-        "Spacetown",
+        "R . Daneel",
         "Jessie",
-        "R. Daneel",
-        "Baley",
-        "Elijah Baley"
+        "Elijah Baley",
+        "Lije"
     ],
     "aliases": [
         [
@@ -460,14 +302,14 @@
             "Elijah Baley"
         ],
         [
-            "R. Daneel",
+            "R . Daneel",
             "Daneel"
         ],
         [
-            "Ben"
+            "Spacetown"
         ],
         [
-            "Spacetown"
+            "Ben"
         ],
         [
             "Jessie"
@@ -479,7 +321,63 @@
     "cooccurences": [
         [
             "Baley",
-            "R. Daneel"
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "R . Daneel",
+            "Spacetown"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "R . Daneel"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
         ],
         [
             "Daneel",
@@ -494,7 +392,63 @@
             "Baley"
         ],
         [
-            "R. Daneel",
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
             "Daneel"
         ],
         [
@@ -506,23 +460,103 @@
             "Baley"
         ],
         [
-            "Baley",
-            "R. Daneel"
+            "Daneel",
+            "Spacetown"
         ],
         [
-            "Baley",
-            "R. Daneel"
+            "Daneel",
+            "R . Daneel"
         ],
         [
             "Daneel",
             "Baley"
         ],
         [
-            "R. Daneel",
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
             "Baley"
         ],
         [
-            "R. Daneel",
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Spacetown",
+            "R . Daneel"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "Elijah"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Ben",
             "Baley"
         ],
         [
@@ -538,6 +572,26 @@
             "Ben"
         ],
         [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
             "Baley",
             "Jessie"
         ],
@@ -546,12 +600,44 @@
             "Ben"
         ],
         [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
             "Jessie",
             "Ben"
         ],
         [
             "Jessie",
             "Lije"
+        ],
+        [
+            "Ben",
+            "Jessie"
+        ],
+        [
+            "Ben",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Lije",
+            "Ben"
+        ],
+        [
+            "Lije",
+            "Ben"
         ]
     ]
 }

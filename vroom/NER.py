@@ -18,7 +18,7 @@ import os
 import re
 
 
-def read_file(file_path: str): 
+def read_file(file_path: str):
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read().rstrip()
 
@@ -387,10 +387,33 @@ def set_determinants(name: str, determinant_path: str):
     determinants = []
     with open(determinant_path, "r") as file:
         for line in file:
+            line = line.strip()
             if "_" in line:
-                line = line.replace("_", "")
-                determinants.append(line.strip() + " ")
-            else:
-                determinants.append(line.strip())
+                line = line.replace("_", " ")
+                determinants.append(line + name)
+    return determinants
 
-    return [determinant + name for determinant in determinants]
+
+def search_names_with_determinants(
+    chunk: str,
+    entities: list,
+    determinant_path: str = "vroom/utils/determinants.txt",
+):
+    """
+    Searches for names with determinants in the given chunk.
+
+    Args:
+        chunk (str): The chunk to search in.
+        entities (list): List of entities initially found by NER.
+        determinant_path (str): The path to the file containing the determinants.
+
+    Returns:
+        list: List of new entities with determinants.
+    """
+    names_with_determinants = []
+    for entity in entities:
+        determinants = set_determinants(entity, determinant_path)
+        for determinant in determinants:
+            if re.search(determinant, chunk, re.IGNORECASE):
+                names_with_determinants.append(determinant)
+    return names_with_determinants
