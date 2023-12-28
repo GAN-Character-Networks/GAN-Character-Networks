@@ -23,7 +23,6 @@ class OutputLogger:
 
         self.save_path = save_path
         self._check_path()
-        self._check_file()
 
     def _check_path(self) -> None:
         """Check if the save path exists and create it if not"""
@@ -33,7 +32,6 @@ class OutputLogger:
     def _check_file(self) -> None:
         """Check if the save file exists and create it if not"""
         if not os.path.isfile(self.save_path):
-            logger.info(f"Creating the save file {self.save_path}")
             open(self.save_path, 'w').close()
 
     def __call__(self, data: List[Dict]) -> None:
@@ -58,7 +56,7 @@ class JSONLogger(OutputLogger):
             data : List[Dict]
                 The data structure to save to the JSON format.
         """
-
+        self._check_file()
         with open(self.save_path, "w", encoding='utf-8') as json_file:
             json.dump(data, json_file, indent=4, ensure_ascii=False)
         logger.info(f"Saved data to {self.save_path}")   
