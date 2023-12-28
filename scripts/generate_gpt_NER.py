@@ -1,233 +1,382 @@
-r""" A class for loading and infering to generative large language models.
+r""" Submission file for using GPT to generate the NER chunks + GPT self_verification + fuzzy partial token matching.
 
 Authors
 --------
  * Adel Moumen 2023
 """
 
-from openai import OpenAI
+from vroom.baseline import *
+from vroom.loggers import JSONLogger
+from vroom.GraphManager import GraphManager
+from tqdm import tqdm
 import os
-import glob
-from vroom.NER import chunk_text, read_file
-import json 
+import pandas as pd
+import html
 
-client = OpenAI()
+def submission(name_exp: str = "GPT-3_NER_chunks_determinant"):
+     """ This function aims to generate the NER chunks with GPT.
 
+     Basically, we use the GPT model to generate from a given text all
+     the person entities. We then use a self_verification step in which
+     a GPT model is asked to verify if a given person entity is indeed
+     a person entity. If the model answers yes, we keep the entity, if
+     it answers no, we discard it. Then, we use the remaining entities
+     to generate the cooccurrences graph thanks to a fuzzy partial
+     token matching.
 
-# output_file_path = "/Users/adel-moumen/Documents/master/semester_3/application_innovation/Fondation-NER-Graph/data/test_set/prelude_a_fondation/chapter_1.gpt.v1.labeled"
-input_file = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled")
-output_file = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.gpt.ner.v4.labeled.json")
-content = read_file(input_file)
-chunks = chunk_text(content, 500)
+     The files are saved along the way to avoid recomputing everything
+     if the script is stopped.
 
-output = ""
+     Make sure to modify the paths to the data and the experiment name
+     to avoid overwriting the files.
 
-system_prompt = """
-Tu es un extracteur d'entités. 
-Ton but est d'extraire tous les personnages du livre de science-fiction 'Le Cycle des Fondations' d'Isaac Asimov. 
-Tu verras des passages du livre que tu devras utiliser. Dans ta définition, un personnage est un individu qui apparaît dans un passage du livre. 
-Ce personnage peut être uniquement cité par son nom ou être très actif dans la discussion. 
-Pour réaliser cette tâche, je souhaite que tu me retournes la liste des personnages que tu rencontres. 
-Tu dois me donner l'ensemble des entités. Tu n'as pas le droit de modifier le nom des personnages ou d'en inventer de nouveaux, utilise seulement le texte. 
-Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références. 
-Par exemple, Hari Seldon est souvent appelé Hari et/ou Seldon. Je veux que tu listes aussi cela. 
-Le retour doit être fait dans un JSON. Fait attention à ne pas capturer des noms de personnages qui ne sont pas des personnages comme par exemple
-des noms de planètes, des fonctions (ministre), etc.
+     Args:
+          None
 
-Pour t'aider, voici la liste officielle des personnages du livre :
-<start>
-Arcadia Darell
-Agis XIV
-Ammel Brodrig
-Bail Channis
-Bayta Darell
-Bel Arvardan
-Bel Riose
-Chetter Hummin
-Cléon Ier
-Cléon II
-Dagobert IX
-Dame Callia
-Dors Venabili
-Ducem Barr
-Ebling Mis
-Elijah Baley
-Eskel Gorov
-Eto Demerzel
-Fallom
-Gaal Dornick
-Golan Trevize
-Han Pritcher
-Hari Seldon
-Harlan Branno
-Hober Mallow
-Homir Munn
-Indbur III
-Janov Pelorat
-Joie
-Jole Turbor
-Jord Commasson
-Lathan Devers
-Lepold Ier
-Lev Meirus
-Lewis Pirenne
-Le Mulet
-Limmar Ponyets
-Munn Li Compor
-Novi Sura
-Pelleas Anthor
-Preem Palver
-Quindor Shandess
-R. Daneel Olivaw
-Raych Seldon
-Salvor Hardin
-StettinStor Gendibal
-Toran Darell
-Toran Darell II
-Wanda Seldon
-Wienis
-Yugo Amaryl
-<end>
+     Returns:
+          None
+     """
+     books = [
+        (list(range(1, 20)), "paf"),
+        (list(range(1, 19)), "lca"),
+     ]
 
-Voici des exemples : 
+     df_dict = {"ID": [], "graphml": []}
+     
+     for chapters, book_code in tqdm(books):
+          for chapter in tqdm(chapters):
+               if book_code == "paf":
+                    path = f"data/kaggle/prelude_a_fondation/chapter_{chapter}.txt.preprocessed"
+               else:
+                    path = f"data/kaggle/les_cavernes_d_acier/chapter_{chapter}.txt.preprocessed"
+               
+               experiment_name = os.path.join("save", "kaggle", book_code, name_exp)
+               save_path = os.path.join(experiment_name, "ner", f"chapter_{chapter}.json")
+               graph_manager = GraphManager()
 
-Exemple 1 : 
+               if os.path.exists(save_path):
+                    print("Already proceed NER GPT: ", path)
+               else:
+                    logger = JSONLogger(save_path)
+                    generate_GP_NER(path, logger)
 
-Texte : 
-<start>
-                           Mathématicien
+               output_path = os.path.join(experiment_name, "verif", f"chapter_{chapter}_verif.json")
+               if os.path.exists(output_path):
+                    print("Already proceed self_verification: ", output_path)
+                    entities = get_data_from_json(output_path)
+               else:
+                    logger = JSONLogger(output_path)
+                    entities = self_verification(path, save_path, logger)
 
+               output_path = os.path.join(experiment_name, "cooocurrences", f"chapter_{chapter}_coocurrences.json")
+               
+               if os.path.exists(output_path):
+                    print("Already proceed coocurrences: ", output_path)
+                    coocurrences = get_data_from_json(output_path)
+                    coocurrences = coocurrences["cooccurences"]
+               else:
+                    print("Creating coocurrences...")
+                    logger = JSONLogger(output_path)
+                    coocurrences = get_coocurrences_GPT_ner(path, entities, logger)
+               graph_manager.add_cooccurrences(coocurrences)
+               df_dict["ID"].append(f"{book_code}{chapter-1}")
+               df_dict["graphml"].append("".join(html.unescape(s) if isinstance(s, str) else s for s in graph_manager.generate_graph()))
+               
+     df = pd.DataFrame(df_dict)
+     df.set_index("ID", inplace=True)
+     df.to_csv("submission.csv")
 
-     CLÉON Ier— ... dernier Empereur galactique de la
-dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
-année que Hari Seldon. (On pense que la date de naissance de
-Seldon, que certains estiment douteuse, aurait pu être
-« ajustée » pour coïncider avec celle de Cléon que Seldon, peu
-après son arrivée sur Trantor, est censé avoir rencontré.)
-     Cléon est monté sur le trône impérial en 12010, à l’âge de
-vingt-deux ans, et son règne représente un étrange intervalle
-de calme dans ces temps troublés. Cela est dû sans aucun doute
-aux talents de son chef d’état-major, Eto Demerzel, qui sut si
-bien se dissimuler à la curiosité médiatique que l’on a fort peu
-de renseignements à son sujet. La psychohistoire nous apprend
-bien des choses.
-     Cléon, quant à lui...
-                                       ENCYCLOPAEDIA GALACTICA2
-<end>
+def generate_GP_NER(txt_path, logger = None):
+     system_prompt = """
+     Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type "Personnages" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction "Le cycle des Fondations" d'Isaac Asimov. Voici quelques exemples :
 
-Output : 
+     Input : Dors tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.
 
-{
-  'personnages': [ 'CLÉON Ier', 'Empereur', 'Hari Seldon', 'Seldon' , 'Cléon', 'Eto Demerzel']
-}
+     Output : @@Dors## tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.
 
-Exemple 2 : 
+     Input : C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois.
 
-Texte : 
-<start>
-     Étouffant un léger bâillement, Cléon demanda :
-« Demerzel, auriez-vous, par hasard, entendu parler d’un
-certain Hari Seldon ? »
-     Cléon était empereur depuis dix ans à peine et, quand le
-protocole l’exigeait, il y avait des moments où, pourvu qu’il fût
-revêtu des atours et ornements idoines, il réussissait à paraître
-majestueux. Il y était arrivé, par exemple, pour son portrait
-<end>
+     Output : C’est vraiment enfantin, dit @@Goutte-de-Pluie Quarante- cinq##. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit @@Goutte-de-Pluie Quarante-trois##.
 
-Output : 
+     Input : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+     année que Hari Seldon. (On pense que la date de naissance de
+     Seldon, que certains estiment douteuse, aurait pu être
+     « ajustée » pour coïncider avec celle de Cléon que Seldon, peu
+     après son arrivée sur Trantor, est censé avoir rencontré.)
 
-{
-  'personnages': ['Cléon', 'Demerzel', 'Hari Seldon', 'Cléon']
-}
+     Output : Mathématicien @@CLÉON Ier##— ... dernier @@Empereur## galactique de la
+     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+     année que @@Hari Seldon##. (On pense que la date de naissance de
+     @@Seldon##, que certains estiment douteuse, aurait pu être
+     « ajustée » pour coïncider avec celle de @@Cléon## que @@Seldon##, peu
+     après son arrivée sur Trantor, est censé avoir rencontré.)
 
-Exemple 3 : 
+     Input : Toutes les citations de l'Encyclopaedia Galactica reproduites ici
+     proviennent de la 116e édition, publiée en 1020 E.F. par la Société
+     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable
+     autorisation des éditeurs.
+     semblerait malgré tout qu’il puisse encore arriver des choses
+     intéressantes. Du moins, à ce que j’ai entendu dire.
+          — Par le ministre des Sciences ?
+          — Effectivement. Il m’a appris que ce Hari Seldon a assisté
+     à un congrès de mathématiciens ici même, à Trantor – ils
+     l’organisent tous les dix ans, pour je ne sais quelle raison ; il
+     aurait démontré qu’on peut prévoir mathématiquement
 
-Texte : 
-<start>
-     2 Toutes les citations de l'Encyclopaedia Galactica reproduites ici
-proviennent de la 116e édition, publiée en 1020 E.F. par la Société
-d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable
-autorisation des éditeurs.
-semblerait malgré tout qu’il puisse encore arriver des choses
-intéressantes. Du moins, à ce que j’ai entendu dire.
-     — Par le ministre des Sciences ?
-     — Effectivement. Il m’a appris que ce Hari Seldon  a assisté
-à un congrès de mathématiciens ici même, à Trantor – ils
-l’organisent tous les dix ans, pour je ne sais quelle raison ; il
-aurait démontré qu’on peut prévoir mathématiquement
-l’avenir. »
-<end>
+     Output : Toutes les citations de l'Encyclopaedia Galactica reproduites ici
+     proviennent de la 116e édition, publiée en 1020 E.F. par la Société
+     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable
+     autorisation des éditeurs.
+     semblerait malgré tout qu’il puisse encore arriver des choses
+     intéressantes. Du moins, à ce que j’ai entendu dire.
+          — Par le ministre des Sciences ?
+          — Effectivement. Il m’a appris que ce @@Hari Seldon## a assisté
+     à un congrès de mathématiciens ici même, à Trantor – ils
+     l’organisent tous les dix ans, pour je ne sais quelle raison ; il
+     aurait démontré qu’on peut prévoir mathématiquement
 
-Output : 
+     Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?
 
-{
-  'personnages': ['Hari Seldon']
-}
+     Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?
 
-Exemple 4 : 
+     Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais 
+     le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,
+     je ne mettrais pas de balise. Si je croise un personnage, avec de la ponctuation, je mettrais la balise
+     avant la ponctuation sauf si c'est un mot composé avec des tirets. Garde les determinants avec le nom d'un personnage si tu peux.
+     """
+     content = read_file(txt_path)
+     chunks = chunk_text_by_sentence(content, batch_size = 4) 
+     experiment_details = """
+     gpt-4-1106-preview + 4 sentences per batch
+     """
 
-Texte : 
-<start>
-     — Je le crois bien, Sire  », répondit Demerzel . Ses yeux
-scrutaient attentivement l’Empereur , comme pour voir jusqu’où
-il pouvait se permettre d’aller. « Pourtant, s’il devait en être
-ainsi, n’importe qui pourrait prophétiser. Le ministre n'a-t-il
-pas pensé à cela ?
-<end>
+     client = OpenAI()
+     params = {
+          "temperature": 0,
+          "seed": 42,
+          "model": "gpt-4-1106-preview", # gpt-4-1106-preview
+     }
+     gpt_outputs = []
+     
+     for i, chunk in enumerate(chunks):
+          print('*' * 50)
+          print(chunk)
+          user_prompt = f"""
 
-Output : 
+          Input : {chunk}
 
-{
-  'personnages': ['Sire', 'Demerzel', 'Empereur']
-}
+          Output : """
 
+          response = client.chat.completions.create(
+               **params,
+               messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+               ],
+          )
 
-Fait le pour l'exemple suivant.
+          generated_content = response.choices[0].message.content
+          print()
+          print(generated_content)
+          print()
+          print('*' * 50)
+          gpt_outputs.append(generated_content)
 
-Texte :
+     if logger is not None: 
+          saves = {}
+          saves["experiment_details"] = experiment_details
+          for i, (chunk, ner_chunk) in enumerate(zip(chunks, gpt_outputs)):
+               saves[f"chunk_{i}"] = {
+                    "chunk": chunk,
+                    "ner_chunk": ner_chunk,
+               }
+          saves["gpt"] = {
+               "system_prompt": system_prompt,
+               "user_prompt": user_prompt,
+               "generated_content": generated_content,
+               "params": params,
+          }
+          logger(saves)     
 
-     Demerzel se permit un petit sourire. « Ou le ministre des
-Sciences, homme sans grande jugeote, a été induit en erreur, ou
-ce mathématicien s’est trompé. Il ne fait aucun doute que cette
-histoire de prédiction de l’avenir relève d’un puéril rêve de
-magie.
+def self_verification(txt_path, json_saved_ner_chunks_path, logger = None):
+     """ This function aims to verify if the NER chunks are indeed
+     person entities.
 
-Output : 
-<start>
-"""
-entities = []
-for i, chunk in enumerate(chunks):
-    print("chunk = ", chunk)
-    
-    response = client.chat.completions.create(
-      model="gpt-3.5-turbo-1106", # gpt-4-1106-preview / gpt-3.5-turbo-1106
-      messages=[
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": chunk + "\n<end>"},
-      ],
-      seed=42,
-      temperature=0,
-#       presence_penalty=-2,
-      response_format={ "type": "json_object" },
-    )
+     Basically, we use the GPT model to generate from a given text all
+     the person entities. We then use a self_verification step in which
+     a GPT model is asked to verify if a given person entity is indeed
+     a person entity. If the model answers yes, we keep the entity, if
+     it answers no, we discard it.
 
-    generated_content = response.choices[0].message.content
-    generated_content = json.loads(generated_content)
-    print()
-    print("content = ", generated_content)
+     Args:
+          txt_path (str): path to the text file
+          json_saved_ner_chunks_path (str): path to the json file
+          logger (Logger): logger to save the data
 
-    entities += generated_content["personnages"]
-    print("total entities = ", set(entities))
-    print('*' * 100)
+     Returns:
+          entities (list): list of the person entities
+     """
+     client = OpenAI()
 
+     params = {
+          "temperature": 0,
+          "seed": 42,
+          "model": "gpt-4-1106-preview", # gpt-4-1106-preview
+     }
 
+     system_prompt = r"""
+     La tâche consiste à vérifier si le mot est une entité de personnage extraite de la phrase donnée.   Voici quelques exemples :
 
-print()
-print('*' * 100)
-print("FINAL")
-print("total entities = ", set(entities))
+     Phrase : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+          dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+          année que Hari Seldon.
 
-with open(output_file, "w") as f:
-    # write entities as json
-     json.dump({"personnages": list(set(entities))}, f, indent=4)
+     Question : Le mot "CLÉON Ier" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
 
+     Réponse : Oui
+
+     Phrase : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+          dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+          année que Hari Seldon.
+
+     Question : Le mot "Empereur" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+     Réponse : Oui
+
+     Phrase : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+          dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+          année que Hari Seldon.
+
+     Question : Le mot "Hari Seldon" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+     Réponse : Oui
+
+     Phrase : Par conséquent, peu importe que la prédiction de l’avenir soit ou non une réalité, n’est-ce pas ? Si un mathématicien devait me prédire un règne long et heureux, et pour l’Empire une ère de paix et de prospérité... eh bien, ne serait-ce pas une bonne chose ? — Ce serait assurément agréable à entendre, mais ça nous avancerait à quoi, Sire ? — Eh bien, si les gens croyaient ça, ils agiraient certainement selon cette croyance.
+
+     Question : Le mot "Sire" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+     Réponse :  Oui
+
+     Phrase : J’ai appris qu’on vous avait vu en compagnie d’un garde impérial, vous dirigeant vers la porte du Palais. Vous n’auriez pas, par le plus grand des hasards, été reçu par l’Empereur, non ? » Le sourire déserta le visage de Seldon. C’est avec lenteur qu’il répondit : « Si tel avait été le cas, ce ne serait certes pas un sujet que je confierais pour publication.
+
+     Question : Le mot "garde impérial" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+     Réponse :  Non
+     """
+
+     content = read_file(txt_path)
+     chunks = chunk_text_by_sentence(content, batch_size = 5) 
+
+     with open(json_saved_ner_chunks_path, "r") as f:
+          gpt_output = json.load(f)
+
+     tagged_text_gpt = []
+
+     for key in gpt_output:
+          for values in gpt_output[key]:
+               if values == "ner_chunk":
+                    tagged_text_gpt.append(gpt_output[key][values])
+
+     labeled_gpt_entities = []
+     for chunk in tagged_text_gpt:
+          # extract all entities between @@ and ##
+          entities = re.findall(r'@@(.*?)##', chunk)
+          labeled_gpt_entities.append(entities)
+     
+     # flatten list
+     labeled_gpt_entities = [item for sublist in labeled_gpt_entities for item in sublist]
+     labeled_gpt_entities = list(set(labeled_gpt_entities))
+     init_gpt_entities = labeled_gpt_entities.copy()
+
+     # self verification
+     checked_entities = []
+     save_prompts_and_responses = []
+     for chunk in chunks:
+          for entity in labeled_gpt_entities:
+               if entity in chunk and entity not in checked_entities:
+
+                    user_prompt = f"""
+
+                    Phrase : {chunk}
+
+                    Question : Le mot "{entity}" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+                    Réponse :
+                    """
+
+                    response = client.chat.completions.create(
+                    **params,
+                    messages=[
+                         {"role": "system", "content": system_prompt},
+                         {"role": "user", "content": user_prompt},
+                         ],
+                    )
+
+                    generated_content = response.choices[0].message.content
+                    
+                    if generated_content.lower() == "oui":
+                         checked_entities.append(entity)
+                    else:
+                         labeled_gpt_entities.remove(entity)
+
+                    save_prompts_and_responses.append({
+                         "prompt": user_prompt,
+                         "response": generated_content
+                    })
+
+     save_prompts_and_responses["final_gpt_entities"] = checked_entities
+     save_prompts_and_responses["init_gpt_entities"] = init_gpt_entities
+
+     if logger is not None:
+          logger(save_prompts_and_responses)
+
+     return save_prompts_and_responses
+
+def get_data_from_json(json_path):
+     """ Get data from json file
+
+     Args:
+          json_path (str): path to json file
+
+     Returns:
+          dict: data from json file
+     """
+     with open(json_path, "r") as f:
+          output = json.load(f)
+     return output 
+
+def get_coocurrences_GPT_ner(input_file, entities, logger = None):
+     """ Get cooccurences of entities in a text
+
+     Args:
+          input_file (str): path to text file
+          entities (list): list of entities to find cooccurences
+          logger (function, optional): function to save data. Defaults to None.
+
+     Returns:
+          dict: cooccurences of entities
+     """
+     entities = entities["final_gpt_entities"]
+     tagged_file = tag_text_with_entities(input_file, entities)
+     positions = [get_positions_of_entities(tagged_file)]
+     cooccurences = get_cooccurences([tagged_file], positions)
+     entities = [{"word": entity} for entity in entities]
+     aliases = get_aliases_fuzzy_partial_token(entities, 99)
+     
+     cooccurences_aliases = find_cooccurences_aliases(cooccurences, aliases)
+     
+     save = {
+          "cooccurences": cooccurences,
+          "entities": entities,
+          "aliases": aliases,
+          "cooccurences_aliases": cooccurences_aliases
+     }
+     if logger is not None:
+          logger(save)
+     return cooccurences_aliases
+     
+
+if __name__ == "__main__":
+    name_exp = "GPT_4_NER_self_verification"
+    submission(name_exp)
