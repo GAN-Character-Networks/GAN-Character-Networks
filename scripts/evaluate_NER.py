@@ -12,13 +12,14 @@ for chunk in entities:
     all_entities_names += [
         entity["word"] for entity in chunk
     ]
-entities = set(all_entities_names)
+entities = set(all_entities_names + ["l’Empereur"])
 
 unlabeled_text_tagged = tag_text_with_entities(unlabeled_chapter, entities)
 
 labeled_text_tagged = read_file(labeled_chapter)
 
 positions_ner = get_positions_of_entities(unlabeled_text_tagged)
+print(positions_ner)
 true_position = get_positions_of_entities(labeled_text_tagged)
 
 def evaluate_ner(positions_ner, true_position):
