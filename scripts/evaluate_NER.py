@@ -18,52 +18,6 @@ unlabeled_text_tagged = tag_text_with_entities(unlabeled_chapter, entities)
 
 labeled_text_tagged = read_file(labeled_chapter)
 
-import re
-
-
-def separate_words(text):
-    # Use regular expression to find words and punctuation, including special words like <PER> and </PERS>
-    words = re.findall(r'\b\w+\b|[.,;!?<>/]+|<PER>|</PER>', text)
-    return words
-
-def merge_special_words(word_list):
-    merged_list = []
-    current_word = ""
-
-    for word in word_list:
-        if word in ['<', 'PER', '</', '>']:
-            current_word += word
-        else:
-            if current_word:
-                merged_list.append(current_word)
-                current_word = ""
-            merged_list.append(word)
-
-    if current_word:
-        merged_list.append(current_word)
-
-    return merged_list
-
-def get_positions_of_entities(text):
-    words = separate_words(text)
-    words = merge_special_words(words)
-    positions = {}
-    current_entity = []
-    current_entity_start = 0
-    current_entity_end = 0
-    i = 0
-    for word in words:
-        if word == "<PER>":
-            current_entity = []
-            current_entity_start = i
-        elif word == "</PER>":
-            current_entity_end = i
-            positions[(current_entity_start, current_entity_end)] = ' '.join(current_entity)
-        else:
-            i += 1
-            current_entity.append(word)
-    return positions
-
 positions_ner = get_positions_of_entities(unlabeled_text_tagged)
 true_position = get_positions_of_entities(labeled_text_tagged)
 
