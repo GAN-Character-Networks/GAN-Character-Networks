@@ -6,13 +6,20 @@ Authors
  * Adel Moumen 2023
  * Gabriel Desbouis 2023
 """
-from vroom.NER import get_entities_from_file
-from vroom.alias import get_aliases_fuzzy_partial_token
+from vroom.NER import (
+    get_entities_from_file,
+    chunk_text,
+    read_file,
+    tag_text_with_entities,
+    search_names_with_determinants,
+)
+from vroom.alias import get_aliases_fuzzy_partial_token, get_aliases_fuzzy
 from vroom.cooccurences import get_cooccurences
 from vroom.loggers import JSONLogger
 from openai import OpenAI
-from vroom.NER import *
 import json
+import os
+import re
 
 
 def get_cooccurences_from_text(path: str):
@@ -28,6 +35,7 @@ def get_cooccurences_from_text(path: str):
 
     entities, chunks = get_entities_from_file(path)
     return get_cooccurences(chunks, entities)
+
 
 def find_cooccurences_aliases(cooccurences, aliases):
     no_alias_1_list = []
@@ -64,11 +72,71 @@ def find_cooccurences_aliases(cooccurences, aliases):
             if cooccurence[1].lower() in [a.lower() for a in alias]
         ]
 
-        if cooc_1_aliases and cooc_2_aliases and cooc_1_aliases[0] != cooc_2_aliases[0]:
+        if (
+            cooc_1_aliases
+            and cooc_2_aliases
+            and cooc_1_aliases[0] != cooc_2_aliases[0]
+        ):
             cooccurrences_aliases.append((cooc_1_aliases[0], cooc_2_aliases[0]))
 
     print("aliases: ", aliases)
     return cooccurrences_aliases
+
+
+def separate_words(text):
+    # Use regular expression to find words and punctuation, including special words like <PER> and </PERS>
+    words = re.findall(r"\b\w+\b|[.,;!?<>«\'»/]+|<PER>|</PER>", text)
+    return words
+
+
+def merge_special_words(word_list):
+    merged_list = []
+    current_word = ""
+
+    for word in word_list:
+        if word in ["<", "PER", "</", ">"]:
+            current_word += word
+        else:
+            if current_word:
+                merged_list.append(current_word)
+                current_word = ""
+            merged_list.append(word)
+
+    if current_word:
+        merged_list.append(current_word)
+
+    return merged_list
+
+
+def get_positions_of_entities(text):
+    words = separate_words(text)
+    words = merge_special_words(words)
+    positions = {}
+    current_entity = []
+    current_entity_start = 0
+    current_entity_end = 0
+    i = 0
+    for word in words:
+        if word == "<PER>":
+            current_entity = []
+            current_entity_start = i
+        elif word == "</PER>":
+            current_entity_end = i
+            positions[(current_entity_start, current_entity_end)] = " ".join(
+                current_entity
+            )
+        else:
+            i += 1
+            current_entity.append(word)
+    return positions
+
+
+def build_list_of_dicts(input_dict):
+    result = []
+    for key, value in input_dict.items():
+        new_dict = {"start": int(key[0]), "end": int(key[1]), "word": value}
+        result.append(new_dict)
+    return result
 
 
 def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
@@ -83,11 +151,51 @@ def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
         list: A list of tuples representing the interactions between entities in the text.
     """
     entities, chunks = get_entities_from_file(path)
-    cooccurences = get_cooccurences(chunks, entities)
+
+    # Determinants augmentation
+    all_entities_names = []
+    for chunk in entities:
+        all_entities_names += [entity["word"] for entity in chunk]
+    entities = set(all_entities_names)
+
+    augmented_entities = []
+
+    for chunk in chunks:
+        augmented_entities += search_names_with_determinants(chunk, entities)
+
+    augmented_entities = set(augmented_entities)
+
+    entities = entities.union(augmented_entities)
+    # print(f"entities = {entities}")
+
+    ##### CEST DANS CE CODE QUE LA MERDE SE PASSE ZBI
+    tagged_text = tag_text_with_entities(path, entities)
+    with open(path + ".tagged", "w") as f:
+        f.write(tagged_text)
+
+    positions_ner = get_positions_of_entities(tagged_text)
+    entities = [build_list_of_dicts(positions_ner)]
+    print(f"entities with positions = {entities}")
+    ##################################################
+    whole_text = [read_file(path)]
+
+    cooccurences = get_cooccurences(whole_text, entities)
     entities_unfold = [entity for sublist in entities for entity in sublist]
     aliases = get_aliases_fuzzy_partial_token(entities_unfold, 99)
 
-
+    if logger is not None:
+        saves = {}
+        for i, (chunk, entity) in enumerate(zip(chunks, entities)):
+            saves[f"chunk_{i}"] = {
+                "chunk": chunk,
+                "entities": entity,
+            }
+        saves["entities"] = list(
+            set([entity["word"] for entity in entities_unfold])
+        )
+        saves["aliases"] = aliases
+        saves["cooccurences"] = cooccurences
+        logger(saves)
 
     cooccurences_aliases = find_cooccurences_aliases(cooccurences, aliases)
     print("cooccurences_aliases: ", cooccurences_aliases)
@@ -211,7 +319,7 @@ Fais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupe
     for key in generated_content:
         aliases.append(generated_content[key])
 
-    if logger is not None: 
+    if logger is not None:
         saves = {}
         saves["experiment_details"] = experiment_details
         for i, (chunk, entity) in enumerate(zip(chunks, entities)):
@@ -230,9 +338,12 @@ Fais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupe
         }
         logger(saves)
 
-    return find_cooccurences_aliases(cooccurences, aliases) 
+    return find_cooccurences_aliases(cooccurences, aliases)
 
-def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = None):
+
+def get_cooccurences_with_aliases_and_gpt_NER(
+    path: str, output_file_name: str = None
+):
     """
     Get the aliases of the cooccurences of characters from the given text.
 
@@ -242,14 +353,24 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = No
     Returns:
         list: A list of tuples representing the interactions between entities in the text.
     """
-    system_prompt = """
-    Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type "Personnages" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction "Le cycle des Fondations" d'Isaac Asimov. Voici quelques exemples :
+    system_prompt = r"""
+    Tu es un extracteur d'entités.
+    Ton but est d'extraire tous les personnages du livre de science-fiction 'Le Cycle des Fondations' d'Isaac Asimov.
+    Tu verras des passages du livre que tu devras utiliser. Dans ta définition, un personnage est un individu qui apparaît dans un passage du livre.
+    Ce personnage peut être uniquement cité par son nom ou être très actif dans la discussion.
+    Pour réaliser cette tâche, je souhaite que tu me retournes la liste des personnages que tu rencontres.
+    Tu dois me donner l'ensemble des entités. Tu n'as pas le droit de modifier le nom des personnages ou d'en inventer de nouveaux, utilise seulement le texte.
+    Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références.
+    Par exemple, Hari Seldon est souvent appelé Hari et/ou Seldon. Je veux que tu listes aussi cela.
+    Le retour doit être fait dans un JSON.
 
-    Input : Dors tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.
+    Voici des exemples :
 
-    Output : @@Dors## tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.
+    Exemple 1 :
 
-    Input : C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois.
+    Texte :
+    <start>
+                            Mathématicien
 
     Output : C’est vraiment enfantin, dit @@Goutte-de-Pluie Quarante- cinq##. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit @@Goutte-de-Pluie Quarante-trois##.
 
@@ -260,12 +381,7 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = No
     « ajustée » pour coïncider avec celle de Cléon que Seldon, peu
     après son arrivée sur Trantor, est censé avoir rencontré.)
 
-    Output : Mathématicien @@CLÉON Ier##— ... dernier @@Empereur## galactique de la
-    dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
-    année que @@Hari Seldon##. (On pense que la date de naissance de
-    @@Seldon##, que certains estiment douteuse, aurait pu être
-    « ajustée » pour coïncider avec celle de @@Cléon## que @@Seldon##, peu
-    après son arrivée sur Trantor, est censé avoir rencontré.)
+    Output :
 
     Input : Toutes les citations de l'Encyclopaedia Galactica reproduites ici
     proviennent de la 116e édition, publiée en 1020 E.F. par la Société
@@ -279,7 +395,30 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = No
     l’organisent tous les dix ans, pour je ne sais quelle raison ; il
     aurait démontré qu’on peut prévoir mathématiquement
 
-    Output : Toutes les citations de l'Encyclopaedia Galactica reproduites ici
+    Exemple 2 : 
+
+    Texte : 
+    <start>
+        Étouffant un léger bâillement, Cléon demanda :
+    « Demerzel, auriez-vous, par hasard, entendu parler d’un
+    certain Hari Seldon ? »
+        Cléon était empereur depuis dix ans à peine et, quand le
+    protocole l’exigeait, il y avait des moments où, pourvu qu’il fût
+    revêtu des atours et ornements idoines, il réussissait à paraître
+    majestueux. Il y était arrivé, par exemple, pour son portrait
+    <end>
+
+    Output : 
+
+    {
+    'personnages': ['Cléon', 'Demerzel', 'Hari Seldon', 'Cléon']
+    }
+
+    Exemple 3 : 
+
+    Texte : 
+    <start>
+        2 Toutes les citations de l'Encyclopaedia Galactica reproduites ici
     proviennent de la 116e édition, publiée en 1020 E.F. par la Société
     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable
     autorisation des éditeurs.
@@ -291,18 +430,23 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = No
     l’organisent tous les dix ans, pour je ne sais quelle raison ; il
     aurait démontré qu’on peut prévoir mathématiquement
 
-    Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?
+    Output : 
 
     Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?
 
-    Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais 
-    le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,
-    je ne mettrais pas de balise. Si je croise un personnage, avec de la ponctuation, je mettrais la balise
-    avant la ponctuation sauf si c'est un mot composé avec des tirets. Garde les determinants avec le nom d'un personnage si tu peux.
+    Rappel : tu as interdiction d'inventer des personnages. Tu dois reprendre les noms des personnages dans le texte 
+    a l'identique. Tu peux avoir plusieurs références d'un même personnage, renvoie l'ensemble des références.
+    Fait attention a ne pas considerer des personnages qui n'en sont pas comme des passants, un homme d'affaire, etc.
+
+    Fait le pour l'exemple suivant.
+
+    Texte :
+    <start>
     """
+    from vroom.NER import chunk_text, read_file
     from vroom.alias import get_aliases_fuzzy
     from vroom.cooccurences import get_cooccurences
-    
+    import json, os
     content = read_file(path)
     chunks = chunk_text_by_sentence(content, batch_size = 5) 
     
@@ -319,43 +463,35 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = No
     gpt_outputs = []
     import time
     for i, chunk in enumerate(chunks):
-        print('*' * 50)
-        print(chunk)
-        user_prompt = f"""
-
-        Input : {chunk}
-        """ + "\n\n   Output : "
+        print("chunk = ", chunk)
         
         response = client.chat.completions.create(
-            **params,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-            ],
+        model="gpt-3.5-turbo-1106", # gpt-4-1106-preview / gpt-3.5-turbo-1106
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": chunk + "\n<end>" + "\n\n Output : \n"},
+        ],
+        seed=42,
+        temperature=0,
+    #       presence_penalty=-2,
+        response_format={ "type": "json_object" },
         )
 
         generated_content = response.choices[0].message.content
         print()
         print(generated_content)
         print()
-        print('*' * 50)
-        gpt_outputs.append(generated_content)
+        print("content = ", generated_content)
 
-    if logger is not None: 
-        saves = {}
-        saves["experiment_details"] = experiment_details
-        for i, (chunk, ner_chunk) in enumerate(zip(chunks, gpt_outputs)):
-            saves[f"chunk_{i}"] = {
-                "chunk": chunk,
-                "ner_chunk": ner_chunk,
-            }
-        saves["gpt"] = {
-            "system_prompt": system_prompt,
-            "user_prompt": user_prompt,
-            "generated_content": generated_content,
-            "params": params,
-        }
-        logger(saves)
+        entities += generated_content["personnages"]
+        print("total entities = ", set(entities))
+        print('*' * 100)
+
+        gpt_output += '*' * 100 + '\n'
+        gpt_output += "<start>\n" + chunk + "\n<end>" + "\n\n Output : \n"
+        gpt_output += str(set(entities)) + '\n'
+    
+    gpt_entities = set(entities)
 
     tagged_file = tag_text_with_entities(path, gpt_entities)
     out_entities = get_positions_of_entities(tagged_file)
@@ -365,25 +501,5 @@ def get_cooccurences_with_aliases_and_gpt_NER(path: str, logger: JSONLogger = No
     entities = [{"word":entity} for entity in entities]
     aliases = get_aliases_fuzzy(entities, 99)
     print('alises = ', aliases)
-
-    if logger is not None: 
-        saves = {}
-        saves["experiment_details"] = experiment_details
-        for i, (chunk, entity) in enumerate(zip(chunks, entities)):
-            saves[f"chunk_{i}"] = {
-                "chunk": chunk,
-                "entities": entity,
-            }
-        saves["entities"] = list(gpt_entities)
-        saves["aliases"] = aliases
-        saves["cooccurences"] = cooccurences
-        saves["gpt"] = {
-            "system_prompt": system_prompt,
-            "user_prompt": user_prompt,
-            "generated_content": generated_content,
-            "params": params,
-        }
-        logger(saves)
-    
 
     return find_cooccurences_aliases(cooccurences, aliases)
