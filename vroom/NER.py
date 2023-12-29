@@ -16,6 +16,7 @@ from flair.data import Sentence
 from flair.models import SequenceTagger
 import os
 import re
+import nltk
 
 
 def read_file(file_path: str): 
@@ -100,6 +101,25 @@ def add_bio_tags(entities):
         entity["bio_tag"] = bio_tag + " </PER> "
     return entities
 
+def chunk_text_by_sentence(text, batch_size=5):
+    # Download the punkt tokenizer if not already present
+    nltk.download('punkt')
+
+    # Use nltk to tokenize the text into sentences
+    sentences = nltk.sent_tokenize(text)
+
+    # Batch the sentences into 5 sentences per item
+    batched_sentences = [' '.join(sentences[i:i + batch_size]) for i in range(0, len(sentences), batch_size)]
+
+    # Return the list of batches of sentences
+    return batched_sentences
+   
+def chunk_text_by_paragraph(text):
+    # Use nltk to tokenize the text into paragraphs
+    paragraphs = [paragraph.strip() for paragraph in text.split('\n') if paragraph.strip()]
+
+    # Return the list of paragraphs
+    return paragraphs
 
 def chunk_text(text, chunk_size=500):
     """
@@ -246,89 +266,17 @@ def get_entities_from_file(
     return entities, chunks
 
 
-def tag_named_entities(text, named_entities):
-    # Sort named entities by length in descending order
-    sorted_entities = sorted(named_entities, key=len, reverse=True)
-
-    tagged_text = text
-
-    for entity in sorted_entities:
-        # Handling multi-word entities
-        entity_words = entity.split()
-        if len(entity_words) > 1:
-            entity_pattern = r"\b{}\b".format(re.escape(" ".join(entity_words)))
-        else:
-            entity_pattern = r"\b{}\b".format(re.escape(entity))
-
-        # Tagging the entity in the text
-        tagged_text = re.sub(
-            entity_pattern, " <PER> {} </PER> ".format(entity), tagged_text
-        )
-
-    return tagged_text
-
-
-def remove_nested_tags(text):
-
-    words = text.split(" ")
-    is_PER_main_context = False
-    is_PER_second_context = False
-    cpt_second_context = 0
-    text = []
-    for word in words:
-
-        if word == "<PER>" and is_PER_main_context is False:
-            is_PER_main_context = True
-            text.append(word)
-        elif word == "<PER>" and is_PER_main_context is True:
-            is_PER_second_context = True
-            cpt_second_context += 1
-        elif word == "</PER>":
-
-            if is_PER_second_context:
-                if cpt_second_context > 0:
-                    cpt_second_context -= 1
-                    if cpt_second_context == 0:
-                        is_PER_second_context = False
-            else:
-                is_PER_main_context = False
-                is_PER_second_context = False
-                cpt_second_context = 0
-                text.append(word)
-        else:
-            text.append(word)
-
-    return " ".join(text)
-
-
-def merge_special_words(word_list):
-    merged_list = []
-    current_word = ""
-
-    for word in word_list:
-        if word in ["<", "PER", "</", ">", "/"]:
-            current_word += word
-        else:
-            if current_word:
-                merged_list.append(current_word)
-                current_word = ""
-            merged_list.append(word)
-
-    if current_word:
-        merged_list.append(current_word)
-
-    return merged_list
-
-
-def separate_words(text):
-    words = re.findall(r"\b\w+\b|[^\w\s]", text)
-
-    return merge_special_words(words)
-
-
 def get_positions_of_entities(text):
-    words = separate_words(text)
-    words = merge_special_words(words)
+    """ This function returns the positions of the entities in the text.
+    
+    Args:
+        text (str): The text to tag.
+
+    Returns:
+        list: A list of dictionaries representing the entities. Each dictionary contains the keys 'word', 'start', and 'end'.
+    """
+    words = text.split(" ")
+    
     positions = []
     current_entity = []
     current_entity_start = 0
@@ -341,6 +289,7 @@ def get_positions_of_entities(text):
         elif word == "</PER>":
             current_entity_end = i
             word = " ".join(current_entity)
+            
             positions.append(
                 {
                     "word": word,
@@ -349,25 +298,52 @@ def get_positions_of_entities(text):
                 }
             )
         else:
-            i += len(word) + 1
+            if len(word) > 0:
+                i += len(word) + 1
             current_entity.append(word)
+    
     return positions
 
 
-def tag_text_with_entities(input_file_path, entities):
-    """
-    Tags the text with the given entities.
-
+def tag_text_with_entities(input_file_path, entity_list):
+    """ This function tags the text in the given file with the given entities.
+    
     Args:
-        text (str): The input text.
-        entities (list): A list of entities with the corresponding BIO tag for each words.
+        input_file_path (str): The path to the input file.
+        entity_list (list): A list of entities to tag.
 
     Returns:
         str: The tagged text.
     """
-    text = read_file(input_file_path)
+    input_text = read_file(input_file_path)
 
-    output = tag_named_entities(text, entities)
-    output = remove_nested_tags(output)
+    tagged_text = [[]]
+    entity_list = sorted(entity_list, key=len, reverse=True)
+    
+    i = 0
+    while i < len(input_text):
+        found_entity = None
+        
+        # Try to match each entity in the list starting from the longest
+        for entity in entity_list:
+            if input_text[i:i + len(entity)] == entity:
+                found_entity = entity
+                break
 
-    return output
+        if found_entity:
+            # Start tagging
+            tagged_text.append([" <PER> "])
+            tagged_text[-1].append(found_entity)
+            i += len(found_entity)
+            tagged_text[-1].append(" </PER> ")
+            tagged_text.append([])
+        else:
+            tagged_text[-1].append(input_text[i])
+            i += 1
+
+    concat = []
+    for sublist in tagged_text:
+        tmp = "".join(sublist)
+        concat.append(tmp)
+
+    return "".join(concat)
