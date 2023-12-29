@@ -57,6 +57,7 @@ def submission(name_exp: str = "GPT-3_NER_chunks_determinant"):
                if os.path.exists(save_path):
                     print("Already proceed NER GPT: ", path)
                else:
+                    print("Creating NER GPT...")
                     logger = JSONLogger(save_path)
                     generate_GP_NER(path, logger)
 
@@ -65,6 +66,7 @@ def submission(name_exp: str = "GPT-3_NER_chunks_determinant"):
                     print("Already proceed self_verification: ", output_path)
                     entities = get_data_from_json(output_path)
                else:
+                    print("Creating self_verification...")
                     logger = JSONLogger(output_path)
                     entities = self_verification(path, save_path, logger)
 
@@ -77,14 +79,15 @@ def submission(name_exp: str = "GPT-3_NER_chunks_determinant"):
                else:
                     print("Creating coocurrences...")
                     logger = JSONLogger(output_path)
-                    coocurrences = get_coocurrences_GPT_ner(path, entities, logger)
+                    coocurrences = get_coocurrences_GPT_ner_GPT(path, entities, logger)
                graph_manager.add_cooccurrences(coocurrences)
                df_dict["ID"].append(f"{book_code}{chapter-1}")
                df_dict["graphml"].append("".join(html.unescape(s) if isinstance(s, str) else s for s in graph_manager.generate_graph()))
-               
+     print("Saving the submission file...")
      df = pd.DataFrame(df_dict)
      df.set_index("ID", inplace=True)
      df.to_csv("submission.csv")
+     print("Done !")
 
 def generate_GP_NER(txt_path, logger = None):
      system_prompt = """
@@ -139,6 +142,10 @@ def generate_GP_NER(txt_path, logger = None):
      Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?
 
      Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?
+
+     Input : C’est à mi-tirade que Seldon comprit qu’il s’adressait à l’empereur Cléon, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, Cléon
+     
+     Output : C’est à mi-tirade que @@Seldon##  comprit qu’il s’adressait à @@l’empereur Cléon##, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, @@Cléon##
 
      Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais 
      le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,
@@ -248,7 +255,7 @@ def self_verification(txt_path, json_saved_ner_chunks_path, logger = None):
           dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
           année que Hari Seldon.
 
-     Question : Le mot "Hari Seldon" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+     Question : Le mot "Empereur" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
 
      Réponse : Oui
 
@@ -283,7 +290,6 @@ def self_verification(txt_path, json_saved_ner_chunks_path, logger = None):
           # extract all entities between @@ and ##
           entities = re.findall(r'@@(.*?)##', chunk)
           labeled_gpt_entities.append(entities)
-     
      # flatten list
      labeled_gpt_entities = [item for sublist in labeled_gpt_entities for item in sublist]
      labeled_gpt_entities = list(set(labeled_gpt_entities))
@@ -325,13 +331,15 @@ def self_verification(txt_path, json_saved_ner_chunks_path, logger = None):
                          "response": generated_content
                     })
 
-     save_prompts_and_responses["final_gpt_entities"] = checked_entities
-     save_prompts_and_responses["init_gpt_entities"] = init_gpt_entities
-
+     saves = {}
+     saves["final_gpt_entities"] = checked_entities
+     saves["init_gpt_entities"] = init_gpt_entities
+     saves["prompts_and_responses"] = save_prompts_and_responses
+     
      if logger is not None:
-          logger(save_prompts_and_responses)
+          logger(saves)
 
-     return save_prompts_and_responses
+     return saves
 
 def get_data_from_json(json_path):
      """ Get data from json file
@@ -346,7 +354,7 @@ def get_data_from_json(json_path):
           output = json.load(f)
      return output 
 
-def get_coocurrences_GPT_ner(input_file, entities, logger = None):
+def get_coocurrences_GPT_ner_fuzzy(input_file, entities, logger = None):
      """ Get cooccurences of entities in a text
 
      Args:
@@ -357,18 +365,17 @@ def get_coocurrences_GPT_ner(input_file, entities, logger = None):
      Returns:
           dict: cooccurences of entities
      """
-     entities = entities["final_gpt_entities"]
-     tagged_file = tag_text_with_entities(input_file, entities)
+     gpt_entities = entities["final_gpt_entities"]
+     tagged_file = tag_text_with_entities(input_file, gpt_entities)
      positions = [get_positions_of_entities(tagged_file)]
      cooccurences = get_cooccurences([tagged_file], positions)
-     entities = [{"word": entity} for entity in entities]
-     aliases = get_aliases_fuzzy_partial_token(entities, 99)
-     
+     gpt_entities = [{"word": entity} for entity in gpt_entities]
+     aliases = get_aliases_fuzzy_partial_token(gpt_entities, 99)
      cooccurences_aliases = find_cooccurences_aliases(cooccurences, aliases)
      
      save = {
           "cooccurences": cooccurences,
-          "entities": entities,
+          "entities": gpt_entities,
           "aliases": aliases,
           "cooccurences_aliases": cooccurences_aliases
      }
@@ -377,6 +384,137 @@ def get_coocurrences_GPT_ner(input_file, entities, logger = None):
      return cooccurences_aliases
      
 
+def get_coocurrences_GPT_ner_GPT(input_file, entities, logger = None):
+     """ Get cooccurences of entities in a text
+
+     Args:
+          input_file (str): path to text file
+          entities (list): list of entities to find cooccurences
+          logger (function, optional): function to save data. Defaults to None.
+
+     Returns:
+          dict: cooccurences of entities
+     """
+     system_prompt = r"""
+     Je suis un excellent linguiste. 
+     La tâche consiste à regrouper les entités de type "Personnes" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. 
+     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.
+
+     Tu devras donner ta réponse sous le format JSON suivant :
+
+     {
+     '0' : [reference_1, …],
+     '1' : [reference_1, …],
+     }
+
+     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.
+
+     Voici des exemples pour t'aider :
+
+     Liste de personnes : 
+
+     CLÉON Ier
+     Empereur
+     Cléon
+     Sire
+     l'Empereur
+     l'empereur Cléon
+     Hari Seldon
+     Seldon
+     Eto Demerzel
+     Demerzel
+     Lieutenant Alban Wellis
+     Wellis
+     Hummin
+
+     Réponse :
+
+     {
+     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],
+     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],
+     '2' : ['Lieutenant Alban Wellis', 'Wellis'],
+     '3' : ['Hummin'],
+     }
+
+     Liste de personnes : 
+
+     CLÉON Ier
+     Cléon
+     Seldon
+     Hari Seldon
+     Hari
+     Eto Demerzel
+     Demerzel
+     Goutte-de-Pluie Quarante-trois
+     Goutte-de-Pluie Quarante-cinq
+     Dors 
+     Dors Seldon
+
+     Réponse :
+
+     {
+     '0' : ['CLÉON Ier', 'Cléon'],
+     '1' : ['Seldon', 'Hari Seldon', 'Hari'],
+     '2' : ['Eto Demerzel', 'Demerzel'],
+     '3' : ['Goutte-de-Pluie Quarante-trois'],
+     '4' : ['Goutte-de-Pluie Quarante-cinq'],
+     '5' : ['Dors', 'Dors Seldon'],
+     }
+     """
+     gpt_entities = entities["final_gpt_entities"]
+
+     out = "\n".join(gpt_entities)
+     user_prompt = f"""
+     print("Liste de personnes : {out}")
+     Liste de personnes : 
+
+     {out}
+
+     Réponse :
+     """
+     
+     client = OpenAI()
+     params = {
+        "temperature": 0,
+        "seed": 42,
+        "model": "gpt-3.5-turbo-1106", # gpt-4-1106-preview
+     }
+     response = client.chat.completions.create(
+        **params,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
+        response_format={"type": "json_object"},
+    )
+     generated_content = response.choices[0].message.content
+     generated_content = json.loads(generated_content)
+
+     aliases = []
+     for key in generated_content:
+          aliases.append(generated_content[key])
+
+     tagged_file = tag_text_with_entities(input_file, gpt_entities)
+     positions = [get_positions_of_entities(tagged_file)]
+     cooccurences = get_cooccurences([tagged_file], positions)
+     gpt_entities = [{"word": entity} for entity in gpt_entities]
+     cooccurences_aliases = find_cooccurences_aliases(cooccurences, aliases)
+     save = {
+          "cooccurences": cooccurences,
+          "entities": gpt_entities,
+          "aliases": aliases,
+          "cooccurences_aliases": cooccurences_aliases
+     }
+     save["gpt"] = {
+          "system_prompt": system_prompt,
+          "user_prompt": user_prompt,
+          "generated_content": generated_content,
+          "params": params,
+     }
+     if logger is not None:
+          logger(save)
+     return cooccurences_aliases
+
 if __name__ == "__main__":
-    name_exp = "GPT_4_NER_self_verification"
+    name_exp = "GPT-3_NER"
     submission(name_exp)
