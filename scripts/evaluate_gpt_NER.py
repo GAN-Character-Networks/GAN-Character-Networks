@@ -1,78 +1,134 @@
 from vroom.NER import *
-from vroom.metrics import evaluate
 import json
 import os 
-
-# TODO: load JSON entities found 
+from openai import OpenAI
+import os
+import glob
+from vroom.NER import chunk_text, read_file
+import json 
 
 unlabeled_chapter = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled")
 labeled_chapter = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.labeled")
+gpt_output_json = os.path.join("save", "kaggle", "paf", "GPT-3_NER_chunks_determinant", "chapter_1.json")
+content = read_file(unlabeled_chapter)
+chunks = chunk_text_by_sentence(content, batch_size = 5) 
+do_self_verification = True
 
-labeled_gpt_file = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.gpt.ner.v4.labeled.json")
-labeled_gpt_entities = json.load(open(labeled_gpt_file, "r", encoding="utf-8"))["personnages"]
+with open(gpt_output_json, "r") as f:
+    gpt_output = json.load(f)
 
-known_not_entities = ["Empire", "psychohistoire", "mathématicien", "ministre"]
-labeled_gpt_entities = [entity for entity in labeled_gpt_entities if entity not in known_not_entities]
-print("entities = ", labeled_gpt_entities)
+tagged_text_gpt = []
+
+for key in gpt_output:
+    for values in gpt_output[key]:
+        if values == "ner_chunk":
+            tagged_text_gpt.append(gpt_output[key][values])
+
+labeled_gpt_entities = []
+for chunk in tagged_text_gpt:
+    # extract all entities between @@ and ##
+    entities = re.findall(r'@@(.*?)##', chunk)
+    labeled_gpt_entities.append(entities)
+
+labeled_gpt_entities = [item for sublist in labeled_gpt_entities for item in sublist]
+labeled_gpt_entities = list(set(labeled_gpt_entities))
+print(labeled_gpt_entities)
+
+if do_self_verification:
+    client = OpenAI()
+
+    params = {
+        "temperature": 0,
+        "seed": 42,
+        "model": "gpt-3.5-turbo-1106", # gpt-4-1106-preview
+    }
+
+    system_prompt = r"""
+    La tâche consiste à vérifier si le mot est une entité de personnage extraite de la phrase donnée.   Voici quelques exemples :
+
+    Phrase : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+        dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+        année que Hari Seldon.
+
+    Question : Le mot "CLÉON Ier" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+    Réponse : Oui
+
+    Phrase : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+        dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+        année que Hari Seldon.
+
+    Question : Le mot "Empereur" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+    Réponse : Oui
+
+    Phrase : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la
+        dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même
+        année que Hari Seldon.
+
+    Question : Le mot "Hari Seldon" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+    Réponse : Oui
+
+    Phrase : Par conséquent, peu importe que la prédiction de l’avenir soit ou non une réalité, n’est-ce pas ? Si un mathématicien devait me prédire un règne long et heureux, et pour l’Empire une ère de paix et de prospérité... eh bien, ne serait-ce pas une bonne chose ? — Ce serait assurément agréable à entendre, mais ça nous avancerait à quoi, Sire ? — Eh bien, si les gens croyaient ça, ils agiraient certainement selon cette croyance.
+
+    Question : Le mot "Sire" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+    Réponse :  Oui
+
+    Phrase : J’ai appris qu’on vous avait vu en compagnie d’un garde impérial, vous dirigeant vers la porte du Palais. Vous n’auriez pas, par le plus grand des hasards, été reçu par l’Empereur, non ? » Le sourire déserta le visage de Seldon. C’est avec lenteur qu’il répondit : « Si tel avait été le cas, ce ne serait certes pas un sujet que je confierais pour publication.
+
+    Question : Le mot "garde impérial" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+    Réponse :  Non
+    """
+
+    # self verification
+    checked_entities = []
+    for chunk in chunks:
+        for entity in labeled_gpt_entities:
+            if entity in chunk and entity not in checked_entities:
+
+                user_prompt = f"""
+
+                Phrase : {chunk}
+
+                Question : Le mot "{entity}" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.
+
+                Réponse :
+                """
+
+                print(user_prompt)
+
+                response = client.chat.completions.create(
+                **params,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                    ],
+                )
+
+                generated_content = response.choices[0].message.content
+                print()
+                print(generated_content)
+                print("--------------------------------------------------")
+                
+                if generated_content == "Oui":
+                    checked_entities.append(entity)
+                else:
+                    labeled_gpt_entities.remove(entity)
+#else:
+#    labeled_gpt_entities = ['Eto Demerzel', 'Demerzel', 'CLÉON Ier', 'Empereurs', 'Lieutenant Alban Wellis', 'empereur Cléon', 'Seldon', 'Empereur', 'Hummin', 'Sire', 'Hari Seldon', 'Wellis', 'Cléon']
+
+print(labeled_gpt_entities)
+
+labeled_gpt_entities += ["l’Empereur"]
 
 unlabeled_text_tagged = tag_text_with_entities(unlabeled_chapter, labeled_gpt_entities)
 labeled_text_tagged = read_file(labeled_chapter)
 
-import re
-
-
-def separate_words(text):
-    # Use regular expression to find words and punctuation, including special words like <PER> and </PERS>
-    words = re.findall(r'\b\w+\b|[.,;!?<>/]+|<PER>|</PER>', text)
-    return words
-
-def merge_special_words(word_list):
-    merged_list = []
-    current_word = ""
-
-    for word in word_list:
-        if word in ['<', 'PER', '</', '>']:
-            current_word += word
-        else:
-            if current_word:
-                merged_list.append(current_word)
-                current_word = ""
-            merged_list.append(word)
-
-    if current_word:
-        merged_list.append(current_word)
-
-    return merged_list
-
-def get_positions_of_entities(text):
-    words = separate_words(text)
-    words = merge_special_words(words)
-    positions = {}
-    current_entity = []
-    current_entity_start = 0
-    current_entity_end = 0
-    i = 0
-    for word in words:
-        if word == "<PER>":
-            current_entity = []
-            current_entity_start = i
-        elif word == "</PER>":
-            current_entity_end = i
-            positions[(current_entity_start, current_entity_end)] = ' '.join(current_entity)
-        else:
-            i += 1
-            current_entity.append(word)
-    return positions
-
 positions_ner = get_positions_of_entities(unlabeled_text_tagged)
 true_position = get_positions_of_entities(labeled_text_tagged)
-
-true_entities = [] 
-for entity in true_position.values():
-    true_entities.append(entity)
-
-print("true entities = ", set(true_entities))
-
 
 def evaluate_ner(positions_ner, true_position):
     true_positives = 0
@@ -106,5 +162,6 @@ def evaluate_ner(positions_ner, true_position):
     print("accuracy", accuracy)
 
 evaluate_ner(positions_ner, true_position)
+
 
 
