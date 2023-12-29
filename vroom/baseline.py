@@ -10,7 +10,7 @@ from vroom.NER import (
     get_entities_from_file,
     chunk_text,
     read_file,
-    tag_text_with_entities,
+    tag_text_with_entities_v2,
     search_names_with_determinants,
 )
 from vroom.alias import get_aliases_fuzzy_partial_token, get_aliases_fuzzy
@@ -96,6 +96,9 @@ def merge_special_words(word_list):
     for word in word_list:
         if word in ["<", "PER", "</", ">"]:
             current_word += word
+            if word == ">":
+                merged_list.append(current_word)
+                current_word = ""
         else:
             if current_word:
                 merged_list.append(current_word)
@@ -108,10 +111,37 @@ def merge_special_words(word_list):
     return merged_list
 
 
+# def get_positions_of_entities(text):
+#     words = separate_words(text)
+#     with open("words.txt", "w") as f:
+#         f.write(str(words))
+#     words = merge_special_words(words)
+#     with open("words_merged.txt", "w") as f:
+#         f.write(str(words))
+#     positions = {}
+#     current_entity = []
+#     current_entity_start = 0
+#     current_entity_end = 0
+#     i = 0
+#     for word in words:
+#         if word == "<PER>":
+#             current_entity = []
+#             current_entity_start = i
+#         elif word == "</PER>":
+#             current_entity_end = i
+#             positions[(current_entity_start, current_entity_end)] = " ".join(
+#                 current_entity
+#             )
+#         else:
+#             i += 1
+#             current_entity.append(word)
+#     return positions
+
+
 def get_positions_of_entities(text):
-    words = separate_words(text)
-    words = merge_special_words(words)
-    positions = {}
+    words = text.split(" ")
+
+    positions = []
     current_entity = []
     current_entity_start = 0
     current_entity_end = 0
@@ -122,12 +152,19 @@ def get_positions_of_entities(text):
             current_entity_start = i
         elif word == "</PER>":
             current_entity_end = i
-            positions[(current_entity_start, current_entity_end)] = " ".join(
-                current_entity
+            word = " ".join(current_entity)
+
+            positions.append(
+                {
+                    "word": word,
+                    "start": current_entity_start,
+                    "end": current_entity_end,
+                }
             )
         else:
-            i += 1
+            i += len(word) + 1
             current_entity.append(word)
+
     return positions
 
 
@@ -150,7 +187,7 @@ def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
     Returns:
         list: A list of tuples representing the interactions between entities in the text.
     """
-    entities, chunks = get_entities_from_file(path)
+    entities, chunks = get_entities_from_file(path, device="cuda")
 
     # Determinants augmentation
     all_entities_names = []
@@ -166,17 +203,12 @@ def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
     augmented_entities = set(augmented_entities)
 
     entities = entities.union(augmented_entities)
-    # print(f"entities = {entities}")
 
-    ##### CEST DANS CE CODE QUE LA MERDE SE PASSE ZBI
-    tagged_text = tag_text_with_entities(path, entities)
-    with open(path + ".tagged", "w") as f:
-        f.write(tagged_text)
+    tagged_text = tag_text_with_entities_v2(path, entities)
+    # with open(path + ".tagged", "w") as f:
+    #     f.write(tagged_text)
 
-    positions_ner = get_positions_of_entities(tagged_text)
-    entities = [build_list_of_dicts(positions_ner)]
-    print(f"entities with positions = {entities}")
-    ##################################################
+    entities = [get_positions_of_entities(tagged_text)]
     whole_text = [read_file(path)]
 
     cooccurences = get_cooccurences(whole_text, entities)
@@ -493,7 +525,7 @@ def get_cooccurences_with_aliases_and_gpt_NER(
     
     gpt_entities = set(entities)
 
-    tagged_file = tag_text_with_entities(path, gpt_entities)
+    tagged_file = tag_text_with_entities_v2(path, gpt_entities)
     out_entities = get_positions_of_entities(tagged_file)
     cooccurences = get_cooccurences([tagged_file], [out_entities])
 
