@@ -1,0 +1,449 @@
+{
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors",
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Bendar",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Anciens"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Grand Ancien"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Grand Ancien",
+            "Venabili"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Ancien"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Hummin",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Eto Demerzel",
+            "Grand Ancien"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Renégat"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Mycélium Soixante-douze"
+        },
+        {
+            "word": "Ancien"
+        },
+        {
+            "word": "Anciens"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Bendar"
+        },
+        {
+            "word": "Maître-du-Soleil"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Empereur"
+        },
+        {
+            "word": "Grand Ancien"
+        },
+        {
+            "word": "Eto Demerzel"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Renégat"
+        }
+    ],
+    "aliases": [
+        [
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Dors",
+            "Venabili",
+            "Dors Venabili"
+        ],
+        [
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Ancien",
+            "Anciens"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Bendar"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Grand Ancien"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Renégat"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Mycélium Soixante-douze"
+            ]
+        ],
+        [
+            [
+                "Bendar"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Ancien",
+                "Anciens"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Grand Ancien"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Grand Ancien"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Ancien",
+                "Anciens"
+            ]
+        ],
+        [
+            [
+                "Empereur"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Empereur"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Grand Ancien"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Renégat"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Hari\nHari Seldon\nDors\nVenabili\nDors Venabili\nMycélium Soixante-douze\nAncien\nAnciens\nHummin\nBendar\nMaître-du-Soleil\nMaître-du-Soleil Quatorze\nEmpereur\nGrand Ancien\nEto Demerzel\nDemerzel\nRenégat\")\n     Liste de personnes : \n\n     Hari\nHari Seldon\nDors\nVenabili\nDors Venabili\nMycélium Soixante-douze\nAncien\nAnciens\nHummin\nBendar\nMaître-du-Soleil\nMaître-du-Soleil Quatorze\nEmpereur\nGrand Ancien\nEto Demerzel\nDemerzel\nRenégat\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Hari",
+                "Hari Seldon"
+            ],
+            "1": [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            "2": [
+                "Mycélium Soixante-douze"
+            ],
+            "3": [
+                "Ancien",
+                "Anciens"
+            ],
+            "4": [
+                "Hummin"
+            ],
+            "5": [
+                "Bendar"
+            ],
+            "6": [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            "7": [
+                "Empereur"
+            ],
+            "8": [
+                "Grand Ancien"
+            ],
+            "9": [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            "10": [
+                "Renégat"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

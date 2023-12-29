@@ -1,0 +1,530 @@
+{
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors Machinchose"
+        ],
+        [
+            "docteur Seldon",
+            "M. Hummin"
+        ],
+        [
+            "docteur Seldon",
+            "Seldon"
+        ],
+        [
+            "M. Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "l’Empereur"
+        ],
+        [
+            "l’Empereur",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "l’Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "VENABILI, DORS"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Dors Machinchose"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "M. Hummin"
+        },
+        {
+            "word": "docteur Seldon"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Sire"
+        },
+        {
+            "word": "Empereur"
+        },
+        {
+            "word": "L’Empereur"
+        },
+        {
+            "word": "professeur Venabili"
+        }
+    ],
+    "aliases": [
+        [
+            "Hummin",
+            "M. Hummin"
+        ],
+        [
+            "VENABILI, DORS",
+            "Dors Machinchose",
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari",
+            "docteur Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "L’Empereur",
+            "Empereur"
+        ],
+        [
+            "Sire"
+        ],
+        [
+            "professeur Venabili"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "M. Hummin"
+            ],
+            [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "M. Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "L’Empereur",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "L’Empereur",
+                "Empereur"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "L’Empereur",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "L’Empereur",
+                "Empereur"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "L’Empereur",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ]
+        ]
+    ]
+}

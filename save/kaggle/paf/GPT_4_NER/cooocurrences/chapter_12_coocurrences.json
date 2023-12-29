@@ -1,0 +1,1059 @@
+{
+    "cooccurences": [
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Dors",
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Mycélium Soixante-douze",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Bendar",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Bande-céleste Deux",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Grand Ancien"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Grand Ancien",
+            "Venabili"
+        ],
+        [
+            "Frère",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "l’Ancien"
+        ],
+        [
+            "l’Empereur",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Frère"
+        ],
+        [
+            "Frère",
+            "l’Empereur"
+        ],
+        [
+            "Eto Demerzel",
+            "Grand Ancien"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Seldon",
+            "Chetter"
+        ],
+        [
+            "Chetter",
+            "Hummin"
+        ],
+        [
+            "Chetter",
+            "Dors"
+        ],
+        [
+            "Chetter",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Chetter",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Renégat"
+        ],
+        [
+            "Renégat",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Mycélium Soixante-douze"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Bendar"
+        },
+        {
+            "word": "Sœurs"
+        },
+        {
+            "word": "Maître-du-Soleil"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Frère âgé"
+        },
+        {
+            "word": "Frère"
+        },
+        {
+            "word": "Bande-céleste Deux"
+        },
+        {
+            "word": "Grand Ancien"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "l’Ancien"
+        },
+        {
+            "word": "Eto Demerzel"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Chetter"
+        },
+        {
+            "word": "Renégat"
+        }
+    ],
+    "aliases": [
+        [
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Venabili",
+            "Dors"
+        ],
+        [
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Bendar"
+        ],
+        [
+            "Sœurs"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Frère âgé",
+            "Frère"
+        ],
+        [
+            "Bande-céleste Deux"
+        ],
+        [
+            "Grand Ancien"
+        ],
+        [
+            "l’Empereur"
+        ],
+        [
+            "l’Ancien"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Chetter"
+        ],
+        [
+            "Renégat"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Mycélium Soixante-douze"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Mycélium Soixante-douze"
+            ]
+        ],
+        [
+            [
+                "Mycélium Soixante-douze"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Bendar"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Bande-céleste Deux"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Grand Ancien"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Grand Ancien"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Frère âgé",
+                "Frère"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "l’Ancien"
+            ]
+        ],
+        [
+            [
+                "l’Empereur"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Frère âgé",
+                "Frère"
+            ]
+        ],
+        [
+            [
+                "Frère âgé",
+                "Frère"
+            ],
+            [
+                "l’Empereur"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Grand Ancien"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Chetter"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Chetter"
+            ]
+        ],
+        [
+            [
+                "Chetter"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Chetter"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Chetter"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Chetter"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Chetter"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Renégat"
+            ]
+        ],
+        [
+            [
+                "Renégat"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ]
+    ]
+}

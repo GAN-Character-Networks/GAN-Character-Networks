@@ -1,0 +1,792 @@
+{
+    "cooccurences": [
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Maître Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Maître Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Maître Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Marlo Tanto",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Davan",
+            "Yugo Amaryl"
+        ],
+        [
+            "Yugo Amaryl",
+            "Amaryl"
+        ],
+        [
+            "Yugo Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Maître Davan"
+        ],
+        [
+            "Maître Davan",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Hummin",
+            "Davan"
+        ],
+        [
+            "l’historienne, Davan",
+            "Dors"
+        ],
+        [
+            "l’Empereur",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Davan"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "DAVAN"
+        },
+        {
+            "word": "Maître Tisalver"
+        },
+        {
+            "word": "Maîtresse"
+        },
+        {
+            "word": "Maîtresse Venabili"
+        },
+        {
+            "word": "Maîtresse Tisalver"
+        },
+        {
+            "word": "Marron"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Marlo Tanto"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Amaryl"
+        },
+        {
+            "word": "Maître Davan"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "l’historienne, Davan"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Demerzel"
+        }
+    ],
+    "aliases": [
+        [
+            "DAVAN",
+            "l’historienne, Davan",
+            "Maître Davan"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Maître Tisalver"
+        ],
+        [
+            "Maîtresse",
+            "Maîtresse Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Marron"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Marlo Tanto"
+        ],
+        [
+            "Yugo Amaryl",
+            "Amaryl"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "l’Empereur"
+        ],
+        [
+            "Demerzel"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Maître Tisalver"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Maîtresse",
+                "Maîtresse Tisalver",
+                "Maîtresse Venabili"
+            ]
+        ],
+        [
+            [
+                "Maître Tisalver"
+            ],
+            [
+                "Maîtresse",
+                "Maîtresse Tisalver",
+                "Maîtresse Venabili"
+            ]
+        ],
+        [
+            [
+                "Maître Tisalver"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Maîtresse",
+                "Maîtresse Tisalver",
+                "Maîtresse Venabili"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Maîtresse",
+                "Maîtresse Tisalver",
+                "Maîtresse Venabili"
+            ]
+        ],
+        [
+            [
+                "Marlo Tanto"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Yugo Amaryl",
+                "Amaryl"
+            ]
+        ],
+        [
+            [
+                "Yugo Amaryl",
+                "Amaryl"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Yugo Amaryl",
+                "Amaryl"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "l’Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "l’historienne, Davan",
+                "Maître Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Raych"
+            ]
+        ]
+    ]
+}

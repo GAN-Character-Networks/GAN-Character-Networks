@@ -1,0 +1,77 @@
+{
+    "final_gpt_entities": [
+        "Seldon",
+        "Cléon Ier",
+        "Marbie",
+        "Alem",
+        "Hummin",
+        "Demerzel",
+        "l’Empereur",
+        "Hari Seldon",
+        "prince impérial"
+    ],
+    "init_gpt_entities": [
+        "Alem",
+        "Hélicon",
+        "Marbie",
+        "prince impérial",
+        "Seldon",
+        "Hummin",
+        "Cléon Ier",
+        "Demerzel",
+        "Hari Seldon",
+        "l’Empire",
+        "l’Empereur",
+        "Anacréon"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Fuite TRANTOR — ... capitale du premier Empire Galactique... C’est sous le règne de Cléon Ier qu’elle a « jeté ses derniers feux ». Selon toute apparence, elle était alors à son apogée. Ses 200 millions de kilomètres carrés de terres émergées étaient entièrement recouverts de dômes (hormis le domaine du Palais impérial) sous lesquels se développait en continu une cité qui s’étendait au-dessous des plates-formes continentales. La population était de quarante milliards d’habitants et, même si de nombreux signes (clairement visibles avec le recul) annonçaient les problèmes qui s’amassaient, ceux qui vivaient sur Trantor la considéraient sans aucun doute comme la planète éternelle des légendes et ne s’attendaient certainement pas à... ENCYCLOPAEDIA GALACTICA Seldon leva les yeux. Un jeune homme se tenait devant lui, le considérant de toute sa hauteur, avec un mépris amusé.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Fuite TRANTOR — ... capitale du premier Empire Galactique... C’est sous le règne de Cléon Ier qu’elle a « jeté ses derniers feux ». Selon toute apparence, elle était alors à son apogée. Ses 200 millions de kilomètres carrés de terres émergées étaient entièrement recouverts de dômes (hormis le domaine du Palais impérial) sous lesquels se développait en continu une cité qui s’étendait au-dessous des plates-formes continentales. La population était de quarante milliards d’habitants et, même si de nombreux signes (clairement visibles avec le recul) annonçaient les problèmes qui s’amassaient, ceux qui vivaient sur Trantor la considéraient sans aucun doute comme la planète éternelle des légendes et ne s’attendaient certainement pas à... ENCYCLOPAEDIA GALACTICA Seldon leva les yeux. Un jeune homme se tenait devant lui, le considérant de toute sa hauteur, avec un mépris amusé.\n\n                    Question : Le mot \"Cléon Ier\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Coup d’œil du jeune homme à son partenaire : « T’aimes bien ses fringues, Marbie ? » Marbie parla pour la première fois : « Non. Écœurant. Ça me retourne l’estomac. — On peut pas le laisser se balader et retourner l’estomac des gens, hein, Marbie ?\n\n                    Question : Le mot \"Marbie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’est pas bon pour la santé publique. — Non, non, pas question, Alem », répondit Marbie. Sourire d’Alem. « Bien. T’as entendu ce qu’a dit Marbie ?\n\n                    Question : Le mot \"Alem\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Et c’est là que Hummin intervint : « Bon, écoutez, vous deux, Alem, Marbie, ou je ne sais quoi. Vous vous êtes bien amusés. Alors, si vous déguerpissiez, à présent ? » Alem, qui s’était légèrement penché vers Seldon, se redressa et pivota : « Qui t’es, toi ? — Ça ne vous regarde pas, fit Hummin, sèchement.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le commanditaire de ces deux malfrats, quel qu’il soit (pour moi, ce doit être Demerzel), risque de nous en envoyer d’autres, et il va falloir vous débarrasser de ces vêtements. J’ai l’impression que, dans le secteur, tout Héliconien surpris en costume local risque d’avoir des ennuis tant qu’il n’aura pu prouver qu’il n’est pas vous. — Oh. Allons donc... — Je ne plaisante pas. Vous allez devoir retirer ces vêtements et il va falloir qu’on les atomise – si nous parvenons assez près d’une unité d’enlèvement sans nous faire remarquer.\n\n                    Question : Le mot \"Hélicon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le commanditaire de ces deux malfrats, quel qu’il soit (pour moi, ce doit être Demerzel), risque de nous en envoyer d’autres, et il va falloir vous débarrasser de ces vêtements. J’ai l’impression que, dans le secteur, tout Héliconien surpris en costume local risque d’avoir des ennuis tant qu’il n’aura pu prouver qu’il n’est pas vous. — Oh. Allons donc... — Je ne plaisante pas. Vous allez devoir retirer ces vêtements et il va falloir qu’on les atomise – si nous parvenons assez près d’une unité d’enlèvement sans nous faire remarquer.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Et pour aller où, sinon chez moi ? S’il peut me récupérer sur Hélicon, il pourra me récupérer n’importe où. Il pourrait me récupérer sur... Anacréon, facilement à dix mille parsecs de là – si l’envie me prenait de m’y rendre. Qu’est-ce que la distance pour un vaisseau hyperspatial ? Même si je trouvais un monde moins soumis qu’Hélicon aux forces impériales, y en a-t-il un seul en rébellion ouverte ?\n\n                    Question : Le mot \"Anacréon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : L’Empire est en paix. Même si certains n’ont jamais digéré les injustices passées, pas un ne va défier les forces armées de l’Empereur pour me protéger. Qui plus est, nulle part ailleurs que sur Hélicon je n’aurai la garantie de ma citoyenneté locale pour me protéger des entreprises impériales. » Hummin écouta patiemment, hochant légèrement la tête, mais l’air toujours aussi grave et impassible. Puis il répondit : « Vous avez raison jusque-là, mais il reste un monde qui n’est pas vraiment contrôlé par l’Empereur.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il n’est pas aussi pressé de vous voir regagner Hélicon que de vous faire quitter Trantor avant que vous ne vous avisiez – quelle qu’en soit la raison, même si ce n’est que caprice touristique – de rester ici. » Les deux hommes restèrent silencieux jusqu’à ce que Seldon lance finalement, sardonique : « Trantor ! Capitale de l’Empire, port d’attache de la flotte sur une station spatiale en orbite autour d’elle, avec les meilleures unités de l’armée basées ici. Si vous croyez que Trantor est le refuge suprême, alors vous progressez de la paranoïa au franc délire ! — Non !\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le restant de votre vie, peut-être. Hari Seldon observa son portrait holographique affiché par le projecteur de Hummin. C’était plus pratique et spectaculaire qu’avec un miroir. En fait, on aurait cru que son double était présent dans la pièce. Seldon étudia la manche de sa tunique neuve.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Auquel cas il n’est guère important de se préoccuper outre mesure des individus, de l’Empereur et du jeune prince impérial. Il n’est guère important de se préoccuper même des mécanismes de l’Empire. Et les quadrillions de gens qui vivent dans la Galaxie ? Et eux, alors ? — Les mondes et leurs habitants continueront d’exister, je suppose.\n\n                    Question : Le mot \"prince impérial\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

@@ -1,0 +1,503 @@
+{
+    "cooccurences": [
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sœurs"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Sœurs",
+            "Hari"
+        ],
+        [
+            "Sœurs",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Chetter Hummin",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Goutte-de-Pluie Quarante-cinq"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-trois",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-trois",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-trois",
+            "Seldon"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-trois",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte-de-Pluie Quarante-trois"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Grisnuage"
+        },
+        {
+            "word": "Sœurs"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-cinq"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-trois"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "La Sœur"
+        }
+    ],
+    "aliases": [
+        [
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Grisnuage"
+        ],
+        [
+            "Sœurs"
+        ],
+        [
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-cinq"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "La Sœur"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Grisnuage"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Grisnuage"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Sœurs"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Sœurs"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Sœurs"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-cinq"
+            ]
+        ],
+        [
+            [
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Goutte-de-Pluie Quarante-cinq"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ]
+    ]
+}

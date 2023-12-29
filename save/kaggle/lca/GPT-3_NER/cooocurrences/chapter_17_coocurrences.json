@@ -1,0 +1,387 @@
+{
+    "cooccurences": [
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ],
+        [
+            "Elijah",
+            "R. Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "monsieur le commissaire"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ],
+        [
+            "R. Daneel",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "monsieur le commissaire",
+            "Baley"
+        ],
+        [
+            "monsieur le commissaire",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Francis Clousarr"
+        ],
+        [
+            "Lije",
+            "monsieur le commissaire"
+        ],
+        [
+            "monsieur le commissaire",
+            "Lije"
+        ],
+        [
+            "monsieur le commissaire",
+            "Lije"
+        ],
+        [
+            "monsieur le commissaire",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Elijah Baley"
+        },
+        {
+            "word": "monsieur le commissaire"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Francis Clousarr"
+        }
+    ],
+    "aliases": [
+        [
+            "Baley",
+            "Elijah Baley"
+        ],
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Lije"
+        ],
+        [
+            "Fastolfe"
+        ],
+        [
+            "monsieur le commissaire"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Francis Clousarr"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Elijah",
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "monsieur le commissaire"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "monsieur le commissaire"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "monsieur le commissaire"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Francis Clousarr"
+            ]
+        ],
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "monsieur le commissaire"
+            ]
+        ],
+        [
+            [
+                "monsieur le commissaire"
+            ],
+            [
+                "Elijah",
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "monsieur le commissaire"
+            ],
+            [
+                "Elijah",
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "monsieur le commissaire"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Elijah",
+                "Lije"
+            ],
+            [
+                "Enderby"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Baley\nR. Daneel\nDaneel\nElijah\nFastolfe\nElijah Baley\nmonsieur le commissaire\nLije\nEnderby\nJessie\nFrancis Clousarr\")\n     Liste de personnes : \n\n     Baley\nR. Daneel\nDaneel\nElijah\nFastolfe\nElijah Baley\nmonsieur le commissaire\nLije\nEnderby\nJessie\nFrancis Clousarr\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Baley",
+                "Elijah Baley"
+            ],
+            "1": [
+                "R. Daneel",
+                "Daneel"
+            ],
+            "2": [
+                "Elijah",
+                "Lije"
+            ],
+            "3": [
+                "Fastolfe"
+            ],
+            "4": [
+                "monsieur le commissaire"
+            ],
+            "5": [
+                "Enderby"
+            ],
+            "6": [
+                "Jessie"
+            ],
+            "7": [
+                "Francis Clousarr"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

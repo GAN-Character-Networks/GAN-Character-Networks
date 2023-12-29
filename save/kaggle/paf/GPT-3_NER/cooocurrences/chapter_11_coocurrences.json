@@ -1,0 +1,753 @@
+{
+    "cooccurences": [
+        [
+            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Sœur"
+        ],
+        [
+            "Dors",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Livre",
+            "Dors"
+        ],
+        [
+            "Livre",
+            "Seldon"
+        ],
+        [
+            "Livre",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Livre"
+        ],
+        [
+            "Livre",
+            "Hari"
+        ],
+        [
+            "Livre",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Mycélium",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycélium"
+        ],
+        [
+            "Fils de l’Aube",
+            "Fils"
+        ],
+        [
+            "Fils de l’Aube",
+            "Dors"
+        ],
+        [
+            "Fils de l’Aube",
+            "Mycélium"
+        ],
+        [
+            "Fils",
+            "Dors"
+        ],
+        [
+            "Fils",
+            "Mycélium"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Livre",
+            "Monde perdu"
+        ],
+        [
+            "Livre",
+            "Mycélium"
+        ],
+        [
+            "Monde perdu",
+            "Mycélium"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Hélicon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Cinna"
+        ],
+        [
+            "Hélicon",
+            "Dors Venabili"
+        ],
+        [
+            "Hélicon",
+            "Cinna"
+        ],
+        [
+            "Dors Venabili",
+            "Cinna"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Mycogéniens",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Sœur"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "AURORA"
+        },
+        {
+            "word": "Sœur"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-trois"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-cinq"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Livre"
+        },
+        {
+            "word": "Mycogéniens"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Monde perdu"
+        },
+        {
+            "word": "Mycélium"
+        },
+        {
+            "word": "Fils de l’Aube"
+        },
+        {
+            "word": "Fils"
+        },
+        {
+            "word": "Hélicon"
+        },
+        {
+            "word": "Cinna"
+        },
+        {
+            "word": "Bande-céleste Deux"
+        }
+    ],
+    "aliases": [
+        [
+            "AURORA"
+        ],
+        [
+            "Sœur"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-cinq"
+        ],
+        [
+            "Hari"
+        ],
+        [
+            "Livre"
+        ],
+        [
+            "Mycogéniens"
+        ],
+        [
+            "Monde perdu"
+        ],
+        [
+            "Mycélium"
+        ],
+        [
+            "Fils de l’Aube",
+            "Fils"
+        ],
+        [
+            "Hélicon"
+        ],
+        [
+            "Cinna"
+        ],
+        [
+            "Bande-céleste Deux"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Goutte-de-Pluie Quarante-cinq"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Sœur"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Livre"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Mycélium"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Fils de l’Aube",
+                "Fils"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Fils de l’Aube",
+                "Fils"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Fils de l’Aube",
+                "Fils"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Fils de l’Aube",
+                "Fils"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Monde perdu"
+            ]
+        ],
+        [
+            [
+                "Livre"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Monde perdu"
+            ],
+            [
+                "Mycélium"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hélicon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Cinna"
+            ]
+        ],
+        [
+            [
+                "Hélicon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hélicon"
+            ],
+            [
+                "Cinna"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Cinna"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Mycogéniens"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Sœur"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : AURORA\nSœur\nDors\nGoutte-de-Pluie Quarante-trois\nSeldon\nGoutte-de-Pluie Quarante-cinq\nHari\nLivre\nMycogéniens\nHari Seldon\nDors Venabili\nMonde perdu\nMycélium\nFils de l’Aube\nFils\nHélicon\nCinna\nBande-céleste Deux\")\n     Liste de personnes : \n\n     AURORA\nSœur\nDors\nGoutte-de-Pluie Quarante-trois\nSeldon\nGoutte-de-Pluie Quarante-cinq\nHari\nLivre\nMycogéniens\nHari Seldon\nDors Venabili\nMonde perdu\nMycélium\nFils de l’Aube\nFils\nHélicon\nCinna\nBande-céleste Deux\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "AURORA"
+            ],
+            "1": [
+                "Sœur"
+            ],
+            "2": [
+                "Dors",
+                "Dors Venabili"
+            ],
+            "3": [
+                "Goutte-de-Pluie Quarante-trois"
+            ],
+            "4": [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "5": [
+                "Goutte-de-Pluie Quarante-cinq"
+            ],
+            "6": [
+                "Hari"
+            ],
+            "7": [
+                "Livre"
+            ],
+            "8": [
+                "Mycogéniens"
+            ],
+            "9": [
+                "Monde perdu"
+            ],
+            "10": [
+                "Mycélium"
+            ],
+            "11": [
+                "Fils de l’Aube",
+                "Fils"
+            ],
+            "12": [
+                "Hélicon"
+            ],
+            "13": [
+                "Cinna"
+            ],
+            "14": [
+                "Bande-céleste Deux"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

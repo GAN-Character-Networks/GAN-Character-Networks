@@ -1,0 +1,72 @@
+{
+    "final_gpt_entities": [
+        "Hari",
+        "Seldon",
+        "Goutte-de-Pluie Quarante-trois",
+        "Hari Seldon",
+        "Goutte-de-Pluie",
+        "Dors",
+        "La Sœur",
+        "Dors Venabili",
+        "Goutte-de-Pluie Quarante-cinq"
+    ],
+    "init_gpt_entities": [
+        "La Sœur",
+        "Dors Venabili",
+        "Hari",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Dors",
+        "Seldon",
+        "Goutte-de-Pluie Quarante-trois",
+        "l’historienne",
+        "Hari Seldon",
+        "Terra",
+        "Goutte-de-Pluie"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA. Goutte-de-Pluie Quarante-trois fixa Seldon, les yeux agrandis, le souffle court.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA. Goutte-de-Pluie Quarante-trois fixa Seldon, les yeux agrandis, le souffle court.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA. Goutte-de-Pluie Quarante-trois fixa Seldon, les yeux agrandis, le souffle court.\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-trois\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA. Goutte-de-Pluie Quarante-trois fixa Seldon, les yeux agrandis, le souffle court.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA. Goutte-de-Pluie Quarante-trois fixa Seldon, les yeux agrandis, le souffle court.\n\n                    Question : Le mot \"Goutte-de-Pluie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Y avait-il la moindre chance que l’histoire pût remonter à vingt mille ans et demeurer authentique ? Il n’était pas lui-même historien et devrait s’en ouvrir auprès de Dors. Mais il lui semblait tellement probable que, sur chaque monde, les histoires antiques fussent des pots-pourris d’aventures héroïques et de minidrames conçus comme des fables édifiantes à ne pas prendre au pied de la lettre. C’était certainement le cas sur Hélicon, et pourtant il aurait eu du mal à trouver un Héliconien qui ne jurât de leur authenticité et ne soutînt qu’il s’agissait bien d’histoires vraies. Ainsi allaient-ils jusqu’à défendre cette fable ridicule de la première exploration d’Hélicon et de la rencontre des colons avec d’énormes et dangereux reptiles volants – alors qu’on n’avait jamais découvert le moindre reptile volant sur aucun des mondes explorés et colonisés par l’homme.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Néanmoins il demanda : « Comment cette histoire commence-t-elle ? » La Sœur eut un regard égaré, perdu bien plus loin que Seldon ou quoi que ce soit dans la pièce. Elle récita : « Elle commence avec un monde – notre monde. Un seul monde. Seldon se figea, soupesant le risque d’ennuis sérieux si jamais il avait vaincu les inhibitions de la Sœur plus qu’il n’en avait l’intention.\n\n                    Question : Le mot \"La Sœur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il le prit, tâchant de maîtriser son excitation. Tandis que Seldon rajustait le bonnet de peau pour se couvrir les cheveux, Goutte-de-Pluie Quarante-trois porta de nouveau les mains à son nez et puis, doucement, furtivement, lécha un doigt. « Tâter vos cheveux ? » s’étonna Dors Venabili. Elle lorgna sa chevelure comme si elle s’apprêtait à faire de même.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Seldon réfléchit un moment à la question puis l’évacua d’un haussement d’épaules. « Bon, je laisse ça aux biologistes. — Ce sont précisément les plus acharnés à défendre l’hypothèse de Terra. — Terra ? Est-ce ainsi qu’ils baptisent ce prétendu monde des origines ?\n\n                    Question : Le mot \"Terra\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’est ridicule. — J’ai dit : supposons. En mathématiques, on dit tout le temps ― supposons ‖ pour voir si l’on débouche sur une conclusion manifestement erronée ou bien auto-contradictoire. penser... C’est vous l’historienne. Dans vos travaux, êtes-vous déjà tombée sur des objets ou des phénomènes appelés ― robots ‖ ?\n\n                    Question : Le mot \"l’historienne\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Parce que les gens aiment bien user de termes archaïques pour faire couleur locale, dès qu’ils content une légende ancienne. Pourquoi toutes ces questions, au fait ? — Parce que dans cet antique livre mycogénien, on parle de robots. Et l’on en dit le plus grand bien, d’ailleurs. Écoutez, Dors, vous ne devez pas ressortir avec Goutte-de-Pluie Quarante-cinq, cet après-midi ?\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-cinq\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

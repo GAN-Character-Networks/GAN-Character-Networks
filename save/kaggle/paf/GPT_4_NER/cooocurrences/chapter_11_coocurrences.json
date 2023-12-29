@@ -1,0 +1,514 @@
+{
+    "cooccurences": [
+        [
+            "Goutte-de-Pluie",
+            "Goutte-de-Pluie Quarante-cinq"
+        ],
+        [
+            "Goutte-de-Pluie",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Goutte-de-Pluie"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Mycélium",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante-douze",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "le Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "le Grand Ancien",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Sœurs Goutte-de-Pluie"
+        ],
+        [
+            "Sœurs Goutte-de-Pluie",
+            "Goutte-de-Pluie"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Goutte-de-Pluie"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-trois"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-cinq"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante- cinq"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Frère"
+        },
+        {
+            "word": "Mycélium"
+        },
+        {
+            "word": "Mycélium Soixante-douze"
+        },
+        {
+            "word": "Bande-céleste Deux"
+        },
+        {
+            "word": "Grand Ancien"
+        },
+        {
+            "word": "le Grand Ancien"
+        },
+        {
+            "word": "l’Ancien"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Sœurs Goutte-de-Pluie"
+        }
+    ],
+    "aliases": [
+        [
+            "Goutte-de-Pluie",
+            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte-de-Pluie Quarante- cinq",
+            "Sœurs Goutte-de-Pluie",
+            "Goutte-de-Pluie Quarante-trois"
+        ],
+        [
+            "Seldon",
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Frère"
+        ],
+        [
+            "Mycélium",
+            "Mycélium Soixante-douze"
+        ],
+        [
+            "Bande-céleste Deux"
+        ],
+        [
+            "Grand Ancien",
+            "le Grand Ancien"
+        ],
+        [
+            "l’Ancien"
+        ],
+        [
+            "Hummin"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Goutte-de-Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq",
+                "Sœurs Goutte-de-Pluie",
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Goutte-de-Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq",
+                "Sœurs Goutte-de-Pluie",
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Frère"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Frère"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Mycélium",
+                "Mycélium Soixante-douze"
+            ]
+        ],
+        [
+            [
+                "Mycélium",
+                "Mycélium Soixante-douze"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Mycélium",
+                "Mycélium Soixante-douze"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Mycélium",
+                "Mycélium Soixante-douze"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Mycélium",
+                "Mycélium Soixante-douze"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Grand Ancien",
+                "le Grand Ancien"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Grand Ancien",
+                "le Grand Ancien"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Goutte-de-Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq",
+                "Sœurs Goutte-de-Pluie",
+                "Goutte-de-Pluie Quarante-trois"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ]
+    ]
+}

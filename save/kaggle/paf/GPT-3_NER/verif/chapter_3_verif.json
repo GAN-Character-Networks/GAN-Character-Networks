@@ -1,0 +1,38 @@
+{
+    "final_gpt_entities": [
+        "Hari Seldon",
+        "Seldon",
+        "l’Empire Galactique",
+        "L’Empire Galactique",
+        "Hélicon",
+        "l’Empereur",
+        "Empereur",
+        "Demerzel"
+    ],
+    "init_gpt_entities": [
+        "instrument",
+        "Hélicon",
+        "Hari Seldon",
+        "Chetter Hummin",
+        "Demerzel",
+        "Strelitzia",
+        "Trantor",
+        "l’Empereur",
+        "ENCYCLOPAEDIA GALACTICA",
+        "la psychohistoire",
+        "Seldon",
+        "mathématicien",
+        "Streeling",
+        "l’Empire Galactique",
+        "Hummin",
+        "Empereur",
+        "UNIVERSITÉ DE STREELING",
+        "Le voilà",
+        "Empire",
+        "Suaverose",
+        "Vous",
+        "L’Empire Galactique",
+        "psychohistoire",
+        "l’humanité"
+    ]
+}

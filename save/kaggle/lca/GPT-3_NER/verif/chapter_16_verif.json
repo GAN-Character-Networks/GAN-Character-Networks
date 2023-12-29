@@ -1,0 +1,35 @@
+{
+    "final_gpt_entities": [
+        "R. Daneel",
+        "Daneel",
+        "Francis",
+        "Baley",
+        "Clousarr",
+        "R. Sammy",
+        "Fastolfe",
+        "Gerrigel",
+        "Enderby",
+        "docteur Gerrigel",
+        "Julius",
+        "Vince Barrett",
+        "Jessie"
+    ],
+    "init_gpt_entities": [
+        "Gerrigel",
+        "docteur Gerrigel",
+        "Spacetown",
+        "R. Daneel",
+        "Baley",
+        "Elijah",
+        "Vince Barrett",
+        "Jessie",
+        "Elijah Baley",
+        "Julius",
+        "R. Sammy",
+        "Fastolfe",
+        "Daneel",
+        "Enderby",
+        "Clousarr",
+        "Francis"
+    ]
+}

@@ -1,0 +1,1082 @@
+{
+    "cooccurences": [
+        [
+            "Billibotton DAHL",
+            "Billibotton"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Casilia"
+        ],
+        [
+            "Billibotton",
+            "Tisalver"
+        ],
+        [
+            "Billibotton",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Billibotton",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Billibotton",
+            "Seldon"
+        ],
+        [
+            "Billibotton",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Venabili"
+        ],
+        [
+            "Tisalver",
+            "Venabili"
+        ],
+        [
+            "Venabili",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Dors"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Hari Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors",
+            "mon enfant"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Da-Nee",
+            "Ba-Lee"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Hari"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Billibotton DAHL"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Billibotton"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Empereur"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Casilia"
+        },
+        {
+            "word": "Maître Seldon"
+        },
+        {
+            "word": "Tisalver"
+        },
+        {
+            "word": "Impériaux"
+        },
+        {
+            "word": "Mère Rittah"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "mon enfant"
+        },
+        {
+            "word": "Ba-Lee"
+        },
+        {
+            "word": "Da-Nee"
+        },
+        {
+            "word": "Marron"
+        }
+    ],
+    "aliases": [
+        [
+            "Dors"
+        ],
+        [
+            "Hari"
+        ],
+        [
+            "Billibotton DAHL",
+            "Billibotton"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Venabili",
+            "Dors Venabili"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Casilia"
+        ],
+        [
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver"
+        ],
+        [
+            "Impériaux"
+        ],
+        [
+            "Mère Rittah"
+        ],
+        [
+            "Raych",
+            "mon enfant"
+        ],
+        [
+            "Ba-Lee"
+        ],
+        [
+            "Da-Nee"
+        ],
+        [
+            "Marron"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Casilia"
+            ]
+        ],
+        [
+            [
+                "Billibotton DAHL",
+                "Billibotton"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Billibotton DAHL",
+                "Billibotton"
+            ],
+            [
+                "Maître Seldon"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Maître Seldon"
+            ]
+        ],
+        [
+            [
+                "Billibotton DAHL",
+                "Billibotton"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Maître Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Casilia"
+            ]
+        ],
+        [
+            [
+                "Billibotton DAHL",
+                "Billibotton"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Billibotton DAHL",
+                "Billibotton"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Maître Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Maître Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Raych",
+                "mon enfant"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Raych",
+                "mon enfant"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Raych",
+                "mon enfant"
+            ]
+        ],
+        [
+            [
+                "Raych",
+                "mon enfant"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Raych",
+                "mon enfant"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Maître Seldon"
+            ]
+        ],
+        [
+            [
+                "Maître Seldon"
+            ],
+            [
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Da-Nee"
+            ],
+            [
+                "Ba-Lee"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Mère Rittah"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Dors\nHari\nBillibotton DAHL\nHari Seldon\nBillibotton\nSeldon\nVenabili\nDors Venabili\nEmpereur\nHummin\nMaître-du-Soleil Quatorze\nDemerzel\nYugo Amaryl\nCasilia\nMaître Seldon\nTisalver\nImpériaux\nMère Rittah\nRaych\nmon enfant\nBa-Lee\nDa-Nee\nMarron\")\n     Liste de personnes : \n\n     Dors\nHari\nBillibotton DAHL\nHari Seldon\nBillibotton\nSeldon\nVenabili\nDors Venabili\nEmpereur\nHummin\nMaître-du-Soleil Quatorze\nDemerzel\nYugo Amaryl\nCasilia\nMaître Seldon\nTisalver\nImpériaux\nMère Rittah\nRaych\nmon enfant\nBa-Lee\nDa-Nee\nMarron\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Dors"
+            ],
+            "1": [
+                "Hari"
+            ],
+            "2": [
+                "Billibotton DAHL",
+                "Billibotton"
+            ],
+            "3": [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            "4": [
+                "Venabili",
+                "Dors Venabili"
+            ],
+            "5": [
+                "Empereur"
+            ],
+            "6": [
+                "Hummin"
+            ],
+            "7": [
+                "Maître-du-Soleil Quatorze"
+            ],
+            "8": [
+                "Demerzel"
+            ],
+            "9": [
+                "Yugo Amaryl"
+            ],
+            "10": [
+                "Casilia"
+            ],
+            "11": [
+                "Maître Seldon"
+            ],
+            "12": [
+                "Tisalver"
+            ],
+            "13": [
+                "Impériaux"
+            ],
+            "14": [
+                "Mère Rittah"
+            ],
+            "15": [
+                "Raych",
+                "mon enfant"
+            ],
+            "16": [
+                "Ba-Lee"
+            ],
+            "17": [
+                "Da-Nee"
+            ],
+            "18": [
+                "Marron"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

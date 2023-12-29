@@ -1,0 +1,900 @@
+{
+    "cooccurences": [
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors Venabili",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Venabili",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "l’Empereur",
+            "Rachelle Ire"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maire Mannix IV"
+        ],
+        [
+            "Seldon",
+            "Mannix"
+        ],
+        [
+            "l’Empereur",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "sergent",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "sergent"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "sergent",
+            "Dors"
+        ],
+        [
+            "sergent",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "sergent"
+        ],
+        [
+            "Raych",
+            "sergent"
+        ],
+        [
+            "Seldon",
+            "sergent"
+        ],
+        [
+            "Seldon",
+            "sergent"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "sergent"
+        ],
+        [
+            "Raych",
+            "sergent"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "sergent"
+        ],
+        [
+            "sergent",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Venabili",
+            "Mannix"
+        ],
+        [
+            "Mannix",
+            "Raych"
+        ],
+        [
+            "Mannix",
+            "Dahlite"
+        ],
+        [
+            "Raych",
+            "Dahlite"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Dahlite",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Seldon",
+            "Chetter Hummin"
+        ],
+        [
+            "Demerzel",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "THALUS"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Mannix IV"
+        },
+        {
+            "word": "Mannix"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Rachelle Ire"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Maire Mannix IV"
+        },
+        {
+            "word": "sergent"
+        },
+        {
+            "word": "Thalus"
+        },
+        {
+            "word": "Dahlite"
+        },
+        {
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "Cléon"
+        }
+    ],
+    "aliases": [
+        [
+            "THALUS"
+        ],
+        [
+            "Seldon"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Mannix IV",
+            "Mannix",
+            "Maire Mannix IV"
+        ],
+        [
+            "Venabili"
+        ],
+        [
+            "Hari"
+        ],
+        [
+            "l’Empereur"
+        ],
+        [
+            "Rachelle Ire"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "sergent"
+        ],
+        [
+            "Thalus"
+        ],
+        [
+            "Dahlite"
+        ],
+        [
+            "Cléon"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "l’Empereur"
+            ],
+            [
+                "Rachelle Ire"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Mannix IV",
+                "Mannix",
+                "Maire Mannix IV"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Mannix IV",
+                "Mannix",
+                "Maire Mannix IV"
+            ]
+        ],
+        [
+            [
+                "l’Empereur"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "sergent"
+            ],
+            [
+                "THALUS"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "sergent"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "sergent"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "sergent"
+            ]
+        ],
+        [
+            [
+                "sergent"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili"
+            ],
+            [
+                "Mannix IV",
+                "Mannix",
+                "Maire Mannix IV"
+            ]
+        ],
+        [
+            [
+                "Mannix IV",
+                "Mannix",
+                "Maire Mannix IV"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Mannix IV",
+                "Mannix",
+                "Maire Mannix IV"
+            ],
+            [
+                "Dahlite"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dahlite"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dahlite"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Demerzel"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : THALUS\nSeldon\nRaych\nDors Venabili\nDors\nHummin\nMannix IV\nMannix\nVenabili\nHari\nl’Empereur\nRachelle Ire\nDemerzel\nMaire Mannix IV\nsergent\nThalus\nDahlite\nChetter Hummin\nCléon\")\n     Liste de personnes : \n\n     THALUS\nSeldon\nRaych\nDors Venabili\nDors\nHummin\nMannix IV\nMannix\nVenabili\nHari\nl’Empereur\nRachelle Ire\nDemerzel\nMaire Mannix IV\nsergent\nThalus\nDahlite\nChetter Hummin\nCléon\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "THALUS"
+            ],
+            "1": [
+                "Seldon"
+            ],
+            "2": [
+                "Raych"
+            ],
+            "3": [
+                "Dors Venabili",
+                "Dors"
+            ],
+            "4": [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            "5": [
+                "Mannix IV",
+                "Mannix",
+                "Maire Mannix IV"
+            ],
+            "6": [
+                "Venabili"
+            ],
+            "7": [
+                "Hari"
+            ],
+            "8": [
+                "l’Empereur"
+            ],
+            "9": [
+                "Rachelle Ire"
+            ],
+            "10": [
+                "Demerzel"
+            ],
+            "11": [
+                "sergent"
+            ],
+            "12": [
+                "Thalus"
+            ],
+            "13": [
+                "Dahlite"
+            ],
+            "14": [
+                "Cléon"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

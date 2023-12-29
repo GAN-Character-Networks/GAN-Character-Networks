@@ -1,0 +1,361 @@
+{
+    "experiment_details": "\n     gpt-4-1106-preview + 4 sentences per batch\n     ",
+    "chunk_0": {
+        "chunk": " Billibotton DAHL. — ... Assez curieusement, l’endroit le plus connu de ce secteur est Billibotton, lieu en partie mythique autour duquel sont nées d’innombrables légendes. En fait, toute une branche de la littérature s’est développée peu à peu, où héros et aventuriers (et victimes) doivent affronter les dangers de la traversée de Billibotton. Ces contes sont devenus tellement archétypiques que le seul récit parfaitement connu, et sans doute authentique, d’un tel passage, celui de Hari Seldon et Dors Venabili, a fini par paraître fantastique par simple association... ENCYCLOPAEDIA GALACTICA Quand Hari Seldon et Dors Venabili furent seuls, Dors lui demanda, pensive : « Vous comptez réellement voir cette ― Mère ‖ ?",
+        "ner_chunk": "Billibotton @@DAHL##. — ... Assez curieusement, l’endroit le plus connu de ce secteur est Billibotton, lieu en partie mythique autour duquel sont nées d’innombrables légendes. En fait, toute une branche de la littérature s’est développée peu à peu, où héros et aventuriers (et victimes) doivent affronter les dangers de la traversée de Billibotton. Ces contes sont devenus tellement archétypiques que le seul récit parfaitement connu, et sans doute authentique, d’un tel passage, celui de @@Hari Seldon## et @@Dors Venabili##, a fini par paraître fantastique par simple association... ENCYCLOPAEDIA GALACTICA Quand @@Hari Seldon## et @@Dors Venabili## furent seuls, @@Dors## lui demanda, pensive : « Vous comptez réellement voir cette ― Mère ‖ ?"
+    },
+    "chunk_1": {
+        "chunk": "— J’y songe, Dors. — Vous êtes un type bizarre, Hari. Vous donnez l’impression de vous acharner à faire empirer vos affaires. Vous êtes monté visiter la Couverture, ce qui semblait à peu près sans danger, pour une raison valable, quand vous étiez à Streeling.",
+        "ner_chunk": "Output : — J’y songe, @@Dors##. — Vous êtes un type bizarre, @@Hari##. Vous donnez l’impression de vous acharner à faire empirer vos affaires. Vous êtes monté visiter la Couverture, ce qui semblait à peu près sans danger, pour une raison valable, quand vous étiez à Streeling."
+    },
+    "chunk_2": {
+        "chunk": "Puis, une fois à Mycogène, vous vous êtes introduit dans l’aire des Anciens, opération bien plus risquée, et sous un prétexte bien plus futile. Et maintenant que nous voici à Dahl, vous voulez entreprendre une expédition que ce jeune homme qualifie de pur suicide, et ceci pour une raison parfaitement absurde. — Je me pose des questions sur cette référence à la Terre et je dois savoir ce qu’il y a de solide là-dessous. Dors plissa le front : « Hari, laissez-moi vous dire une chose.",
+        "ner_chunk": "Puis, une fois à Mycogène, vous vous êtes introduit dans l’aire des Anciens, opération bien plus risquée, et sous un prétexte bien plus futile. Et maintenant que nous voici à Dahl, vous voulez entreprendre une expédition que ce jeune homme qualifie de pur suicide, et ceci pour une raison parfaitement absurde. — Je me pose des questions sur cette référence à la Terre et je dois savoir ce qu’il y a de solide là-dessous. @@Dors## plissa le front : « @@Hari##, laissez-moi vous dire une chose."
+    },
+    "chunk_3": {
+        "chunk": "Chez les historiens sensés – et croyez-moi, je sais de quoi je parle –, on ne voit mentionné nulle part un monde originel unique. C’est une croyance populaire, je l’admets. Je ne parle pas seulement des amateurs de folklore, comme les Mycogéniens ou les puisatiers dahlites, mais certains biologistes, pour des raisons qui dépassent ma compétence, soutiennent qu’il a dû exister un monde originel unique, sans oublier les historiens les plus mystiques, qui sont attirés par ce genre de spéculation. Et parmi les intellectuels oisifs, j’entends dire que c’est très à la mode.",
+        "ner_chunk": "Input : Chez les historiens sensés – et croyez-moi, je sais de quoi je parle –, on ne voit mentionné nulle part un monde originel unique. C’est une croyance populaire, je l’admets. Je ne parle pas seulement des amateurs de folklore, comme les Mycogéniens ou les puisatiers dahlites, mais certains biologistes, pour des raisons qui dépassent ma compétence, soutiennent qu’il a dû exister un monde originel unique, sans oublier les historiens les plus mystiques, qui sont attirés par ce genre de spéculation. Et parmi les intellectuels oisifs, j’entends dire que c’est très à la mode.\n\nOutput : Chez les historiens sensés – et croyez-moi, je sais de quoi je parle –, on ne voit mentionné nulle part un monde originel unique. C’est une croyance populaire, je l’admets. Je ne parle pas seulement des amateurs de folklore, comme les @@Mycogéniens## ou les puisatiers @@dahlites##, mais certains biologistes, pour des raisons qui dépassent ma compétence, soutiennent qu’il a dû exister un monde originel unique, sans oublier les historiens les plus mystiques, qui sont attirés par ce genre de spéculation. Et parmi les intellectuels oisifs, j’entends dire que c’est très à la mode."
+    },
+    "chunk_4": {
+        "chunk": "Toujours est-il que l’histoire universitaire, elle, n’en a jamais entendu parler. — Raison de plus, observa Seldon, pour sortir de l’histoire savante. Tout ce que je veux, c’est un moyen de simplifier la psychohistoire – peu importe comment : astuce mathématique, astuce historique ou construction entièrement imaginaire. Si le jeune homme avec qui nous venons de discuter avait eu une meilleure formation, je l’aurais attelé à ce problème.",
+        "ner_chunk": "Output : Toujours est-il que l’histoire universitaire, elle, n’en a jamais entendu parler. — Raison de plus, observa @@Seldon##, pour sortir de l’histoire savante. Tout ce que je veux, c’est un moyen de simplifier la psychohistoire – peu importe comment : astuce mathématique, astuce historique ou construction entièrement imaginaire. Si le jeune homme avec qui nous venons de discuter avait eu une meilleure formation, je l’aurais attelé à ce problème."
+    },
+    "chunk_5": {
+        "chunk": "Sa démarche intellectuelle est marquée par une originalité, une ingéniosité considérables et... — Alors, vous allez réellement l’aider ? — Absolument. Dès que je serai en mesure de le faire. — Étiez-vous obligé de faire des promesses que vous n’êtes pas sûr de pouvoir tenir ?",
+        "ner_chunk": "Output : Sa démarche intellectuelle est marquée par une originalité, une ingéniosité considérables et... — Alors, vous allez réellement l’aider ? — Absolument. Dès que je serai en mesure de le faire. — Étiez-vous obligé de faire des promesses que vous n’êtes pas sûr de pouvoir tenir ?"
+    },
+    "chunk_6": {
+        "chunk": "— Mais je veux les tenir. Si vous voulez absolument critiquer les promesses impossibles, rappelez-vous que Hummin a dit à Maître-du-Soleil Quatorze que j’utiliserais la psychohistoire pour restituer aux Mycogéniens leur monde originel. Avec une probabilité quasiment nulle. Même si je parviens à mettre au point la psychohistoire, qui sait si on peut l’utiliser dans un but aussi spécifique ?",
+        "ner_chunk": "Output : — Mais je veux les tenir. Si vous voulez absolument critiquer les promesses impossibles, rappelez-vous que @@Hummin## a dit à @@Maître-du-Soleil Quatorze## que j’utiliserais la psychohistoire pour restituer aux Mycogéniens leur monde originel. Avec une probabilité quasiment nulle. Même si je parviens à mettre au point la psychohistoire, qui sait si on peut l’utiliser dans un but aussi spécifique ?"
+    },
+    "chunk_7": {
+        "chunk": "Voilà une promesse que je suis vraiment incapable de tenir. » Mais Dors rétorqua avec une certaine vigueur : « Chetter Hummin essayait de nous sauver la vie, de nous tirer des pattes de Demerzel et de l’Empereur. Ne l’oubliez pas. Et je crois qu’il aimerait sincèrement aider les Mycogéniens.",
+        "ner_chunk": "Output : Voilà une promesse que je suis vraiment incapable de tenir. » Mais @@Dors## rétorqua avec une certaine vigueur : « @@Chetter Hummin## essayait de nous sauver la vie, de nous tirer des pattes de @@Demerzel## et de @@l’Empereur##. Ne l’oubliez pas. Et je crois qu’il aimerait sincèrement aider les Mycogéniens."
+    },
+    "chunk_8": {
+        "chunk": "— Moi, j’aimerais sincèrement aider Yugo Amaryl et je suis bien plus en mesure de le faire que d’aider les Mycogéniens, alors si vous justifiez la seconde hypothèse, je vous en prie, ne critiquez pas la première. Qui plus est, Dors » (et la colère — Jamais entendu parler », dit Casilia avant de pincer les lèvres. Il était tout à fait évident qu’elle était décidée à ignorer même le nom d’un habitant de Billibotton. Jetant un regard gêné à son épouse, Tisalver avoua : « J’ai déjà entendu parler d’elle.",
+        "ner_chunk": "— Moi, j’aimerais sincèrement aider @@Yugo Amaryl## et je suis bien plus en mesure de le faire que d’aider les Mycogéniens, alors si vous justifiez la seconde hypothèse, je vous en prie, ne critiquez pas la première. Qui plus est, @@Dors## » (et la colère — Jamais entendu parler », dit @@Casilia## avant de pincer les lèvres. Il était tout à fait évident qu’elle était décidée à ignorer même le nom d’un habitant de Billibotton. Jetant un regard gêné à son épouse, @@Tisalver## avoua : « J’ai déjà entendu parler d’elle."
+    },
+    "chunk_9": {
+        "chunk": "C’est une vieille folle qui passe pour dire la bonne aventure. — Et elle vit à Billibotton ? — Je n’en sais rien, Maître Seldon. Je ne l’ai jamais vue.",
+        "ner_chunk": "Output : C’est une vieille folle qui passe pour dire la bonne aventure. — Et elle vit à Billibotton ? — Je n’en sais rien, @@Maître Seldon##. Je ne l’ai jamais vue."
+    },
+    "chunk_10": {
+        "chunk": "On en parle parfois, au journal holovisé, quand elle fait ses prédictions. — Se réalisent-elles ? » Tisalver renifla. « Les prédictions se réalisent-elles jamais ?",
+        "ner_chunk": "Output : On en parle parfois, au journal holovisé, quand elle fait ses prédictions. — Se réalisent-elles ? » @@Tisalver## renifla. « Les prédictions se réalisent-elles jamais ?"
+    },
+    "chunk_11": {
+        "chunk": "Les siennes ne tiennent même pas debout. — Lui arrive-t-il de parler de la Terre ? — Je n’en sais rien. Mais ça ne me surprendrait pas.",
+        "ner_chunk": "Output : Les siennes ne tiennent même pas debout. — Lui arrive-t-il de parler de la Terre ? — Je n’en sais rien. Mais ça ne me surprendrait pas."
+    },
+    "chunk_12": {
+        "chunk": "— La Terre ne semble pas vous intriguer. Vous savez quelque chose à ce sujet ? » Cette fois, ce fut au tour de Tisalver de paraître surpris. « Évidemment, Maître Seldon.",
+        "ner_chunk": "Output : — La Terre ne semble pas vous intriguer. Vous savez quelque chose à ce sujet ? » Cette fois, ce fut au tour de @@Tisalver## de paraître surpris. « Évidemment, @@Maître Seldon##."
+    },
+    "chunk_13": {
+        "chunk": "C’est le monde dont nous sommes tous originaires... à ce qu’on dit. — A ce qu’on dit ? Vous n’y croyez pas ? — Moi ?",
+        "ner_chunk": "Output : C’est le monde dont nous sommes tous originaires... à ce qu’on dit. — A ce qu’on dit ? Vous n’y croyez pas ? — Moi ?"
+    },
+    "chunk_14": {
+        "chunk": "Je suis instruit. Mais beaucoup d’ignorants le croient. — Y a-t-il des vidéo-livres à propos de la Terre ? — Les contes pour enfants l’évoquent parfois.",
+        "ner_chunk": "Output : Je suis instruit. Mais beaucoup d’ignorants le croient. — Y a-t-il des vidéo-livres à propos de la Terre ? — Les contes pour enfants l’évoquent parfois."
+    },
+    "chunk_15": {
+        "chunk": "Je me souviens, quand j’étais petit, mon histoire préférée commençait par : ― Il était une fois, sur Terre, quand la Terre était la seule planète... ‖ Tu t’en souviens, Casilia ? Tu l’aimais bien, toi aussi. » Casilia haussa les épaules, sans daigner l’admettre. « J’aimerais bien y jeter un coup d’œil, à l’occasion, dit Seldon, mais je veux parler de véritables vidéo-livres... enfin, des sources savantes... des films... ou des imprimés... — Je n’en ai jamais entendu parler, mais enfin, la bibliothèque... — J’essaierai de ce côté... Y a-t-il un tabou quelconque concernant la Terre ?",
+        "ner_chunk": "Je me souviens, quand j’étais petit, mon histoire préférée commençait par : ― Il était une fois, sur Terre, quand la Terre était la seule planète... ‖ Tu t’en souviens, @@Casilia## ? Tu l’aimais bien, toi aussi. » @@Casilia## haussa les épaules, sans daigner l’admettre. « J’aimerais bien y jeter un coup d’œil, à l’occasion, dit @@Seldon##, mais je veux parler de véritables vidéo-livres... enfin, des sources savantes... des films... ou des imprimés... — Je n’en ai jamais entendu parler, mais enfin, la bibliothèque... — J’essaierai de ce côté... Y a-t-il un tabou quelconque concernant la Terre ?"
+    },
+    "chunk_16": {
+        "chunk": "— C’est quoi, un tabou ? ne crois pas que le gouvernement impérial voie ça d’un si mauvais œil. — Et si c’est un étranger qui se fait tuer ? — Si ça se savait, les Impériaux pourraient le prendre très mal.",
+        "ner_chunk": "Input : — C’est quoi, un tabou ? ne crois pas que le gouvernement impérial voie ça d’un si mauvais œil. — Et si c’est un étranger qui se fait tuer ? — Si ça se savait, les Impériaux pourraient le prendre très mal.\n\nOutput : — C’est quoi, un tabou ? ne crois pas que le gouvernement impérial voie ça d’un si mauvais œil. — Et si c’est un étranger qui se fait tuer ? — Si ça se savait, les Impériaux pourraient le prendre très mal."
+    },
+    "chunk_17": {
+        "chunk": "Mais voilà, en général, personne n’a rien vu et personne ne sait rien. Les Impériaux interpellent les gens, par principe, mais ils ne peuvent jamais rien prouver. Je suppose qu’ils concluent que c’est la faute de l’étranger s’il s’est trouvé là... Alors, n’allez pas à Billibotton, même si vous avez un couteau. » Seldon hocha la tête, irrité.",
+        "ner_chunk": "Output : Mais voilà, en général, personne n’a rien vu et personne ne sait rien. Les Impériaux interpellent les gens, par principe, mais ils ne peuvent jamais rien prouver. Je suppose qu’ils concluent que c’est la faute de l’étranger s’il s’est trouvé là... Alors, n’allez pas à Billibotton, même si vous avez un couteau. » @@Seldon## hocha la tête, irrité."
+    },
+    "chunk_18": {
+        "chunk": "« Je ne me risquerais pas à porter un couteau. Je ne saurais pas m’en servir. Pas assez adroitement. — Alors, c’est simple, Maître Seldon.",
+        "ner_chunk": "Output : « Je ne me risquerais pas à porter un couteau. Je ne saurais pas m’en servir. Pas assez adroitement. — Alors, c’est simple, @@Maître Seldon##."
+    },
+    "chunk_19": {
+        "chunk": "Évitez cet endroit. » Tisalver hocha la tête avec emphase. « Évitez-le complètement. — Ça risque de ne pas être possible », insista Seldon.",
+        "ner_chunk": "Output : Évitez cet endroit. » @@Tisalver## hocha la tête avec emphase. « Évitez-le complètement. — Ça risque de ne pas être possible », insista @@Seldon##."
+    },
+    "chunk_20": {
+        "chunk": "Dors le fusilla du regard, visiblement contrariée, puis se retourna vers Tisalver : « Où peut-on se procurer un couteau ? Pouvez-vous nous en prêter un ? » Casilia intervint aussitôt : « Un couteau ne se prête pas. Vous devez acheter le vôtre.",
+        "ner_chunk": "Output : @@Dors## le fusilla du regard, visiblement contrariée, puis se retourna vers @@Tisalver## : « Où peut-on se procurer un couteau ? Pouvez-vous nous en prêter un ? » @@Casilia## intervint aussitôt : « Un couteau ne se prête pas. Vous devez acheter le vôtre."
+    },
+    "chunk_21": {
+        "chunk": "— On trouve des marchands de couteaux à tous les coins de rue, précisa Tisalver. Normalement, il ne devrait pas y en avoir. Les armes blanches sont illégales, vous comprenez. Mais on en trouve chez n’importe quel marchand d’électro-ménager.",
+        "ner_chunk": "Output : — On trouve des marchands de couteaux à tous les coins de rue, précisa @@Tisalver##. Normalement, il ne devrait pas y en avoir. Les armes blanches sont illégales, vous comprenez. Mais on en trouve chez n’importe quel marchand d’électro-ménager."
+    },
+    "chunk_22": {
+        "chunk": "Si vous voyez une machine à laver en vitrine, c’est un signe qui ne trompe pas. — Comment va-t-on à Billibotton ? demanda Seldon. — Par le réseau express.",
+        "ner_chunk": "Output : Si vous voyez une machine à laver en vitrine, c’est un signe qui ne trompe pas. — Comment va-t-on à Billibotton ? demanda @@Seldon##. — Par le réseau express."
+    },
+    "chunk_23": {
+        "chunk": "» Tisalver parut soudain dubitatif en remarquant l’expression soucieuse de Dors. « Et une fois que nous sommes à la station ? — Prenez la direction de l’est et suivez les panneaux. Mais si vous devez absolument vous y rendre, Maître Seldon... » Tisalver hésita, puis se lança : « ... n’emmenez pas Maîtresse Venabili.",
+        "ner_chunk": "» @@Tisalver## parut soudain dubitatif en remarquant l’expression soucieuse de @@Dors##. « Et une fois que nous sommes à la station ? — Prenez la direction de l’est et suivez les panneaux. Mais si vous devez absolument vous y rendre, @@Maître Seldon##... » @@Tisalver## hésita, puis se lança : « ... n’emmenez pas @@Maîtresse Venabili##."
+    },
+    "chunk_24": {
+        "chunk": "Les femmes, parfois, subissent un sort... pire. — Elle ne viendra pas, dit Seldon. — J’ai bien peur que si », répondit Dors avec une tranquille assurance. Il prit un second poignard, le tourna au ralenti pour faire sortir la lame, puis dans le sens opposé pour la replier.",
+        "ner_chunk": "Output : Les femmes, parfois, subissent un sort... pire. — Elle ne viendra pas, dit @@Seldon##. — J’ai bien peur que si », répondit @@Dors## avec une tranquille assurance. Il prit un second poignard, le tourna au ralenti pour faire sortir la lame, puis dans le sens opposé pour la replier."
+    },
+    "chunk_25": {
+        "chunk": "« Vous tournez en serrant. — Encore une fois, s’il vous plaît. » Le commerçant s’exécuta. « Parfait, dit Dors.",
+        "ner_chunk": "Output : « Vous tournez en serrant. — Encore une fois, s’il vous plaît. » Le commerçant s’exécuta. « Parfait, dit @@Dors##."
+    },
+    "chunk_26": {
+        "chunk": "Fermez-le et lancez-le-moi par le manche. » Ce qu’il fit, avec un mouvement lent. Elle le saisit, le lui rendit : « Plus vite. » Il haussa un sourcil et cette fois, sans prévenir, feinta par la gauche.",
+        "ner_chunk": "Output : Fermez-le et lancez-le-moi par le manche. » Ce qu’il fit, avec un mouvement lent. Elle le saisit, le lui rendit : « Plus vite. » Il haussa un sourcil et cette fois, sans prévenir, feinta par la gauche."
+    },
+    "chunk_27": {
+        "chunk": "Elle ne chercha pas à lever la main droite mais saisit le manche de l’autre main et la lame apparut aussitôt, tumescente, puis s’évanouit. Le marchand en resta bouche bée. « C’est le plus grand que vous ayez ? — Oui.",
+        "ner_chunk": "Output : Elle ne chercha pas à lever la main droite mais saisit le manche de l’autre main et la lame apparut aussitôt, tumescente, puis s’évanouit. Le marchand en resta bouche bée. « C’est le plus grand que vous ayez ? — Oui."
+    },
+    "chunk_28": {
+        "chunk": "Et si vous essayez de vous en servir, vous vous épuiserez, c’est tout. — Je reprendrai mon souffle. Et je vais vous en acheter un second. — Pour votre ami ?",
+        "ner_chunk": "Output : Et si vous essayez de vous en servir, vous vous épuiserez, c’est tout. — Je reprendrai mon souffle. Et je vais vous en acheter un second. — Pour votre ami ?"
+    },
+    "chunk_29": {
+        "chunk": "— Non. Toujours pour moi. — Vous comptez vous servir de deux couteaux ? — J’ai bien deux mains.",
+        "ner_chunk": "Output : — Non. Toujours pour moi. — Vous comptez vous servir de deux couteaux ? — J’ai bien deux mains."
+    },
+    "chunk_30": {
+        "chunk": "» Soupir du vendeur. « Maîtresse, je vous en conjure, évitez d’aller à Billibotton. Vous ne savez pas ce qu’on y fait subir aux femmes. — Je peux deviner.",
+        "ner_chunk": "Output : » Soupir du vendeur. « @@Maîtresse##, je vous en conjure, évitez d’aller à Billibotton. Vous ne savez pas ce qu’on y fait subir aux femmes. — Je peux deviner."
+    },
+    "chunk_31": {
+        "chunk": "Comment fais-je pour les passer à ma ceinture ? — Pas à celle que vous portez. Ce n’est pas une ceinture à couteau. Mais je peux vous en vendre une.",
+        "ner_chunk": "Output : Comment fais-je pour les passer à ma ceinture ? — Pas à celle que vous portez. Ce n’est pas une ceinture à couteau. Mais je peux vous en vendre une."
+    },
+    "chunk_32": {
+        "chunk": "— Une pour deux couteaux ? — Je dois bien en avoir une double quelque part. Ce n’est pas un article très demandé. — Je vous le demande.",
+        "ner_chunk": "Output : — Une pour deux couteaux ? — Je dois bien en avoir une double quelque part. Ce n’est pas un article très demandé. — Je vous le demande."
+    },
+    "chunk_33": {
+        "chunk": "— Je risque de ne pas avoir votre taille. — Eh bien, on n’aura qu’à la retailler... — Ça va vous coûter un paquet. — Ma plaque couvrira la dépense. » Quand enfin elle émergea de la boutique, Seldon remarqua avec aigreur : « Vous avez l’air ridicule avec cet énorme ceinturon.",
+        "ner_chunk": "Output : — Je risque de ne pas avoir votre taille. — Eh bien, on n’aura qu’à la retailler... — Ça va vous coûter un paquet. — Ma plaque couvrira la dépense. » Quand enfin elle émergea de la boutique, @@Seldon## remarqua avec aigreur : « Vous avez l’air ridicule avec cet énorme ceinturon."
+    },
+    "chunk_34": {
+        "chunk": "Parfois, à l’inverse, c’étaient les démonstrations d’amitié ritualisées de la promenade vespérale dans les quartiers où la chose avait cours. Mais ici, à Billibotton, il n’y avait ni amitié, ni neutralité, ni distance. Du moins, à l’égard des étrangers. Tous les passants qu’ils doublaient ou croisaient se retournaient pour les fixer.",
+        "ner_chunk": "Output : Parfois, à l’inverse, c’étaient les démonstrations d’amitié ritualisées de la promenade vespérale dans les quartiers où la chose avait cours. Mais ici, à Billibotton, il n’y avait ni amitié, ni neutralité, ni distance. Du moins, à l’égard des étrangers. Tous les passants qu’ils doublaient ou croisaient se retournaient pour les fixer."
+    },
+    "chunk_35": {
+        "chunk": "Chaque paire d’yeux s’attachait aux deux intrus comme par un lien invisible et les suivait avec malveillance. Les Billibottains étaient vêtus pour la plupart d’habits tachés, usés, déchirés. Ils étaient recouverts d’une patine de crasse et de pauvreté, au point que Seldon se sentait mal à l’aise dans ses habits nets et neufs. « A votre avis, où peut bien habiter la Mère Rittah ?",
+        "ner_chunk": "Output : Chaque paire d’yeux s’attachait aux deux intrus comme par un lien invisible et les suivait avec malveillance. Les Billibottains étaient vêtus pour la plupart d’habits tachés, usés, déchirés. Ils étaient recouverts d’une patine de crasse et de pauvreté, au point que @@Seldon## se sentait mal à l’aise dans ses habits nets et neufs. « A votre avis, où peut bien habiter @@la Mère Rittah## ?"
+    },
+    "chunk_36": {
+        "chunk": "demanda-t-il à Dors. — Je n’en sais rien. C’est vous qui nous avez amenés ici, à vous de chercher. J’ai bien l’intention de me cantonner dans ma tâche de garde du corps, et j’ai dans l’idée que je n’aurai pas le temps de m’ennuyer.",
+        "ner_chunk": "Output : demanda-t-il à @@Dors##. — Je n’en sais rien. C’est vous qui nous avez amenés ici, à vous de chercher. J’ai bien l’intention de me cantonner dans ma tâche de garde du corps, et j’ai dans l’idée que je n’aurai pas le temps de m’ennuyer."
+    },
+    "chunk_37": {
+        "chunk": "— J’imaginais qu’il suffirait de demander à n’importe quel passant mais, je ne sais pourquoi, j’hésite à le faire... — Je ne vous le reproche pas. Je ne crois pas que vous trouviez un seul volontaire pour voler à votre secours. — Alors, il y a toujours les enfants. » Il lui en indiqua un, d’un rapide geste de la main.",
+        "ner_chunk": "Output : — J’imaginais qu’il suffirait de demander à n’importe quel passant mais, je ne sais pourquoi, j’hésite à le faire... — Je ne vous le reproche pas. Je ne crois pas que vous trouviez un seul volontaire pour voler à votre secours. — Alors, il y a toujours les enfants. » Il lui en indiqua un, d’un rapide geste de la main."
+    },
+    "chunk_38": {
+        "chunk": "Un garçon d’une douzaine d’années peut-être – en tout cas, assez jeune pour ne pas arborer la moustache réglementaire de tous les adultes mâles – venait de s’immobiliser pour les dévisager tout à son aise. « Vous espérez qu’un garçon de cet âge n’aura pas encore pleinement développé l’hostilité des autochtones envers les étrangers ? — J’espère au moins qu’il n’est pas encore assez grand pour avoir pleinement développé le penchant billibottain pour la violence. Si nous approchons, il risque de détaler et de nous injurier à distance respectable, mais je doute qu’il nous attaque.",
+        "ner_chunk": "Un garçon d’une douzaine d’années peut-être – en tout cas, assez jeune pour ne pas arborer la moustache réglementaire de tous les adultes mâles – venait de s’immobiliser pour les dévisager tout à son aise. « Vous espérez qu’un garçon de cet âge n’aura pas encore pleinement développé l’hostilité des autochtones envers les étrangers ? — J’espère au moins qu’il n’est pas encore assez grand pour avoir pleinement développé le penchant billibottain pour la violence. Si nous approchons, il risque de détaler et de nous injurier à distance respectable, mais je doute qu’il nous attaque."
+    },
+    "chunk_39": {
+        "chunk": "» Puis il éleva la voix : « Petit... » Le garçon recula d’un pas, sans cesser de les fixer. « Allons, viens par ici, continua Seldon en joignant le geste à la parole. — Pour quoi faire, mec ? dit le garçon.",
+        "ner_chunk": "Output : » Puis il éleva la voix : « Petit... » Le garçon recula d’un pas, sans cesser de les fixer. « Allons, viens par ici, continua @@Seldon## en joignant le geste à la parole. — Pour quoi faire, mec ? dit le garçon."
+    },
+    "chunk_40": {
+        "chunk": "— Sais-tu te servir d’un ordinateur ? — Parlant ? Bien sûr. Tout l’monde sait.",
+        "ner_chunk": "Output : — Sais-tu te servir d’un ordinateur ? — Parlant ? Bien sûr. Tout l’monde sait."
+    },
+    "chunk_41": {
+        "chunk": "— Bien, alors je vais te dire une chose. Tu me conduis à la première boutique d’informatique et je t’achète un micro- portable, pour toi tout seul, avec le programme pour t’apprendre à lire. Quelques semaines dessus, et tu sauras lire comme un chef. » Seldon eut l’impression de voir pétiller ses yeux à cette idée mais – si ce fut le cas – le regard du garçon se durcit aussitôt.",
+        "ner_chunk": "Output : — Bien, alors je vais te dire une chose. Tu me conduis à la première boutique d’informatique et je t’achète un micro- portable, pour toi tout seul, avec le programme pour t’apprendre à lire. Quelques semaines dessus, et tu sauras lire comme un chef. » @@Seldon## eut l’impression de voir pétiller ses yeux à cette idée mais – si ce fut le cas – le regard du garçon se durcit aussitôt."
+    },
+    "chunk_42": {
+        "chunk": "« Nân. Le surin ou rien. — C’est ça, l’astuce, Raych : tu apprends à lire mais tu n’en dis rien à personne et tu peux ainsi surprendre les gens. Au bout d’un moment, tu peux leur parier que tu sais lire.",
+        "ner_chunk": "Output : « @@Nân##. Le surin ou rien. — C’est ça, l’astuce, @@Raych## : tu apprends à lire mais tu n’en dis rien à personne et tu peux ainsi surprendre les gens. Au bout d’un moment, tu peux leur parier que tu sais lire."
+    },
+    "chunk_43": {
+        "chunk": "Mettons cinq crédits. Tu pourras gagner pas mal d’argent comme ça et t’acheter le couteau que tu veux. » Le garçon hésita. « Nân.",
+        "ner_chunk": "Output : Mettons cinq crédits. Tu pourras gagner pas mal d’argent comme ça et t’acheter le couteau que tu veux. » Le garçon hésita. « Nân."
+    },
+    "chunk_44": {
+        "chunk": "Personne voudra parier avec moi. D’abord, personne a de fric. — Si tu sais lire, tu pourras décrocher une place chez un marchand de couteaux, tu pourras économiser sur ton salaire et te payer un couteau avec une bonne remise. Qu’est-ce que t’en dis ?",
+        "ner_chunk": "Output : Personne voudra parier avec moi. D’abord, personne a de fric. — Si tu sais lire, tu pourras décrocher une place chez un marchand de couteaux, tu pourras économiser sur ton salaire et te payer un couteau avec une bonne remise. Qu’est-ce que t’en dis ?"
+    },
+    "chunk_45": {
+        "chunk": "— Quand est-ce’tu m’achètes le portable qui parle ? — Tout de suite. Je te le donnerai dès que j’aurai vu la Mère Rittah. — T’as des crédits ?",
+        "ner_chunk": "Output : — Quand est-ce’tu m’achètes le portable qui parle ? — Tout de suite. Je te le donnerai dès que j’aurai vu @@la Mère Rittah##. — T’as des crédits ?"
+    },
+    "chunk_46": {
+        "chunk": "— J’ai une plaque de crédit. — Alors achète donc voir le portable. » La transaction fut rondement menée. Cependant, quand le garçon voulut s’emparer de la machine, Seldon hocha la tête et la glissa dans son sac.",
+        "ner_chunk": "Output : — J’ai une plaque de crédit. — Alors achète donc voir le portable. » La transaction fut rondement menée. Cependant, quand le garçon voulut s’emparer de la machine, @@Seldon## hocha la tête et la glissa dans son sac."
+    },
+    "chunk_47": {
+        "chunk": "« Il faut d’abord que tu me conduises chez la Mère Rittah, Raych. Es-tu sûr de savoir où la trouver ? » Raych se permit un rictus méprisant. « Un peu, tiens.",
+        "ner_chunk": "Output : « Il faut d’abord que tu me conduises chez @@la Mère Rittah##, @@Raych##. Es-tu sûr de savoir où la trouver ? » @@Raych## se permit un rictus méprisant. « Un peu, tiens."
+    },
+    "chunk_48": {
+        "chunk": "J’t’y conduis, seulement t’as intérêt à me filer le portable dès qu’on y s’ra, sinon, toi et la p’tite dame, j’vous envoie quelques potes à moi... Alors z’avez intérêt à faire gaffe. — Tu n’as pas besoin de nous menacer, dit Seldon. Nous remplirons notre part du contrat. » Raych les guida d’un pas rapide, ignorant les regards curieux.",
+        "ner_chunk": "Output : J’t’y conduis, seulement t’as intérêt à me filer le portable dès qu’on y s’ra, sinon, toi et la p’tite dame, j’vous envoie quelques potes à moi... Alors z’avez intérêt à faire gaffe. — Tu n’as pas besoin de nous menacer, dit @@Seldon##. Nous remplirons notre part du contrat. » @@Raych## les guida d’un pas rapide, ignorant les regards curieux."
+    },
+    "chunk_49": {
+        "chunk": "Seldon se retourna juste à temps pour voir la porte s’ouvrir, révélant la Mère Rittah. Mère Rittah avait peut-être soixante-dix ans bien sonnés, mais son visage, à première vue, semblait démentir cet âge ; des joues bien remplies, la bouche petite, un léger double menton, rond et grassouillet. Elle était toute petite – moins d’un mètre cinquante – avec un corps épais. Mais elle avait de minces rides au coin des yeux et quand elle souriait, comme elle le faisait en les voyant, d’autres rides plissaient tout son visage.",
+        "ner_chunk": "@@Seldon## se retourna juste à temps pour voir la porte s’ouvrir, révélant @@la Mère Rittah##. @@Mère Rittah## avait peut-être soixante-dix ans bien sonnés, mais son visage, à première vue, semblait démentir cet âge ; des joues bien remplies, la bouche petite, un léger double menton, rond et grassouillet. Elle était toute petite – moins d’un mètre cinquante – avec un corps épais. Mais elle avait de minces rides au coin des yeux et quand elle souriait, comme elle le faisait en les voyant, d’autres rides plissaient tout son visage."
+    },
+    "chunk_50": {
+        "chunk": "Et elle se mouvait avec difficulté. « Entrez, entrez », leur dit-elle d’une petite voix haut perchée, écarquillant les yeux comme si elle avait des problèmes de vue. « Des étrangers... des Exos même. Je me trompe ?",
+        "ner_chunk": "Output : Et elle se mouvait avec difficulté. « Entrez, entrez », leur dit-elle d’une petite voix haut perchée, écarquillant les yeux comme si elle avait des problèmes de vue. « Des étrangers... des Exos même. Je me trompe ?"
+    },
+    "chunk_51": {
+        "chunk": "Vous m’avez pas l’air d’avoir l’odeur de Trantor. » Seldon aurait préféré qu’elle s’abstienne de parler d’odeur. L’appartement, surchargé, encombré de babioles ternes et poussiéreuses, était imprégné de senteurs de nourriture à la limite du rance. L’air était si épais et poisseux que ses vêtements, c’était sûr, sentiraient encore après leur départ.",
+        "ner_chunk": "Input : Vous m’avez pas l’air d’avoir l’odeur de Trantor. » @@Seldon## aurait préféré qu’elle s’abstienne de parler d’odeur. L’appartement, surchargé, encombré de babioles ternes et poussiéreuses, était imprégné de senteurs de nourriture à la limite du rance. L’air était si épais et poisseux que ses vêtements, c’était sûr, sentiraient encore après leur départ.\n\nOutput : Vous m’avez pas l’air d’avoir l’odeur de Trantor. » @@Seldon## aurait préféré qu’elle s’abstienne de parler d’odeur. L’appartement, surchargé, encombré de babioles ternes et poussiéreuses, était imprégné de senteurs de nourriture à la limite du rance. L’air était si épais et poisseux que ses vêtements, c’était sûr, sentiraient encore après leur départ."
+    },
+    "chunk_52": {
+        "chunk": "« Vous avez tout à fait raison, Mère Rittah. Je suis Hari Seldon, d’Hélicon. Et voici mon amie Dors Venabili, de Cinna. — Eh bien », fit-elle, en cherchant un coin de sol dégagé pour les faire asseoir, mais en vain.",
+        "ner_chunk": "Output : « Vous avez tout à fait raison, @@Mère Rittah##. Je suis @@Hari Seldon##, d’Hélicon. Et voici mon amie @@Dors Venabili##, de Cinna. — Eh bien », fit-elle, en cherchant un coin de sol dégagé pour les faire asseoir, mais en vain."
+    },
+    "chunk_53": {
+        "chunk": "« Nous aimons autant rester debout, Mère, dit Dors. — Quoi ? » Elle releva la tête. « Il faut me parler plus fort, mon enfant.",
+        "ner_chunk": "Output : « Nous aimons autant rester debout, @@Mère##, dit @@Dors##. — Quoi ? » Elle releva la tête. « Il faut me parler plus fort, mon enfant."
+    },
+    "chunk_54": {
+        "chunk": "Mes oreilles ne sont plus ce qu’elles étaient quand j’avais votre âge. — Pourquoi n’achetez-vous pas un appareil ? demanda Seldon en élevant la voix. — Ça ne servirait à rien, Maître Seldon.",
+        "ner_chunk": "Output : Mes oreilles ne sont plus ce qu’elles étaient quand j’avais votre âge. — Pourquoi n’achetez-vous pas un appareil ? demanda @@Seldon## en élevant la voix. — Ça ne servirait à rien, @@Maître Seldon##."
+    },
+    "chunk_55": {
+        "chunk": "C’est le nerf qui ne va pas et je n’ai pas l’argent pour une greffe. Vous êtes venu pour que Mère Rittah vous dise l’avenir ? — Pas tout à fait, dit Seldon. Je suis venu pour que vous me parliez du passé.",
+        "ner_chunk": "Output : C’est le nerf qui ne va pas et je n’ai pas l’argent pour une greffe. Vous êtes venu pour que @@Mère Rittah## vous dise l’avenir ? — Pas tout à fait, dit @@Seldon##. Je suis venu pour que vous me parliez du passé."
+    },
+    "chunk_56": {
+        "chunk": "— A la bonne heure. C’est une telle corvée de deviner ce que les gens ont envie d’entendre. — Bien avant. La Terre a été seule dans la Galaxie durant des milliers d’années – des millions d’années.",
+        "ner_chunk": "Output : — A la bonne heure. C’est une telle corvée de deviner ce que les gens ont envie d’entendre. — Bien avant. La Terre a été seule dans la Galaxie durant des milliers d’années – des millions d’années."
+    },
+    "chunk_57": {
+        "chunk": "— Des millions d’années ? L’humanité aurait existé durant des millions d’années sans personne d’autre sur aucun autre monde ? — Absolument. C’est la vérité.",
+        "ner_chunk": "Output : — Des millions d’années ? L’humanité aurait existé durant des millions d’années sans personne d’autre sur aucun autre monde ? — Absolument. C’est la vérité."
+    },
+    "chunk_58": {
+        "chunk": "La vérité. La vé-ri-té. — Mais comment savez-vous tout cela ? Est-ce sur un fichier d’ordinateur ?",
+        "ner_chunk": "Output : La vérité. La vé-ri-té. — Mais comment savez-vous tout cela ? Est-ce sur un fichier d’ordinateur ?"
+    },
+    "chunk_59": {
+        "chunk": "Sur une sortie d’imprimante ? Avez-vous un document à me donner à lire ? » La Mère Rittah hocha la tête. « J’ai entendu les vieilles histoires par ma mère, qui les tenait de la sienne, et ainsi de suite.",
+        "ner_chunk": "Output : Sur une sortie d’imprimante ? Avez-vous un document à me donner à lire ? » La @@Mère Rittah## hocha la tête. « J’ai entendu les vieilles histoires par ma mère, qui les tenait de la sienne, et ainsi de suite."
+    },
+    "chunk_60": {
+        "chunk": "Je n’ai pas d’enfants, alors je raconte les histoires aux autres, mais ça risque de s’arrêter là. Nous vivons une époque d’incrédulité. — Pas vraiment, Mère, intervint Dors. Il y a des gens qui étudient les temps préhistoriques et qui analysent certains des récits sur les mondes perdus.",
+        "ner_chunk": "Output : Je n’ai pas d’enfants, alors je raconte les histoires aux autres, mais ça risque de s’arrêter là. Nous vivons une époque d’incrédulité. — Pas vraiment, @@Mère##, intervint @@Dors##. Il y a des gens qui étudient les temps préhistoriques et qui analysent certains des récits sur les mondes perdus."
+    },
+    "chunk_61": {
+        "chunk": "» Mère Rittah agita le bras comme pour effacer cette remarque. « Ils regardent ça d’un œil froid. Un œil de scientifique. Ils essaient de tout faire cadrer avec leurs théories.",
+        "ner_chunk": "Output : » @@Mère Rittah## agita le bras comme pour effacer cette remarque. « Ils regardent ça d’un œil froid. Un œil de scientifique. Ils essaient de tout faire cadrer avec leurs théories."
+    },
+    "chunk_62": {
+        "chunk": "Je pourrais vous parler un an durant du grand héros Ba-Lee, mais vous n’auriez pas le temps d’écouter et je n’ai plus la force de vous raconter. — Avez-vous déjà entendu parler des robots ? » demanda Seldon. La vieille tressaillit et c’est presque en criant qu’elle s’exclama : « Mais pourquoi demandez-vous des choses pareilles ?",
+        "ner_chunk": "Output : Je pourrais vous parler un an durant du grand héros @@Ba-Lee##, mais vous n’auriez pas le temps d’écouter et je n’ai plus la force de vous raconter. — Avez-vous déjà entendu parler des robots ? » demanda @@Seldon##. La vieille tressaillit et c’est presque en criant qu’elle s’exclama : « Mais pourquoi demandez-vous des choses pareilles ?"
+    },
+    "chunk_63": {
+        "chunk": "C’étaient des êtres humains artificiels, mauvais par nature, l’œuvre des mondes du Mal. Ils ont été détruits et l’on ne devrait jamais les évoquer. — Il y avait un robot bien particulier, n’est-ce pas, un robot qui était haï par les mondes du Mal ? » La Mère Rittah trottina vers Seldon pour venir le regarder sous le nez.",
+        "ner_chunk": "Output : C’étaient des êtres humains artificiels, mauvais par nature, l’œuvre des mondes du Mal. Ils ont été détruits et l’on ne devrait jamais les évoquer. — Il y avait un robot bien particulier, n’est-ce pas, un robot qui était haï par les mondes du Mal ? » La @@Mère Rittah## trottina vers @@Seldon## pour venir le regarder sous le nez."
+    },
+    "chunk_64": {
+        "chunk": "Il sentit son haleine tiède sur son visage. « Êtes- vous venu pour vous moquer de moi ? Vous savez toutes ces choses et vous posez quand même la question ? Pourquoi ?",
+        "ner_chunk": "Output : Il sentit son haleine tiède sur son visage. « Êtes- vous venu pour vous moquer de moi ? Vous savez toutes ces choses et vous posez quand même la question ? Pourquoi ?"
+    },
+    "chunk_65": {
+        "chunk": "— Parce que je veux savoir. — Il y a un être humain artificiel qui a aidé la Terre. C’était Da-Nee, l’ami de Ba-Lee. Il n’est jamais mort et survit quelque part, attendant son heure.",
+        "ner_chunk": "Output : — Parce que je veux savoir. — Il y a un être humain artificiel qui a aidé la Terre. C’était @@Da-Nee##, l’ami de @@Ba-Lee##. Il n’est jamais mort et survit quelque part, attendant son heure."
+    },
+    "chunk_66": {
+        "chunk": "Nul ne sait quand cette heure — Avec tous ces millions d’années, il y a de quoi... A propos, où allons-nous ? — La Mère Rittah a dit d’aller dans cette direction jusqu’à une aire de repos, puis de suivre les panneaux indiquant ALLÉE CENTRALE sur notre gauche. Avions-nous passé une aire de repos, à l’aller ? — On suit peut-être un autre chemin.",
+        "ner_chunk": "Output : Nul ne sait quand cette heure — Avec tous ces millions d’années, il y a de quoi... A propos, où allons-nous ? — @@La Mère Rittah## a dit d’aller dans cette direction jusqu’à une aire de repos, puis de suivre les panneaux indiquant ALLÉE CENTRALE sur notre gauche. Avions-nous passé une aire de repos, à l’aller ? — On suit peut-être un autre chemin."
+    },
+    "chunk_67": {
+        "chunk": "Je ne me souviens pas, mais je ne faisais pas attention à l’itinéraire. J’avais l’œil sur les gens qu’on croisait et... » Sa voix s’éteignit. Devant eux, la galerie s’épanouissait de part et d’autre. Seldon se souvint : ils étaient effectivement passés par là.",
+        "ner_chunk": "Output : Je ne me souviens pas, mais je ne faisais pas attention à l’itinéraire. J’avais l’œil sur les gens qu’on croisait et... » Sa voix s’éteignit. Devant eux, la galerie s’épanouissait de part et d’autre. @@Seldon## se souvint : ils étaient effectivement passés par là."
+    },
+    "chunk_68": {
+        "chunk": "Il y avait deux matelas crasseux posés au sol de chaque côté. Mais cette fois, à la différence du trajet aller, Dors n’avait pas besoin de surveiller les passants : il n’y avait pas un chat. Mais un peu plus loin, sur l’aire de détente, ils avisèrent un groupe d’individus, plutôt grands pour des Dahlites, la moustache avantageuse, leurs biceps nus et musclés luisant sous l’éclairage jaunâtre de la galerie. A l’évidence, ils attendaient les Exos et, presque machinalement, Dors et Seldon s’immobilisèrent.",
+        "ner_chunk": "Il y avait deux matelas crasseux posés au sol de chaque côté. Mais cette fois, à la différence du trajet aller, @@Dors## n’avait pas besoin de surveiller les passants : il n’y avait pas un chat. Mais un peu plus loin, sur l’aire de détente, ils avisèrent un groupe d’individus, plutôt grands pour des Dahlites, la moustache avantageuse, leurs biceps nus et musclés luisant sous l’éclairage jaunâtre de la galerie. A l’évidence, ils attendaient les Exos et, presque machinalement, @@Dors## et @@Seldon## s’immobilisèrent."
+    },
+    "chunk_69": {
+        "chunk": "Une ou deux secondes, la scène demeura figée. Puis Seldon regarda hâtivement derrière lui. Deux ou trois individus supplémentaires venaient de faire leur apparition. Seldon remarqua entre ses dents : « Nous sommes pris au piège.",
+        "ner_chunk": "Output : Une ou deux secondes, la scène demeura figée. Puis @@Seldon## regarda hâtivement derrière lui. Deux ou trois individus supplémentaires venaient de faire leur apparition. @@Seldon## remarqua entre ses dents : « Nous sommes pris au piège."
+    },
+    "chunk_70": {
+        "chunk": "Je n’aurais pas dû vous laisser venir, Dors. — Au contraire. C’est bien pour ça que je suis ici, mais était-il bien utile d’aller voir la Mère Rittah ? — Si on s’en sort, absolument.",
+        "ner_chunk": "Output : Je n’aurais pas dû vous laisser venir, @@Dors##. — Au contraire. C’est bien pour ça que je suis ici, mais était-il bien utile d’aller voir @@la Mère Rittah## ? — Si on s’en sort, absolument."
+    },
+    "chunk_71": {
+        "chunk": "» Puis, à voix haute et ferme, Seldon lança : « Pouvons-nous passer ? » L’un des hommes s’avança. Il faisait largement le mètre soixante-treize de Seldon mais était plus large d’épaules et bien plus musclé. Avec un soupçon d’embonpoint toutefois, nota Seldon.",
+        "ner_chunk": "» Puis, à voix haute et ferme, @@Seldon## lança : « Pouvons-nous passer ? » L’un des hommes s’avança. Il faisait largement le mètre soixante-treize de @@Seldon## mais était plus large d’épaules et bien plus musclé. Avec un soupçon d’embonpoint toutefois, nota @@Seldon##."
+    },
+    "chunk_72": {
+        "chunk": "« Je suis Marron », dit-il avec une certaine suffisance, comme si ce nom avait un sens évident, « et je suis venu pour vous dire que par ici, on aime pas beaucoup les Exos. Vous avez voulu venir, très bien... mais si vous voulez repartir, va falloir payer. « Bouge pas, lui cria à l’oreille une voix rauque, et tu peux toujours regarder. La fille va probablement aimer ça.",
+        "ner_chunk": "Output : « Je suis @@Marron## », dit-il avec une certaine suffisance, comme si ce nom avait un sens évident, « et je suis venu pour vous dire que par ici, on aime pas beaucoup les Exos. Vous avez voulu venir, très bien... mais si vous voulez repartir, va falloir payer. « Bouge pas, lui cria à l’oreille une voix rauque, et tu peux toujours regarder. La fille va probablement aimer ça."
+    },
+    "chunk_73": {
+        "chunk": "Marron sait y faire. — Ne bougez pas, Hari ! » répéta Dors. Elle se tourna pour surveiller attentivement Marron, les deux mains à demi fermées tout près de sa ceinture.",
+        "ner_chunk": "Output : @@Marron## sait y faire. — Ne bougez pas, @@Hari## ! » répéta @@Dors##. Elle se tourna pour surveiller attentivement @@Marron##, les deux mains à demi fermées tout près de sa ceinture."
+    },
+    "chunk_74": {
+        "chunk": "Il approchait d’elle, l’air résolu, tandis qu’elle attendait qu’il fût à bonne portée. Soudain, un brusque mouvement des bras, et Marron se retrouva face à deux lames de bonne taille. Il eut un bref mouvement de recul puis éclata de rire. « La p’tite dame a deux couteaux – des couteaux comme les grands garçons.",
+        "ner_chunk": "Output : Il approchait d’elle, l’air résolu, tandis qu’elle attendait qu’il fût à bonne portée. Soudain, un brusque mouvement des bras, et @@Marron## se retrouva face à deux lames de bonne taille. Il eut un bref mouvement de recul puis éclata de rire. « La p’tite dame a deux couteaux – des couteaux comme les grands garçons."
+    },
+    "chunk_75": {
+        "chunk": "Et moi, j’en ai qu’un. Mais c’est de bonne guerre. » Sa lame fut rapidement dégainée. « Ça m’embêterait de devoir la poinçonner, la p’tite dame, parce que ça risque d’être moins rigolo pour nous deux.",
+        "ner_chunk": "Output : Et moi, j’en ai qu’un. Mais c’est de bonne guerre. » Sa lame fut rapidement dégainée. « Ça m’embêterait de devoir la poinçonner, la p’tite dame, parce que ça risque d’être moins rigolo pour nous deux."
+    },
+    "chunk_76": {
+        "chunk": "Mais peut-être que je peux vous les confisquer ? — Je n’ai pas envie de vous tuer, lança Dors. Je vais faire tout mon possible pour l’éviter. Malgré tout, vos amis en sont témoins, si jamais je dois vous tuer, ce sera pour protéger mon ami, comme l’honneur m’y oblige.",
+        "ner_chunk": "Output : Mais peut-être que je peux vous les confisquer ? — Je n’ai pas envie de vous tuer, lança @@Dors##. Je vais faire tout mon possible pour l’éviter. Malgré tout, vos amis en sont témoins, si jamais je dois vous tuer, ce sera pour protéger mon ami, comme l’honneur m’y oblige."
+    },
+    "chunk_77": {
+        "chunk": "» Marron fit semblant d’être terrifié. « Oh, je vous en supplie, me tuez pas, ma p’tite dame ! » Puis il éclata de rire, suivi par les autres Dahlites présents. Marron plongea, le couteau en avant, bien à côté de la cible.",
+        "ner_chunk": "Output : » @@Marron## fit semblant d’être terrifié. « Oh, je vous en supplie, me tuez pas, ma p’tite dame ! » Puis il éclata de rire, suivi par les autres Dahlites présents. @@Marron## plongea, le couteau en avant, bien à côté de la cible."
+    },
+    "chunk_78": {
+        "chunk": "Il essaya une deuxième fois, une troisième, mais Dors resta immobile, ne cherchant pas à esquiver un coup qui n’était pas vraiment dirigé sur elle. La mine de Marron s’assombrit. Il avait essayé de lui faire peur mais n’avait réussi qu’à paraître inefficace. Sa quatrième tentative la visa directement et, cette fois, la main gauche de Dors jaillit et le cueillit avec une force qui lui dévia le bras.",
+        "ner_chunk": "Output : Il essaya une deuxième fois, une troisième, mais @@Dors## resta immobile, ne cherchant pas à esquiver un coup qui n’était pas vraiment dirigé sur elle. La mine de @@Marron## s’assombrit. Il avait essayé de lui faire peur mais n’avait réussi qu’à paraître inefficace. Sa quatrième tentative la visa directement et, cette fois, la main gauche de @@Dors## jaillit et le cueillit avec une force qui lui dévia le bras."
+    },
+    "chunk_79": {
+        "chunk": "Simultanément, la lame qu’elle tenait dans la main droite plongeait, entaillant en diagonale le tee-shirt blanc de son adversaire. En dessous, un mince trait sanglant macula la peau hâlée. Marron baissa les yeux, abasourdi, tandis que les témoins laissaient échapper un cri de surprise. Seldon sentit l’étreinte se desserrer légèrement ; ses deux gardiens, pris au dépourvu, se laissaient distraire par un duel qui ne prenait pas la tournure escomptée.",
+        "ner_chunk": "Simultanément, la lame qu’elle tenait dans la main droite plongeait, entaillant en diagonale le tee-shirt blanc de son adversaire. En dessous, un mince trait sanglant macula la peau hâlée. @@Marron## baissa les yeux, abasourdi, tandis que les témoins laissaient échapper un cri de surprise. @@Seldon## sentit l’étreinte se desserrer légèrement ; ses deux gardiens, pris au dépourvu, se laissaient distraire par un duel qui ne prenait pas la tournure escomptée."
+    },
+    "chunk_80": {
+        "chunk": "Il se raidit. Dors lui cria : « Elle ne repoussera plus, Marron. Un morceau de lèvre est parti avec. Tu m’attaques encore et je te transforme en viande froide.",
+        "ner_chunk": "Output : Il se raidit. @@Dors## lui cria : « Elle ne repoussera plus, @@Marron##. Un morceau de lèvre est parti avec. Tu m’attaques encore et je te transforme en viande froide."
+    },
+    "chunk_81": {
+        "chunk": "» Elle attendit mais Marron avait eu son compte. Il recula, titubant et gémissant, laissant derrière lui un sillage sanguinolent. Dors se tourna vers les autres. Les deux victimes de Seldon gisaient toujours à terre, désarmées, peu pressées de se relever.",
+        "ner_chunk": "Output : » Elle attendit mais @@Marron## avait eu son compte. Il recula, titubant et gémissant, laissant derrière lui un sillage sanguinolent. @@Dors## se tourna vers les autres. Les deux victimes de @@Seldon## gisaient toujours à terre, désarmées, peu pressées de se relever."
+    },
+    "chunk_82": {
+        "chunk": "Elle se pencha, leur trancha la ceinture avec un de ses couteaux puis elle entailla le pantalon. « Comme ça, il faudra que vous le teniez pour marcher. » Elle fixa les sept autres, encore debout, qui la contemplaient avec une fascination empreinte de terreur. « Lequel d’entre vous a lancé le couteau ?",
+        "ner_chunk": "Output : Elle se pencha, leur trancha la ceinture avec un de ses couteaux puis elle entailla le pantalon. « Comme ça, il faudra que vous le teniez pour marcher. » Elle fixa les sept autres, encore debout, qui la contemplaient avec une fascination empreinte de terreur. « Lequel d’entre vous a lancé le couteau ?"
+    },
+    "chunk_83": {
+        "chunk": "» Silence complet. « Peu importe. Venez un par un ou tous ensemble, mais maintenant, à chaque coup que je porterai, quelqu’un mourra. » Alors, comme un seul homme, les sept voyous firent demi- tour et détalèrent sans demander leur reste.",
+        "ner_chunk": "Output : » Silence complet. « Peu importe. Venez un par un ou tous ensemble, mais maintenant, à chaque coup que je porterai, quelqu’un mourra. » Alors, comme un seul homme, les sept voyous firent demi- tour et détalèrent sans demander leur reste."
+    },
+    "chunk_84": {
+        "chunk": "Dors haussa les sourcils et remarqua : « Cette fois, au moins, Hummin ne pourra pas me reprocher de n’avoir pas su vous protéger. — Je n’arrive pas encore à y croire, répondit Seldon. Je ne vous savais pas capable de faire une chose pareille – ou de parler de la sorte. » Dors se contenta de sourire.",
+        "ner_chunk": "Output : @@Dors## haussa les sourcils et remarqua : « Cette fois, au moins, @@Hummin## ne pourra pas me reprocher de n’avoir pas su vous protéger. — Je n’arrive pas encore à y croire, répondit @@Seldon##. Je ne vous savais pas capable de faire une chose pareille – ou de parler de la sorte. » @@Dors## se contenta de sourire."
+    },
+    "chunk_85": {
+        "chunk": "« Vous n’êtes pas non plus dénué de talents. On fait une bonne équipe, tous les deux. Tenez, repliez vos lames et mettez les couteaux dans votre sacoche. J’ai l’impression que la nouvelle va se répandre à toute vitesse et que nous allons pouvoir quitter Billibotton sans crainte d’être molestés.",
+        "ner_chunk": "Output : « Vous n’êtes pas non plus dénué de talents. On fait une bonne équipe, tous les deux. Tenez, repliez vos lames et mettez les couteaux dans votre sacoche. J’ai l’impression que la nouvelle va se répandre à toute vitesse et que nous allons pouvoir quitter @@Billibotton## sans crainte d’être molestés."
+    },
+    "chunk_86": {
+        "chunk": "» Elle n’avait pas tort.",
+        "ner_chunk": "Input : » Elle n’avait pas tort.\n\nOutput : » Elle n’avait pas tort."
+    },
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type \"Personnages\" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction \"Le cycle des Fondations\" d'Isaac Asimov. Voici quelques exemples :\n\n     Input : Dors tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n     Output : @@Dors## tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n     Input : C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois.\n\n     Output : C’est vraiment enfantin, dit @@Goutte-de-Pluie Quarante- cinq##. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit @@Goutte-de-Pluie Quarante-trois##.\n\n     Input : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la\n     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n     année que Hari Seldon. (On pense que la date de naissance de\n     Seldon, que certains estiment douteuse, aurait pu être\n     « ajustée » pour coïncider avec celle de Cléon que Seldon, peu\n     après son arrivée sur Trantor, est censé avoir rencontré.)\n\n     Output : Mathématicien @@CLÉON Ier##— ... dernier @@Empereur## galactique de la\n     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n     année que @@Hari Seldon##. (On pense que la date de naissance de\n     @@Seldon##, que certains estiment douteuse, aurait pu être\n     « ajustée » pour coïncider avec celle de @@Cléon## que @@Seldon##, peu\n     après son arrivée sur Trantor, est censé avoir rencontré.)\n\n     Input : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n     proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n     autorisation des éditeurs.\n     semblerait malgré tout qu’il puisse encore arriver des choses\n     intéressantes. Du moins, à ce que j’ai entendu dire.\n          — Par le ministre des Sciences ?\n          — Effectivement. Il m’a appris que ce Hari Seldon a assisté\n     à un congrès de mathématiciens ici même, à Trantor – ils\n     l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n     aurait démontré qu’on peut prévoir mathématiquement\n\n     Output : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n     proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n     autorisation des éditeurs.\n     semblerait malgré tout qu’il puisse encore arriver des choses\n     intéressantes. Du moins, à ce que j’ai entendu dire.\n          — Par le ministre des Sciences ?\n          — Effectivement. Il m’a appris que ce @@Hari Seldon## a assisté\n     à un congrès de mathématiciens ici même, à Trantor – ils\n     l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n     aurait démontré qu’on peut prévoir mathématiquement\n\n     Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?\n\n     Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?\n\n     Input : C’est à mi-tirade que Seldon comprit qu’il s’adressait à l’empereur Cléon, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, Cléon\n     \n     Output : C’est à mi-tirade que @@Seldon##  comprit qu’il s’adressait à @@l’empereur Cléon##, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, @@Cléon##\n\n     Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais \n     le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,\n     je ne mettrais pas de balise. Si je croise un personnage, avec de la ponctuation, je mettrais la balise\n     avant la ponctuation sauf si c'est un mot composé avec des tirets. Garde les determinants avec le nom d'un personnage si tu peux.\n     ",
+        "user_prompt": "\n\n          Input : » Elle n’avait pas tort.\n\n          Output : ",
+        "generated_content": "Input : » Elle n’avait pas tort.\n\nOutput : » Elle n’avait pas tort.",
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

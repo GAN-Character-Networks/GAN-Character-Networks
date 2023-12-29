@@ -1,0 +1,181 @@
+{
+    "experiment_details": "\n    ",
+    "chunk_0": {
+        "chunk": " R. Daneel avait tenté d’esquiver le coup, mais sans y réussir complètement. Sa joue ne portait cependant aucune trace de rougeur. Il regarda calmement son agresseur et lui dit : — Ce que vous venez de faire était dangereux, Francis. Si je n’avais pas reculé très vite, vous auriez pu vous abîmer la main. Quoi qu’il en soit, si vous vous êtes blessé, je regrette d’en avoir été la cause.",
+        "ner_chunk": "R. @@Daneel## avait tenté d’esquiver le coup, mais sans y réussir complètement. Sa joue ne portait cependant aucune trace de rougeur. Il regarda calmement son agresseur et lui dit : — Ce que vous venez de faire était dangereux, @@Francis##. Si je n’avais pas reculé très vite, vous auriez pu vous abîmer la main. Quoi qu’il en soit, si vous vous êtes blessé, je regrette d’en avoir été la cause."
+    },
+    "chunk_1": {
+        "chunk": "Clousarr répliqua par un gros rire. — Allons, montez, Clousarr ! ordonna Baley. Et vous aussi, Daneel ! Tous les deux sur le siège arrière.",
+        "ner_chunk": "Clousarr répliqua par un gros rire. — Allons, montez, @@Clousarr## ! ordonna @@Baley##. Et vous aussi, @@Daneel## ! Tous les deux sur le siège arrière."
+    },
+    "chunk_2": {
+        "chunk": "Et veillez à ce qu’il ne bouge pas, Daneel ! Même si vous lui cassez le bras, ça m’est égal. C’est un ordre ! — Et la Première Loi, qu’est-ce que vous en faites ? dit Clousarr en ricanant.",
+        "ner_chunk": "Et veillez à ce qu’il ne bouge pas, @@Daneel## ! Même si vous lui cassez le bras, ça m’est égal. C’est un ordre ! — Et la Première Loi, qu’est-ce que vous en faites ? dit @@Clousarr## en ricanant."
+    },
+    "chunk_3": {
+        "chunk": "— Je suis convaincu que Daneel est assez fort et assez vif pour vous arrêter sans vous faire de mal. Mais vous mériteriez qu’on vous casse un ou deux bras : ça vous apprendrait à vous tenir tranquille ! Baley se mit au volant, et sa voiture prit en peu de temps de la vitesse. Le vent sifflait dans ses cheveux et dans ceux de Clousarr, mais la chevelure calamistrée de R. Daneel ne subit aucune perturbation. Le robot, toujours impassible, demanda alors à son voisin : — Dites-moi, monsieur Clousarr, est-ce que vous haïssez les robots par crainte qu’ils ne vous privent de votre emploi ?",
+        "ner_chunk": "— Je suis convaincu que @@Daneel## est assez fort et assez vif pour vous arrêter sans vous faire de mal. Mais vous mériteriez qu’on vous casse un ou deux bras : ça vous apprendrait à vous tenir tranquille ! @@Baley## se mit au volant, et sa voiture prit en peu de temps de la vitesse. Le vent sifflait dans ses cheveux et dans ceux de @@Clousarr##, mais la chevelure calamistrée de @@R. Daneel## ne subit aucune perturbation. Le robot, toujours impassible, demanda alors à son voisin : — Dites-moi, monsieur @@Clousarr##, est-ce que vous haïssez les robots par crainte qu’ils ne vous privent de votre emploi ?"
+    },
+    "chunk_4": {
+        "chunk": "Baley ne pouvait se retourner pour voir l’attitude de Clousarr, mais il était fermement convaincu que celui-ci devait se tenir aussi à l’écart que possible du robot, et que son regard devait exprimer une indicible aversion. — Pas seulement de mon emploi ! répliqua Clousarr. Ils priveront de travail mes enfants, et tous les enfants qui naissent actuellement. — Mais voyons, reprit R. Daneel, il doit sûrement y avoir un moyen d’arranger les choses !",
+        "ner_chunk": "Input : @@Baley## ne pouvait se retourner pour voir l’attitude de @@Clousarr##, mais il était fermement convaincu que celui-ci devait se tenir aussi à l’écart que possible du robot, et que son regard devait exprimer une indicible aversion. — Pas seulement de mon emploi ! répliqua @@Clousarr##. Ils priveront de travail mes enfants, et tous les enfants qui naissent actuellement. — Mais voyons, reprit @@R. Daneel##, il doit sûrement y avoir un moyen d’arranger les choses !"
+    },
+    "chunk_5": {
+        "chunk": "Par exemple, vos enfants pourraient recevoir une formation spéciale en vue d’émigrer sur d’autres planètes. — Ah ! vous aussi ? coupa le prisonnier. L’inspecteur m’en a déjà parlé.",
+        "ner_chunk": "Par exemple, vos enfants pourraient recevoir une formation spéciale en vue d’émigrer sur d’autres planètes. — Ah ! vous aussi ? coupa le prisonnier. L’inspecteur m’en a déjà parlé."
+    },
+    "chunk_6": {
+        "chunk": "Il m’a l’air d’être rudement bien dressé par les fallait réfléchir et décider de ce qu’il allait faire. Si lente que fût la marche de la motospirale, elle fut encore trop rapide à son gré. — Vous ne me paraissez pas vouloir interroger Clousarr maintenant, Elijah ? dit R. Daneel. — Il peut attendre !",
+        "ner_chunk": "Il m’a l’air d’être rudement bien dressé par les fallait réfléchir et décider de ce qu’il allait faire. Si lente que fût la marche de la motospirale, elle fut encore trop rapide à son gré. — Vous ne me paraissez pas vouloir interroger @@Clousarr## maintenant, @@Elijah## ? dit R. Daneel. — Il peut attendre !"
+    },
+    "chunk_7": {
+        "chunk": "répliqua Baley nerveusement. Je veux d’abord voir ce qu’est l’affaire R. Sammy. A mon avis, murmura- t-il, comme se parlant à lui-même plutôt qu’au robot, les deux affaires sont liées. — C’est dommage ! reprit Daneel, suivant son idée.",
+        "ner_chunk": "répliqua @@Baley## nerveusement. Je veux d’abord voir ce qu’est l’affaire @@R. Sammy##. A mon avis, murmura- t-il, comme se parlant à lui-même plutôt qu’au robot, les deux affaires sont liées. — C’est dommage ! reprit @@Daneel##, suivant son idée."
+    },
+    "chunk_8": {
+        "chunk": "A cause des réactions cérébrales de Clousarr... — Ah ? Qu’est-ce qu’elles ont eu de particulier ? — Elles ont beaucoup changé ! Qu’est-ce qui s’est donc passé entre vous dans la salle des balances, pendant mon absence ? — Oh, fit Baley, d’un air détaché, je me suis borné à le sermonner !",
+        "ner_chunk": "A cause des réactions cérébrales de @@Clousarr##... — Ah ? Qu’est-ce qu’elles ont eu de particulier ? — Elles ont beaucoup changé ! Qu’est-ce qui s’est donc passé entre vous dans la salle des balances, pendant mon absence ? — Oh, fit @@Baley##, d’un air détaché, je me suis borné à le sermonner !"
+    },
+    "chunk_9": {
+        "chunk": "Je lui ai prêché l’évangile selon saint Fastolfe ! — Je ne vous comprends pas, Elijah... Baley soupira, et entreprit de s’expliquer : — Eh bien, voilà ! dit-il. J’ai tenté de lui expliquer comment les Terriens pourraient sans danger se servir de robots, et envoyer leur excédent de population sur d’autres planètes. J’ai essayé de le débarrasser de quelques-uns de ses préjugés médiévalistes, et Dieu seul sait pourquoi je l’ai fait !",
+        "ner_chunk": "Je lui ai prêché l’évangile selon saint @@Fastolfe## ! — Je ne vous comprends pas, @@Elijah Baley## soupira, et entreprit de s’expliquer : — Eh bien, voilà ! dit-il. J’ai tenté de lui expliquer comment les Terriens pourraient sans danger se servir de robots, et envoyer leur excédent de population sur d’autres planètes. J’ai essayé de le débarrasser de quelques-uns de ses préjugés médiévalistes, et Dieu seul sait pourquoi je l’ai fait !"
+    },
+    "chunk_10": {
+        "chunk": "Je ne me suis jamais fait l’effet d’un missionnaire, pourtant ! Quoi qu’il en soit, il ne s’est rien passé d’autre. — Je vois ce que c’est ! Dans ce cas, le changement de réaction de Clousarr peut s’expliquer, répliqua R. Daneel. Que lui avez-vous dit en particulier sur les robots, Elijah ?",
+        "ner_chunk": "Je ne trouve pas de Personnage dans la phrase donnée."
+    },
+    "chunk_11": {
+        "chunk": "— Ca vous intéresse ? Eh bien, je lui ai montré que les robots n’étaient que des machines, ni plus ni moins. Ca, c’était l’évangile selon saint Gerrigel ! J’ai l’impression qu’il doit y avoir ainsi des évangiles de toutes espèces. — Lui avez-vous dit, par hasard, qu’on peut frapper un robot sans craindre qu’il riposte, comme c’est le cas pour n’importe quelle machine ?",
+        "ner_chunk": "— Ca vous intéresse ? Eh bien, je lui ai montré que les robots n’étaient que des machines, ni plus ni moins. Ca, c’était l’évangile selon saint @@Gerrigel## ! J’ai l’impression qu’il doit y avoir ainsi des évangiles de toutes espèces. — Lui avez-vous dit, par hasard, qu’on peut frapper un robot sans craindre qu’il riposte, comme c’est le cas pour n’importe quelle machine ?"
+    },
+    "chunk_12": {
+        "chunk": "lunettes, qu’il tenait à la main, la tête ronde du commissaire principal semblait nue, et il manifestait un véritable épuisement, s’épongeant le front avec une serviette en papier toute fripée. Dès qu’il aperçut Baley sur le seuil de son bureau, Enderby s’écria d’une voix soudain perçante : — Ah, vous voilà tout de même, vous ! Où diable étiez-vous donc ? Baley, haussant les épaules, négligea l’apostrophe et répliqua : — Qu’est-ce qui se passe ? Où est l’équipe de nuit ?",
+        "ner_chunk": "Input : lunettes, qu’il tenait à la main, la tête ronde du commissaire principal semblait nue, et il manifestait un véritable épuisement, s’épongeant le front avec une serviette en papier toute fripée. Dès qu’il aperçut @@Enderby## sur le seuil de son bureau, @@Enderby## s’écria d’une voix soudain perçante : — Ah, vous voilà tout de même, vous ! Où diable étiez-vous donc ? @@Baley##, haussant les épaules, négligea l’apostrophe et répliqua : — Qu’est-ce qui se passe ? Où est l’équipe de nuit ?"
+    },
+    "chunk_13": {
+        "chunk": "A ce moment, seulement, il aperçut dans un coin de la pièce une seconde personne. — Tiens ? fit-il froidement. Vous êtes donc ici, docteur Gerrigel ? Le savant grisonnant répondit à cette remarque par une brève inclinaison de la tête.",
+        "ner_chunk": "A ce moment, seulement, il aperçut dans un coin de la pièce une seconde personne. — Tiens ? fit-il froidement. Vous êtes donc ici, @@docteur Gerrigel## ? Le savant grisonnant répondit à cette remarque par une brève inclinaison de la tête."
+    },
+    "chunk_14": {
+        "chunk": "— Enchanté de vous revoir, monsieur Baley, fit-il. Enderby rajusta ses lunettes et dévisagea Baley. — On procède actuellement, en bas, à l’interrogatoire de tout le personnel. Je me suis cassé la tête à vous chercher. Votre absence a paru bizarre.",
+        "ner_chunk": "— Enchanté de vous revoir, monsieur @@Baley##, fit-il. @@Enderby## rajusta ses lunettes et dévisagea @@Baley##. — On procède actuellement, en bas, à l’interrogatoire de tout le personnel. Je me suis cassé la tête à vous chercher. Votre absence a paru bizarre."
+    },
+    "chunk_15": {
+        "chunk": "— Bizarre ? s’écria Baley. En voilà une idée ! — Toute absence est suspecte. C’est quelqu’un de la maison qui a fait le coup, et ça va coûter cher !",
+        "ner_chunk": "— Bizarre ? s’écria @@Baley##. En voilà une idée ! — Toute absence est suspecte. C’est quelqu’un de la maison qui a fait le coup, et ça va coûter cher !"
+    },
+    "chunk_16": {
+        "chunk": "Quelle sale, quelle écœurante, quelle abominable histoire !... Il leva les mains, comme pour prendre le Ciel à témoin de son infortune, et, à ce moment, il se rendit compte de la présence de R. Daneel. « Hum ! se dit Baley. C’est la première fois que vous regardez Daneel les yeux dans les yeux, mon pauvre Julius !",
+        "ner_chunk": "Quelle sale, quelle écœurante, quelle abominable histoire !... Il leva les mains, comme pour prendre le Ciel à témoin de son infortune, et, à ce moment, il se rendit compte de la présence de @@R. Daneel##. « Hum ! se dit @@Baley##. C’est la première fois que vous regardez @@Daneel## les yeux dans les yeux, mon pauvre @@Julius## !"
+    },
+    "chunk_17": {
+        "chunk": "Je vous conseille de faire attention ! » — Lui aussi, reprit Enderby d’une voix plus calme, il va falloir qu’il signe une déposition. J’ai bien dû en signer une, moi ! Oui, même moi ! — Dites-moi donc, monsieur le commissaire, dit Baley, qu’est-ce qui vous donne la certitude que R. Sammy n’a pas pu désactivé, ou, en d’autres termes, mort.",
+        "ner_chunk": "Je vous conseille de faire attention ! » — Lui aussi, reprit @@Enderby## d’une voix plus calme, il va falloir qu’il signe une déposition. J’ai bien dû en signer une, moi ! Oui, même moi ! — Dites-moi donc, monsieur le commissaire, dit @@Baley##, qu’est-ce qui vous donne la certitude que @@R. Sammy## n’a pas pu désactivé, ou, en d’autres termes, mort."
+    },
+    "chunk_18": {
+        "chunk": "Je n’ai d’ailleurs eu aucune peine à déterminer la cause de cette dévitalisation. — Qu’est-ce que c’était ? demanda Baley. — Dans la paume droite du robot, à l’intérieur de son poing presque fermé, se trouvait un petit objet brillant en forme d’œuf, de deux centimètres de long sur un centimètre de large, et comportant à l’une de ses extrémités du mica. Le poing du robot était en contact avec sa tête, comme si son dernier acte avait précisément consisté à se toucher la tempe.",
+        "ner_chunk": "Je n’ai d’ailleurs eu aucune peine à déterminer la cause de cette dévitalisation. — Qu’est-ce que c’était ? demanda @@Baley##. — Dans la paume droite du robot, à l’intérieur de son poing presque fermé, se trouvait un petit objet brillant en forme d’œuf, de deux centimètres de long sur un centimètre de large, et comportant à l’une de ses extrémités du mica. Le poing du robot était en contact avec sa tête, comme si son dernier acte avait précisément consisté à se toucher la tempe."
+    },
+    "chunk_19": {
+        "chunk": "Or, ce qu’il tenait dans sa main était un vaporisateur d’alpha. Je pense que vous savez ce que c’est ? Baley fit un signe de tête affirmatif. Il n’avait besoin ni de dictionnaire ni de manuel spécial, pour comprendre de quoi il s’agissait. Au cours de ses études de physique, il avait manipulé plusieurs fois au laboratoire ce genre d’objet.",
+        "ner_chunk": "Or, ce qu’il tenait dans sa main était un vaporisateur d’alpha. Je pense que vous savez ce que c’est ? @@Baley## fit un signe de tête affirmatif. Il n’avait besoin ni de dictionnaire ni de manuel spécial, pour comprendre de quoi il s’agissait. Au cours de ses études de physique, il avait manipulé plusieurs fois au laboratoire ce genre d’objet."
+    },
+    "chunk_20": {
+        "chunk": "C’était un petit morceau de plomb, à l’intérieur duquel, dans une étroite rigole, on avait introduit un peu de sel de plutonium. L’une des extrémités du conduit était obturée par du mica, lequel laissait passer les particules d’alpha ; ainsi, des radiations ne pouvaient se produire que dans la seule direction de la plaque de mica. Un tel vaporisateur radioactif pouvait servir à beaucoup de fins, mais l’une de ses utilisations n’était certes pas – légalement tout au moins – de permettre la destruction des robots. — Il a donc dû toucher sa tête avec le mica du vaporisateur ? dit Baley.",
+        "ner_chunk": "C’était un petit morceau de plomb, à l’intérieur duquel, dans une étroite rigole, on avait introduit un peu de sel de plutonium. L’une des extrémités du conduit était obturée par du mica, lequel laissait passer les particules d’alpha ; ainsi, des radiations ne pouvaient se produire que dans la seule direction de la plaque de mica. Un tel vaporisateur radioactif pouvait servir à beaucoup de fins, mais l’une de ses utilisations n’était certes pas – légalement tout au moins – de permettre la destruction des robots. — Il a donc dû toucher sa tête avec le mica du vaporisateur ? dit @@Baley##."
+    },
+    "chunk_21": {
+        "chunk": "— Oui, fit le savant, et son cerveau positronique a aussitôt cessé de fonctionner. Autrement dit, sa mort a été instantanée. — Pas d’erreur possible, monsieur le commissaire ? demanda Baley. C’était vraiment un vaporisateur d’alpha ?",
+        "ner_chunk": "— Oui, fit le savant, et son cerveau positronique a aussitôt cessé de fonctionner. Autrement dit, sa mort a été instantanée. — Pas d’erreur possible, monsieur le commissaire ? demanda @@Baley##. C’était vraiment un vaporisateur d’alpha ?"
+    },
+    "chunk_22": {
+        "chunk": "La réponse d’Enderby fut catégorique, et accompagnée d’un vigoureux signe de tête. — Pas l’ombre d’un doute ! fit-il, ses grosses lèvres esquissant une moue. Les compteurs pouvaient déceler l’objet à trois mètres ! Les pellicules de photos qui se trouvaient dans la pièce étaient brouillées.",
+        "ner_chunk": "La réponse d’@@Enderby## fut catégorique, et accompagnée d’un vigoureux signe de tête. — Pas l’ombre d’un doute ! fit-il, ses grosses lèvres esquissant une moue. Les compteurs pouvaient déceler l’objet à trois mètres ! Les pellicules de photos qui se trouvaient dans la pièce étaient brouillées."
+    },
+    "chunk_23": {
+        "chunk": "Il réfléchit un long moment, puis, brusquement, il déclara : — Docteur Gerrigel, j’ai le regret de vous prier de rester ici un ou deux jours, le temps d’enregistrer votre déposition et de — R. Daneel lui a parlé après déjeuner. Il pouvait être environ 13 h 30. Il lui a donné l’ordre d’empêcher qu’on nous dérange pendant que nous étions dans votre bureau. — Dans mon bureau ? Et pourquoi cela ?",
+        "ner_chunk": "Il réfléchit un long moment, puis, brusquement, il déclara : — Docteur @@Gerrigel##, j’ai le regret de vous prier de rester ici un ou deux jours, le temps d’enregistrer votre déposition et de — R. @@Daneel## lui a parlé après déjeuner. Il pouvait être environ 13 h 30. Il lui a donné l’ordre d’empêcher qu’on nous dérange pendant que nous étions dans votre bureau. — Dans mon bureau ? Et pourquoi cela ?"
+    },
+    "chunk_24": {
+        "chunk": "— Pour discuter de l’enquête le plus secrètement possible. Comme vous n’étiez pas là, votre bureau était évidemment pratique. — Ah, bien ! fit Enderby l’air peu convaincu mais sans insister sur ce point. Ainsi donc, vous ne l’avez pas vu vous- même ?",
+        "ner_chunk": "— Pour discuter de l’enquête le plus secrètement possible. Comme vous n’étiez pas là, votre bureau était évidemment pratique. — Ah, bien ! fit @@Enderby## l’air peu convaincu mais sans insister sur ce point. Ainsi donc, vous ne l’avez pas vu vous- même ?"
+    },
+    "chunk_25": {
+        "chunk": "— Non, mais une heure plus tard, j’ai entendu sa voix. — Vous êtes sûr que c’était lui ? — Absolument sûr. — Alors, il devait être environ 14 h 30 ? — Peut-être un peu plus tôt.",
+        "ner_chunk": "— Non, mais une heure plus tard, j’ai entendu sa voix. — Vous êtes sûr que c’était lui ? — Absolument sûr. — Alors, il devait être environ 14 h 30 ? — Peut-être un peu plus tôt."
+    },
+    "chunk_26": {
+        "chunk": "Le commissaire se mordit la lèvre inférieure. — Eh bien, dit-il, cela éclaircit au moins un point. — Lequel ? — Le gosse, Vince Barrett, est venu au bureau aujourd’hui. Le saviez-vous ?",
+        "ner_chunk": "Le commissaire se mordit la lèvre inférieure. — Eh bien, dit-il, cela éclaircit au moins un point. — Lequel ? — Le gosse, @@Vince Barrett##, est venu au bureau aujourd’hui. Le saviez-vous ?"
+    },
+    "chunk_27": {
+        "chunk": "— Oui. Mais il est incapable de faire quoi que ce soit de ce genre. — Et pourquoi donc ? répliqua Enderby en levant vers son collaborateur un regard surpris. R. Sammy lui avait pris sa place, et je comprends ce qu’il doit ressentir : il doit trouver cela affreusement injuste, et désirer se venger.",
+        "ner_chunk": "— Oui. Mais il est incapable de faire quoi que ce soit de ce genre. — Et pourquoi donc ? répliqua @@Enderby## en levant vers son collaborateur un regard surpris. R. Sammy lui avait pris sa place, et je comprends ce qu’il doit ressentir : il doit trouver cela affreusement injuste, et désirer se venger."
+    },
+    "chunk_28": {
+        "chunk": "Vous ne réagiriez pas de même, vous ? Mais il a quitté le bureau à 14 heures, et vous avez entendu R. Sammy parler à 14 h 30. Il peut évidemment avoir donné à R. Sammy le vaporisateur avant de s’en aller, en lui prescrivant de ne s’en servir qu’une heure plus tard. Mais où aurait-il pu s’en procurer un ? Cela me parait inconcevable.",
+        "ner_chunk": "Vous ne réagiriez pas de même, vous ? Mais il a quitté le bureau à 14 heures, et vous avez entendu @@R. Sammy## parler à 14 h 30. Il peut évidemment avoir donné à @@R. Sammy## le vaporisateur avant de s’en aller, en lui prescrivant de ne s’en servir qu’une heure plus tard. Mais où aurait-il pu s’en procurer un ? Cela me paraît inconcevable."
+    },
+    "chunk_29": {
+        "chunk": "Revenons-en à R. Sammy. Quand vous lui avez parlé, à 14 h 30, qu’a-t-il dit ? Baley hésita légèrement avant de répondre : — Je ne me rappelle plus. Nous sommes partis peu après. — Où avez-vous été ?",
+        "ner_chunk": "Revenons-en à @@R. Sammy##. Quand vous lui avez parlé, à 14 h 30, qu’a-t-il dit ? @@Baley## hésita légèrement avant de répondre : — Je ne me rappelle plus. Nous sommes partis peu après. — Où avez-vous été ?"
+    },
+    "chunk_30": {
+        "chunk": "— A la Centrale de levure. Il faut d’ailleurs que je vous en parle. Tandis qu’il sortait avec R. Daneel du bureau d’Enderby, il entendit encore celui-ci murmurer : « Le mobile !... Le mobile !... » Il avala un léger repas dans la petite salle à manger de la préfecture de Police, laquelle était rarement utilisée.",
+        "ner_chunk": "Input : — A la Centrale de levure. Il faut d’ailleurs que je vous en parle. Tandis qu’il sortait avec @@R. Daneel## du bureau d’@@Enderby##, il entendit encore celui-ci murmurer : « Le mobile !... Le mobile !... » Il avala un léger repas dans la petite salle à manger de la préfecture de Police, laquelle était rarement utilisée."
+    },
+    "chunk_31": {
+        "chunk": "Cette collation consistait en une tomate séchée sur de la laitue, et il l’ingurgita sans même se rendre compte de ce que c’était ; une seconde ou deux après avoir mis dans sa bouche la dernière cuillerée, il s’aperçut qu’il continuait automatiquement à chercher dans son assiette vide des aliments qui n’y étaient plus. — Quel imbécile je suis ! grommela-t-il en repoussant son couvert. Puis il appela R. Daneel ; celui-ci s’était assis à une table voisine, comme s’il voulait laisser Baley réfléchir en paix à ce qui, de toute évidence, le préoccupait, à moins que ce ne fût pour mieux méditer lui-même ; mais l’inspecteur ne s’attarda pas à déterminer quelle était la véritable raison de cet éloignement. Daneel se leva et vint s’asseoir à la table de Baley.",
+        "ner_chunk": "Input : Cette collation consistait en une tomate séchée sur de la laitue, et il l’ingurgita sans même se rendre compte de ce que c’était ; une seconde ou deux après avoir mis dans sa bouche la dernière cuillerée, il s’aperçut qu’il continuait automatiquement à chercher dans son assiette vide des aliments qui n’y étaient plus. — Quel imbécile je suis ! grommela-t-il en repoussant son couvert. Puis il appela @@R. Daneel## ; celui-ci s’était assis à une table voisine, comme s’il voulait laisser @@Baley## réfléchir en paix à ce qui, de toute évidence, le préoccupait, à moins que ce ne fût pour mieux méditer lui-même ; mais l’inspecteur ne s’attarda pas à déterminer quelle était la véritable raison de cet éloignement. @@Daneel## se leva et vint s’asseoir à la table de @@Baley##."
+    },
+    "chunk_32": {
+        "chunk": "— Que désirez-vous, mon cher associé ? dit-il. — Daneel, lui répondit Baley sans le regarder. J’ai besoin que vous m’aidiez. — A quoi faire, Elijah ?",
+        "ner_chunk": "— Que désirez-vous, mon cher associé ? dit-il. — @@Daneel##, lui répondit @@Baley## sans le regarder. J’ai besoin que vous m’aidiez. — A quoi faire, @@Elijah## ?"
+    },
+    "chunk_33": {
+        "chunk": "— On va nous interroger, Jessie et moi : c’est certain. Laissez-moi répondre à ma façon. Vous me comprenez ? — Je comprends ce que vous me dites, bien sûr ! Mais si l’on me pose nettement une question, comment pourrai-je dire autre chose que la vérité ?",
+        "ner_chunk": "— On va nous interroger, @@Jessie## et moi : c’est certain. Laissez-moi répondre à ma façon. Vous me comprenez ? — Je comprends ce que vous me dites, bien sûr ! Mais si l’on me pose nettement une question, comment pourrai-je dire autre chose que la vérité ?"
+    },
+    "chunk_34": {
+        "chunk": "— Si l’on vous interroge, c’est une autre affaire. Tout ce que je vous demande, c’est de ne pas fournir de renseignements, de votre propre initiative. Vous pouvez le faire, n’est-ce pas ? — Je pense que oui, Elijah, pourvu que l’on ne s’aperçoive pas que je cause du tort à quelqu’un en gardant le silence. — C’est à moi que vous causerez du tort si vous parlez !",
+        "ner_chunk": "— Si l’on vous interroge, c’est une autre affaire. Tout ce que je vous demande, c’est de ne pas fournir de renseignements, de votre propre initiative. Vous pouvez le faire, n’est-ce pas ? — Je pense que oui, @@Elijah##, pourvu que l’on ne s’aperçoive pas que je cause du tort à quelqu’un en gardant le silence. — C’est à moi que vous causerez du tort si vous parlez !"
+    },
+    "chunk_35": {
+        "chunk": "Cela, je peux vous en donner l’assurance ! — Je ne comprends pas très bien votre point de vue, Elijah. Car, enfin, l’affaire R. Sammy ne vous concerne absolument pas. trouveront un mobile plausible : j’ai supprimé R. Sammy pour l’empêcher de parler. — Ils ne penseront pas cela.",
+        "ner_chunk": "Cela, je peux vous en donner l’assurance ! — Je ne comprends pas très bien votre point de vue, @@Elijah##. Car, enfin, l’affaire @@R. Sammy## ne vous concerne absolument pas. trouveront un mobile plausible : j’ai supprimé @@R. Sammy## pour l’empêcher de parler. — Ils ne penseront pas cela."
+    },
+    "chunk_36": {
+        "chunk": "— Détrompez-vous bien ! Ils vont le penser ! Le meurtre a été commis précisément pour me rendre suspect. Pourquoi se servir d’un vaporisateur ? C’était un moyen plutôt risqué.",
+        "ner_chunk": "— Détrompez-vous bien ! Ils vont le penser ! Le meurtre a été commis précisément pour me rendre suspect. Pourquoi se servir d’un vaporisateur ? C’était un moyen plutôt risqué."
+    },
+    "chunk_37": {
+        "chunk": "Il est difficile de s’en procurer, et c’est un objet dont on peut aisément trouver l’origine. C’est bien pour cela qu’on l’a utilisé. L’assassin a même ordonné à R. Sammy de se rendre dans la chambre noire et de s’y tuer. Je considère comme évident que l’on a agi ainsi, pour empêcher la moindre erreur de jugement sur la méthode employée par le criminel. Car, même si nous avions tous été assez stupides pour ne pas reconnaitre immédiatement le vaporisateur, quelqu’un n’aurait pas manqué de s’apercevoir très vite que les pellicules photographiques étaient brouillées.",
+        "ner_chunk": "Il est difficile de s’en procurer, et c’est un objet dont on peut aisément trouver l’origine. C’est bien pour cela qu’on l’a utilisé. L’assassin a même ordonné à @@R. Sammy## de se rendre dans la chambre noire et de s’y tuer. Je considère comme évident que l’on a agi ainsi, pour empêcher la moindre erreur de jugement sur la méthode employée par le criminel. Car, même si nous avions tous été assez stupides pour ne pas reconnaitre immédiatement le vaporisateur, quelqu’un n’aurait pas manqué de s’apercevoir très vite que les pellicules photographiques étaient brouillées."
+    },
+    "chunk_38": {
+        "chunk": "— Et comment tout ceci vous compromettrait-il, Elijah ? demanda R. Daneel. Baley eut un pâle sourire, mais son visage amaigri ne reflétait aucune gaieté, bien au contraire. — D’une façon très précise, répondit-il. Le vaporisateur provient de la centrale d’énergie nucléaire que vous et moi nous avons traversée hier.",
+        "ner_chunk": "— Et comment tout ceci vous compromettrait-il, @@Elijah## ? demanda @@R. Daneel##. @@Baley## eut un pâle sourire, mais son visage amaigri ne reflétait aucune gaieté, bien au contraire. — D’une façon très précise, répondit-il. Le vaporisateur provient de la centrale d’énergie nucléaire que vous et moi nous avons traversée hier."
+    },
+    "chunk_39": {
+        "chunk": "On nous y a vus, et cela va se savoir. J’ai donc pu m’y procurer l’arme, alors que j’avais déjà un mobile pour agir. Et l’on peut très bien affirmer que nous sommes les derniers à avoir vu et entendu R. Sammy, à l’exception, bien sûr, du véritable criminel. — J’étais avec vous, et je peux témoigner que vous n’avez pas eu l’occasion de voler un vaporisateur dans la centrale. — Merci, dit tristement Baley.",
+        "ner_chunk": "On nous y a vus, et cela va se savoir. J’ai donc pu m’y procurer l’arme, alors que j’avais déjà un mobile pour agir. Et l’on peut très bien affirmer que nous sommes les derniers à avoir vu et entendu @@R. Sammy##, à l’exception, bien sûr, du véritable criminel. — J’étais avec vous, et je peux témoigner que vous n’avez pas eu l’occasion de voler un vaporisateur dans la centrale. — Merci, dit tristement @@Baley##."
+    },
+    "chunk_40": {
+        "chunk": "Mais vous êtes un robot, et votre témoignage est sans valeur. — Le commissaire principal est votre ami : il m’écoutera ! — Il a d’abord sa situation à sauvegarder, et j’ai remarqué qu’il n’est déjà plus très à l’aise avec moi. Je n’ai qu’une seule et unique chance de me tirer de cette très fâcheuse situation. — Laquelle ?",
+        "ner_chunk": "Mais vous êtes un robot, et votre témoignage est sans valeur. — Le commissaire principal est votre ami : il m’écoutera ! — Il a d’abord sa situation à sauvegarder, et j’ai remarqué qu’il n’est déjà plus très à l’aise avec moi. Je n’ai qu’une seule et unique chance de me tirer de cette très fâcheuse situation. — Laquelle ?"
+    },
+    "chunk_41": {
+        "chunk": "— Je me demande : pourquoi suis-je ainsi l’objet d’un coup monté ? Il est évident qu’on veut se débarrasser de moi. Mais pourquoi ? Il est non moins évident que je constitue un danger autorités de Spacetown ont décidé de clore notre enquête ce soir même, et de se préparer à quitter au plus tôt Spacetown et la Terre.",
+        "ner_chunk": "— Je me demande : pourquoi suis-je ainsi l’objet d’un coup monté ? Il est évident qu’on veut se débarrasser de moi. Mais pourquoi ? Il est non moins évident que je constitue un danger autorités de @@Spacetown## ont décidé de clore notre enquête ce soir même, et de se préparer à quitter au plus tôt @@Spacetown## et la Terre."
+    },
+    "gpt": {
+        "system_prompt": "\n    Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type \"Personnages\" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction \"Le cycle des Fondations\" d'Isaac Asimov. Voici quelques exemples :\n\n    Input : Dors tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n    Output : @@Dors## tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n    Input : C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois.\n\n    Output : C’est vraiment enfantin, dit @@Goutte-de-Pluie Quarante- cinq##. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit @@Goutte-de-Pluie Quarante-trois##.\n\n    Input : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la\n    dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n    année que Hari Seldon. (On pense que la date de naissance de\n    Seldon, que certains estiment douteuse, aurait pu être\n    « ajustée » pour coïncider avec celle de Cléon que Seldon, peu\n    après son arrivée sur Trantor, est censé avoir rencontré.)\n\n    Output : Mathématicien @@CLÉON Ier##— ... dernier @@Empereur## galactique de la\n    dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n    année que @@Hari Seldon##. (On pense que la date de naissance de\n    @@Seldon##, que certains estiment douteuse, aurait pu être\n    « ajustée » pour coïncider avec celle de @@Cléon## que @@Seldon##, peu\n    après son arrivée sur Trantor, est censé avoir rencontré.)\n\n    Input : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n    proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n    d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n    autorisation des éditeurs.\n    semblerait malgré tout qu’il puisse encore arriver des choses\n    intéressantes. Du moins, à ce que j’ai entendu dire.\n        — Par le ministre des Sciences ?\n        — Effectivement. Il m’a appris que ce Hari Seldon a assisté\n    à un congrès de mathématiciens ici même, à Trantor – ils\n    l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n    aurait démontré qu’on peut prévoir mathématiquement\n\n    Output : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n    proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n    d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n    autorisation des éditeurs.\n    semblerait malgré tout qu’il puisse encore arriver des choses\n    intéressantes. Du moins, à ce que j’ai entendu dire.\n        — Par le ministre des Sciences ?\n        — Effectivement. Il m’a appris que ce @@Hari Seldon## a assisté\n    à un congrès de mathématiciens ici même, à Trantor – ils\n    l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n    aurait démontré qu’on peut prévoir mathématiquement\n\n    Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?\n\n    Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?\n\n    Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais \n    le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,\n    je ne mettrais pas de balise. Si je croise un personnage, avec de la ponctuation, je mettrais la balise\n    avant la ponctuation sauf si c'est un mot composé avec des tirets. Garde les determinants avec le nom d'un personnage si tu peux.\n    ",
+        "user_prompt": "\n\n        Input : — Je me demande : pourquoi suis-je ainsi l’objet d’un coup monté ? Il est évident qu’on veut se débarrasser de moi. Mais pourquoi ? Il est non moins évident que je constitue un danger autorités de Spacetown ont décidé de clore notre enquête ce soir même, et de se préparer à quitter au plus tôt Spacetown et la Terre.\n        \n\n   Output : ",
+        "generated_content": "— Je me demande : pourquoi suis-je ainsi l’objet d’un coup monté ? Il est évident qu’on veut se débarrasser de moi. Mais pourquoi ? Il est non moins évident que je constitue un danger autorités de @@Spacetown## ont décidé de clore notre enquête ce soir même, et de se préparer à quitter au plus tôt @@Spacetown## et la Terre.",
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

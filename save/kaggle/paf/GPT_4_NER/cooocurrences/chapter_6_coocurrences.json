@@ -1,0 +1,757 @@
+{
+    "cooccurences": [
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Dors Venabili"
+        ],
+        [
+            "Leggen",
+            "Jenarr Leggen"
+        ],
+        [
+            "Dors Venabili",
+            "Jenarr Leggen"
+        ],
+        [
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Hari",
+            "Leggen"
+        ],
+        [
+            "Hari Seldon",
+            "Leggen"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Leggen"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Jenarr",
+            "Benastra"
+        ],
+        [
+            "Jenarr",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Benastra"
+        ],
+        [
+            "Benastra",
+            "Dors Venabili"
+        ],
+        [
+            "Leggen",
+            "Benastra"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Benastra"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "docteur Leggen",
+            "docteur Seldon"
+        ],
+        [
+            "Benastra",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Clowzia",
+            "Jenarr Leggen"
+        ],
+        [
+            "Jenarr Leggen",
+            "Dors"
+        ],
+        [
+            "Jenarr Leggen",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Venabili"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "LEGGEN, JENARR"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Leggen"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Jenarr Leggen"
+        },
+        {
+            "word": "Jenarr"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Clowzia"
+        },
+        {
+            "word": "docteur Leggen"
+        },
+        {
+            "word": "Benastra"
+        },
+        {
+            "word": "docteur Seldon"
+        }
+    ],
+    "aliases": [
+        [
+            "LEGGEN, JENARR",
+            "Jenarr Leggen",
+            "Jenarr",
+            "docteur Leggen",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Hari",
+            "docteur Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Venabili",
+            "Dors"
+        ],
+        [
+            "Clowzia"
+        ],
+        [
+            "Benastra"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Clowzia"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Clowzia"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Benastra"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Benastra"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Benastra"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Benastra"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Benastra"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Clowzia"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ],
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "LEGGEN, JENARR",
+                "Jenarr Leggen",
+                "Jenarr",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Dors Venabili",
+                "Venabili",
+                "Dors"
+            ]
+        ]
+    ]
+}

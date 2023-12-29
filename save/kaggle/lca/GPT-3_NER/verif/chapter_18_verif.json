@@ -1,0 +1,42 @@
+{
+    "final_gpt_entities": [
+        "Enderby",
+        "Baley",
+        "Clousarr",
+        "Lije",
+        "monsieur le commissaire",
+        "R. Sammy",
+        "Jessie",
+        "R. Daneel",
+        "robot",
+        "Spacien",
+        "Daneel",
+        "Gerrigel",
+        "C/Fe",
+        "Fastolfe"
+    ],
+    "init_gpt_entities": [
+        "Gerrigel",
+        "monsieur le commissaire",
+        "Enderby",
+        "Fastolfe",
+        "Sarton",
+        "Il",
+        "R. Daneel",
+        "Baley",
+        "Jessie",
+        "Terrien",
+        "Spacetown",
+        "Lije",
+        "Elijah",
+        "Spaciens",
+        "C/Fe",
+        "Bentley",
+        "robot",
+        "Spacien",
+        "R. Sammy",
+        "Daneel",
+        "Clousarr",
+        "Williamsburg"
+    ]
+}

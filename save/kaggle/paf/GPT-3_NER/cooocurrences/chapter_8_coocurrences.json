@@ -1,0 +1,824 @@
+{
+    "cooccurences": [
+        [
+            "Maître-du-Soleil",
+            "MAÎTRE-DU-SOLEIL QUATORZE"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Mycogène"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Trantor"
+        ],
+        [
+            "MAÎTRE-DU-SOLEIL QUATORZE",
+            "Mycogène"
+        ],
+        [
+            "MAÎTRE-DU-SOLEIL QUATORZE",
+            "Trantor"
+        ],
+        [
+            "Mycogène",
+            "Trantor"
+        ],
+        [
+            "Exo",
+            "Dors"
+        ],
+        [
+            "Exo",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Levanian"
+        ],
+        [
+            "Levanian",
+            "Exos"
+        ],
+        [
+            "Exos",
+            "Levanian"
+        ],
+        [
+            "Levanian",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Levanian"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Maître-du-Soleil Quatorze",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Dors",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Maître-du-Soleil",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Exo",
+            "Seldon"
+        ],
+        [
+            "Exo",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Dors",
+            "Goutte-de- Pluie"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-cinq",
+            "Seldon"
+        ],
+        [
+            "Goutte-de-Pluie Quarante-cinq",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "MAÎTRE-DU-SOLEIL QUATORZE"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Mycogène"
+        },
+        {
+            "word": "Maître-du-Soleil"
+        },
+        {
+            "word": "Trantor"
+        },
+        {
+            "word": "Levanian"
+        },
+        {
+            "word": "Endor Levanian"
+        },
+        {
+            "word": "Exo"
+        },
+        {
+            "word": "Exos"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Clowzia"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Sœurs"
+        },
+        {
+            "word": "Goutte-de- Pluie"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante-cinq"
+        },
+        {
+            "word": "Goutte-de-Pluie Quarante- cinq"
+        }
+    ],
+    "aliases": [
+        [
+            "MAÎTRE-DU-SOLEIL QUATORZE",
+            "Maître-du-Soleil"
+        ],
+        [
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Mycogène"
+        ],
+        [
+            "Trantor"
+        ],
+        [
+            "Levanian",
+            "Endor Levanian"
+        ],
+        [
+            "Exo",
+            "Exos"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Clowzia"
+        ],
+        [
+            "Dors Venabili"
+        ],
+        [
+            "Sœurs"
+        ],
+        [
+            "Goutte-de- Pluie",
+            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte-de-Pluie Quarante- cinq"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            [
+                "Mycogène"
+            ]
+        ],
+        [
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            [
+                "Mycogène"
+            ]
+        ],
+        [
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "Mycogène"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "Exo",
+                "Exos"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Exo",
+                "Exos"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Levanian",
+                "Endor Levanian"
+            ]
+        ],
+        [
+            [
+                "Levanian",
+                "Endor Levanian"
+            ],
+            [
+                "Exo",
+                "Exos"
+            ]
+        ],
+        [
+            [
+                "Exo",
+                "Exos"
+            ],
+            [
+                "Levanian",
+                "Endor Levanian"
+            ]
+        ],
+        [
+            [
+                "Levanian",
+                "Endor Levanian"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Levanian",
+                "Endor Levanian"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Clowzia"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ]
+        ],
+        [
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ]
+        ],
+        [
+            [
+                "Exo",
+                "Exos"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Exo",
+                "Exos"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Mycogène"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Goutte-de- Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Goutte-de- Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq"
+            ],
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Goutte-de- Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : MAÎTRE-DU-SOLEIL QUATORZE\nDors\nHari\nHari Seldon\nSeldon\nMycogène\nMaître-du-Soleil\nTrantor\nLevanian\nEndor Levanian\nExo\nExos\nHummin\nClowzia\nDors Venabili\nChetter Hummin\nMaître-du-Soleil Quatorze\nSœurs\nGoutte-de- Pluie\nGoutte-de-Pluie Quarante-cinq\nGoutte-de-Pluie Quarante- cinq\")\n     Liste de personnes : \n\n     MAÎTRE-DU-SOLEIL QUATORZE\nDors\nHari\nHari Seldon\nSeldon\nMycogène\nMaître-du-Soleil\nTrantor\nLevanian\nEndor Levanian\nExo\nExos\nHummin\nClowzia\nDors Venabili\nChetter Hummin\nMaître-du-Soleil Quatorze\nSœurs\nGoutte-de- Pluie\nGoutte-de-Pluie Quarante-cinq\nGoutte-de-Pluie Quarante- cinq\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "MAÎTRE-DU-SOLEIL QUATORZE",
+                "Maître-du-Soleil"
+            ],
+            "1": [
+                "Dors"
+            ],
+            "2": [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            "3": [
+                "Mycogène"
+            ],
+            "4": [
+                "Trantor"
+            ],
+            "5": [
+                "Levanian",
+                "Endor Levanian"
+            ],
+            "6": [
+                "Exo",
+                "Exos"
+            ],
+            "7": [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            "8": [
+                "Clowzia"
+            ],
+            "9": [
+                "Dors Venabili"
+            ],
+            "10": [
+                "Sœurs"
+            ],
+            "11": [
+                "Goutte-de- Pluie",
+                "Goutte-de-Pluie Quarante-cinq",
+                "Goutte-de-Pluie Quarante- cinq"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

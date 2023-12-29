@@ -1,0 +1,162 @@
+{
+    "final_gpt_entities": [
+        "Goutte-de-Pluie",
+        "Goutte-de-Pluie Quarante-trois",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Seldon",
+        "Dors",
+        "Hari",
+        "Goutte-de-Pluie Quarante- cinq",
+        "Dors Venabili",
+        "Hari Seldon",
+        "Frère",
+        "Mycélium",
+        "Mycélium Soixante-douze",
+        "Bande-céleste Deux",
+        "Grand Ancien",
+        "le Grand Ancien",
+        "l’Ancien",
+        "Hummin",
+        "Sœurs Goutte-de-Pluie"
+    ],
+    "init_gpt_entities": [
+        "Grand Ancien",
+        "Aurora",
+        "Hari",
+        "Mycélium",
+        "l’Empire",
+        "Goutte-de-Pluie",
+        "Lissauer",
+        "Novigor",
+        "Mycélium Soixante-douze",
+        "Mycogénien",
+        "Goutte-de-Pluie Quarante-trois",
+        "Sœur",
+        "Moi",
+        "Frère",
+        "AURORA",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Seldon",
+        "Goutte-de-Pluie Quarante- cinq",
+        "Ancien",
+        "Bande-céleste Deux",
+        "le Grand Ancien",
+        "Dors Venabili",
+        "Dors",
+        "Sœurs Goutte-de-Pluie",
+        "Mentone",
+        "Hummin",
+        "Hari Seldon",
+        "l’Ancien"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Sacratorium AURORA. — ... Monde mythique, passant pour avoir été habité aux temps primitifs, à l’aube du voyage interstellaire. D’aucuns pensent qu’il pourrait s’agir également de ce mythique « monde des origines » de l’humanité et donc d’un autre nom pour « Terra ». On rapporte que les occupants du secteur de Mycogène (voir ce mot) de l’antique Trantor se seraient considérés comme les descendants des habitants d’Aurora et auraient fait de ce principe le fondement de leur système de croyances dont par ailleurs on ne sait pratiquement rien... ENCYCLOPAEDIA GALACTICA. Les deux sœurs Goutte-de-Pluie arrivèrent au milieu de la matinée.\n\n                    Question : Le mot \"Aurora\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Sacratorium AURORA. — ... Monde mythique, passant pour avoir été habité aux temps primitifs, à l’aube du voyage interstellaire. D’aucuns pensent qu’il pourrait s’agir également de ce mythique « monde des origines » de l’humanité et donc d’un autre nom pour « Terra ». On rapporte que les occupants du secteur de Mycogène (voir ce mot) de l’antique Trantor se seraient considérés comme les descendants des habitants d’Aurora et auraient fait de ce principe le fondement de leur système de croyances dont par ailleurs on ne sait pratiquement rien... ENCYCLOPAEDIA GALACTICA. Les deux sœurs Goutte-de-Pluie arrivèrent au milieu de la matinée.\n\n                    Question : Le mot \"Goutte-de-Pluie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Sacratorium AURORA. — ... Monde mythique, passant pour avoir été habité aux temps primitifs, à l’aube du voyage interstellaire. D’aucuns pensent qu’il pourrait s’agir également de ce mythique « monde des origines » de l’humanité et donc d’un autre nom pour « Terra ». On rapporte que les occupants du secteur de Mycogène (voir ce mot) de l’antique Trantor se seraient considérés comme les descendants des habitants d’Aurora et auraient fait de ce principe le fondement de leur système de croyances dont par ailleurs on ne sait pratiquement rien... ENCYCLOPAEDIA GALACTICA. Les deux sœurs Goutte-de-Pluie arrivèrent au milieu de la matinée.\n\n                    Question : Le mot \"AURORA\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Goutte-de-Pluie Quarante-cinq semblait toujours aussi chaleureuse, mais Goutte-de-Pluie Quarante-trois resta sur le pas de la porte, l’air crispé et circonspect. Elle garda les yeux baissés et ne jeta même pas un regard à Seldon. Ce dernier, hésitant, fit un signe à Dors qui lança, d’un ton joyeux et affairé : « Un petit instant, Sœurs. Que je donne des instructions à mon homme, sinon il ne va pas savoir quoi faire de sa journée. » Tous deux gagnèrent la salle de bains et Dors murmura : « Il y a quelque chose qui ne va pas ?\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-trois\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Goutte-de-Pluie Quarante-cinq semblait toujours aussi chaleureuse, mais Goutte-de-Pluie Quarante-trois resta sur le pas de la porte, l’air crispé et circonspect. Elle garda les yeux baissés et ne jeta même pas un regard à Seldon. Ce dernier, hésitant, fit un signe à Dors qui lança, d’un ton joyeux et affairé : « Un petit instant, Sœurs. Que je donne des instructions à mon homme, sinon il ne va pas savoir quoi faire de sa journée. » Tous deux gagnèrent la salle de bains et Dors murmura : « Il y a quelque chose qui ne va pas ?\n\n                    Question : Le mot \"Sœur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Goutte-de-Pluie Quarante-cinq semblait toujours aussi chaleureuse, mais Goutte-de-Pluie Quarante-trois resta sur le pas de la porte, l’air crispé et circonspect. Elle garda les yeux baissés et ne jeta même pas un regard à Seldon. Ce dernier, hésitant, fit un signe à Dors qui lança, d’un ton joyeux et affairé : « Un petit instant, Sœurs. Que je donne des instructions à mon homme, sinon il ne va pas savoir quoi faire de sa journée. » Tous deux gagnèrent la salle de bains et Dors murmura : « Il y a quelque chose qui ne va pas ?\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-cinq\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Goutte-de-Pluie Quarante-cinq semblait toujours aussi chaleureuse, mais Goutte-de-Pluie Quarante-trois resta sur le pas de la porte, l’air crispé et circonspect. Elle garda les yeux baissés et ne jeta même pas un regard à Seldon. Ce dernier, hésitant, fit un signe à Dors qui lança, d’un ton joyeux et affairé : « Un petit instant, Sœurs. Que je donne des instructions à mon homme, sinon il ne va pas savoir quoi faire de sa journée. » Tous deux gagnèrent la salle de bains et Dors murmura : « Il y a quelque chose qui ne va pas ?\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Goutte-de-Pluie Quarante-cinq semblait toujours aussi chaleureuse, mais Goutte-de-Pluie Quarante-trois resta sur le pas de la porte, l’air crispé et circonspect. Elle garda les yeux baissés et ne jeta même pas un regard à Seldon. Ce dernier, hésitant, fit un signe à Dors qui lança, d’un ton joyeux et affairé : « Un petit instant, Sœurs. Que je donne des instructions à mon homme, sinon il ne va pas savoir quoi faire de sa journée. » Tous deux gagnèrent la salle de bains et Dors murmura : « Il y a quelque chose qui ne va pas ?\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Oui. Goutte-de-Pluie Quarante-trois est visiblement perturbée. S’il vous plaît, dites-lui que je lui restituerai le Livre aussitôt que possible. » Dors gratifia Seldon d’un long regard surpris : « Hari, vous êtes un garçon délicat et prévenant mais vous n’avez pas plus de jugeote qu’une amibe. Si j’ai le malheur d’évoquer seulement le — J’ai des indications, mais Goutte-de-Pluie Quarante-cinq m’a bien avertie que les femmes n’ont pas le droit d’y entrer, sauf à des occasions spéciales, dont aucune n’est prévue dans un avenir proche.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Le monde où ils vivaient jadis, vous voulez dire ? — Tout juste. Goutte-de-Pluie Quarante-cinq a bien failli l’admettre mais sans pouvoir se résoudre à prononcer le mot. — Aurora ? — C’est bien ça, mais je parie que si vous étiez amené à le prononcer à haute voix devant un groupe de Mycogéniens, ils seraient horrifiés et scandalisés.\n\n                    Question : Le mot \"Mycogénien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Goutte-de-Pluie Quarante- cinq, lorsqu’elle m’a dit : ― Le Sacratorium est consacré à... ‖, s’est arrêtée à ce point précis pour dessiner soigneusement les lettres une à une du bout du doigt sur la paume de sa main. Et elle a rougi, comme si elle faisait quelque chose d’obscène. — Étrange, dit Seldon. Si le Livre est un guide exact, Aurora est leur plus cher souvenir, le principe qui les unit, le centre autour duquel tout tourne à Mycogène. Pourquoi le fait de la mentionner serait-il considéré comme obscène ?\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante- cinq\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Un artiste peut dessiner une silhouette rudimentaire, moyennant quoi vous saurez qu’elle représente un être humain et n’aurez aucun mal à le reconnaître : un rond pour la tête, une tige pour le corps, quatre traits incurvés pour les bras et les jambes, et voilà. Moi, je parle de robots qui ressemblent vraiment à un être humain, dans le moindre détail. — Ridicule, Hari. Imaginez le temps qu’il faudrait pour travailler le métal afin de reproduire les proportions exactes du corps, avec la courbe adoucie des muscles sous-jacents. — Qui a parlé de métal, Dors ?\n\n                    Question : Le mot \"Moi\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Laissez-moi. Je vois quatre éléments que je peux déduire des indications du Livre à propos des robots – et j’ai collationné Et sur ce point, elle resta inflexible. Hari Seldon ne voyait aucun inconvénient à se laisser guider par Dors. Elle avait déjà emprunté le réseau de voies de communication de Mycogène et s’y trouverait plus à l’aise que lui. Les sourcils froncés, Dors Venabili était moins ravie par la perspective.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Laissez-moi. Je vois quatre éléments que je peux déduire des indications du Livre à propos des robots – et j’ai collationné Et sur ce point, elle resta inflexible. Hari Seldon ne voyait aucun inconvénient à se laisser guider par Dors. Elle avait déjà emprunté le réseau de voies de communication de Mycogène et s’y trouverait plus à l’aise que lui. Les sourcils froncés, Dors Venabili était moins ravie par la perspective.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : L’homme à sa droite était plutôt mince et paraissait âgé. Il avait les yeux sombres et le teint basané, et Seldon était persuadé qu’il aurait été très brun s’il n’avait pas été épilé. Il regarda de nouveau droit devant lui, songeur. Ce Frère était plutôt atypique. Les quelques individus auxquels il avait jusque-là prêté attention étaient en général de grande taille, quelque chose de simple et que nous mangions dehors ?\n\n                    Question : Le mot \"Frère\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Comme la journée était magnifique et que les visiteurs s’annonçaient nombreux, le vieux Mycogénien suggéra qu’ils se rendent aux abords du Sacratorium et mangent dehors, ce qui leur permettrait de reconnaître les lieux. Pendant qu’ils déambulaient, leur repas à la main, Seldon nota que le temple ressemblait, à échelle très réduite, au Palais impérial et que le terrain alentour ressemblait aussi, en plus petit, aux jardins impériaux. Il avait du mal à imaginer les Mycogéniens admirant les institutions de l’Empire ou nourrissant autre chose que haine et mépris à leur endroit ; malgré tout, l’attraction culturelle ne devait apparemment pas être négligée. « Superbe, non ? observa le Mycogénien avec un orgueil évident.\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais plutôt les gémissements, les lamentations et la prostration devant le Monde perdu. » Sa voix tomba, devint un murmure : « Parfaitement crétin. — Vous n’êtes pas... croyant ? s’étonna Dors. — Je suis un érudit », répondit Mycélium avec une évidente fierté.\n\n                    Question : Le mot \"Mycélium\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » laissa-t-il soudain échapper. Mycélium Soixante-douze ne parut pas se formaliser de la question et répondit sans hésiter : « Soixante-sept ans. » Seldon insista. Il fallait qu’il sache. « On m’a dit que vos concitoyens croient qu’en des temps très anciens tout le monde vivait plusieurs siècles.\n\n                    Question : Le mot \"Mycélium Soixante-douze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Mycélium Soixante-douze le regarda, perplexe : « Allons bon, comment avez-vous fait pour découvrir ça ? Quelqu’un aura commis une indiscrétion... mais c’est vrai. Cette croyance existe. Seuls les moins cultivés y adhèrent, mais les Anciens l’encouragent parce qu’elle montre leur supériorité. En fait, notre espérance de vie est plus élevée qu’ailleurs parce que nous avons une nourriture plus saine, mais vivre simplement un siècle est rare.\n\n                    Question : Le mot \"Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis mathématicien, Dors, historienne. Et vous ? — Je suis spécialisé en... culture. J’ai lu toutes les grandes œuvres littéraires des barbares : Lissauer, Mentone, Novigor... — Comme nous avons lu les œuvres de votre peuple. Tenez, par exemple, j’ai lu le Livre... Sur le Monde perdu.\n\n                    Question : Le mot \"Lissauer\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis mathématicien, Dors, historienne. Et vous ? — Je suis spécialisé en... culture. J’ai lu toutes les grandes œuvres littéraires des barbares : Lissauer, Mentone, Novigor... — Comme nous avons lu les œuvres de votre peuple. Tenez, par exemple, j’ai lu le Livre... Sur le Monde perdu.\n\n                    Question : Le mot \"Mentone\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et vous, homme de Mycogène ? » L’homme plissa les paupières, mécontent, mais lui aussi savait reconnaître l’accent de l’autorité quand il le rencontrait. « Je suis Bande-céleste Deux, dit-il en relevant la tête, Ancien du Sacratorium. Et votre position, barbare ? et tout particulièrement dans les parages du Sacratorium.\n\n                    Question : Le mot \"Bande-céleste Deux\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il suffirait qu’un individu un peu nerveux lance le cri « Invasion ! » pour qu’une foule paisible comme celle-ci soit prête à vous mettre en pièces. Au sens propre du terme. Pour votre bien, même si le Grand Ancien vous a accordé quelque faveur, partez. Tout de suite !\n\n                    Question : Le mot \"Grand Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il suffirait qu’un individu un peu nerveux lance le cri « Invasion ! » pour qu’une foule paisible comme celle-ci soit prête à vous mettre en pièces. Au sens propre du terme. Pour votre bien, même si le Grand Ancien vous a accordé quelque faveur, partez. Tout de suite !\n\n                    Question : Le mot \"le Grand Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Simplement de savoir qu’il y a bien là-bas un robot. — Mycélium Soixante-douze a prétendu le contraire. — Évidemment. C’est un érudit – ou il croit l’être –, et l’étendue de son ignorance sur le Sacratorium remplirait sans doute la bibliothèque qu’il fréquente. Vous avez vu la réaction de l’Ancien ?\n\n                    Question : Le mot \"l’Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : probable, combien de temps, à votre avis, pourrez-vous lui parler avant que votre présence soit découverte ? — Je l’ignore mais si je peux prouver qu’il existe et que je parvienne à le débusquer, alors je trouverai bien le moyen de lui parler. Il est trop tard désormais pour que je recule, sous quelque prétexte que ce soit. Hummin aurait mieux fait de me laisser tranquille quand j’estimais la psychohistoire impossible à mettre en pratique. Maintenant qu’une possibilité semble se faire jour, plus rien ne pourra m’arrêter – sauf la mort.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tous avaient encore leurs cheveux, longs d’un ou deux centimètres au plus, mais même ainsi, les plus grands avaient une capuche à leurs tuniques qui dissimulait entièrement le sommet du crâne – comme s’ils étaient assez âgés pour rendre leur chevelure un tantinet obscène, ou pour avoir le désir de la cacher en attendant le jour de l’épilation rituelle. Une question lui vint soudain à l’esprit : « Dors, quand vous êtes sortie faire des courses, qui a payé, vous ou les Sœurs Goutte-de-Pluie ? — Moi, bien sûr. Les Goutte-de-Pluie n’ont jamais sorti une plaque de crédit. Pour quoi faire d’ailleurs ?\n\n                    Question : Le mot \"Sœurs Goutte-de-Pluie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

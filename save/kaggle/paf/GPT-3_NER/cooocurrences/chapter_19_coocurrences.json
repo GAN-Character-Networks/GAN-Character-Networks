@@ -1,0 +1,609 @@
+{
+    "cooccurences": [
+        [
+            "SELDON",
+            "Hari Seldon"
+        ],
+        [
+            "ENCYCLOPAEDIA GALACTICA",
+            "Hummin"
+        ],
+        [
+            "ENCYCLOPAEDIA GALACTICA",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Aurora"
+        ],
+        [
+            "Aurora",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Mannix",
+            "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Raych",
+            "Yugo Amaryl"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Daneel"
+        ],
+        [
+            "Demerzel",
+            "Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "SELDON"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Raych Seldon"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "ENCYCLOPAEDIA GALACTICA"
+        },
+        {
+            "word": "Mère Rittah"
+        },
+        {
+            "word": "Aurora"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Cléon"
+        },
+        {
+            "word": "Mannix IV de Kan"
+        },
+        {
+            "word": "Mannix"
+        },
+        {
+            "word": "Rachelle"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Première Loi"
+        },
+        {
+            "word": "Trois Lois de la Robotique"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Hélicon"
+        },
+        {
+            "word": "Demerzel"
+        }
+    ],
+    "aliases": [
+        [
+            "Hari",
+            "SELDON",
+            "Hari Seldon",
+            "Seldon",
+            "Raych Seldon",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "ENCYCLOPAEDIA GALACTICA",
+            "Mère Rittah",
+            "Aurora",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Cléon",
+            "Mannix IV de Kan",
+            "Mannix",
+            "Rachelle",
+            "Daneel",
+            "Première Loi",
+            "Trois Lois de la Robotique",
+            "Yugo Amaryl",
+            "Hélicon",
+            "Demerzel"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Hari\nSELDON\nHari Seldon\nSeldon\nRaych Seldon\nRaych\nHummin\nENCYCLOPAEDIA GALACTICA\nMère Rittah\nAurora\nMaître-du-Soleil Quatorze\nCléon\nMannix IV de Kan\nMannix\nRachelle\nDaneel\nPremière Loi\nTrois Lois de la Robotique\nYugo Amaryl\nHélicon\nDemerzel\")\n     Liste de personnes : \n\n     Hari\nSELDON\nHari Seldon\nSeldon\nRaych Seldon\nRaych\nHummin\nENCYCLOPAEDIA GALACTICA\nMère Rittah\nAurora\nMaître-du-Soleil Quatorze\nCléon\nMannix IV de Kan\nMannix\nRachelle\nDaneel\nPremière Loi\nTrois Lois de la Robotique\nYugo Amaryl\nHélicon\nDemerzel\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Hari",
+                "SELDON",
+                "Hari Seldon",
+                "Seldon",
+                "Raych Seldon",
+                "Raych"
+            ],
+            "1": [
+                "Hummin",
+                "ENCYCLOPAEDIA GALACTICA",
+                "Mère Rittah",
+                "Aurora",
+                "Maître-du-Soleil Quatorze"
+            ],
+            "2": [
+                "Cléon",
+                "Mannix IV de Kan",
+                "Mannix",
+                "Rachelle",
+                "Daneel",
+                "Première Loi",
+                "Trois Lois de la Robotique",
+                "Yugo Amaryl",
+                "Hélicon",
+                "Demerzel"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

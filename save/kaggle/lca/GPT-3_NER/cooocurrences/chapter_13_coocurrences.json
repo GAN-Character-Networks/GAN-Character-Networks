@@ -1,0 +1,435 @@
+{
+    "cooccurences": [
+        [
+            "Gerrigel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Norris"
+        ],
+        [
+            "Norris",
+            "Baley"
+        ],
+        [
+            "Norris",
+            "Vince Barrett"
+        ],
+        [
+            "Vince Barrett",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Norris"
+        ],
+        [
+            "Norris",
+            "Baley"
+        ],
+        [
+            "Norris",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Norris"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Sarton"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "R. Daneel"
+        ],
+        [
+            "R. Daneel",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "R. Daneel"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Julius Enderby",
+            "R. Daneel"
+        ],
+        [
+            "R. Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Gerrigel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Norris"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Vince Barrett"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Sarton"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "Bentley"
+        }
+    ],
+    "aliases": [
+        [
+            "Baley"
+        ],
+        [
+            "Gerrigel"
+        ],
+        [
+            "Daneel",
+            "R. Daneel"
+        ],
+        [
+            "Norris"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Vince Barrett"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Sarton"
+        ],
+        [
+            "Fastolfe"
+        ],
+        [
+            "Bentley"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Gerrigel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Vince Barrett"
+            ]
+        ],
+        [
+            [
+                "Vince Barrett"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Fastolfe"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Baley\nGerrigel\nDaneel\nR. Daneel\nNorris\nLije\nVince Barrett\nElijah\nEnderby\nSarton\nFastolfe\nJulius Enderby\nBentley\")\n     Liste de personnes : \n\n     Baley\nGerrigel\nDaneel\nR. Daneel\nNorris\nLije\nVince Barrett\nElijah\nEnderby\nSarton\nFastolfe\nJulius Enderby\nBentley\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Baley"
+            ],
+            "1": [
+                "Gerrigel"
+            ],
+            "2": [
+                "Daneel",
+                "R. Daneel"
+            ],
+            "3": [
+                "Norris"
+            ],
+            "4": [
+                "Lije"
+            ],
+            "5": [
+                "Vince Barrett"
+            ],
+            "6": [
+                "Elijah"
+            ],
+            "7": [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            "8": [
+                "Sarton"
+            ],
+            "9": [
+                "Fastolfe"
+            ],
+            "10": [
+                "Bentley"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

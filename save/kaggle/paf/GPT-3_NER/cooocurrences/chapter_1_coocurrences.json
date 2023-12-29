@@ -1,0 +1,1002 @@
+{
+    "cooccurences": [
+        [
+            "CLÉON Ier",
+            "Empereur"
+        ],
+        [
+            "Empereur",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Eto Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Hari Seldon"
+        ],
+        [
+            "Demerzel",
+            "Hari Seldon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Hari Seldon",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "l’Empereur"
+        ],
+        [
+            "Demerzel",
+            "l’Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Alban Wellis"
+        ],
+        [
+            "Demerzel",
+            "Alban Wellis"
+        ],
+        [
+            "l’Empereur",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "professeur",
+            "Seldon"
+        ],
+        [
+            "professeur",
+            "empereur Cléon, premier du nom"
+        ],
+        [
+            "Seldon",
+            "empereur Cléon, premier du nom"
+        ],
+        [
+            "Seldon",
+            "L’Empereur"
+        ],
+        [
+            "L’Empereur",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "l’Empereur"
+        ],
+        [
+            "Seldon",
+            "l’Empereur"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "l’Empereur",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "l’Empereur"
+        ],
+        [
+            "Seldon",
+            "l’Empereur"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Seldon",
+            "Exos"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Exos",
+            "Empereur"
+        ],
+        [
+            "Empereur",
+            "l’Empereur"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "l’Empereur",
+            "Seldon"
+        ],
+        [
+            "l’Empereur",
+            "Cléon, premier du nom"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Eto Demerzel"
+        ],
+        [
+            "Hummin",
+            "Eto Demerzel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "CLÉON Ier"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Eto Demerzel"
+        },
+        {
+            "word": "Empereur"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Cléon"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Sire"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Alban Wellis"
+        },
+        {
+            "word": "Cléon, premier du nom"
+        },
+        {
+            "word": "empereur Cléon, premier du nom"
+        },
+        {
+            "word": "professeur"
+        },
+        {
+            "word": "L’Empereur"
+        },
+        {
+            "word": "Exos"
+        },
+        {
+            "word": "Hummin"
+        }
+    ],
+    "aliases": [
+        [
+            "CLÉON Ier",
+            "Cléon",
+            "Cléon, premier du nom",
+            "empereur Cléon, premier du nom",
+            "Sire",
+            "l’Empereur",
+            "Empereur",
+            "L’Empereur"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Alban Wellis"
+        ],
+        [
+            "Exos"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "professeur"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Alban Wellis"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Alban Wellis"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "professeur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "professeur"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Exos"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Exos"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : CLÉON Ier\nHari Seldon\nEto Demerzel\nEmpereur\nSeldon\nCléon\nDemerzel\nSire\nl’Empereur\nAlban Wellis\nCléon, premier du nom\nempereur Cléon, premier du nom\nprofesseur\nL’Empereur\nExos\nHummin\")\n     Liste de personnes : \n\n     CLÉON Ier\nHari Seldon\nEto Demerzel\nEmpereur\nSeldon\nCléon\nDemerzel\nSire\nl’Empereur\nAlban Wellis\nCléon, premier du nom\nempereur Cléon, premier du nom\nprofesseur\nL’Empereur\nExos\nHummin\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "CLÉON Ier",
+                "Cléon",
+                "Cléon, premier du nom",
+                "empereur Cléon, premier du nom",
+                "Sire",
+                "l’Empereur",
+                "Empereur",
+                "L’Empereur"
+            ],
+            "1": [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            "2": [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            "3": [
+                "Alban Wellis"
+            ],
+            "4": [
+                "Exos"
+            ],
+            "5": [
+                "Hummin"
+            ],
+            "6": [
+                "professeur"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

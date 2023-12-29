@@ -1,0 +1,36 @@
+{
+    "final_gpt_entities": [
+        "Olivaw",
+        "Jessie",
+        "Baley",
+        "R. Daneel",
+        "Daneel",
+        "Elijah",
+        "Sarton",
+        "Julius Enderby",
+        "Enderby",
+        "Lije"
+    ],
+    "init_gpt_entities": [
+        "C/Fe",
+        "Ben",
+        "Olivaw",
+        "Julius Enderby",
+        "Elijah Baley",
+        "Sarton",
+        "R. Daneel",
+        "Cinq cent deux",
+        "Baley",
+        "Daneel",
+        "cinq cent deux",
+        "Elijah",
+        "Jessie",
+        "Julius",
+        "Enderby",
+        "l’homme",
+        "C-Fe",
+        "Spacetown",
+        "Lije",
+        "New York"
+    ]
+}

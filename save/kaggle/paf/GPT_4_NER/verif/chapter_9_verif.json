@@ -1,0 +1,95 @@
+{
+    "final_gpt_entities": [
+        "Hari",
+        "Seldon",
+        "Hari Seldon",
+        "Grisnuage",
+        "Sœurs",
+        "Dors",
+        "Hummin",
+        "Chetter Hummin",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Goutte-de-Pluie Quarante-trois",
+        "Maître-du-Soleil Quatorze",
+        "La Sœur"
+    ],
+    "init_gpt_entities": [
+        "La Sœur",
+        "Hari",
+        "Mycogène",
+        "Dors",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Seldon",
+        "Empire Galactique",
+        "Hummin",
+        "Sœurs",
+        "Chetter Hummin",
+        "Goutte-de-Pluie Quarante-trois",
+        "Maître-du-Soleil Quatorze",
+        "Hari Seldon",
+        "Frère",
+        "Grisnuage"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Microferme MYCOGÈNE. — ... Les microfermes de Mycogène sont légendaires, bien qu’elles ne survivent de nos jours que dans des expressions courantes telles que « riche comme les microfermes de Mycogène » ou bien « savoureux comme la levure mycogénienne ». Ces formules laudatives tendent à proliférer avec le temps, c’est sûr, mais Hari Seldon a visité ces microfermes durant la Fuite et l’on trouve dans ses mémoires des références qui tendraient à conforter l’opinion populaire... ENCYCLOPAEDIA GALACTICA « C’était rudement bon ! s’enthousiasma Seldon. Nettement meilleur que les plats apportés par Grisnuage... » Dors tempéra son enthousiasme : « N’oubliez pas que sa femme avait dû les préparer à toute vitesse au beau milieu de la nuit.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Microferme MYCOGÈNE. — ... Les microfermes de Mycogène sont légendaires, bien qu’elles ne survivent de nos jours que dans des expressions courantes telles que « riche comme les microfermes de Mycogène » ou bien « savoureux comme la levure mycogénienne ». Ces formules laudatives tendent à proliférer avec le temps, c’est sûr, mais Hari Seldon a visité ces microfermes durant la Fuite et l’on trouve dans ses mémoires des références qui tendraient à conforter l’opinion populaire... ENCYCLOPAEDIA GALACTICA « C’était rudement bon ! s’enthousiasma Seldon. Nettement meilleur que les plats apportés par Grisnuage... » Dors tempéra son enthousiasme : « N’oubliez pas que sa femme avait dû les préparer à toute vitesse au beau milieu de la nuit.\n\n                    Question : Le mot \"Mycogène\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Microferme MYCOGÈNE. — ... Les microfermes de Mycogène sont légendaires, bien qu’elles ne survivent de nos jours que dans des expressions courantes telles que « riche comme les microfermes de Mycogène » ou bien « savoureux comme la levure mycogénienne ». Ces formules laudatives tendent à proliférer avec le temps, c’est sûr, mais Hari Seldon a visité ces microfermes durant la Fuite et l’on trouve dans ses mémoires des références qui tendraient à conforter l’opinion populaire... ENCYCLOPAEDIA GALACTICA « C’était rudement bon ! s’enthousiasma Seldon. Nettement meilleur que les plats apportés par Grisnuage... » Dors tempéra son enthousiasme : « N’oubliez pas que sa femme avait dû les préparer à toute vitesse au beau milieu de la nuit.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Microferme MYCOGÈNE. — ... Les microfermes de Mycogène sont légendaires, bien qu’elles ne survivent de nos jours que dans des expressions courantes telles que « riche comme les microfermes de Mycogène » ou bien « savoureux comme la levure mycogénienne ». Ces formules laudatives tendent à proliférer avec le temps, c’est sûr, mais Hari Seldon a visité ces microfermes durant la Fuite et l’on trouve dans ses mémoires des références qui tendraient à conforter l’opinion populaire... ENCYCLOPAEDIA GALACTICA « C’était rudement bon ! s’enthousiasma Seldon. Nettement meilleur que les plats apportés par Grisnuage... » Dors tempéra son enthousiasme : « N’oubliez pas que sa femme avait dû les préparer à toute vitesse au beau milieu de la nuit.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Microferme MYCOGÈNE. — ... Les microfermes de Mycogène sont légendaires, bien qu’elles ne survivent de nos jours que dans des expressions courantes telles que « riche comme les microfermes de Mycogène » ou bien « savoureux comme la levure mycogénienne ». Ces formules laudatives tendent à proliférer avec le temps, c’est sûr, mais Hari Seldon a visité ces microfermes durant la Fuite et l’on trouve dans ses mémoires des références qui tendraient à conforter l’opinion populaire... ENCYCLOPAEDIA GALACTICA « C’était rudement bon ! s’enthousiasma Seldon. Nettement meilleur que les plats apportés par Grisnuage... » Dors tempéra son enthousiasme : « N’oubliez pas que sa femme avait dû les préparer à toute vitesse au beau milieu de la nuit.\n\n                    Question : Le mot \"Grisnuage\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais ils pourraient dire ― ma femme ‖ d’une manière tout aussi possessive. C’est leur mode de vie et les Sœurs n’ont pas l’air de s’en formaliser. Vous et moi n’allons rien y changer par nos sermons. Au fait, vous avez vu comment elles ont procédé ? — Oui, et à les voir, tout semblait parfaitement simple.\n\n                    Question : Le mot \"Sœurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : A propos, elles ont l’air de considérer comme évident que je fasse toutes les courses et la cuisine. — Comme on dit chez nous : ― A Trantor, fais comme les Trantoriens. ‖ — Évidemment, j’étais sûre que vous auriez cette attitude. — Je suis seulement humain, dit Seldon. — L’excuse habituelle », remarqua Dors avec un petit sourire.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Est-ce ce que vous êtes en train de faire, Hari, chercher une sorte de solution à ce problème ? — Je n’en sais rien. Je vous jure que je n’en sais rien. Mais Chetter Hummin voudrait tellement trouver une solution et, — Bon, laissez-moi réfléchir. Hummin dit que je dois vous protéger et cela implique, semble-t-il, que je dois vous aider quand je le peux.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Est-ce ce que vous êtes en train de faire, Hari, chercher une sorte de solution à ce problème ? — Je n’en sais rien. Je vous jure que je n’en sais rien. Mais Chetter Hummin voudrait tellement trouver une solution et, — Bon, laissez-moi réfléchir. Hummin dit que je dois vous protéger et cela implique, semble-t-il, que je dois vous aider quand je le peux.\n\n                    Question : Le mot \"Chetter Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je n’en crois rien et vous ne me ferez pas changer d’avis. Je ne suis pas un vulgaire barbare, je suis un invité d’honneur de Mycogène, à la demande expresse de Chetter Hummin, et introduit ici par Maître-du-Soleil Quatorze en personne. Je refuse d’être traité comme si je n’existais pas. Je m’en vais contacter Maître-du-Soleil Quatorze et me plaindre amèrement. » Goutte-de-Pluie Quarante-cinq se mit à sangloter et Goutte-de-Pluie Quarante-trois, tout en gardant son calme, n’en rougit pas moins légèrement.\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-cinq\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je n’en crois rien et vous ne me ferez pas changer d’avis. Je ne suis pas un vulgaire barbare, je suis un invité d’honneur de Mycogène, à la demande expresse de Chetter Hummin, et introduit ici par Maître-du-Soleil Quatorze en personne. Je refuse d’être traité comme si je n’existais pas. Je m’en vais contacter Maître-du-Soleil Quatorze et me plaindre amèrement. » Goutte-de-Pluie Quarante-cinq se mit à sangloter et Goutte-de-Pluie Quarante-trois, tout en gardant son calme, n’en rougit pas moins légèrement.\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-trois\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je n’en crois rien et vous ne me ferez pas changer d’avis. Je ne suis pas un vulgaire barbare, je suis un invité d’honneur de Mycogène, à la demande expresse de Chetter Hummin, et introduit ici par Maître-du-Soleil Quatorze en personne. Je refuse d’être traité comme si je n’existais pas. Je m’en vais contacter Maître-du-Soleil Quatorze et me plaindre amèrement. » Goutte-de-Pluie Quarante-cinq se mit à sangloter et Goutte-de-Pluie Quarante-trois, tout en gardant son calme, n’en rougit pas moins légèrement.\n\n                    Question : Le mot \"Maître-du-Soleil Quatorze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Toujours est-il qu’il reste de la place ici pour le cerveau et le jugement humains. Chaque Frère et chaque Sœur ont l’occasion de travailler ici à un moment ou à un autre. Certains en font profession. » Elle parlait plus librement à présent mais, à sa grande gêne, Seldon nota que sa main gauche remontait furtivement vers son bras droit pour y frotter doucement l’endroit qu’il avait touché, comme si elle avait été piquée. « Cela s’étend sur des kilomètres et des kilomètres, lui dit- elle, mais si nous tournons ici, vous pourrez voir une partie de la section des moisissures.\n\n                    Question : Le mot \"Frère\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » (Seldon se sentit pris d’un frisson involontaire. C’était comme si elle lui parlait de la psychohistoire – et elle ne parlait que de la production microbiologique d’une infime fraction de l’humanité, quand pour sa part il embrassait l’ensemble du puissant Empire Galactique dans la totalité de ses activités.) Inévitablement découragé, il remarqua : « Tout n’est quand même pas totalement imprévisible. Il existe des forces qui nous guident et nous protègent. » La Sœur se raidit.\n\n                    Question : Le mot \"La Sœur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » (Seldon se sentit pris d’un frisson involontaire. C’était comme si elle lui parlait de la psychohistoire – et elle ne parlait que de la production microbiologique d’une infime fraction de l’humanité, quand pour sa part il embrassait l’ensemble du puissant Empire Galactique dans la totalité de ses activités.) Inévitablement découragé, il remarqua : « Tout n’est quand même pas totalement imprévisible. Il existe des forces qui nous guident et nous protègent. » La Sœur se raidit.\n\n                    Question : Le mot \"Empire Galactique\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

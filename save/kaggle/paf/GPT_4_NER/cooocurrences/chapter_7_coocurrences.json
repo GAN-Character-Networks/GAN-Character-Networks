@@ -1,0 +1,674 @@
+{
+    "cooccurences": [
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Eto Demerzel"
+        ],
+        [
+            "Eto Demerzel",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Leggen",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Demerzel",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "l’intéressé"
+        ],
+        [
+            "l’intéressé",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Eto Demerzel"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Leggen"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Randa"
+        },
+        {
+            "word": "Cléon"
+        },
+        {
+            "word": "l’intéressé"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Hari Seldon"
+        }
+    ],
+    "aliases": [
+        [
+            "Seldon",
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Leggen"
+        ],
+        [
+            "Randa"
+        ],
+        [
+            "Cléon"
+        ],
+        [
+            "l’intéressé"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "l’intéressé"
+            ]
+        ],
+        [
+            [
+                "l’intéressé"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ]
+    ]
+}

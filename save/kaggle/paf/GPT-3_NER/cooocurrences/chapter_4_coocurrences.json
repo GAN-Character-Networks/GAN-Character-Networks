@@ -1,0 +1,825 @@
+{
+    "cooccurences": [
+        [
+            "VENABILI",
+            "Historienne"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors Machinchose"
+        ],
+        [
+            "Seldon",
+            "M. Hummin"
+        ],
+        [
+            "M. Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Historienne"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "l’Empereur"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Le devin"
+        ],
+        [
+            "Cléon",
+            "Le devin"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "l’Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "VENABILI"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Historienne"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Dors Machinchose"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Trantor"
+        },
+        {
+            "word": "M. Hummin"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Cléon"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Sire"
+        },
+        {
+            "word": "Empereur"
+        },
+        {
+            "word": "Le devin"
+        }
+    ],
+    "aliases": [
+        [
+            "VENABILI",
+            "Venabili",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "M. Hummin"
+        ],
+        [
+            "Historienne"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Dors Machinchose",
+            "Dors"
+        ],
+        [
+            "Trantor"
+        ],
+        [
+            "Cléon"
+        ],
+        [
+            "l’Empereur",
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Le devin"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "VENABILI",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Historienne"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "M. Hummin"
+            ],
+            [
+                "Dors Machinchose",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Hummin",
+                "M. Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "M. Hummin"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Dors Machinchose",
+                "Dors"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Trantor"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "M. Hummin"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Dors Machinchose",
+                "Dors"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "Dors Machinchose",
+                "Dors"
+            ],
+            [
+                "Historienne"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Dors Machinchose",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Le devin"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Le devin"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Trantor"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Dors Machinchose",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Machinchose",
+                "Dors"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Trantor"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : VENABILI\nHari Seldon\nSeldon\nHummin\nHistorienne\nHari\nDemerzel\nDors Machinchose\nDors\nTrantor\nM. Hummin\nVenabili\nDors Venabili\nCléon\nl’Empereur\nSire\nEmpereur\nLe devin\")\n     Liste de personnes : \n\n     VENABILI\nHari Seldon\nSeldon\nHummin\nHistorienne\nHari\nDemerzel\nDors Machinchose\nDors\nTrantor\nM. Hummin\nVenabili\nDors Venabili\nCléon\nl’Empereur\nSire\nEmpereur\nLe devin\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "VENABILI",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            "1": [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            "2": [
+                "Hummin",
+                "M. Hummin"
+            ],
+            "3": [
+                "Historienne"
+            ],
+            "4": [
+                "Demerzel"
+            ],
+            "5": [
+                "Dors Machinchose",
+                "Dors"
+            ],
+            "6": [
+                "Trantor"
+            ],
+            "7": [
+                "Cléon"
+            ],
+            "8": [
+                "l’Empereur",
+                "Sire",
+                "Empereur"
+            ],
+            "9": [
+                "Le devin"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

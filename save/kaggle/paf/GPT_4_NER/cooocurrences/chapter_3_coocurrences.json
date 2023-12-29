@@ -1,0 +1,106 @@
+{
+    "cooccurences": [
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "l’Empereur",
+            "Demerzel"
+        ],
+        [
+            "l’Empereur",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "L’Empereur",
+            "Demerzel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "L’Empire Galactique"
+        },
+        {
+            "word": "l’Empire Galactique"
+        },
+        {
+            "word": "Hélicon"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "L’Empereur"
+        }
+    ],
+    "aliases": [
+        [
+            "Seldon"
+        ],
+        [
+            "l’Empire Galactique"
+        ],
+        [
+            "Hélicon"
+        ],
+        [
+            "L’Empereur"
+        ],
+        [
+            "Demerzel"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Seldon"
+            ],
+            [
+                "Hélicon"
+            ]
+        ],
+        [
+            [
+                "L’Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "L’Empereur"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "L’Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ]
+    ]
+}

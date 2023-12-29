@@ -1,0 +1,649 @@
+{
+    "cooccurences": [
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "R. Daneel"
+        ],
+        [
+            "R. Daneel",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "R. Daneel"
+        ],
+        [
+            "Clousarr",
+            "R. Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "R. Sammy"
+        ],
+        [
+            "Baley",
+            "R. Sammy"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R. Daneel"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "Daneel",
+            "Julius"
+        ],
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Julius",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "R. Sammy"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "R. Sammy"
+        ],
+        [
+            "R. Sammy",
+            "Baley"
+        ],
+        [
+            "R. Daneel",
+            "Enderby"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Francis"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Clousarr"
+        },
+        {
+            "word": "R. Sammy"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Gerrigel"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "docteur Gerrigel"
+        },
+        {
+            "word": "Julius"
+        },
+        {
+            "word": "Vince Barrett"
+        },
+        {
+            "word": "Jessie"
+        }
+    ],
+    "aliases": [
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Francis"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Clousarr"
+        ],
+        [
+            "R. Sammy"
+        ],
+        [
+            "Fastolfe"
+        ],
+        [
+            "Gerrigel",
+            "docteur Gerrigel"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "Julius"
+        ],
+        [
+            "Vince Barrett"
+        ],
+        [
+            "Jessie"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "R. Sammy"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "R. Sammy"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Fastolfe"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Julius"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Julius"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Julius"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "R. Sammy"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "R. Sammy"
+            ]
+        ],
+        [
+            [
+                "R. Sammy"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : R. Daneel\nDaneel\nFrancis\nBaley\nClousarr\nR. Sammy\nFastolfe\nGerrigel\nEnderby\ndocteur Gerrigel\nJulius\nVince Barrett\nJessie\")\n     Liste de personnes : \n\n     R. Daneel\nDaneel\nFrancis\nBaley\nClousarr\nR. Sammy\nFastolfe\nGerrigel\nEnderby\ndocteur Gerrigel\nJulius\nVince Barrett\nJessie\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "R. Daneel",
+                "Daneel"
+            ],
+            "1": [
+                "Francis"
+            ],
+            "2": [
+                "Baley"
+            ],
+            "3": [
+                "Clousarr"
+            ],
+            "4": [
+                "R. Sammy"
+            ],
+            "5": [
+                "Fastolfe"
+            ],
+            "6": [
+                "Gerrigel",
+                "docteur Gerrigel"
+            ],
+            "7": [
+                "Enderby"
+            ],
+            "8": [
+                "Julius"
+            ],
+            "9": [
+                "Vince Barrett"
+            ],
+            "10": [
+                "Jessie"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

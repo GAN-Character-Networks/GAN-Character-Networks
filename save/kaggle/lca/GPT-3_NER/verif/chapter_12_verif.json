@@ -1,0 +1,37 @@
+{
+    "final_gpt_entities": [
+        "Baley",
+        "Lije",
+        "Enderby",
+        "Julius",
+        "A. Gerrigel",
+        "Elijah",
+        "R. Daneel",
+        "Daneel",
+        "Francis Clousarr",
+        "Paul Gerhard",
+        "Dr Gerrigel",
+        "Frankenstein"
+    ],
+    "init_gpt_entities": [
+        "R. Sammy",
+        "l’arme",
+        "Francis Clousarr",
+        "Dr Gerrigel",
+        "Robotique",
+        "Paul Gerhard",
+        "Frankenstein",
+        "R. Daneel",
+        "Baley",
+        "Gerrigel",
+        "Daneel",
+        "Elijah",
+        "A. Gerrigel",
+        "Heisenberg",
+        "commissaire",
+        "Enderby",
+        "Julius",
+        "Lije",
+        "le savant"
+    ]
+}

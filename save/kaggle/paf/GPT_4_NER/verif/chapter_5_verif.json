@@ -1,0 +1,102 @@
+{
+    "final_gpt_entities": [
+        "Hari",
+        "Seldon",
+        "Hummin",
+        "Hari Seldon",
+        "Lisung",
+        "Randa",
+        "Lisung Randa",
+        "Dors",
+        "Kiangtow Randa",
+        "Jenarr Leggen",
+        "Leggen",
+        "Clowzia",
+        "docteur Leggen",
+        "Dors Venabili"
+    ],
+    "init_gpt_entities": [
+        "Dors Venabili",
+        "Hari",
+        "Clowzia",
+        "Hélicon",
+        "Dors",
+        "Seldon",
+        "Lisung",
+        "Jenarr Leggen",
+        "Hummin",
+        "docteur Leggen",
+        "Leggen",
+        "Kiangtow Randa",
+        "Trantor",
+        "Hari Seldon",
+        "Randa",
+        "Lisung Randa"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : On remarquera que la surface des dômes, l’interface de la vaste cité et de l’atmosphère qui la surmonte, surface appelée à l’époque la « Couverture », est... ENCYCLOPAEDIA GALACTICA. Le lendemain pourtant trouva Hari Seldon de retour à la bibliothèque. D’abord, il y avait sa promesse à Hummin. Il avait promis de faire son possible et se refusait aux demi-mesures. Ensuite, il avait un contrat moral avec lui-même : il avait horreur de reconnaître l’échec.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On remarquera que la surface des dômes, l’interface de la vaste cité et de l’atmosphère qui la surmonte, surface appelée à l’époque la « Couverture », est... ENCYCLOPAEDIA GALACTICA. Le lendemain pourtant trouva Hari Seldon de retour à la bibliothèque. D’abord, il y avait sa promesse à Hummin. Il avait promis de faire son possible et se refusait aux demi-mesures. Ensuite, il avait un contrat moral avec lui-même : il avait horreur de reconnaître l’échec.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On remarquera que la surface des dômes, l’interface de la vaste cité et de l’atmosphère qui la surmonte, surface appelée à l’époque la « Couverture », est... ENCYCLOPAEDIA GALACTICA. Le lendemain pourtant trouva Hari Seldon de retour à la bibliothèque. D’abord, il y avait sa promesse à Hummin. Il avait promis de faire son possible et se refusait aux demi-mesures. Ensuite, il avait un contrat moral avec lui-même : il avait horreur de reconnaître l’échec.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On remarquera que la surface des dômes, l’interface de la vaste cité et de l’atmosphère qui la surmonte, surface appelée à l’époque la « Couverture », est... ENCYCLOPAEDIA GALACTICA. Le lendemain pourtant trouva Hari Seldon de retour à la bibliothèque. D’abord, il y avait sa promesse à Hummin. Il avait promis de faire son possible et se refusait aux demi-mesures. Ensuite, il avait un contrat moral avec lui-même : il avait horreur de reconnaître l’échec.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pas tout de suite, en tout cas. Pas tant qu’il pouvait encore plausiblement se dire qu’il tenait une piste. Aussi fixait-il la liste des vidéo-livres de référence qu’il n’avait pas encore examinés en essayant de décider lequel dans ce menu peu appétissant avait la moindre chance de lui être utile. Il avait quasiment conclu que la réponse était « aucun » et ne voyait d’autre solution que de les feuilleter tous quand un discret tapotement contre la cloison le fit sursauter. Seldon leva les yeux pour découvrir le visage embarrassé de Lisung Randa dans l’embrasure de son réduit.\n\n                    Question : Le mot \"Lisung\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pas tout de suite, en tout cas. Pas tant qu’il pouvait encore plausiblement se dire qu’il tenait une piste. Aussi fixait-il la liste des vidéo-livres de référence qu’il n’avait pas encore examinés en essayant de décider lequel dans ce menu peu appétissant avait la moindre chance de lui être utile. Il avait quasiment conclu que la réponse était « aucun » et ne voyait d’autre solution que de les feuilleter tous quand un discret tapotement contre la cloison le fit sursauter. Seldon leva les yeux pour découvrir le visage embarrassé de Lisung Randa dans l’embrasure de son réduit.\n\n                    Question : Le mot \"Randa\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pas tout de suite, en tout cas. Pas tant qu’il pouvait encore plausiblement se dire qu’il tenait une piste. Aussi fixait-il la liste des vidéo-livres de référence qu’il n’avait pas encore examinés en essayant de décider lequel dans ce menu peu appétissant avait la moindre chance de lui être utile. Il avait quasiment conclu que la réponse était « aucun » et ne voyait d’autre solution que de les feuilleter tous quand un discret tapotement contre la cloison le fit sursauter. Seldon leva les yeux pour découvrir le visage embarrassé de Lisung Randa dans l’embrasure de son réduit.\n\n                    Question : Le mot \"Lisung Randa\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Seldon connaissait Randa, Dors le lui avait présenté et il avait dîné avec lui (et avec d’autres) à plusieurs occasions. vous assure que c’est inconscient. Je ne m’en rends jamais compte. — Savez-vous au moins pourquoi vous l’avez poussé ? — Oui.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais, vous comprenez, j’ai un oncle mathématicien. Vous avez sans doute entendu parler de lui : Kiangtow Randa. » Seldon resta bouche bée : « Vous êtes parent avec ce Randa-là ? — Oui. C’est le frère aîné de mon père et il était tout à fait mécontent de ne pas me voir suivre sa voie – il n’a pas eu d’enfants.\n\n                    Question : Le mot \"Kiangtow Randa\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est parce que le comportement atmosphérique est sujet à des phases chaotiques. Tout le monde sait ça. — C’est ce que dit mon ami Jenarr Leggen. Vous l’avez déjà vu. » Seldon réfléchit.\n\n                    Question : Le mot \"Jenarr Leggen\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est parce que le comportement atmosphérique est sujet à des phases chaotiques. Tout le monde sait ça. — C’est ce que dit mon ami Jenarr Leggen. Vous l’avez déjà vu. » Seldon réfléchit.\n\n                    Question : Le mot \"Leggen\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Un grand type ? Un grand nez ? Taciturne ? — C’est bien lui. Et Trantor elle-même constitue un puzzle bien plus colossal encore que n’importe quel autre monde.\n\n                    Question : Le mot \"Trantor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Fait froid, sur votre planète ? demanda Leggen. — Par endroits, répondit Seldon. Le monde d’Hélicon, dont je suis originaire, jouit d’un climat doux et souvent pluvieux. — Pas de veine.\n\n                    Question : Le mot \"Hélicon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le climat de la Couverture risque de ne pas vous plaire. — Je pense être en mesure de le supporter tant que nous serons là-haut. » Dès qu’ils furent prêts, leur groupe monta dans un ascenseur marqué : STRICTEMENT RÉSERVÉ AU PERSONNEL OFFICIEL. « C’est parce qu’il permet d’accéder à la Couverture, expliqua l’une des jeunes femmes, et les gens ne sont pas censés aller là-haut sans raison valable. » Seule, Clowzia hésita.\n\n                    Question : Le mot \"Clowzia\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Le docteur Leggen avait l’air ennuyé. Ou est-ce son air habituel ? » Elle gloussa : « Effectivement, il a toujours l’air ennuyé, mais cette fois il l’est pour de bon. — Ah bon, pourquoi ? » demanda tout naturellement Seldon.\n\n                    Question : Le mot \"docteur Leggen\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Comment se faisait-il qu’elle ait pu l’aborder, discuter avec lui, puis l’éloigner tranquillement des autres afin de l’isoler et de faciliter ainsi son éventuelle récupération ? Dans le même ordre d’idée, que penser de Dors Venabili ? Elle savait qu’il montait sur la Couverture. Elle ne l’avait pas retenu. Elle aurait pu l’accompagner mais, comme par hasard, elle était occupée.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "experiment_details": "\n     gpt-4-1106-preview + 4 sentences per batch\n     ",
+    "chunk_0": {
+        "chunk": " Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA.",
+        "ner_chunk": "Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par @@Hari Seldon## comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle-ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de @@Seldon##. ENCYCLOPAEDIA GALACTICA."
+    },
+    "chunk_1": {
+        "chunk": "Goutte-de-Pluie Quarante-trois fixa Seldon, les yeux agrandis, le souffle court. « Je ne peux pas rester ici », lui dit-elle. Seldon regarda alentour : « Personne ne nous dérange. Même le Frère qui nous a donné les bouchées n’a fait aucune remarque.",
+        "ner_chunk": "Output : @@Goutte-de-Pluie Quarante-trois## fixa @@Seldon##, les yeux agrandis, le souffle court. « Je ne peux pas rester ici », lui dit-elle. @@Seldon## regarda alentour : « Personne ne nous dérange. Même le Frère qui nous a donné les bouchées n’a fait aucune remarque."
+    },
+    "chunk_2": {
+        "chunk": "Il a paru nous prendre pour un couple parfaitement ordinaire. — C’est parce que nous n’avons rien de spécial – du moins quand nous sommes dans la pénombre, que vous parlez à voix basse, qu’on entend moins votre accent barbare, et que j’ai l’air calme. Mais à présent... » Sa voix devenait rauque. « Quoi, à présent ?",
+        "ner_chunk": "Output : Il a paru nous prendre pour un couple parfaitement ordinaire. — C’est parce que nous n’avons rien de spécial – du moins quand nous sommes dans la pénombre, que vous parlez à voix basse, qu’on entend moins votre accent barbare, et que j’ai l’air calme. Mais à présent... » Sa voix devenait rauque. « Quoi, à présent ?"
+    },
+    "chunk_3": {
+        "chunk": "— Je suis nerveuse et tendue. Je suis... en sueur. — Qui va le remarquer ? Relaxez-vous.",
+        "ner_chunk": "Output : — Je suis nerveuse et tendue. Je suis... en sueur. — Qui va le remarquer ? Relaxez-vous."
+    },
+    "chunk_4": {
+        "chunk": "Calmez-vous. — Je ne peux pas me relaxer. Je ne peux pas me calmer quand on pourrait me remarquer. — Où pouvons-nous aller, alors ?",
+        "ner_chunk": "Output : Calmez-vous. — Je ne peux pas me relaxer. Je ne peux pas me calmer quand on pourrait me remarquer. — Où pouvons-nous aller, alors ?"
+    },
+    "chunk_5": {
+        "chunk": "en présence d’un mâle. Les paupières plissées, elle le fixait d’un regard perçant. — » Je vous l’ai dit : la connaissance. Je suis un chercheur.",
+        "ner_chunk": "Output : en présence d’un mâle. Les paupières plissées, elle le fixait d’un regard perçant. — » Je vous l’ai dit : la connaissance. Je suis un chercheur."
+    },
+    "chunk_6": {
+        "chunk": "C’est ma profession et mon désir de savoir. Et je veux surtout comprendre les gens, c’est pour cela que je cherche à connaître l’histoire. Sur bien des planètes, les antiques archives historiques – les archives authentiques – se sont décomposées en mythes et en légendes, pour devenir souvent des éléments d’un ensemble de croyances religieuses ou de superstitions. Mais si Mycogène n’a effectivement pas de religion, alors... — J’ai dit que nous avions l’histoire.",
+        "ner_chunk": "Input : C’est ma profession et mon désir de savoir. Et je veux surtout comprendre les gens, c’est pour cela que je cherche à connaître l’histoire. Sur bien des planètes, les antiques archives historiques – les archives authentiques – se sont décomposées en mythes et en légendes, pour devenir souvent des éléments d’un ensemble de croyances religieuses ou de superstitions. Mais si Mycogène n’a effectivement pas de religion, alors... — J’ai dit que nous avions l’histoire.\n\nOutput : C’est ma profession et mon désir de savoir. Et je veils surtout comprendre les gens, c’est pour cela que je cherche à connaître l’histoire. Sur bien des planètes, les antiques archives historiques – les archives authentiques – se sont décomposées en mythes et en légendes, pour devenir souvent des éléments d’un ensemble de croyances religieuses ou de superstitions. Mais si Mycogène n’a effectivement pas de religion, alors... — J’ai dit que nous avions l’histoire."
+    },
+    "chunk_7": {
+        "chunk": "— Vous l’avez même dit deux fois. Elle remonte à quand ? — A vingt mille ans. — Vraiment ?",
+        "ner_chunk": "Output : — Vous l’avez même dit deux fois. Elle remonte à quand ? — A vingt mille ans. — Vraiment ?"
+    },
+    "chunk_8": {
+        "chunk": "Soyons clairs : est-ce réellement de l’histoire ou quelque chose qui a dégénéré en légende ? — C’est de l’histoire authentique, bien sûr. » Seldon était sur le point de lui demander comment elle pouvait le savoir mais il se ravisa. Y avait-il la moindre chance que l’histoire pût remonter à vingt mille ans et demeurer authentique ?",
+        "ner_chunk": "Output : Soyons clairs : est-ce réellement de l’histoire ou quelque chose qui a dégénéré en légende ? — C’est de l’histoire authentique, bien sûr. » @@Seldon## était sur le point de lui demander comment elle pouvait le savoir mais il se ravisa. Y avait-il la moindre chance que l’histoire pût remonter à vingt mille ans et demeurer authentique ?"
+    },
+    "chunk_9": {
+        "chunk": "Il n’était pas lui-même historien et devrait s’en ouvrir auprès de Dors. Mais il lui semblait tellement probable que, sur chaque monde, les histoires antiques fussent des pots-pourris d’aventures héroïques et de minidrames conçus comme des fables édifiantes à ne pas prendre au pied de la lettre. C’était certainement le cas sur Hélicon, et pourtant il aurait eu du mal à trouver un Héliconien qui ne jurât de leur authenticité et ne soutînt qu’il s’agissait bien d’histoires vraies. Ainsi allaient-ils jusqu’à défendre cette fable ridicule de la première exploration d’Hélicon et de la rencontre des colons avec d’énormes et dangereux reptiles volants – alors qu’on n’avait jamais découvert le moindre reptile volant sur aucun des mondes explorés et colonisés par l’homme.",
+        "ner_chunk": "Il n’était pas lui-même historien et devrait s’en ouvrir auprès de @@Dors##. Mais il lui semblait tellement probable que, sur chaque monde, les histoires antiques fussent des pots-pourris d’aventures héroïques et de minidrames conçus comme des fables édifiantes à ne pas prendre au pied de la lettre. C’était certainement le cas sur Hélicon, et pourtant il aurait eu du mal à trouver un Héliconien qui ne jurât de leur authenticité et ne soutînt qu’il s’agissait bien d’histoires vraies. Ainsi allaient-ils jusqu’à défendre cette fable ridicule de la première exploration d’Hélicon et de la rencontre des colons avec d’énormes et dangereux reptiles volants – alors qu’on n’avait jamais découvert le moindre reptile volant sur aucun des mondes explorés et colonisés par l’homme."
+    },
+    "chunk_10": {
+        "chunk": "Néanmoins il demanda : « Comment cette histoire commence-t-elle ? » La Sœur eut un regard égaré, perdu bien plus loin que Seldon ou quoi que ce soit dans la pièce. Elle récita : « Elle commence avec un monde – notre monde. Un seul monde.",
+        "ner_chunk": "Output : Néanmoins il demanda : « Comment cette histoire commence-t-elle ? » La Sœur eut un regard égaré, perdu bien plus loin que @@Seldon## ou quoi que ce soit dans la pièce. Elle récita : « Elle commence avec un monde – notre monde. Un seul monde."
+    },
+    "chunk_11": {
+        "chunk": "Seldon se figea, soupesant le risque d’ennuis sérieux si jamais il avait vaincu les inhibitions de la Sœur plus qu’il n’en avait l’intention. « Quelles conditions ? » La langue de Goutte-de-Pluie Quarante-trois jaillit furtivement pour humecter ses lèvres. Puis la jeune femme lui dit, avec un tremblement audible dans la voix : « Que vous ôtiez votre bonnet de peau.",
+        "ner_chunk": "Output : @@Seldon## se figea, soupesant le risque d’ennuis sérieux si jamais il avait vaincu les inhibitions de la Sœur plus qu’il n’en avait l’intention. « Quelles conditions ? » La langue de @@Goutte-de-Pluie Quarante-trois## jaillit furtivement pour humecter ses lèvres. Puis la jeune femme lui dit, avec un tremblement audible dans la voix : « Que vous ôtiez votre bonnet de peau."
+    },
+    "chunk_12": {
+        "chunk": "» Hari Seldon la fixa, interdit. Il y eut un intervalle perceptible durant lequel il ne sut pas de quoi elle voulait parler. Il avait complètement oublié qu’il portait un bonnet de peau. Puis il porta la main à sa tête et, pour la première fois, tâta consciemment la coiffe qu’il portait.",
+        "ner_chunk": "Output : » @@Hari Seldon## la fixa, interdit. Il y eut un intervalle perceptible durant lequel il ne sut pas de quoi elle voulait parler. Il avait complètement oublié qu’il portait un bonnet de peau. Puis il porta la main à sa tête et, pour la première fois, tâta consciemment la coiffe qu’il portait."
+    },
+    "chunk_13": {
+        "chunk": "Elle était souple mais il sentit l’infime résistance de la chevelure en dessous. A peine. Ses cheveux, après tout, étaient fins et sans beaucoup de corps. Tâtant toujours, il demanda : « Mais pourquoi ?",
+        "ner_chunk": "Output : Elle était souple mais il sentit l’infime résistance de la chevelure en dessous. A peine. Ses cheveux, après tout, étaient fins et sans beaucoup de corps. Tâtant toujours, il demanda : « Mais pourquoi ?"
+    },
+    "chunk_14": {
+        "chunk": "— Parce que j’en ai envie. Parce que c’est la condition si vous voulez voir le Livre. — Enfin, si ça vous fait tant plaisir... » Il porta la main au coin du bonnet, afin de le retirer. Mais elle l’interrompit : « Non, non.",
+        "ner_chunk": "Output : — Parce que j’en ai envie. Parce que c’est la condition si vous voulez voir le Livre. — Enfin, si ça vous fait tant plaisir... » Il porta la main au coin du bonnet, afin de le retirer. Mais elle l’interrompit : « Non, non."
+    },
+    "chunk_15": {
+        "chunk": "Laissez-moi le faire. Je vais l’ôter moi-même. » Elle le regardait avec avidité. Seldon laissa retomber ses mains.",
+        "ner_chunk": "Output : Laissez-moi le faire. Je vais l’ôter moi-même. » Elle le regardait avec avidité. @@Seldon## laissa retomber ses mains."
+    },
+    "chunk_16": {
+        "chunk": "« Allez-y, alors. » La Sœur se leva aussitôt pour venir s’installer à côté de lui sur la couchette. Lentement, délicatement, elle détacha de son crâne le bonnet de peau, juste devant l’oreille. A nouveau, elle s’humecta les lèvres et c’est en haletant qu’elle releva la coiffe jusqu’à son front et la retourna.",
+        "ner_chunk": "Output : « Allez-y, alors. » @@La Sœur## se leva aussitôt pour venir s’installer à côté de lui sur la couchette. Lentement, délicatement, elle détacha de son crâne le bonnet de peau, juste devant l’oreille. A nouveau, elle s’humecta les lèvres et c’est en haletant qu’elle releva la coiffe jusqu’à son front et la retourna."
+    },
+    "chunk_17": {
+        "chunk": "Celle-ci vint alors sans peine et les cheveux de Seldon, libérés, parurent frémir, comme heureux de leur liberté retrouvée. Troublé, il avoua : « A force de rester coiffé de la sorte, j’ai sans doute le crâne en sueur. Si c’est le cas, mes cheveux doivent être trempés. » Il leva la main, comme pour vérifier la chose, mais elle l’intercepta et la retint.",
+        "ner_chunk": "Output : Celle-ci vint alors sans peine et les cheveux de @@Seldon##, libérés, parurent frémir, comme heureux de leur liberté retrouvée. Troublé, il avoua : « A force de rester coiffé de la sorte, j’ai sans doute le crâne en sueur. Si c’est le cas, mes cheveux doivent être trempés. » Il leva la main, comme pour vérifier la chose, mais elle l’intercepta et la retint."
+    },
+    "chunk_18": {
+        "chunk": "« Je veux le faire, lui dit-elle. Ça fait partie de la condition. » Goutte-de-Pluie Quarante-trois glissa la main sous sa tunique, par une fente que Seldon n’avait pas remarquée, et, d’une poche dissimulée, en sortit un livre à la reliure solide et flexible. Il le prit, tâchant de maîtriser son excitation.",
+        "ner_chunk": "Output : « Je veux le faire, lui dit-elle. Ça fait partie de la condition. » @@Goutte-de-Pluie Quarante-trois## glissa la main sous sa tunique, par une fente que @@Seldon## n’avait pas remarquée, et, d’une poche dissimulée, en sortit un livre à la reliure solide et flexible. Il le prit, tâchant de maîtriser son excitation."
+    },
+    "chunk_19": {
+        "chunk": "Tandis que Seldon rajustait le bonnet de peau pour se couvrir les cheveux, Goutte-de-Pluie Quarante-trois porta de nouveau les mains à son nez et puis, doucement, furtivement, lécha un doigt. « Tâter vos cheveux ? » s’étonna Dors Venabili. Elle lorgna sa chevelure comme si elle s’apprêtait à faire de même.",
+        "ner_chunk": "Output : Tandis que @@Seldon## rajustait le bonnet de peau pour se couvrir les cheveux, @@Goutte-de-Pluie Quarante-trois## porta de nouveau les mains à son nez et puis, doucement, furtivement, lécha un doigt. « Tâter vos cheveux ? » s’étonna @@Dors Venabili##. Elle lorgna sa chevelure comme si elle s’apprêtait à faire de même."
+    },
+    "chunk_20": {
+        "chunk": "Seldon eut un léger mouvement de recul. « Non, s’il vous plaît... Avec cette femme, ce geste avait l’air pervers. — Je suppose qu’il l’était... de son point de vue. N’en avez- vous tiré vous-même aucun plaisir ?",
+        "ner_chunk": "Output : @@Seldon## eut un léger mouvement de recul. « Non, s’il vous plaît... Avec cette femme, ce geste avait l’air pervers. — Je suppose qu’il l’était... de son point de vue. N’en avez- vous tiré vous-même aucun plaisir ?"
+    },
+    "chunk_21": {
+        "chunk": "— Du plaisir ? Ça m’a flanqué la chair de poule, oui ! Quand elle a cessé, j’ai enfin pu respirer de nouveau. Je n’arrêtais pas de me répéter : quelle autre condition va-t-elle encore inventer ?",
+        "ner_chunk": "Output : — Du plaisir ? Ça m’a flanqué la chair de poule, oui ! Quand elle a cessé, j’ai enfin pu respirer de nouveau. Je n’arrêtais pas de me répéter : quelle autre condition va-t-elle encore inventer ?"
+    },
+    "chunk_22": {
+        "chunk": "» Rire de Dors. « Vous aviez peur qu’elle vous viole ? Ou alors vous l’espériez ? — Je vous assure que je n’ai pas osé y songer.",
+        "ner_chunk": "Output : » Rire de @@Dors##. « Vous aviez peur qu’elle vous viole ? Ou alors vous l’espériez ? — Je vous assure que je n’ai pas osé y songer."
+    },
+    "chunk_23": {
+        "chunk": "Je voulais juste avoir le Livre. » Ils étaient à présent dans leur chambre et Dors enclencha le distorseur de champ pour les protéger des oreilles indiscrètes. La nuit de Mycogène approchait. Seldon avait retiré bonnet, tunique et s’était baigné, s’attardant particulièrement aux cheveux qu’il avait savonnés et rincés à deux reprises.",
+        "ner_chunk": "Output : Je voulais juste avoir le Livre. » Ils étaient à présent dans leur chambre et @@Dors## enclencha le distorseur de champ pour les protéger des oreilles indiscrètes. La nuit de Mycogène approchait. @@Seldon## avait retiré bonnet, tunique et s’était baigné, s’attardant particulièrement aux cheveux qu’il avait savonnés et rincés à deux reprises."
+    },
+    "chunk_24": {
+        "chunk": "Il était maintenant assis sur sa couchette, vêtu d’une chemise de nuit légère qu’il avait trouvée accrochée dans la penderie. Les yeux pétillants, Dors demanda : « Savait-elle que vous aviez du poil sur la poitrine ? — J’espérais de tout cœur que l’idée ne l’effleurerait pas. — Mon pauvre Hari.",
+        "ner_chunk": "Output : Il était maintenant assis sur sa couchette, vêtu d’une chemise de nuit légère qu’il avait trouvée accrochée dans la penderie. Les yeux pétillants, @@Dors## demanda : « Savait-elle que vous aviez du poil sur la poitrine ? — J’espérais de tout cœur que l’idée ne l’effleurerait pas. — Mon pauvre @@Hari##."
+    },
+    "chunk_25": {
+        "chunk": "Tout cela était parfaitement naturel, vous savez. J’aurais connu sans doute un trouble identique si je m’étais retrouvée seule avec un Frère. Pire encore, j’en suis sûre, car il m’aurait crue, en tant que femme – société mycogénienne droite sur ma cuisse gauche, qui était nue, bien sûr, pour se maintenir en équilibre. « Nous avions discuté depuis une minute et demie peut- être quand il remarqua, malicieux : ― Et voilà.",
+        "ner_chunk": "Tout cela était parfaitement naturel, vous savez. J’aurais connu sans doute un trouble identique si je m’étais retrouvée seule avec un Frère. Pire encore, j’en suis sûre, car il m’aurait crue, en tant que femme – société mycogénienne droite sur ma cuisse gauche, qui était nue, bien sûr, pour se maintenir en équilibre. « Nous avions discuté depuis une minute et demie peut- être quand il remarqua, malicieux : ― Et voilà."
+    },
+    "chunk_26": {
+        "chunk": "Vous me connaissez à peine et pourtant, il me semble parfaitement naturel de poser la main sur votre cuisse. Qui plus est, cela vous semble parfaitement naturel puisque vous n’avez pas l’air de vous en formaliser. ‖ « Ce n’est qu’à cet instant que j’ai remarqué sa main posée sur ma cuisse. En public, la peau nue perd en quelque sorte une partie de son attrait sexuel.",
+        "ner_chunk": "Output : Vous me connaissez à peine et pourtant, il me semble parfaitement naturel de poser la main sur votre cuisse. Qui plus est, cela vous semble parfaitement naturel puisque vous n’avez pas l’air de vous en formaliser. ‖ « Ce n’est qu’à cet instant que j’ai remarqué sa main posée sur ma cuisse. En public, la peau nue perd en quelque sorte une partie de son attrait sexuel."
+    },
+    "chunk_27": {
+        "chunk": "Comme je l’ai dit, c’est la dissimulation qui est cruciale. « Et le jeune homme l’avait senti lui aussi, car il poursuivit : ― Pourtant, si je devais vous rencontrer dans des circonstances plus officielles et que vous portiez une robe, jamais l’idée ne vous viendrait de me la laisser soulever pour que je pose la main sur votre cuisse à l’endroit précis où elle est maintenant. ‖ « Je ris et nous avons continué de deviser de choses et d’autres. Bien sûr, maintenant qu’il avait attiré l’attention sur la position de sa main, le jeune homme ne trouvait plus approprié de la laisser là et l’avait retirée.",
+        "ner_chunk": "Comme je l’ai dit, c’est la dissimulation qui est cruciale. « Et le jeune homme l’avait senti lui aussi, car il poursuivit : ― Pourtant, si je devais vous rencontrer dans des circonstances plus officielles et que vous portiez une robe, jamais l’idée ne vous viendrait de me la laisser soulever pour que je pose la main sur votre cuisse à l’endroit précis où elle est maintenant. ‖ « Je ris et nous avons continué de deviser de choses et d’autres. Bien sûr, maintenant qu’il avait attiré l’attention sur la position de sa main, le jeune homme ne trouvait plus approprié de la laisser là et l’avait retirée."
+    },
+    "chunk_28": {
+        "chunk": "« Ce soir-là, je m’habillai pour le dîner avec plus de soin qu’à l’accoutumée et gagnai la salle à manger dans une tenue de soirée infiniment plus cérémonielle que ne l’exigeaient les circonstances, et bien plus recherchée que celle des autres femmes présentes. J’avisai le jeune homme en question. Il était installé à l’une des tables. J’approchai, le saluai et lui dis : ― Me voici en robe, mais en dessous ma cuisse gauche est nue.",
+        "ner_chunk": "« Ce soir-là, je m’habillai pour le dîner avec plus de soin qu’à l’accoutumée et gagnai la salle à manger dans une tenue de soirée infiniment plus cérémonielle que ne l’exigeaient les circonstances, et bien plus recherchée que celle des autres femmes présentes. J’avisai le jeune homme en question. Il était installé à l’une des tables. J’approchai, le saluai et lui dis : ― Me voici en robe, mais en dessous ma cuisse gauche est nue."
+    },
+    "chunk_29": {
+        "chunk": "Je vous donne la permission de soulever ma robe et de poser la main sur ma cuisse à l’endroit où vous l’avez mise cet après- midi. ‖ « Il essaya, je dois le reconnaître, mais tout le monde avait les yeux fixés sur nous. Je ne l’aurais pas arrêté et je suis sûre que personne ne l’aurait arrêté non plus, mais il ne put se résoudre à le faire. Nous n’étions pas plus en public qu’auparavant dans la journée et les personnes présentes étaient les mêmes.",
+        "ner_chunk": "Input : Je vous donne la permission de soulever ma robe et de poser la main sur ma cuisse à l’endroit où vous l’avez mise cet après- midi. ‖ « Il essaya, je dois le reconnaître, mais tout le monde avait les yeux fixés sur nous. Je ne l’aurais pas arrêté et je suis sûre que personne ne l’aurait arrêté non plus, mais il ne put se résoudre à le faire. Nous n’étions pas plus en public qu’auparavant dans la journée et les personnes présentes étaient les mêmes.\n\nOutput : Je vous donne la permission de soulever ma robe et de poser la main sur ma cuisse à l’endroit où vous l’avez mise cet après- midi. ‖ « Il essaya, je dois le reconnaître, mais tout le monde avait les yeux fixés sur nous. Je ne l’aurais pas arrêté et je suis sûre que personne ne l’aurait arrêté non plus, mais il ne put se résoudre à le faire. Nous n’étions pas plus en public qu’auparavant dans la journée et les personnes présentes étaient les mêmes."
+    },
+    "chunk_30": {
+        "chunk": "Il était clair que c’était moi qui avais pris l’initiative et que je n’y voyais pas d’inconvénient, mais il ne pouvait se résoudre à enfreindre le tabou. Les conditions, permis aux célibataires et l’on ne désapprouvait leur pratique publique que lorsque cela risquait de bloquer la circulation. Et pourtant, après le mariage, la monogamie était stricte et scrupuleusement respectée. Leur théorie était qu’en évacuant d’abord tous ses fantasmes, on pouvait par la suite s’installer sérieusement dans la vie.",
+        "ner_chunk": "Il était clair que c’était moi qui avais pris l’initiative et que je n’y voyais pas d’inconvénient, mais il ne pouvait se résoudre à enfreindre le tabou. Les conditions, permis aux célibataires et l’on ne désapprouvait leur pratique publique que lorsque cela risquait de bloquer la circulation. Et pourtant, après le mariage, la monogamie était stricte et scrupuleusement respectée. Leur théorie était qu’en évacuant d’abord tous ses fantasmes, on pouvait par la suite s’installer sérieusement dans la vie."
+    },
+    "chunk_31": {
+        "chunk": "— Et ça marchait ? — Ils ont cessé depuis peut-être trois siècles, mais certains de mes collègues l’attribuent à des pressions des planètes voisines. Leur tourisme en pâtissait. C’est qu’il existe également une pression sociale à l’échelle galactique.",
+        "ner_chunk": "Output : — Et ça marchait ? — Ils ont cessé depuis peut-être trois siècles, mais certains de mes collègues l’attribuent à des pressions des planètes voisines. Leur tourisme en pâtissait. C’est qu’il existe également une pression sociale à l’échelle galactique."
+    },
+    "chunk_32": {
+        "chunk": "— Ou peut-être bien une pression économique, en l’occurrence. — Peut-être. A propos, ma vie à l’Université me donne l’occasion d’étudier les pressions sociales sans même avoir besoin de parcourir la Galaxie. Je rencontre des gens provenant de douzaines d’endroits à Trantor ou ailleurs, et l’un de nos dadas, dans le département de sociologie, est la comparaison des pressions sociales.",
+        "ner_chunk": "Output : — Ou peut-être bien une pression économique, en l’occurrence. — Peut-être. A propos, ma vie à l’Université me donne l’occasion d’étudier les pressions sociales sans même avoir besoin de parcourir la Galaxie. Je rencontre des gens provenant de douzaines d’endroits à Trantor ou ailleurs, et l’un de nos dadas, dans le département de sociologie, est la comparaison des pressions sociales."
+    },
+    "chunk_33": {
+        "chunk": "« Ici, à Mycogène, par exemple, j’ai l’impression que la sexualité est étroitement contrôlée et permise exclusivement selon les règles les plus contraignantes, d’autant plus strictement observées qu’elles ne sont jamais discutées. Dans le secteur de Streeling, on ne parle jamais du sexe mais on ne le condamne pas. Dans le secteur de Jennat, où j’ai eu l’occasion de passer une semaine pour des recherches, on en discute à l’infini mais uniquement pour mieux le condamner. Je n’ai pas l’impression qu’il y ait deux secteurs sur Trantor – ou sur n’importe quel monde extérieur – qui aient des attitudes semblables à l’égard du sexe.",
+        "ner_chunk": "Input : « Ici, à Mycogène, par exemple, j’ai l’impression que la sexualité est étroitement contrôlée et permise exclusivement selon les règles les plus contraignantes, d’autant plus strictement observées qu’elles ne sont jamais discutées. Dans le secteur de Streeling, on ne parle jamais du sexe mais on ne le condamne pas. Dans le secteur de Jennat, où j’ai eu l’occasion de passer une semaine pour des recherches, on en discute à l’infini mais uniquement pour mieux le condamner. Je n’ai pas l’impression qu’il y ait deux secteurs sur Trantor – ou sur n’importe quel monde extérieur – qui aient des attitudes semblables à l’égard du sexe.\n\nOutput : « Ici, à Mycogène, par exemple, j’ai l’impression que la sexualité est étroitement contrôlée et permise exclusivement selon les règles les plus contraignantes, d’autant plus strictement observées qu’elles ne sont jamais discutées. Dans le secteur de Streeling, on ne parle jamais du sexe mais on ne le condamne pas. Dans le secteur de Jennat, où j’ai eu l’occasion de passer une semaine pour des recherches, on en discute à l’infini mais uniquement pour mieux le condamner. Je n’ai pas l’impression qu’il y ait deux secteurs sur Trantor – ou sur n’importe quel monde extérieur – qui aient des attitudes semblables à l’égard du sexe.\n\nIl n'y a pas de personnages mentionnés dans cette phrase, donc aucune balise n'est ajoutée."
+    },
+    "chunk_34": {
+        "chunk": "— Vous savez à quoi ça me fait penser ? On pourrait en conclure... » Dors l’interrompit. « Je vais vous la dire, moi, ma conclusion : toutes ces discussions sur le sexe m’ont révélé une évidence. C’est qu’il n’est plus question pour moi de vous quitter des yeux un seul instant.",
+        "ner_chunk": "Output : — Vous savez à quoi ça me fait penser ? On pourrait en conclure... » @@Dors## l’interrompit. « Je vais vous la dire, moi, ma conclusion : toutes ces discussions sur le sexe m’ont révélé une évidence. C’est qu’il n’est plus question pour moi de vous quitter des yeux un seul instant."
+    },
+    "chunk_35": {
+        "chunk": "— Quoi ? — Deux fois, je vous ai laissé partir, la première par erreur de jugement de ma part, la seconde parce que vous m’y avez Il retourna le Livre et Dors, souriante, l’ouvrit – puis elle tourna une page, une autre, se mit à le feuilleter. « Mais il est vierge. — Apparemment.",
+        "ner_chunk": "Output : — Quoi ? — Deux fois, je vous ai laissé partir, la première par erreur de jugement de ma part, la seconde parce que vous m’y avez Il retourna le Livre et @@Dors##, souriante, l’ouvrit – puis elle tourna une page, une autre, se mit à le feuilleter. « Mais il est vierge. — Apparemment."
+    },
+    "chunk_36": {
+        "chunk": "Les Mycogéniens font preuve d’un primitivisme obstiné mais pas intégral : ils s’attachent à l’essence du primitivisme mais ne voient aucune objection à utiliser les techniques modernes pour l’adapter de manière pratique. Qui sait ? — Peut-être, Hari, mais je ne comprends rien à ce que vous racontez. — Les pages ne sont pas blanches, elles sont couvertes de textes microfilmés.",
+        "ner_chunk": "Output : Les Mycogéniens font preuve d’un primitivisme obstiné mais pas intégral : ils s’attachent à l’essence du primitivisme mais ne voient aucune objection à utiliser les techniques modernes pour l’adapter de manière pratique. Qui sait ? — Peut-être, @@Hari##, mais je ne comprends rien à ce que vous racontez. — Les pages ne sont pas blanches, elles sont couvertes de textes microfilmés."
+    },
+    "chunk_37": {
+        "chunk": "Si je presse le petit bouton sur le bord intérieur de la couverture... là... regardez ! » La page à laquelle était ouvert le Livre se couvrit soudain de lignes de texte imprimé qui défilaient lentement vers le haut. « Vous pouvez régler la vitesse selon votre rythme de lecture en tournant légèrement le bouton dans un sens ou dans l’autre. Quand les lignes imprimées arrivent tout en haut – c’est-à-dire, quand vous êtes parvenu à la dernière ligne –, elles redescendent en bloc et s’éteignent.",
+        "ner_chunk": "Input : Si je presse le petit bouton sur le bord intérieur de la couverture... là... regardez ! » La page à laquelle était ouvert le Livre se couvrit soudain de lignes de texte imprimé qui défilaient lentement vers le haut. « Vous pouvez régler la vitesse selon votre rythme de lecture en tournant légèrement le bouton dans un sens ou dans l’autre. Quand les lignes imprimées arrivent tout en haut – c’est-à-dire, quand vous êtes parvenu à la dernière ligne –, elles redescendent en bloc et s’éteignent.\n\nOutput :"
+    },
+    "chunk_38": {
+        "chunk": "Vous tournez la page et vous continuez. — D’où vient l’énergie ? — Il y a une petite pile à microfusion intégrée qui dure toute la vie du Livre. — Alors, quand la pile est vide... — Vous jetez le Livre, ou même avant s’il est usé, et vous le remplacez par un neuf.",
+        "ner_chunk": "Output : Vous tournez la page et vous continuez. — D’où vient l’énergie ? — Il y a une petite pile à microfusion intégrée qui dure toute la vie du Livre. — Alors, quand la pile est vide... — Vous jetez le Livre, ou même avant s’il est usé, et vous le remplacez par un neuf."
+    },
+    "chunk_39": {
+        "chunk": "On ne change jamais la pile. » Dors reprit le Livre et l’examina sous toutes les coutures. « Je dois admettre que je n’avais jamais entendu parler de ce genre d’objet. — Moi non plus.",
+        "ner_chunk": "On ne change jamais la pile. » @@Dors## reprit le Livre et l’examina sous toutes les coutures. « Je dois admettre que je n’avais jamais entendu parler de ce genre d’objet. — Moi non plus."
+    },
+    "chunk_40": {
+        "chunk": "La Galaxie, d’une manière générale, a évolué si rapidement vers les technologies visuelles qu’elle a sauté pardessus cette possibilité. — Mais c’est quand même visuel... — Certes, mais pas très orthodoxe. Ce genre de livre a ses avantages. Il a une capacité bien plus grande que les vidéo-livres ordinaires.",
+        "ner_chunk": "Input : La Galaxie, d’une manière générale, a évolué si rapidement vers les technologies visuelles qu’elle a sauté pardessus cette possibilité. — Mais c’est quand même visuel... — Certes, mais pas très orthodoxe. Ce genre de livre a ses avantages. Il a une capacité bien plus grande que les vidéo-livres ordinaires.\n\nOutput : La Galaxie, d’une manière générale, a évolué si rapidement vers les technologies visuelles qu’elle a sauté pardessus cette possibilité. — Mais c’est quand même visuel... — Certes, mais pas très orthodoxe. Ce genre de livre a ses avantages. Il a une capacité bien plus grande que les vidéo-livres ordinaires."
+    },
+    "chunk_41": {
+        "chunk": "— Où est l’interrupteur ?... Ah, laissez-moi voir si je saurais m’en servir. » Elle l’avait ouvert à une page au hasard et mit en marche le défilement des lignes. Puis elle remarqua : « J’ai bien Il leva le Livre et dit, dans un élan d’enthousiasme : « Mais moi, je suis curieux, et je vais le lire, et qui sait s’il ne me fera pas progresser sur la voie de la psychohistoire ?",
+        "ner_chunk": "— Où est l’interrupteur ?... Ah, laissez-moi voir si je saurais m’en servir. » Elle l’avait ouvert à une page au hasard et mit en marche le défilement des lignes. Puis elle remarqua : « J’ai bien Il leva le Livre et dit, dans un élan d’enthousiasme : « Mais moi, je suis curieux, et je vais le lire, et qui sait s’il ne me fera pas progresser sur la voie de la psychohistoire ?"
+    },
+    "chunk_42": {
+        "chunk": "— Je l’espère, mais si vous voulez mon avis, vous allez d’abord dormir pour l’examiner d’un œil plus frais demain matin. Vous n’apprendrez pas grand-chose si vous piquez du nez sur les pages. » Seldon hésita puis remarqua : « Comme vous pouvez être maternelle ! — Je prends soin de vous.",
+        "ner_chunk": "Output : — Je l’espère, mais si vous voulez mon avis, vous allez d’abord dormir pour l’examiner d’un œil plus frais demain matin. Vous n’apprendrez pas grand-chose si vous piquez du nez sur les pages. » @@Seldon## hésita puis remarqua : « Comme vous pouvez être maternelle ! — Je prends soin de vous."
+    },
+    "chunk_43": {
+        "chunk": "— J’ai déjà une mère sur Hélicon. J’aimerais mieux que vous soyez mon amie. — Je suis votre amie depuis le premier instant de notre rencontre. » Elle lui sourit et Seldon hésita comme s’il n’était pas certain de la repartie adéquate.",
+        "ner_chunk": "Output : — J’ai déjà une mère sur Hélicon. J’aimerais mieux que vous soyez mon amie. — Je suis votre amie depuis le premier instant de notre rencontre. » Elle lui sourit et @@Seldon## hésita comme s’il n’était pas certain de la repartie adéquate."
+    },
+    "chunk_44": {
+        "chunk": "Finalement, il répondit : « Alors, je vais suivre votre conseil – d’amie – et dormir avant de lire. » Il allait déposer le Livre sur la petite table de chevet entre les deux couchettes puis hésita, se retourna et le glissa sous son oreiller. Dors Venabili étouffa un petit rire. « J’ai l’impression que vous avez peur que je me réveille cette nuit pour en lire des passages avant que vous ayez eu l’occasion de le faire.",
+        "ner_chunk": "Finalement, il répondit : « Alors, je vais suivre votre conseil – d’amie – et dormir avant de lire. » Il allait déposer le Livre sur la petite table de chevet entre les deux couchettes puis hésita, se retourna et le glissa sous son oreiller. @@Dors Venabili## étouffa un petit rire. « J’ai l’impression que vous avez peur que je me réveille cette nuit pour en lire des passages avant que vous ayez eu l’occasion de le faire."
+    },
+    "chunk_45": {
+        "chunk": "N’est-ce pas ? — Eh bien... fit Seldon, essayant de cacher sa gêne, ça se pourrait. Même l’amitié a ses limites et après tout, c’est mon livre et ma psychohistoire. — Je suis bien d’accord, répondit Dors, et je vous promets de ne pas vous en disputer la primeur.",
+        "ner_chunk": "Output : N’est-ce pas ? — Eh bien... fit @@Seldon##, essayant de cacher sa gêne, ça se pourrait. Même l’amitié a ses limites et après tout, c’est mon livre et ma psychohistoire. — Je suis bien d’accord, répondit @@Dors##, et je vous promets de ne pas vous en disputer la primeur."
+    },
+    "chunk_46": {
+        "chunk": "A propos, vous alliez me dire quelque chose et je vous ai interrompu. Vous vous souvenez ? » Seldon réfléchit rapidement. « Non.",
+        "ner_chunk": "Output : A propos, vous alliez me dire quelque chose et je vous ai interrompu. Vous vous souvenez ? » @@Seldon## réfléchit rapidement. « Non."
+    },
+    "chunk_47": {
+        "chunk": "» Dans le noir, il ne songeait qu’au Livre. Il ne pensait plus à l’anecdote de la main sur la cuisse. En fait, il l’avait déjà quasiment oubliée, au moins consciemment. — Peut-être sous-estimez-vous son âge.",
+        "ner_chunk": "Output : » Dans le noir, il ne songeait qu’au Livre. Il ne pensait plus à l’anecdote de la main sur la cuisse. En fait, il l’avait déjà quasiment oubliée, au moins consciemment. — Peut-être sous-estimez-vous son âge."
+    },
+    "chunk_48": {
+        "chunk": "Il traite peut-être d’une période où n’existait effectivement qu’un seul monde... un seul monde habité. — Oui, je sais, fit Seldon avec quelque impatience. C’est précisément ce que je recherche – à condition d’être sûr qu’il s’agisse d’histoire, pas de légende. Je me demande... Je n’ai pas envie d’y croire simplement parce que je voudrais y croire.",
+        "ner_chunk": "Output : Il traite peut-être d’une période où n’existait effectivement qu’un seul monde... un seul monde habité. — Oui, je sais, fit @@Seldon## avec quelque impatience. C’est précisément ce que je recherche – à condition d’être sûr qu’il s’agisse d’histoire, pas de légende. Je me demande... Je n’ai pas envie d’y croire simplement parce que je voudrais y croire."
+    },
+    "chunk_49": {
+        "chunk": "— Cette question de monde originel unique est très débattue ces temps-ci. L’homme est une espèce unique répandue dans toute la Galaxie. Il a bien fallu qu’elle trouve son origine quelque part. Du moins, telle est la thèse en vogue aujourd’hui.",
+        "ner_chunk": "Output : — Cette question de monde originel unique est très débattue ces temps-ci. L’homme est une espèce unique répandue dans toute la Galaxie. Il a bien fallu qu’elle trouve son origine quelque part. Du moins, telle est la thèse en vogue aujourd’hui."
+    },
+    "chunk_50": {
+        "chunk": "On ne peut pas avoir des origines indépendantes engendrant la même espèce sur des mondes différents. — Je n’ai jamais vu en quoi cet argument était irréfutable, protesta Seldon. Si des êtres humains sont nés sur quantité de mondes différents sous la forme d’une quantité d’espèces différentes, pourquoi n’auraient-ils pu se croiser et donner une espèce intermédiaire unique ? — Parce que les espèces ne peuvent se croiser.",
+        "ner_chunk": "On ne peut pas avoir des origines indépendantes engendrant la même espèce sur des mondes différents. — Je n’ai jamais vu en quoi cet argument était irréfutable, protesta @@Seldon##. Si des êtres humains sont nés sur quantité de mondes différents sous la forme d’une quantité d’espèces différentes, pourquoi n’auraient-ils pu se croiser et donner une espèce intermédiaire unique ? — Parce que les espèces ne peuvent se croiser."
+    },
+    "chunk_51": {
+        "chunk": "C’est le critère même de définition des espèces. » Seldon réfléchit un moment à la question puis l’évacua d’un haussement d’épaules. « Bon, je laisse ça aux biologistes. — Ce sont précisément les plus acharnés à défendre l’hypothèse de Terra.",
+        "ner_chunk": "Output : C’est le critère même de définition des espèces. » @@Seldon## réfléchit un moment à la question puis l’évacua d’un haussement d’épaules. « Bon, je laisse ça aux biologistes. — Ce sont précisément les plus acharnés à défendre l’hypothèse de Terra."
+    },
+    "chunk_52": {
+        "chunk": "— Terra ? Est-ce ainsi qu’ils baptisent ce prétendu monde des origines ? — C’est le terme populaire. En fait il est impossible de savoir quel était le nom véritable de ce monde, à supposer qu’il en ait eu un.",
+        "ner_chunk": "Output : — @@Terra## ? Est-ce ainsi qu’ils baptisent ce prétendu monde des origines ? — C’est le terme populaire. En fait il est impossible de savoir quel était le nom véritable de ce monde, à supposer qu’il en ait eu un."
+    },
+    "chunk_53": {
+        "chunk": "Et personne n’a le moindre indice sur son éventuelle localisation. — Terra ! répéta Seldon, les lèvres retroussées. On dirait une éructation !",
+        "ner_chunk": "Output : Et personne n’a le moindre indice sur son éventuelle localisation. — @@Terra## ! répéta @@Seldon##, les lèvres retroussées. On dirait une éructation !"
+    },
+    "chunk_54": {
+        "chunk": "En tout cas, si le Livre parle du monde des origines, je ne suis pas tombé dessus. Comment l’épelez-vous ? — T-E-R-R-A, ou encore la Terre. » Seldon feuilleta rapidement le Livre.",
+        "ner_chunk": "Output : En tout cas, si le Livre parle du monde des origines, je ne suis pas tombé dessus. Comment l’épelez-vous ? — T-E-R-R-A, ou encore la Terre. » @@Seldon## feuilleta rapidement le Livre."
+    },
+    "chunk_55": {
+        "chunk": "« Et voilà : le nom n’est cité nulle part dans l’index, ni sous cette orthographe ni sous une variante plausible. — Vraiment ? — Et on y mentionne d’autres mondes au passage. Mais sans donner de nom.",
+        "ner_chunk": "Output : « Et voilà : le nom n’est cité nulle part dans l’index, ni sous cette orthographe ni sous une variante plausible. — Vraiment ? — Et on y mentionne d’autres mondes au passage. Mais sans donner de nom."
+    },
+    "chunk_56": {
+        "chunk": "Apparemment, les textes ne s’intéressent pourrais garder encore longtemps les yeux ouverts. Ça ne vous dérange pas si j’éteins ? — Au contraire, Hari. Et demain, on essaiera de faire la grasse matinée.",
+        "ner_chunk": "Output : Apparemment, les textes ne s’intéressent pourrais garder encore longtemps les yeux ouverts. Ça ne vous dérange pas si j’éteins ? — Au contraire, @@Hari##. Et demain, on essaiera de faire la grasse matinée."
+    },
+    "chunk_57": {
+        "chunk": "» Puis, dans le noir, Seldon remarqua, doucement : « Évidemment, il y a là-dedans des trucs ridicules. Par exemple, ils évoquent sur leur monde des durées de vie de trois à quatre siècles. — Des siècles ? — Oui.",
+        "ner_chunk": "Output : » Puis, dans le noir, @@Seldon## remarqua, doucement : « Évidemment, il y a là-dedans des trucs ridicules. Par exemple, ils évoquent sur leur monde des durées de vie de trois à quatre siècles. — Des siècles ? — Oui."
+    },
+    "chunk_58": {
+        "chunk": "Ils décomptent l’âge par décennies plutôt que par années. C’est drôle, parce qu’ils racontent tellement de choses parfaitement banales que, lorsqu’on tombe sur ce genre d’étrangetés, on se surprend presque à le croire. — Si vous commencez à vous sentir enclin à croire ça, alors souvenez-vous que quantité de mythes fondateurs attribuent aux premiers chefs des longévités incroyables. S’ils sont décrits comme incroyablement héroïques, il semble naturel que leur durée de vie soit en rapport, voyez-vous.",
+        "ner_chunk": "Input : Ils décomptent l’âge par décennies plutôt que par années. C’est drôle, parce qu’ils racontent tellement de choses parfaitement banales que, lorsqu’on tombe sur ce genre d’étrangetés, on se surprend presque à le croire. — Si vous commencez à vous sentir enclin à croire ça, alors souvenez-vous que quantité de mythes fondateurs attribuent aux premiers chefs des longévités incroyables. S’ils sont décrits comme incroyablement héroïques, il semble naturel que leur durée de vie soit en rapport, voyez-vous.\n\nOutput : Ils décomptent l’âge par décennies plutôt que par années. C’est drôle, parce qu’ils racontent tellement de choses parfaitement banales que, lorsqu’on tombe sur ce genre d’étrangetés, on se surprend presque à le croire. — Si vous commencez à vous sentir enclin à croire ça, alors souvenez-vous que quantité de mythes fondateurs attribuent aux premiers chefs des longévités incroyables. S’ils sont décrits comme incroyablement héroïques, il semble naturel que leur durée de vie soit en rapport, voyez-vous."
+    },
+    "chunk_59": {
+        "chunk": "— Pas possible ? bâilla Seldon. — Absolument. Et le remède à la crédulité avancée, c’est une bonne nuit de sommeil suivie d’une mûre réflexion le lendemain.",
+        "ner_chunk": "Output : — Pas possible ? bâilla @@Seldon##. — Absolument. Et le remède à la crédulité avancée, c’est une bonne nuit de sommeil suivie d’une mûre réflexion le lendemain."
+    },
+    "chunk_60": {
+        "chunk": "» Et, comme l’idée l’effleurait qu’une pareille longévité était peut-être la condition sine qua non pour parvenir à appréhender une Galaxie entière d’êtres humains, Seldon s’endormit. Le lendemain, se sentant détendu, frais et dispos, prêt à se relancer dans l’étude du Livre, Hari demanda à Dors quel âge elle donnait aux deux sœurs Goutte-de-Pluie. « Je ne sais pas, répondit celle-ci. Vingt ans... Vingt-deux ?",
+        "ner_chunk": "» Et, comme l’idée l’effleurait qu’une pareille longévité était peut-être la condition sine qua non pour parvenir à appréhender une Galaxie entière d’êtres humains, @@Seldon## s’endormit. Le lendemain, se sentant détendu, frais et dispos, prêt à se relancer dans l’étude du Livre, @@Hari## demanda à @@Dors## quel âge elle donnait aux deux sœurs @@Goutte-de-Pluie##. « Je ne sais pas, répondit celle-ci. Vingt ans... Vingt-deux ?"
+    },
+    "chunk_61": {
+        "chunk": "— Eh bien, supposons qu’en fait elles vivent trois ou quatre siècles... — Hari. C’est ridicule. — J’ai dit : supposons. En mathématiques, on dit tout le temps ― supposons ‖ pour voir si l’on débouche sur une conclusion manifestement erronée ou bien auto-contradictoire.",
+        "ner_chunk": "Output : — Eh bien, supposons qu’en fait elles vivent trois ou quatre siècles... — @@Hari##. C’est ridicule. — J’ai dit : supposons. En mathématiques, on dit tout le temps ― supposons ‖ pour voir si l’on débouche sur une conclusion manifestement erronée ou bien auto-contradictoire."
+    },
+    "chunk_62": {
+        "chunk": "penser... C’est vous l’historienne. Dans vos travaux, êtes-vous déjà tombée sur des objets ou des phénomènes appelés ― robots ‖ ? — Ah ! Voilà que vous passez à une autre légende – et fort populaire, qui plus est.",
+        "ner_chunk": "Output : penser... C’est vous @@l’historienne##. Dans vos travaux, êtes-vous déjà tombée sur des objets ou des phénomènes appelés ― robots ‖ ? — Ah ! Voilà que vous passez à une autre légende – et fort populaire, qui plus est."
+    },
+    "chunk_63": {
+        "chunk": "Sur un nombre incalculable de mondes, on imagine qu’aux temps préhistoriques existaient des machines à forme humaine qu’on appelait des ― robots ‖. « Tous les récits de robots trouvent sans doute leur origine dans un mythe fondateur unique car le thème général est le même : les robots ont été conçus puis ont grandi en nombre et en capacités au point de devenir presque surhumains. Ils menaçaient l’humanité et furent détruits. Dans chaque cas, cette destruction est intervenue avant que n’existent les archives historiques fiables dont nous disposons de nos jours.",
+        "ner_chunk": "Input : Sur un nombre incalculable de mondes, on imagine qu’aux temps préhistoriques existaient des machines à forme humaine qu’on appelait des ― robots ‖. « Tous les récits de robots trouvent sans doute leur origine dans un mythe fondateur unique car le thème général est le même : les robots ont été conçus puis ont grandi en nombre et en capacités au point de devenir presque surhumains. Ils menaçaient l’humanité et furent détruits. Dans chaque cas, cette destruction est intervenue avant que n’existent les archives historiques fiables dont nous disposons de nos jours.\n\nOutput : Sur un nombre incalculable de mondes, on imagine qu’aux temps préhistoriques existaient des machines à forme humaine qu’on appelait des ― robots ‖. « Tous les récits de robots trouvent sans doute leur origine dans un mythe fondateur unique car le thème général est le même : les robots ont été conçus puis ont grandi en nombre et en capacités au point de devenir presque surhumains. Ils menaçaient l’humanité et furent détruits. Dans chaque cas, cette destruction est intervenue avant que n’existent les archives historiques fiables dont nous disposons de nos jours."
+    },
+    "chunk_64": {
+        "chunk": "Le sentiment général est que ce conte est une image symbolique des risques et des dangers inhérents à l’exploration de la Galaxie, quand l’humanité s’est répandue loin du ou des mondes qui constituaient son habitat d’origine. De tout temps a dû exister cette peur de rencontrer des intelligences différentes – et supérieures. — Peut-être le cas s’est-il produit une fois au moins, donnant naissance à la légende. — Mais sur aucune des planètes colonisées par l’homme on n’a trouvé la moindre trace d’intelligence pré-humaine ou non humaine.",
+        "ner_chunk": "Le sentiment général est que ce conte est une image symbolique des risques et des dangers inhérents à l’exploration de la Galaxie, quand l’humanité s’est répandue loin du ou des mondes qui constituaient son habitat d’origine. De tout temps a dû exister cette peur de rencontrer des intelligences différentes – et supérieures. — Peut-être le cas s’est-il produit une fois au moins, donnant naissance à la légende. — Mais sur aucune des planètes colonisées par l’homme on n’a trouvé la moindre trace d’intelligence pré-humaine ou non humaine."
+    },
+    "chunk_65": {
+        "chunk": "— Alors, pourquoi des ― robots ‖ ? Ce mot a-t-il un sens ? — Pas que je sache, mais c’est l’équivalent du terme usuel ― automates ‖. — Des automates !",
+        "ner_chunk": "Output : — Alors, pourquoi des ― robots ‖ ? Ce mot a-t-il un sens ? — Pas que je sache, mais c’est l’équivalent du terme usuel ― automates ‖. — Des automates !"
+    },
+    "chunk_66": {
+        "chunk": "Eh bien, pourquoi ne pas le dire clairement ? — Parce que les gens aiment bien user de termes archaïques pour faire couleur locale, dès qu’ils content une légende ancienne. Pourquoi toutes ces questions, au fait ? — Parce que dans cet antique livre mycogénien, on parle de robots.",
+        "ner_chunk": "Output : Eh bien, pourquoi ne pas le dire clairement ? — Parce que les gens aiment bien user de termes archaïques pour faire couleur locale, dès qu’ils content une légende ancienne. Pourquoi toutes ces questions, au fait ? — Parce que dans cet antique livre mycogénien, on parle de robots."
+    },
+    "chunk_67": {
+        "chunk": "Et l’on en dit le plus grand bien, d’ailleurs. Écoutez, Dors, vous ne devez pas ressortir avec Goutte-de-Pluie Quarante-cinq, cet après-midi ? — Théoriquement... si elle vient me chercher. — Ça vous dérangerait de lui poser quelques questions et d’essayer de lui soutirer des réponses ?",
+        "ner_chunk": "Output : Et l’on en dit le plus grand bien, d’ailleurs. Écoutez, @@Dors##, vous ne devez pas ressortir avec @@Goutte-de-Pluie Quarante-cinq##, cet après-midi ? — Théoriquement... si elle vient me chercher. — Ça vous dérangerait de lui poser quelques questions et d’essayer de lui soutirer des réponses ?"
+    },
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type \"Personnages\" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction \"Le cycle des Fondations\" d'Isaac Asimov. Voici quelques exemples :\n\n     Input : Dors tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n     Output : @@Dors## tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n     Input : C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois.\n\n     Output : C’est vraiment enfantin, dit @@Goutte-de-Pluie Quarante- cinq##. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit @@Goutte-de-Pluie Quarante-trois##.\n\n     Input : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la\n     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n     année que Hari Seldon. (On pense que la date de naissance de\n     Seldon, que certains estiment douteuse, aurait pu être\n     « ajustée » pour coïncider avec celle de Cléon que Seldon, peu\n     après son arrivée sur Trantor, est censé avoir rencontré.)\n\n     Output : Mathématicien @@CLÉON Ier##— ... dernier @@Empereur## galactique de la\n     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n     année que @@Hari Seldon##. (On pense que la date de naissance de\n     @@Seldon##, que certains estiment douteuse, aurait pu être\n     « ajustée » pour coïncider avec celle de @@Cléon## que @@Seldon##, peu\n     après son arrivée sur Trantor, est censé avoir rencontré.)\n\n     Input : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n     proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n     autorisation des éditeurs.\n     semblerait malgré tout qu’il puisse encore arriver des choses\n     intéressantes. Du moins, à ce que j’ai entendu dire.\n          — Par le ministre des Sciences ?\n          — Effectivement. Il m’a appris que ce Hari Seldon a assisté\n     à un congrès de mathématiciens ici même, à Trantor – ils\n     l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n     aurait démontré qu’on peut prévoir mathématiquement\n\n     Output : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n     proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n     autorisation des éditeurs.\n     semblerait malgré tout qu’il puisse encore arriver des choses\n     intéressantes. Du moins, à ce que j’ai entendu dire.\n          — Par le ministre des Sciences ?\n          — Effectivement. Il m’a appris que ce @@Hari Seldon## a assisté\n     à un congrès de mathématiciens ici même, à Trantor – ils\n     l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n     aurait démontré qu’on peut prévoir mathématiquement\n\n     Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?\n\n     Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?\n\n     Input : C’est à mi-tirade que Seldon comprit qu’il s’adressait à l’empereur Cléon, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, Cléon\n     \n     Output : C’est à mi-tirade que @@Seldon##  comprit qu’il s’adressait à @@l’empereur Cléon##, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, @@Cléon##\n\n     Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais \n     le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,\n     je ne mettrais pas de balise. Si je croise un personnage, avec de la ponctuation, je mettrais la balise\n     avant la ponctuation sauf si c'est un mot composé avec des tirets. Garde les determinants avec le nom d'un personnage si tu peux.\n     ",
+        "user_prompt": "\n\n          Input : Et l’on en dit le plus grand bien, d’ailleurs. Écoutez, Dors, vous ne devez pas ressortir avec Goutte-de-Pluie Quarante-cinq, cet après-midi ? — Théoriquement... si elle vient me chercher. — Ça vous dérangerait de lui poser quelques questions et d’essayer de lui soutirer des réponses ?\n\n          Output : ",
+        "generated_content": "Output : Et l’on en dit le plus grand bien, d’ailleurs. Écoutez, @@Dors##, vous ne devez pas ressortir avec @@Goutte-de-Pluie Quarante-cinq##, cet après-midi ? — Théoriquement... si elle vient me chercher. — Ça vous dérangerait de lui poser quelques questions et d’essayer de lui soutirer des réponses ?",
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

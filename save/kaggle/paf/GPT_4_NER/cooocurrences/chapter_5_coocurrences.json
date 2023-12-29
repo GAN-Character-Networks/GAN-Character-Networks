@@ -1,0 +1,401 @@
+{
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Lisung Randa"
+        ],
+        [
+            "Lisung Randa",
+            "Seldon"
+        ],
+        [
+            "Lisung Randa",
+            "Randa"
+        ],
+        [
+            "Lisung Randa",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Randa",
+            "Dors"
+        ],
+        [
+            "Kiangtow Randa",
+            "Seldon"
+        ],
+        [
+            "Kiangtow Randa",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Jenarr Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "docteur Leggen"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Lisung"
+        },
+        {
+            "word": "Randa"
+        },
+        {
+            "word": "Lisung Randa"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Kiangtow Randa"
+        },
+        {
+            "word": "Jenarr Leggen"
+        },
+        {
+            "word": "Leggen"
+        },
+        {
+            "word": "Clowzia"
+        },
+        {
+            "word": "docteur Leggen"
+        },
+        {
+            "word": "Dors Venabili"
+        }
+    ],
+    "aliases": [
+        [
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Lisung",
+            "Randa",
+            "Kiangtow Randa",
+            "Lisung Randa"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Jenarr Leggen",
+            "docteur Leggen",
+            "Leggen"
+        ],
+        [
+            "Clowzia"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ]
+        ],
+        [
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ]
+        ],
+        [
+            [
+                "Jenarr Leggen",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lisung",
+                "Randa",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Jenarr Leggen",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Jenarr Leggen",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Clowzia"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Clowzia"
+            ]
+        ],
+        [
+            [
+                "Clowzia"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Clowzia"
+            ],
+            [
+                "Jenarr Leggen",
+                "docteur Leggen",
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Clowzia"
+            ]
+        ],
+        [
+            [
+                "Jenarr Leggen",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Clowzia"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ]
+    ]
+}

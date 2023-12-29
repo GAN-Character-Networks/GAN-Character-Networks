@@ -1,0 +1,38 @@
+{
+    "final_gpt_entities": [
+        "Daneel",
+        "Enderby",
+        "Baley",
+        "Lije",
+        "R. Sammy",
+        "Spacetown",
+        "R. Daneel",
+        "Spacien",
+        "Elijah",
+        "Fastolfe",
+        "Dr Han Fastolfe",
+        "Sarton",
+        "monsieur le commissaire principal",
+        "monsieur Baley",
+        "R. Daneel Olivaw"
+    ],
+    "init_gpt_entities": [
+        "Spacetown",
+        "Fastolfe",
+        "Spacien",
+        "R. Sammy",
+        "Daneel",
+        "monsieur le commissaire principal",
+        "Elijah",
+        "Elijah Baley",
+        "Enderby",
+        "Sarton",
+        "monsieur",
+        "Dr Han Fastolfe",
+        "R. Daneel Olivaw",
+        "R. Daneel",
+        "monsieur Baley",
+        "Baley",
+        "Lije"
+    ]
+}

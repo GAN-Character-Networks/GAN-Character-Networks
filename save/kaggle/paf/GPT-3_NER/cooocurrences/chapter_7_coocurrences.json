@@ -1,0 +1,828 @@
+{
+    "cooccurences": [
+        [
+            "Mycogène MYCOGÈNE",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Eto Demerzel"
+        ],
+        [
+            "Eto Demerzel",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Leggen",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Empire"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Empire",
+            "Demerzel"
+        ],
+        [
+            "Empire",
+            "Hummin"
+        ],
+        [
+            "Demerzel",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Damiano Nord"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Mycogène"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Mycogène MYCOGÈNE"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Eto Demerzel"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Leggen"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Randa"
+        },
+        {
+            "word": "Empire"
+        },
+        {
+            "word": "Damiano Nord"
+        },
+        {
+            "word": "Cléon"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Dors Venabili"
+        }
+    ],
+    "aliases": [
+        [
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Mycogène MYCOGÈNE"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Leggen"
+        ],
+        [
+            "Hari"
+        ],
+        [
+            "Randa"
+        ],
+        [
+            "Empire"
+        ],
+        [
+            "Damiano Nord"
+        ],
+        [
+            "Cléon"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Randa"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Empire"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Empire"
+            ],
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Empire"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Leggen"
+            ]
+        ],
+        [
+            [
+                "Leggen"
+            ],
+            [
+                "Damiano Nord"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hari"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ]
+        ],
+        [
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari"
+            ],
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ]
+        ],
+        [
+            [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Hummin\nMycogène\nSeldon\nMycogène MYCOGÈNE\nDors\nEto Demerzel\nDemerzel\nLeggen\nHari\nRanda\nEmpire\nDamiano Nord\nCléon\nHari Seldon\nDors Venabili\")\n     Liste de personnes : \n\n     Hummin\nMycogène\nSeldon\nMycogène MYCOGÈNE\nDors\nEto Demerzel\nDemerzel\nLeggen\nHari\nRanda\nEmpire\nDamiano Nord\nCléon\nHari Seldon\nDors Venabili\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Hummin"
+            ],
+            "1": [
+                "Mycogène",
+                "Mycogène MYCOGÈNE"
+            ],
+            "2": [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "3": [
+                "Dors",
+                "Dors Venabili"
+            ],
+            "4": [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            "5": [
+                "Leggen"
+            ],
+            "6": [
+                "Hari"
+            ],
+            "7": [
+                "Randa"
+            ],
+            "8": [
+                "Empire"
+            ],
+            "9": [
+                "Damiano Nord"
+            ],
+            "10": [
+                "Cléon"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

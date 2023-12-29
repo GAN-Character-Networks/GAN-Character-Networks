@@ -1,0 +1,160 @@
+{
+    "final_gpt_entities": [
+        "Hari",
+        "Seldon",
+        "Hari Seldon",
+        "Dors Venabili",
+        "Dors",
+        "Venabili",
+        "Mycélium Soixante-douze",
+        "Hummin",
+        "Bendar",
+        "Sœurs",
+        "Maître-du-Soleil",
+        "Maître-du-Soleil Quatorze",
+        "Frère âgé",
+        "Frère",
+        "Bande-céleste Deux",
+        "Grand Ancien",
+        "l’Empereur",
+        "l’Ancien",
+        "Eto Demerzel",
+        "Demerzel",
+        "Chetter",
+        "Renégat"
+    ],
+    "init_gpt_entities": [
+        "Grand Ancien",
+        "Hari",
+        "Frère âgé",
+        "Mycogène",
+        "l’Empire",
+        "Mycélium Soixante-douze",
+        "Eto Demerzel",
+        "Chetter",
+        "Mycogénien",
+        "Sœur",
+        "Frère",
+        "Seldon",
+        "Bendar",
+        "Bande-céleste Deux",
+        "Maître-du-Soleil",
+        "Hari Seldon",
+        "l’Empereur",
+        "Dors Venabili",
+        "Dors",
+        "Hummin",
+        "Demerzel",
+        "Maître-du-Soleil Quatorze",
+        "Renégat",
+        "Sœurs",
+        "Venabili",
+        "l’Ancien"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Aire ROBOT. — ... Terme employé dans les légendes antiques de plusieurs mondes pour qualifier ce qu’on appelle plus communément des « automates ». Les robots sont généralement décrits comme faits de métal et d’apparence humaine, mais l’on suppose que certains auraient été de nature pseudo-organique. La croyance populaire veut qu’au cours de la Fuite, Hari Seldon ait aperçu un véritable robot, mais la véracité de cette anecdote reste douteuse. Nulle part, dans les volumineux écrits laissés par Seldon, il n’est fait mention du moindre robot, quoique... ENCYCLOPAEDIA GALACTICA Ils passèrent inaperçus.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Aire ROBOT. — ... Terme employé dans les légendes antiques de plusieurs mondes pour qualifier ce qu’on appelle plus communément des « automates ». Les robots sont généralement décrits comme faits de métal et d’apparence humaine, mais l’on suppose que certains auraient été de nature pseudo-organique. La croyance populaire veut qu’au cours de la Fuite, Hari Seldon ait aperçu un véritable robot, mais la véracité de cette anecdote reste douteuse. Nulle part, dans les volumineux écrits laissés par Seldon, il n’est fait mention du moindre robot, quoique... ENCYCLOPAEDIA GALACTICA Ils passèrent inaperçus.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Aire ROBOT. — ... Terme employé dans les légendes antiques de plusieurs mondes pour qualifier ce qu’on appelle plus communément des « automates ». Les robots sont généralement décrits comme faits de métal et d’apparence humaine, mais l’on suppose que certains auraient été de nature pseudo-organique. La croyance populaire veut qu’au cours de la Fuite, Hari Seldon ait aperçu un véritable robot, mais la véracité de cette anecdote reste douteuse. Nulle part, dans les volumineux écrits laissés par Seldon, il n’est fait mention du moindre robot, quoique... ENCYCLOPAEDIA GALACTICA Ils passèrent inaperçus.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Hari Seldon et Dors Venabili répétèrent le trajet de la veille et cette fois, personne ne les lorgna à deux fois. On ne leur accorda pas même un regard. A plusieurs reprises, ils durent se tasser pour laisser sortir un passager assis plus au centre. Ils eurent tôt fait de réaliser qu’à la montée d’un nouveau voyageur, ils devaient se décaler vers l’intérieur s’il y avait une place libre. Cette fois, n’étant pas aussi facilement distraits par le spectacle du dehors, ils furent vite incommodés par l’odeur de tuniques d’une propreté douteuse.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Hari Seldon et Dors Venabili répétèrent le trajet de la veille et cette fois, personne ne les lorgna à deux fois. On ne leur accorda pas même un regard. A plusieurs reprises, ils durent se tasser pour laisser sortir un passager assis plus au centre. Ils eurent tôt fait de réaliser qu’à la montée d’un nouveau voyageur, ils devaient se décaler vers l’intérieur s’il y avait une place libre. Cette fois, n’étant pas aussi facilement distraits par le spectacle du dehors, ils furent vite incommodés par l’odeur de tuniques d’une propreté douteuse.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Hari Seldon et Dors Venabili répétèrent le trajet de la veille et cette fois, personne ne les lorgna à deux fois. On ne leur accorda pas même un regard. A plusieurs reprises, ils durent se tasser pour laisser sortir un passager assis plus au centre. Ils eurent tôt fait de réaliser qu’à la montée d’un nouveau voyageur, ils devaient se décaler vers l’intérieur s’il y avait une place libre. Cette fois, n’étant pas aussi facilement distraits par le spectacle du dehors, ils furent vite incommodés par l’odeur de tuniques d’une propreté douteuse.\n\n                    Question : Le mot \"Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Enfin ils parvinrent à destination. « Et voilà la bibliothèque, dit Seldon à mi-voix. — Je suppose, répondit Dors. Du moins est-ce l’édifice indiqué hier par Mycélium Soixante-douze. » Ils s’y dirigèrent d’un pas tranquille.\n\n                    Question : Le mot \"Mycélium Soixante-douze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quelque chose pourrait se bloquer et nous retarder. » Ce disant, il lui indiqua, surmontant une rangée de rayonnages, un discret bandeau lumineux annonçant : VERS LE SACR TORIUM Le second A de SACRATORIUM était éteint, panne récente ou négligence généralisée. (L’Empire, songea Seldon, était effectivement en plein déclin. Partout. A Mycogène aussi.)\n\n                    Question : Le mot \"Mycogène\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Elle toucha son écharpe, à l’endroit où celle-ci passait entre ses seins invisibles. « Parce que Hummin vous l’a demandé ? — Parce que ce sont mes ordres. » Elle le saisit par le bras juste au-dessus du coude et, comme toujours, il fut surpris de la fermeté de sa poigne. « J’étais opposée à cette idée, Hari, mais si vous vous sentez obligé d’entrer, alors je dois entrer avec vous.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le robot qu’on aperçoit près du centre s’appelait, selon la tradition, Bendar et servit, d’après les archives antiques, vingt-deux années avant d’être remplacé. » « ― Récemment reconstituée ‖, nota Dors. Donc, ils doivent les changer. — Si elle existe. J’ai l’impression qu’il n’y a rien d’autre dans cette coque vide.\n\n                    Question : Le mot \"Bendar\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Alors un homme – tout à fait humain, sans risque d’erreur –, apparut derrière le robot et leur dit : « Peut-être pas. Mais moi, je suis bien vivant. » Et presque automatiquement, Dors fit un pas pour s’interposer entre Seldon et l’homme qui venait soudain d’apparaître. — Savez-vous que nulle femme, même une Sœur, n’est admise dans le Sacratorium, excepté dans certaines circonstances précises, et rarissimes ? — On me l’a dit.\n\n                    Question : Le mot \"Sœur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Et savez-vous que nulle femme, à nul moment, et pour quelque motif que ce soit, n’a le droit d’endosser des habits masculins ? Cela est valable, au sein des frontières de Mycogène, pour les Sœurs comme pour les barbares. — On ne me l’avait pas dit mais ça ne me surprend pas. — Bien. J’aimerais que vous teniez compte de tout cela.\n\n                    Question : Le mot \"Sœurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Aussi vous repose-je la question, barbare : comment saviez-vous qu’un robot existait à Mycogène, et qu’il se trouvait dans cette pièce ? — La rumeur générale, avoua enfin Seldon. — Vous soutenez cela ? — La rumeur générale, je le soutiens. » Le regard perçant des yeux bleus de Maître-du-Soleil Quatorze parut s’aiguiser encore lorsqu’il répondit, sans hausser le ton : « Barbare Seldon, nous coopérons depuis longtemps avec le barbare Hummin.\n\n                    Question : Le mot \"Maître-du-Soleil\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Aussi vous repose-je la question, barbare : comment saviez-vous qu’un robot existait à Mycogène, et qu’il se trouvait dans cette pièce ? — La rumeur générale, avoua enfin Seldon. — Vous soutenez cela ? — La rumeur générale, je le soutiens. » Le regard perçant des yeux bleus de Maître-du-Soleil Quatorze parut s’aiguiser encore lorsqu’il répondit, sans hausser le ton : « Barbare Seldon, nous coopérons depuis longtemps avec le barbare Hummin.\n\n                    Question : Le mot \"Maître-du-Soleil Quatorze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous étiez surveillés en permanence, car n’allez pas imaginer qu’un Frère ou une Sœur, à moins d’être totalement distrait, ne reconnaisse pas un barbare au premier coup d’œil. On sait reconnaître un bonnet de peau lorsqu’on en voit un et il en existe moins de soixante-dix au total à Mycogène... presque tous appartenant à des membres des tribus barbares en mission officielle ; et ces gens restent en permanence confinés dans les édifices séculiers du gouvernement, tout au long de leur séjour. De sorte que vous n’étiez pas seulement remarqués mais aussi parfaitement identifiés, en permanence. « Le Frère âgé qui vous a rencontrés a bien pris soin de vous parler de la bibliothèque en même temps que du Sacratorium, mais il a également pris soin de vous préciser ce qui vous était interdit car nous ne voulions pas vous prendre au piège. Bande-céleste Deux vous a également prévenus... et avec une certaine insistance.\n\n                    Question : Le mot \"Frère âgé\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous étiez surveillés en permanence, car n’allez pas imaginer qu’un Frère ou une Sœur, à moins d’être totalement distrait, ne reconnaisse pas un barbare au premier coup d’œil. On sait reconnaître un bonnet de peau lorsqu’on en voit un et il en existe moins de soixante-dix au total à Mycogène... presque tous appartenant à des membres des tribus barbares en mission officielle ; et ces gens restent en permanence confinés dans les édifices séculiers du gouvernement, tout au long de leur séjour. De sorte que vous n’étiez pas seulement remarqués mais aussi parfaitement identifiés, en permanence. « Le Frère âgé qui vous a rencontrés a bien pris soin de vous parler de la bibliothèque en même temps que du Sacratorium, mais il a également pris soin de vous préciser ce qui vous était interdit car nous ne voulions pas vous prendre au piège. Bande-céleste Deux vous a également prévenus... et avec une certaine insistance.\n\n                    Question : Le mot \"Frère\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous étiez surveillés en permanence, car n’allez pas imaginer qu’un Frère ou une Sœur, à moins d’être totalement distrait, ne reconnaisse pas un barbare au premier coup d’œil. On sait reconnaître un bonnet de peau lorsqu’on en voit un et il en existe moins de soixante-dix au total à Mycogène... presque tous appartenant à des membres des tribus barbares en mission officielle ; et ces gens restent en permanence confinés dans les édifices séculiers du gouvernement, tout au long de leur séjour. De sorte que vous n’étiez pas seulement remarqués mais aussi parfaitement identifiés, en permanence. « Le Frère âgé qui vous a rencontrés a bien pris soin de vous parler de la bibliothèque en même temps que du Sacratorium, mais il a également pris soin de vous préciser ce qui vous était interdit car nous ne voulions pas vous prendre au piège. Bande-céleste Deux vous a également prévenus... et avec une certaine insistance.\n\n                    Question : Le mot \"Bande-céleste Deux\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Vous constatez donc que c’était bien votre intention première et que nous ne vous avons en aucun cas attirés ici. Votre venue est le résultat de votre action personnelle, de vos désirs personnels, et la question que je veux vous poser – encore une fois – c’est : pourquoi ? » Cette fois, ce fut Dors qui répondit, la voix ferme, le regard dur : « Nous vous le répétons, Mycogénien : nous sommes des scientifiques pour qui la connaissance est quelque chose de sacré et c’est la connaissance que nous recherchons, et elle seule. Vous ne nous avez peut-être pas attirés ici, mais vous ne nous avez pas retenus non plus, comme vous auriez pu le faire avant notre entrée dans cet édifice. Au contraire, vous nous avez — Et vous allez nous abattre ?\n\n                    Question : Le mot \"Mycogénien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Restons raisonnables, Maître-du-Soleil Quatorze, intervint Seldon. Vous faites peut-être la loi pour les affaires locales de Mycogène mais certainement pas pour nous et vous le savez bien. Nous sommes l’un et l’autre des citoyens non mycogéniens de l’Empire et c’est l’Empereur et ses représentants légaux qui sont concernés par tout crime capital. — Il en est peut-être ainsi dans le texte, dans les journaux et sur les écrans d’holovision, mais nous ne parlons pas théorie en ce moment. Le Grand Ancien a depuis longtemps pouvoir pour châtier les crimes de sacrilège sans interférence du trône impérial.\n\n                    Question : Le mot \"Grand Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Restons raisonnables, Maître-du-Soleil Quatorze, intervint Seldon. Vous faites peut-être la loi pour les affaires locales de Mycogène mais certainement pas pour nous et vous le savez bien. Nous sommes l’un et l’autre des citoyens non mycogéniens de l’Empire et c’est l’Empereur et ses représentants légaux qui sont concernés par tout crime capital. — Il en est peut-être ainsi dans le texte, dans les journaux et sur les écrans d’holovision, mais nous ne parlons pas théorie en ce moment. Le Grand Ancien a depuis longtemps pouvoir pour châtier les crimes de sacrilège sans interférence du trône impérial.\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Restons raisonnables, Maître-du-Soleil Quatorze, intervint Seldon. Vous faites peut-être la loi pour les affaires locales de Mycogène mais certainement pas pour nous et vous le savez bien. Nous sommes l’un et l’autre des citoyens non mycogéniens de l’Empire et c’est l’Empereur et ses représentants légaux qui sont concernés par tout crime capital. — Il en est peut-être ainsi dans le texte, dans les journaux et sur les écrans d’holovision, mais nous ne parlons pas théorie en ce moment. Le Grand Ancien a depuis longtemps pouvoir pour châtier les crimes de sacrilège sans interférence du trône impérial.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ils se souvenaient même que j’étais Frère honoraire. L’auriez-vous oublié, Maître-du-Soleil Quatorze ? — Je n’ai pas oublié, rétorqua l’Ancien, mais même le souvenir le plus opportun ne peut survivre à certains actes. Un barbare, ici ! et une femme barbare !\n\n                    Question : Le mot \"l’Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quelque faveur ? Quelque concession ? Avez-vous déjà été en contact avec lui ou, plus vraisemblablement, avec son chef d’état-major, Eto Demerzel ? — Ce n’est pas le sujet de la discussion. — Oui, je sais, Grand Ancien, mais ce n’est un crime que parce que vous avez décidé de le nommer ainsi.\n\n                    Question : Le mot \"Eto Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quelque faveur ? Quelque concession ? Avez-vous déjà été en contact avec lui ou, plus vraisemblablement, avec son chef d’état-major, Eto Demerzel ? — Ce n’est pas le sujet de la discussion. — Oui, je sais, Grand Ancien, mais ce n’est un crime que parce que vous avez décidé de le nommer ainsi.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Jamais plus, répondit Dors avec une profonde conviction, jamais plus je ne porterai ou même ne regarderai quoi que ce soit qui ressemble de près ou de loin à une tunique. Et plus jamais, en aucune circonstance, je ne porterai de bonnet de peau. Je crois même que ça va me faire un drôle d’effet si jamais je croise un homme naturellement chauve. » Ce fut Dors qui posa finalement la question que Seldon avait hésité à formuler. « Chetter, fit-elle avec une certaine humeur, pourquoi ne voulez-vous pas nous dire où nous allons ?\n\n                    Question : Le mot \"Chetter\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Et combien en existerait-il ? — On ne le dit pas – du moins, je ne suis pas tombé sur un passage où soient fournis les chiffres. Ils n’étaient peut-être qu’une poignée, mais l’un d’eux en tout cas est cité par le Livre sous le nom de ― Renégat ‖. Le terme semble avoir un sens infamant mais je n’ai pu deviner lequel. — Vous ne m’aviez pas parlé de ça, intervint Dors.\n\n                    Question : Le mot \"Renégat\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

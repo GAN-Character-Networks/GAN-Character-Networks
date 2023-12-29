@@ -1,0 +1,1077 @@
+{
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors Venabili",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Chetter Hummin"
+        ],
+        [
+            "Dors",
+            "Demerzel"
+        ],
+        [
+            "Chetter Hummin",
+            "Demerzel"
+        ],
+        [
+            "Chetter Hummin",
+            "l’Empereur"
+        ],
+        [
+            "Demerzel",
+            "l’Empereur"
+        ],
+        [
+            "Dors",
+            "Casilia"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "la Mère Rittah"
+        ],
+        [
+            "la Mère Rittah",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "la Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "la Mère Rittah",
+            "Raych"
+        ],
+        [
+            "la Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "la Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "la Mère Rittah",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Hari Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "La Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Da-Nee",
+            "Ba-Lee"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "la Mère Rittah"
+        ],
+        [
+            "la Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Hari"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Casilia"
+        },
+        {
+            "word": "Maître Seldon"
+        },
+        {
+            "word": "Tisalver"
+        },
+        {
+            "word": "Maîtresse Venabili"
+        },
+        {
+            "word": "la Mère Rittah"
+        },
+        {
+            "word": "Mère Rittah"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "La Mère Rittah"
+        },
+        {
+            "word": "Ba-Lee"
+        },
+        {
+            "word": "Da-Nee"
+        },
+        {
+            "word": "Marron"
+        }
+    ],
+    "aliases": [
+        [
+            "Hari",
+            "Seldon",
+            "Maître Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "l’Empereur"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Casilia"
+        ],
+        [
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili"
+        ],
+        [
+            "La Mère Rittah",
+            "Mère Rittah"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Ba-Lee"
+        ],
+        [
+            "Da-Nee"
+        ],
+        [
+            "Marron"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            [
+                "Maître-du-Soleil Quatorze"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            [
+                "l’Empereur"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "l’Empereur"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Casilia"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Casilia"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Casilia"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Maîtresse Venabili"
+            ]
+        ],
+        [
+            [
+                "Tisalver"
+            ],
+            [
+                "Maîtresse Venabili"
+            ]
+        ],
+        [
+            [
+                "Maîtresse Venabili"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Da-Nee"
+            ],
+            [
+                "Ba-Lee"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ]
+        ],
+        [
+            [
+                "La Mère Rittah",
+                "Mère Rittah"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Marron"
+            ]
+        ],
+        [
+            [
+                "Marron"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors Venabili",
+                "Dors"
+            ],
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari",
+                "Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors Venabili",
+                "Dors"
+            ]
+        ]
+    ]
+}

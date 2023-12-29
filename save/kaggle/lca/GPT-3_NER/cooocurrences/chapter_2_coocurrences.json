@@ -1,0 +1,224 @@
+{
+    "cooccurences": [
+        [
+            "Baley",
+            "Spacien"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Spacien",
+            "R. Daneel Olivaw"
+        ],
+        [
+            "Olivaw",
+            "Elijah Baley"
+        ],
+        [
+            "Baley",
+            "R. Sammy"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R. Daneel"
+        ],
+        [
+            "R. Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Spacien"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "R"
+        },
+        {
+            "word": "Olivaw"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "R. Daneel Olivaw"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Elijah Baley"
+        },
+        {
+            "word": "Da... Daneel"
+        },
+        {
+            "word": "R. Sammy"
+        }
+    ],
+    "aliases": [
+        [
+            "Baley",
+            "Elijah Baley"
+        ],
+        [
+            "Spacien"
+        ],
+        [
+            "Julius Enderby"
+        ],
+        [
+            "R",
+            "R. Sammy"
+        ],
+        [
+            "Olivaw",
+            "R. Daneel Olivaw",
+            "R. Daneel",
+            "Da... Daneel"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "Spacien"
+            ]
+        ],
+        [
+            [
+                "Julius Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Spacien"
+            ],
+            [
+                "Olivaw",
+                "R. Daneel Olivaw",
+                "R. Daneel",
+                "Da... Daneel"
+            ]
+        ],
+        [
+            [
+                "Olivaw",
+                "R. Daneel Olivaw",
+                "R. Daneel",
+                "Da... Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "R",
+                "R. Sammy"
+            ]
+        ],
+        [
+            [
+                "Olivaw",
+                "R. Daneel Olivaw",
+                "R. Daneel",
+                "Da... Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "Olivaw",
+                "R. Daneel Olivaw",
+                "R. Daneel",
+                "Da... Daneel"
+            ]
+        ],
+        [
+            [
+                "Olivaw",
+                "R. Daneel Olivaw",
+                "R. Daneel",
+                "Da... Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : Baley\nSpacien\nJulius Enderby\nR\nOlivaw\nDaneel\nR. Daneel Olivaw\nR. Daneel\nElijah\nElijah Baley\nDa... Daneel\nR. Sammy\")\n     Liste de personnes : \n\n     Baley\nSpacien\nJulius Enderby\nR\nOlivaw\nDaneel\nR. Daneel Olivaw\nR. Daneel\nElijah\nElijah Baley\nDa... Daneel\nR. Sammy\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "Baley",
+                "Elijah Baley"
+            ],
+            "1": [
+                "Spacien"
+            ],
+            "2": [
+                "Julius Enderby"
+            ],
+            "3": [
+                "R",
+                "R. Sammy"
+            ],
+            "4": [
+                "Olivaw",
+                "R. Daneel Olivaw",
+                "R. Daneel",
+                "Da... Daneel"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}

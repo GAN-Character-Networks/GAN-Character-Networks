@@ -1,0 +1,1165 @@
+{
+    "cooccurences": [
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Maître Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Maître Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Mon amour"
+        ],
+        [
+            "Maître Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dahlite",
+            "Trantorien"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Don Quichotte"
+        ],
+        [
+            "Dors",
+            "Don Quichotte"
+        ],
+        [
+            "Dors",
+            "princesse"
+        ],
+        [
+            "princesse",
+            "Raych"
+        ],
+        [
+            "princesse",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Maîtresse"
+        ],
+        [
+            "Dahlite",
+            "Marlo Tanto"
+        ],
+        [
+            "Marlo Tanto",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "princesse",
+            "Davan"
+        ],
+        [
+            "Davan",
+            "princesse"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "princesse"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Raych",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Davan",
+            "Yugo Amaryl"
+        ],
+        [
+            "Yugo Amaryl",
+            "Amaryl"
+        ],
+        [
+            "Yugo Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Hummin",
+            "Davan"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "princesse",
+            "Raych"
+        ],
+        [
+            "princesse",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "DAVAN"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Maîtresse"
+        },
+        {
+            "word": "Maître Tisalver"
+        },
+        {
+            "word": "Maîtresse Venabili"
+        },
+        {
+            "word": "Mon amour"
+        },
+        {
+            "word": "Dahlite"
+        },
+        {
+            "word": "Trantorien"
+        },
+        {
+            "word": "Don Quichotte"
+        },
+        {
+            "word": "princesse"
+        },
+        {
+            "word": "Davan"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Marlo Tanto"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Amaryl"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Empereur"
+        },
+        {
+            "word": "Demerzel"
+        }
+    ],
+    "aliases": [
+        [
+            "DAVAN",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Dors Venabili",
+            "Maîtresse",
+            "Maître Tisalver",
+            "Maîtresse Venabili",
+            "Mon amour"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Venabili"
+        ],
+        [
+            "Dahlite"
+        ],
+        [
+            "Trantorien"
+        ],
+        [
+            "Don Quichotte",
+            "princesse"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Marlo Tanto"
+        ],
+        [
+            "Yugo Amaryl",
+            "Amaryl"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Demerzel"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Dahlite"
+            ],
+            [
+                "Trantorien"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Don Quichotte",
+                "princesse"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Don Quichotte",
+                "princesse"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Don Quichotte",
+                "princesse"
+            ]
+        ],
+        [
+            [
+                "Don Quichotte",
+                "princesse"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Don Quichotte",
+                "princesse"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Dahlite"
+            ],
+            [
+                "Marlo Tanto"
+            ]
+        ],
+        [
+            [
+                "Marlo Tanto"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Don Quichotte",
+                "princesse"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Don Quichotte",
+                "princesse"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Don Quichotte",
+                "princesse"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Yugo Amaryl",
+                "Amaryl"
+            ]
+        ],
+        [
+            [
+                "Yugo Amaryl",
+                "Amaryl"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Yugo Amaryl",
+                "Amaryl"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Don Quichotte",
+                "princesse"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Don Quichotte",
+                "princesse"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "DAVAN",
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "DAVAN",
+                "Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            [
+                "Raych"
+            ]
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. \n     La tâche consiste à regrouper les entités de type \"Personnes\" dans la liste de personnes données. Certaines personnes peuvent-être des références à une entité commune. \n     À partir de tes connaissances linguistiques, tu dois déterminer qui est qui.\n\n     Tu devras donner ta réponse sous le format JSON suivant :\n\n     {\n     '0' : [reference_1, …],\n     '1' : [reference_1, …],\n     }\n\n     Chaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\n     Voici des exemples pour t'aider :\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Empereur\n     Cléon\n     Sire\n     l'Empereur\n     l'empereur Cléon\n     Hari Seldon\n     Seldon\n     Eto Demerzel\n     Demerzel\n     Lieutenant Alban Wellis\n     Wellis\n     Hummin\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n     '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n     '3' : ['Hummin'],\n     }\n\n     Liste de personnes : \n\n     CLÉON Ier\n     Cléon\n     Seldon\n     Hari Seldon\n     Hari\n     Eto Demerzel\n     Demerzel\n     Goutte-de-Pluie Quarante-trois\n     Goutte-de-Pluie Quarante-cinq\n     Dors \n     Dors Seldon\n\n     Réponse :\n\n     {\n     '0' : ['CLÉON Ier', 'Cléon'],\n     '1' : ['Seldon', 'Hari Seldon', 'Hari'],\n     '2' : ['Eto Demerzel', 'Demerzel'],\n     '3' : ['Goutte-de-Pluie Quarante-trois'],\n     '4' : ['Goutte-de-Pluie Quarante-cinq'],\n     '5' : ['Dors', 'Dors Seldon'],\n     }\n     ",
+        "user_prompt": "\n     print(\"Liste de personnes : DAVAN\nDors\nHari Seldon\nSeldon\nVenabili\nDors Venabili\nMaîtresse\nMaître Tisalver\nMaîtresse Venabili\nMon amour\nDahlite\nTrantorien\nDon Quichotte\nprincesse\nDavan\nRaych\nMarlo Tanto\nYugo Amaryl\nAmaryl\nHummin\nEmpereur\nDemerzel\")\n     Liste de personnes : \n\n     DAVAN\nDors\nHari Seldon\nSeldon\nVenabili\nDors Venabili\nMaîtresse\nMaître Tisalver\nMaîtresse Venabili\nMon amour\nDahlite\nTrantorien\nDon Quichotte\nprincesse\nDavan\nRaych\nMarlo Tanto\nYugo Amaryl\nAmaryl\nHummin\nEmpereur\nDemerzel\n\n     Réponse :\n     ",
+        "generated_content": {
+            "0": [
+                "DAVAN",
+                "Davan"
+            ],
+            "1": [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse",
+                "Maître Tisalver",
+                "Maîtresse Venabili",
+                "Mon amour"
+            ],
+            "2": [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            "3": [
+                "Venabili"
+            ],
+            "4": [
+                "Dahlite"
+            ],
+            "5": [
+                "Trantorien"
+            ],
+            "6": [
+                "Don Quichotte",
+                "princesse"
+            ],
+            "7": [
+                "Raych"
+            ],
+            "8": [
+                "Marlo Tanto"
+            ],
+            "9": [
+                "Yugo Amaryl",
+                "Amaryl"
+            ],
+            "10": [
+                "Hummin"
+            ],
+            "11": [
+                "Empereur"
+            ],
+            "12": [
+                "Demerzel"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-3.5-turbo-1106"
+        }
+    }
+}
