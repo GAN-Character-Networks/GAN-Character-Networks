@@ -1,4 +1,4 @@
-from vroom.baseline import get_cooccurences_with_aliases
+from vroom.baseline import get_cooccurences_with_aliases_and_gpt
 from vroom.GraphManager import GraphManager
 import pandas as pd
 from tqdm import tqdm
@@ -35,7 +35,7 @@ def generate_submission():
             save_path = os.path.join(experiment_name, f"chapter_{chapter}.json")
             print("save_path : ", save_path)
             logger = JSONLogger(save_path)
-            coocurrences = get_cooccurences_with_aliases(path, logger)
+            coocurrences = get_cooccurences_with_aliases_and_gpt(path, logger)
             graph_manager.add_cooccurrences(coocurrences)
             df_dict["ID"].append(f"{book_code}{chapter-1}")
             df_dict["graphml"].append("".join(html.unescape(s) if isinstance(s, str) else s for s in graph_manager.generate_graph()))
