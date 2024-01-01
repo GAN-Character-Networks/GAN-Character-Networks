@@ -86,14 +86,6 @@ def save_model(model, path):
     model.save_pretrained(path)
 
 
-def train_step(model, tokens, labels):
-    labels = labels.argmax(-1)
-    print(labels)
-    loss = model(**tokens, labels=labels).loss
-
-    return loss
-
-
 def train(model, train_dataloader, epochs, optimizer):
     loss_array = []
     for epoch in range(epochs):
