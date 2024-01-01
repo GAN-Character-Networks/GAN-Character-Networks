@@ -101,25 +101,33 @@ def add_bio_tags(entities):
         entity["bio_tag"] = bio_tag + " </PER> "
     return entities
 
+
 def chunk_text_by_sentence(text, batch_size=5):
     # Download the punkt tokenizer if not already present
-    nltk.download('punkt')
+    nltk.download("punkt")
 
     # Use nltk to tokenize the text into sentences
     sentences = nltk.sent_tokenize(text)
 
     # Batch the sentences into 5 sentences per item
-    batched_sentences = [' '.join(sentences[i:i + batch_size]) for i in range(0, len(sentences), batch_size)]
+    batched_sentences = [
+        " ".join(sentences[i : i + batch_size])
+        for i in range(0, len(sentences), batch_size)
+    ]
 
     # Return the list of batches of sentences
     return batched_sentences
-   
+
+
 def chunk_text_by_paragraph(text):
     # Use nltk to tokenize the text into paragraphs
-    paragraphs = [paragraph.strip() for paragraph in text.split('\n') if paragraph.strip()]
+    paragraphs = [
+        paragraph.strip() for paragraph in text.split("\n") if paragraph.strip()
+    ]
 
     # Return the list of paragraphs
     return paragraphs
+
 
 def chunk_text(text, chunk_size=500):
     """
@@ -268,7 +276,7 @@ def get_entities_from_file(
 
 def get_positions_of_entities(text):
     """ This function returns the positions of the entities in the text.
-    
+
     Args:
         text (str): The text to tag.
 
@@ -331,51 +339,49 @@ def separate_words(text):
     return merge_special_words(words)
 
 
-def get_positions_of_entities(text):
-    """ This function returns the positions of the entities in the text.
+# def get_positions_of_entities(text):
+#     """ This function returns the positions of the entities in the text.
 
-    Args:
-        text (str): The text to tag.
+#     Args:
+#         text (str): The text to tag.
 
-    Returns:
-        list: A list of dictionaries representing the entities. Each dictionary contains the keys 'word', 'start', and 'end'.
-    """
-    words = text.split(" ")
+#     Returns:
+#         list: A list of dictionaries representing the entities. Each dictionary contains the keys 'word', 'start', and 'end'.
+#     """
+#     words = text.split(" ")
 
-    positions = []
-    current_entity = []
-    current_entity_start = 0
-    current_entity_end = 0
-    i = 0
-    for word in words:
-        if word == "<PER>":
-            current_entity = []
-            current_entity_start = i
-        elif word == "</PER>":
-            current_entity_end = i
-            word = " ".join(current_entity)
+#     positions = []
+#     current_entity = []
+#     current_entity_start = 0
+#     current_entity_end = 0
+#     i = 0
+#     for word in words:
+#         if word == "<PER>":
+#             current_entity = []
+#             current_entity_start = i
+#         elif word == "</PER>":
+#             current_entity_end = i
+#             word = " ".join(current_entity)
 
-            
-            positions.append(
-                {
-                    "word": word,
-                    "start": current_entity_start,
-                    "end": current_entity_end,
-                }
-            )
-        else:
-            if len(word) > 0:
-                if len(word) > 0:
-                i += len(word) + 1
-            current_entity.append(word)
+#             positions.append(
+#                 {
+#                     "word": word,
+#                     "start": current_entity_start,
+#                     "end": current_entity_end,
+#                 }
+#             )
+#         else:
+#             if len(word) > 0:
+#                 if len(word) > 0:
+#                     i += len(word) + 1
+#             current_entity.append(word)
 
-    
-    return positions
+#     return positions
 
 
 def tag_text_with_entities(input_file_path, entity_list):
     """ This function tags the text in the given file with the given entities.
-    
+
     Args:
         input_file_path (str): The path to the input file.
         entity_list (list): A list of entities to tag.
@@ -387,14 +393,14 @@ def tag_text_with_entities(input_file_path, entity_list):
 
     tagged_text = [[]]
     entity_list = sorted(entity_list, key=len, reverse=True)
-    
+
     i = 0
     while i < len(input_text):
         found_entity = None
-        
+
         # Try to match each entity in the list starting from the longest
         for entity in entity_list:
-            if input_text[i:i + len(entity)] == entity:
+            if input_text[i : i + len(entity)] == entity:
                 found_entity = entity
                 break
 
@@ -415,6 +421,7 @@ def tag_text_with_entities(input_file_path, entity_list):
         concat.append(tmp)
 
     return "".join(concat)
+
 
 def tag_text_with_entities_v2(input_file_path, entity_list):
     input_text = read_file(input_file_path)

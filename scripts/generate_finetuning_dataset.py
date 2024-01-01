@@ -1,8 +1,9 @@
 import csv
 
-# import nltk
-from nltk.tokenize import sent_tokenize, word_tokenize
+
+from nltk.tokenize import sent_tokenize
 import pandas as pd
+from transformers import AutoTokenizer
 
 
 # Fonction pour lire le contenu d'un fichier
@@ -19,34 +20,34 @@ def diviser_en_chunks(texte):
 
 
 # Fonction pour tokeniser une phrase en mots et créer un array de 0 avec gestion spécifique des tokens
-def tokeniser_phrase(phrase):
-    mots = word_tokenize(phrase)
+def tokeniser_phrase(phrase, tokenizer):
+    tokens = tokenizer.tokenize(phrase)
     zeros = []
     is_per_tag = False
     filtered_words = []
 
-    for mot in mots:
-        if mot == "<":
+    for token in tokens:
+        if token == "▁<":
             is_per_tag = True
             continue
-        elif mot == "PER":
+        elif token == "PER":
             continue
-        elif mot == "/PER":
+        elif token == "</":
             is_per_tag = False
             continue
-        elif mot == ">":
+        elif token == ">":
             continue
 
         if is_per_tag:
             zeros.append(
                 2
             )  # Assigner 2 aux mots entre les balises <PER> et </PER>
-            filtered_words.append(mot)
+            filtered_words.append(token)
         else:
             zeros.append(0)
-            filtered_words.append(mot)
+            filtered_words.append(token)
 
-    return filtered_words, zeros
+    return phrase, zeros
 
 
 # Fonction pour écrire dans un fichier CSV
@@ -59,22 +60,24 @@ def ecrire_csv(nom_fichier, data):
 
 
 if __name__ == "__main__":
-    chemin_fichier = "../data/test_set/prelude_a_fondation/chapter_1.labeled"
+    tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
+
+    chemin_fichier = "data/test_set/prelude_a_fondation/chapter_1.labeled"
     contenu = lire_contenu_fichier(chemin_fichier)
     phrases = diviser_en_chunks(contenu)
-    donnees = [tokeniser_phrase(phrase) for phrase in phrases]
-    nom_fichier_csv = "../data/finetuning_data/chapter_1.csv"
+    donnees = [tokeniser_phrase(phrase, tokenizer) for phrase in phrases]
+    nom_fichier_csv = "data/finetuning_data/chapter_1.csv"
     ecrire_csv(nom_fichier_csv, donnees)
 
-    chemin_fichier = "../data/test_set/prelude_a_fondation/chapter_2.labeled"
+    chemin_fichier = "data/test_set/prelude_a_fondation/chapter_2.labeled"
     contenu = lire_contenu_fichier(chemin_fichier)
     phrases = diviser_en_chunks(contenu)
-    donnees = [tokeniser_phrase(phrase) for phrase in phrases]
-    nom_fichier_csv = "../data/finetuning_data/chapter_2.csv"
+    donnees = [tokeniser_phrase(phrase, tokenizer) for phrase in phrases]
+    nom_fichier_csv = "data/finetuning_data/chapter_2.csv"
     ecrire_csv(nom_fichier_csv, donnees)
 
-    df = pd.read_csv("../data/finetuning_data/chapter_1.csv")
-    df.to_parquet("../data/finetuning_data/chapter_1.parquet")
+    df = pd.read_csv("data/finetuning_data/chapter_1.csv")
+    df.to_parquet("data/finetuning_data/chapter_1.parquet")
 
-    df = pd.read_csv("../data/finetuning_data/chapter_2.csv")
-    df.to_parquet("../data/finetuning_data/chapter_2.parquet")
+    df = pd.read_csv("data/finetuning_data/chapter_2.csv")
+    df.to_parquet("data/finetuning_data/chapter_2.parquet")
