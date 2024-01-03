@@ -1,0 +1,3589 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Policiers RAYCH. — ... D’après Hari Seldon, la rencontre initiale avec Raych aurait été purement accidentelle. Ce n’était à l’époque qu’un gosse des rues auquel il aurait demandé sa route. Mais sa vie, par la suite, continua d’être étroitement mêlée à celle du grand mathématicien jusqu’au jour où... ENCYCLOPAEDIA GALACTICA Le lendemain matin, torse nu, lavé et rasé, Seldon frappa à la porte de la chambre mitoyenne en disant à mi-voix : « Ouvrez-moi, Dors. » Ce qu’elle fit. Les courtes boucles",
+        "entities": [
+            {
+                "start": 6,
+                "end": 8,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 13,
+                "end": 14,
+                "word": "Raych"
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "word": "Seldon"
+            },
+            {
+                "start": 91,
+                "end": 92,
+                "word": "Dors"
+            },
+            {
+                "start": 116,
+                "end": 117,
+                "word": "Seldon"
+            },
+            {
+                "start": 126,
+                "end": 127,
+                "word": "Dors"
+            },
+            {
+                "start": 151,
+                "end": 152,
+                "word": "Qu"
+            },
+            {
+                "start": 169,
+                "end": 170,
+                "word": "Seldon"
+            },
+            {
+                "start": 179,
+                "end": 180,
+                "word": "Kan"
+            },
+            {
+                "start": 181,
+                "end": 182,
+                "word": "Qu"
+            },
+            {
+                "start": 189,
+                "end": 190,
+                "word": "Dors"
+            },
+            {
+                "start": 202,
+                "end": 203,
+                "word": "Hari"
+            },
+            {
+                "start": 231,
+                "end": 232,
+                "word": "Seldon"
+            },
+            {
+                "start": 270,
+                "end": 271,
+                "word": "Kan"
+            },
+            {
+                "start": 284,
+                "end": 285,
+                "word": "Kan"
+            },
+            {
+                "start": 288,
+                "end": 289,
+                "word": "Dors"
+            },
+            {
+                "start": 302,
+                "end": 303,
+                "word": "Kan"
+            },
+            {
+                "start": 308,
+                "end": 309,
+                "word": "Maire"
+            },
+            {
+                "start": 350,
+                "end": 351,
+                "word": "Dahl"
+            },
+            {
+                "start": 361,
+                "end": 362,
+                "word": "Trantor"
+            },
+            {
+                "start": 402,
+                "end": 403,
+                "word": "Dahl"
+            },
+            {
+                "start": 413,
+                "end": 414,
+                "word": "Kan"
+            },
+            {
+                "start": 423,
+                "end": 424,
+                "word": "Kan"
+            },
+            {
+                "start": 438,
+                "end": 439,
+                "word": "Trantor"
+            },
+            {
+                "start": 449,
+                "end": 450,
+                "word": "Kan"
+            },
+            {
+                "start": 468,
+                "end": 469,
+                "word": "Kan"
+            },
+            {
+                "start": 475,
+                "end": 476,
+                "word": "Kan"
+            },
+            {
+                "start": 504,
+                "end": 505,
+                "word": "Kan"
+            },
+            {
+                "start": 512,
+                "end": 513,
+                "word": "Trantor"
+            },
+            {
+                "start": 516,
+                "end": 517,
+                "word": "Kan"
+            },
+            {
+                "start": 520,
+                "end": 521,
+                "word": "Empereur"
+            },
+            {
+                "start": 527,
+                "end": 528,
+                "word": "Maire"
+            },
+            {
+                "start": 529,
+                "end": 530,
+                "word": "Kan"
+            },
+            {
+                "start": 545,
+                "end": 546,
+                "word": "Maire"
+            },
+            {
+                "start": 547,
+                "end": 548,
+                "word": "Kan"
+            },
+            {
+                "start": 616,
+                "end": 617,
+                "word": "Qu"
+            },
+            {
+                "start": 620,
+                "end": 621,
+                "word": "Hari"
+            },
+            {
+                "start": 670,
+                "end": 671,
+                "word": "Demerzel"
+            },
+            {
+                "start": 731,
+                "end": 732,
+                "word": "Seldon"
+            },
+            {
+                "start": 745,
+                "end": 746,
+                "word": "Empereur"
+            },
+            {
+                "start": 763,
+                "end": 764,
+                "word": "Tisalver"
+            },
+            {
+                "start": 790,
+                "end": 792,
+                "word": "Casilia Tisalver"
+            },
+            {
+                "start": 868,
+                "end": 869,
+                "word": "Dahl"
+            },
+            {
+                "start": 942,
+                "end": 943,
+                "word": "Gala"
+            },
+            {
+                "start": 962,
+                "end": 963,
+                "word": "Seldon"
+            },
+            {
+                "start": 979,
+                "end": 980,
+                "word": "Qu"
+            },
+            {
+                "start": 989,
+                "end": 990,
+                "word": "Seldon"
+            },
+            {
+                "start": 1007,
+                "end": 1009,
+                "word": "Lanel Russ"
+            },
+            {
+                "start": 1015,
+                "end": 1017,
+                "word": "Gebore Astinwald"
+            },
+            {
+                "start": 1032,
+                "end": 1033,
+                "word": "Seldon"
+            },
+            {
+                "start": 1042,
+                "end": 1043,
+                "word": "Qu"
+            },
+            {
+                "start": 1049,
+                "end": 1051,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 1056,
+                "end": 1057,
+                "word": "Russ"
+            },
+            {
+                "start": 1063,
+                "end": 1064,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 1067,
+                "end": 1069,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1089,
+                "end": 1091,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 1115,
+                "end": 1117,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 1151,
+                "end": 1152,
+                "word": "Seldon"
+            },
+            {
+                "start": 1191,
+                "end": 1193,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 1195,
+                "end": 1196,
+                "word": "Russ"
+            },
+            {
+                "start": 1234,
+                "end": 1235,
+                "word": "Seldon"
+            },
+            {
+                "start": 1301,
+                "end": 1302,
+                "word": "Seldon"
+            },
+            {
+                "start": 1328,
+                "end": 1329,
+                "word": "Russ"
+            },
+            {
+                "start": 1373,
+                "end": 1374,
+                "word": "Seldon"
+            },
+            {
+                "start": 1375,
+                "end": 1376,
+                "word": "Dors"
+            },
+            {
+                "start": 1380,
+                "end": 1381,
+                "word": "Seldon"
+            },
+            {
+                "start": 1396,
+                "end": 1397,
+                "word": "Russ"
+            },
+            {
+                "start": 1424,
+                "end": 1425,
+                "word": "Astinwald"
+            },
+            {
+                "start": 1445,
+                "end": 1446,
+                "word": "Russ"
+            },
+            {
+                "start": 1508,
+                "end": 1510,
+                "word": "Elgin Marron"
+            },
+            {
+                "start": 1523,
+                "end": 1524,
+                "word": "Dors"
+            },
+            {
+                "start": 1547,
+                "end": 1548,
+                "word": "Davan"
+            },
+            {
+                "start": 1572,
+                "end": 1573,
+                "word": "Seldon"
+            },
+            {
+                "start": 1583,
+                "end": 1584,
+                "word": "Russ"
+            },
+            {
+                "start": 1624,
+                "end": 1625,
+                "word": "Seldon"
+            },
+            {
+                "start": 1678,
+                "end": 1679,
+                "word": "Dahl"
+            },
+            {
+                "start": 1707,
+                "end": 1708,
+                "word": "Russ"
+            },
+            {
+                "start": 1724,
+                "end": 1725,
+                "word": "Dors"
+            },
+            {
+                "start": 1730,
+                "end": 1732,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 1741,
+                "end": 1742,
+                "word": "Russ"
+            },
+            {
+                "start": 1748,
+                "end": 1749,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 1760,
+                "end": 1761,
+                "word": "Dors"
+            },
+            {
+                "start": 1817,
+                "end": 1818,
+                "word": "Marron"
+            },
+            {
+                "start": 1845,
+                "end": 1846,
+                "word": "Dors"
+            },
+            {
+                "start": 1851,
+                "end": 1852,
+                "word": "Marron"
+            },
+            {
+                "start": 1879,
+                "end": 1880,
+                "word": "Marron"
+            },
+            {
+                "start": 1925,
+                "end": 1926,
+                "word": "Dahl"
+            },
+            {
+                "start": 2420,
+                "end": 2421,
+                "word": "Raych"
+            },
+            {
+                "start": 2429,
+                "end": 2430,
+                "word": "Astinwald"
+            },
+            {
+                "start": 2435,
+                "end": 2436,
+                "word": "Russ"
+            },
+            {
+                "start": 2443,
+                "end": 2444,
+                "word": "Raych"
+            },
+            {
+                "start": 2462,
+                "end": 2463,
+                "word": "Russ"
+            },
+            {
+                "start": 2472,
+                "end": 2473,
+                "word": "Seldon"
+            },
+            {
+                "start": 2512,
+                "end": 2513,
+                "word": "Hari"
+            },
+            {
+                "start": 2524,
+                "end": 2525,
+                "word": "Russ"
+            },
+            {
+                "start": 2530,
+                "end": 2531,
+                "word": "Astinwald"
+            },
+            {
+                "start": 2540,
+                "end": 2541,
+                "word": "Dors"
+            },
+            {
+                "start": 2604,
+                "end": 2605,
+                "word": "Seldon"
+            },
+            {
+                "start": 2606,
+                "end": 2607,
+                "word": "Raych"
+            },
+            {
+                "start": 2620,
+                "end": 2621,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2731,
+                "end": 2732,
+                "word": "Dors"
+            },
+            {
+                "start": 2762,
+                "end": 2763,
+                "word": "Dors"
+            },
+            {
+                "start": 2800,
+                "end": 2801,
+                "word": "Raych"
+            },
+            {
+                "start": 2803,
+                "end": 2804,
+                "word": "Seldon"
+            },
+            {
+                "start": 2864,
+                "end": 2865,
+                "word": "Qu"
+            },
+            {
+                "start": 2873,
+                "end": 2874,
+                "word": "Galactos"
+            },
+            {
+                "start": 2875,
+                "end": 2876,
+                "word": "Raych"
+            },
+            {
+                "start": 2899,
+                "end": 2900,
+                "word": "Qu"
+            },
+            {
+                "start": 2907,
+                "end": 2908,
+                "word": "Dors"
+            },
+            {
+                "start": 2966,
+                "end": 2967,
+                "word": "Seldon"
+            },
+            {
+                "start": 3004,
+                "end": 3005,
+                "word": "Raych"
+            },
+            {
+                "start": 3014,
+                "end": 3015,
+                "word": "Trantor"
+            },
+            {
+                "start": 3043,
+                "end": 3044,
+                "word": "Dors"
+            },
+            {
+                "start": 3067,
+                "end": 3068,
+                "word": "Dors"
+            },
+            {
+                "start": 3080,
+                "end": 3081,
+                "word": "Raych"
+            },
+            {
+                "start": 3096,
+                "end": 3097,
+                "word": "Raych"
+            },
+            {
+                "start": 3099,
+                "end": 3100,
+                "word": "Seldon"
+            },
+            {
+                "start": 3132,
+                "end": 3133,
+                "word": "Dors"
+            },
+            {
+                "start": 3187,
+                "end": 3188,
+                "word": "Seldon"
+            },
+            {
+                "start": 3192,
+                "end": 3193,
+                "word": "Trantor"
+            },
+            {
+                "start": 3388,
+                "end": 3389,
+                "word": "Qu"
+            },
+            {
+                "start": 3415,
+                "end": 3416,
+                "word": "Raych"
+            },
+            {
+                "start": 3448,
+                "end": 3449,
+                "word": "Seldon"
+            },
+            {
+                "start": 3460,
+                "end": 3461,
+                "word": "Qu"
+            },
+            {
+                "start": 3488,
+                "end": 3489,
+                "word": "Empereur"
+            },
+            {
+                "start": 3491,
+                "end": 3492,
+                "word": "Dors"
+            },
+            {
+                "start": 3494,
+                "end": 3495,
+                "word": "Empereur"
+            },
+            {
+                "start": 3497,
+                "end": 3498,
+                "word": "Raych"
+            },
+            {
+                "start": 3506,
+                "end": 3507,
+                "word": "Empereur"
+            },
+            {
+                "start": 3509,
+                "end": 3510,
+                "word": "Seldon"
+            },
+            {
+                "start": 3526,
+                "end": 3527,
+                "word": "Gala"
+            },
+            {
+                "start": 3533,
+                "end": 3534,
+                "word": "Empereur"
+            },
+            {
+                "start": 3542,
+                "end": 3543,
+                "word": "Dors"
+            },
+            {
+                "start": 3551,
+                "end": 3552,
+                "word": "Hummin"
+            },
+            {
+                "start": 3567,
+                "end": 3568,
+                "word": "Empereur"
+            },
+            {
+                "start": 3613,
+                "end": 3614,
+                "word": "Hummin"
+            },
+            {
+                "start": 3620,
+                "end": 3621,
+                "word": "Dors"
+            },
+            {
+                "start": 3655,
+                "end": 3656,
+                "word": "Dahl"
+            },
+            {
+                "start": 3683,
+                "end": 3684,
+                "word": "Dahl"
+            },
+            {
+                "start": 3690,
+                "end": 3691,
+                "word": "Seldon"
+            },
+            {
+                "start": 3712,
+                "end": 3713,
+                "word": "Raych"
+            },
+            {
+                "start": 3834,
+                "end": 3835,
+                "word": "Davan"
+            },
+            {
+                "start": 3847,
+                "end": 3848,
+                "word": "Galactos"
+            },
+            {
+                "start": 3908,
+                "end": 3909,
+                "word": "Qu"
+            },
+            {
+                "start": 3920,
+                "end": 3921,
+                "word": "Dors"
+            },
+            {
+                "start": 3980,
+                "end": 3981,
+                "word": "Davan"
+            },
+            {
+                "start": 4000,
+                "end": 4001,
+                "word": "Qu"
+            },
+            {
+                "start": 4020,
+                "end": 4021,
+                "word": "Seldon"
+            },
+            {
+                "start": 4035,
+                "end": 4038,
+                "word": "Maire de Dahl"
+            },
+            {
+                "start": 4064,
+                "end": 4065,
+                "word": "Dahl"
+            },
+            {
+                "start": 4067,
+                "end": 4068,
+                "word": "Seldon"
+            },
+            {
+                "start": 4087,
+                "end": 4088,
+                "word": "Davan"
+            },
+            {
+                "start": 4089,
+                "end": 4090,
+                "word": "Qu"
+            },
+            {
+                "start": 4135,
+                "end": 4136,
+                "word": "Dors"
+            },
+            {
+                "start": 4145,
+                "end": 4146,
+                "word": "Hummin"
+            },
+            {
+                "start": 4153,
+                "end": 4154,
+                "word": "Dors"
+            },
+            {
+                "start": 4198,
+                "end": 4199,
+                "word": "Seldon"
+            }
+        ]
+    },
+    "entities": [
+        "Maître Seldon",
+        "Astinwald",
+        "Dors",
+        "Maire de Dahl",
+        "Tisalver",
+        "Maîtresse",
+        "Lanel Russ",
+        "Empereur",
+        "Davan",
+        "Dahl",
+        "Gebore Astinwald",
+        "Hari",
+        "Elgin Marron",
+        "Qu",
+        "Raych",
+        "Marron",
+        "Casilia Tisalver",
+        "Gala",
+        "Dors Venabili",
+        "Demerzel",
+        "Maire",
+        "Hummin",
+        "Russ",
+        "Maîtresse Tisalver",
+        "Seldon",
+        "Trantor",
+        "Hari Seldon",
+        "Galactos",
+        "Kan"
+    ],
+    "aliases": [
+        [
+            "Maître Seldon",
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Astinwald",
+            "Gebore Astinwald"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Maire de Dahl",
+            "Maire"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Lanel Russ",
+            "Russ"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Davan"
+        ],
+        [
+            "Dahl"
+        ],
+        [
+            "Elgin Marron",
+            "Marron"
+        ],
+        [
+            "Qu"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Trantor"
+        ],
+        [
+            "Galactos"
+        ],
+        [
+            "Kan"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Raych"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Kan"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Hari"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Qu"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Hari"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Kan"
+        ],
+        [
+            "Qu",
+            "Kan"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Kan"
+        ],
+        [
+            "Hari",
+            "Kan"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Kan"
+        ],
+        [
+            "Hari",
+            "Maire"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Maire"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Maire"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Maire",
+            "Dahl"
+        ],
+        [
+            "Maire",
+            "Trantor"
+        ],
+        [
+            "Maire",
+            "Dahl"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Dahl"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Empereur"
+        ],
+        [
+            "Trantor",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Qu"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Empereur"
+        ],
+        [
+            "Trantor",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Qu"
+        ],
+        [
+            "Trantor",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Qu"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Empereur",
+            "Maire"
+        ],
+        [
+            "Empereur",
+            "Kan"
+        ],
+        [
+            "Empereur",
+            "Maire"
+        ],
+        [
+            "Empereur",
+            "Kan"
+        ],
+        [
+            "Empereur",
+            "Qu"
+        ],
+        [
+            "Empereur",
+            "Hari"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Qu"
+        ],
+        [
+            "Maire",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Qu"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Qu"
+        ],
+        [
+            "Maire",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Qu"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Qu",
+            "Hari"
+        ],
+        [
+            "Qu",
+            "Demerzel"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Demerzel"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Casilia Tisalver"
+        ],
+        [
+            "Empereur",
+            "Tisalver"
+        ],
+        [
+            "Empereur",
+            "Casilia Tisalver"
+        ],
+        [
+            "Empereur",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Dahl"
+        ],
+        [
+            "Casilia Tisalver",
+            "Dahl"
+        ],
+        [
+            "Dahl",
+            "Gala"
+        ],
+        [
+            "Gala",
+            "Seldon"
+        ],
+        [
+            "Gala",
+            "Qu"
+        ],
+        [
+            "Gala",
+            "Seldon"
+        ],
+        [
+            "Gala",
+            "Lanel Russ"
+        ],
+        [
+            "Gala",
+            "Gebore Astinwald"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Lanel Russ"
+        ],
+        [
+            "Seldon",
+            "Gebore Astinwald"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Lanel Russ"
+        ],
+        [
+            "Qu",
+            "Gebore Astinwald"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Hari Seldon"
+        ],
+        [
+            "Qu",
+            "Russ"
+        ],
+        [
+            "Qu",
+            "Maîtresse"
+        ],
+        [
+            "Qu",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Lanel Russ"
+        ],
+        [
+            "Seldon",
+            "Gebore Astinwald"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Lanel Russ",
+            "Gebore Astinwald"
+        ],
+        [
+            "Lanel Russ",
+            "Seldon"
+        ],
+        [
+            "Lanel Russ",
+            "Qu"
+        ],
+        [
+            "Lanel Russ",
+            "Hari Seldon"
+        ],
+        [
+            "Lanel Russ",
+            "Russ"
+        ],
+        [
+            "Lanel Russ",
+            "Maîtresse"
+        ],
+        [
+            "Lanel Russ",
+            "Dors Venabili"
+        ],
+        [
+            "Lanel Russ",
+            "Hari Seldon"
+        ],
+        [
+            "Gebore Astinwald",
+            "Seldon"
+        ],
+        [
+            "Gebore Astinwald",
+            "Qu"
+        ],
+        [
+            "Gebore Astinwald",
+            "Hari Seldon"
+        ],
+        [
+            "Gebore Astinwald",
+            "Russ"
+        ],
+        [
+            "Gebore Astinwald",
+            "Maîtresse"
+        ],
+        [
+            "Gebore Astinwald",
+            "Dors Venabili"
+        ],
+        [
+            "Gebore Astinwald",
+            "Hari Seldon"
+        ],
+        [
+            "Gebore Astinwald",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Qu",
+            "Hari Seldon"
+        ],
+        [
+            "Qu",
+            "Russ"
+        ],
+        [
+            "Qu",
+            "Maîtresse"
+        ],
+        [
+            "Qu",
+            "Dors Venabili"
+        ],
+        [
+            "Qu",
+            "Hari Seldon"
+        ],
+        [
+            "Qu",
+            "Maître Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Russ"
+        ],
+        [
+            "Hari Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Russ",
+            "Maîtresse"
+        ],
+        [
+            "Russ",
+            "Dors Venabili"
+        ],
+        [
+            "Russ",
+            "Hari Seldon"
+        ],
+        [
+            "Russ",
+            "Maître Seldon"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Maîtresse",
+            "Dors Venabili"
+        ],
+        [
+            "Maîtresse",
+            "Hari Seldon"
+        ],
+        [
+            "Maîtresse",
+            "Maître Seldon"
+        ],
+        [
+            "Maîtresse",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Maître Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Maître Seldon",
+            "Russ"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Astinwald"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Astinwald"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Russ"
+        ],
+        [
+            "Dors",
+            "Astinwald"
+        ],
+        [
+            "Dors",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Astinwald"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Russ",
+            "Astinwald"
+        ],
+        [
+            "Astinwald",
+            "Russ"
+        ],
+        [
+            "Russ",
+            "Elgin Marron"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Davan"
+        ],
+        [
+            "Elgin Marron",
+            "Dors"
+        ],
+        [
+            "Elgin Marron",
+            "Davan"
+        ],
+        [
+            "Elgin Marron",
+            "Seldon"
+        ],
+        [
+            "Elgin Marron",
+            "Russ"
+        ],
+        [
+            "Elgin Marron",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Russ"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Russ"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Dahl"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Russ"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dahl",
+            "Russ"
+        ],
+        [
+            "Dahl",
+            "Maîtresse"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Russ",
+            "Maîtresse"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Russ"
+        ],
+        [
+            "Dors",
+            "Maîtresse"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Russ"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Marron"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Marron"
+        ],
+        [
+            "Russ",
+            "Maîtresse"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Marron"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Marron"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Marron"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Marron",
+            "Dahl"
+        ],
+        [
+            "Marron",
+            "Dahl"
+        ],
+        [
+            "Raych",
+            "Astinwald"
+        ],
+        [
+            "Raych",
+            "Russ"
+        ],
+        [
+            "Raych",
+            "Russ"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Hari"
+        ],
+        [
+            "Raych",
+            "Russ"
+        ],
+        [
+            "Raych",
+            "Astinwald"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Astinwald",
+            "Russ"
+        ],
+        [
+            "Astinwald",
+            "Raych"
+        ],
+        [
+            "Astinwald",
+            "Russ"
+        ],
+        [
+            "Astinwald",
+            "Seldon"
+        ],
+        [
+            "Astinwald",
+            "Hari"
+        ],
+        [
+            "Astinwald",
+            "Russ"
+        ],
+        [
+            "Astinwald",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Raych"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Hari"
+        ],
+        [
+            "Russ",
+            "Astinwald"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Russ"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Hari"
+        ],
+        [
+            "Raych",
+            "Russ"
+        ],
+        [
+            "Raych",
+            "Astinwald"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Hari"
+        ],
+        [
+            "Russ",
+            "Astinwald"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Russ"
+        ],
+        [
+            "Seldon",
+            "Astinwald"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Russ"
+        ],
+        [
+            "Hari",
+            "Astinwald"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Tisalver"
+        ],
+        [
+            "Russ",
+            "Astinwald"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Russ",
+            "Seldon"
+        ],
+        [
+            "Russ",
+            "Raych"
+        ],
+        [
+            "Russ",
+            "Tisalver"
+        ],
+        [
+            "Astinwald",
+            "Dors"
+        ],
+        [
+            "Astinwald",
+            "Seldon"
+        ],
+        [
+            "Astinwald",
+            "Raych"
+        ],
+        [
+            "Astinwald",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Raych",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Galactos"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Qu"
+        ],
+        [
+            "Raych",
+            "Galactos"
+        ],
+        [
+            "Raych",
+            "Qu"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Galactos"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Galactos"
+        ],
+        [
+            "Qu",
+            "Raych"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Galactos",
+            "Raych"
+        ],
+        [
+            "Galactos",
+            "Qu"
+        ],
+        [
+            "Galactos",
+            "Dors"
+        ],
+        [
+            "Galactos",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Qu"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Raych"
+        ],
+        [
+            "Trantor",
+            "Raych"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Qu",
+            "Raych"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Raych"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Qu"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Gala"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Gala"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Raych"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Gala"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Hummin"
+        ],
+        [
+            "Qu",
+            "Empereur"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Raych"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Gala"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Gala"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Empereur",
+            "Raych"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Gala"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Gala"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Hummin"
+        ],
+        [
+            "Raych",
+            "Empereur"
+        ],
+        [
+            "Raych",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Gala"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Gala"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Gala",
+            "Empereur"
+        ],
+        [
+            "Gala",
+            "Dors"
+        ],
+        [
+            "Gala",
+            "Hummin"
+        ],
+        [
+            "Gala",
+            "Empereur"
+        ],
+        [
+            "Gala",
+            "Hummin"
+        ],
+        [
+            "Gala",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Dahl"
+        ],
+        [
+            "Empereur",
+            "Dahl"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Galactos"
+        ],
+        [
+            "Davan",
+            "Galactos"
+        ],
+        [
+            "Davan",
+            "Qu"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Galactos",
+            "Qu"
+        ],
+        [
+            "Galactos",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Qu"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Qu"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Maire de Dahl"
+        ],
+        [
+            "Davan",
+            "Dahl"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Qu"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Maire de Dahl"
+        ],
+        [
+            "Qu",
+            "Dahl"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Maire de Dahl"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Maire de Dahl",
+            "Dahl"
+        ],
+        [
+            "Maire de Dahl",
+            "Seldon"
+        ],
+        [
+            "Maire de Dahl",
+            "Davan"
+        ],
+        [
+            "Maire de Dahl",
+            "Qu"
+        ],
+        [
+            "Maire de Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Davan"
+        ],
+        [
+            "Dahl",
+            "Qu"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Hummin"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Qu"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Qu"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Hummin"
+        ],
+        [
+            "Davan",
+            "Dors"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Hummin"
+        ],
+        [
+            "Qu",
+            "Dors"
+        ],
+        [
+            "Qu",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Maître Seldon\nAstinwald\nDors\nMaire de Dahl\nTisalver\nMaîtresse\nLanel Russ\nEmpereur\nDavan\nDahl\nGebore Astinwald\nHari\nElgin Marron\nQu\nRaych\nMarron\nCasilia Tisalver\nGala\nDors Venabili\nDemerzel\nMaire\nHummin\nRuss\nMaîtresse Tisalver\nSeldon\nTrantor\nHari Seldon\nGalactos\nKan\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Maître Seldon",
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "1": [
+                "Astinwald",
+                "Gebore Astinwald"
+            ],
+            "2": [
+                "Dors",
+                "Dors Venabili"
+            ],
+            "3": [
+                "Maire de Dahl",
+                "Maire"
+            ],
+            "4": [
+                "Tisalver",
+                "Casilia Tisalver",
+                "Maîtresse Tisalver"
+            ],
+            "5": [
+                "Lanel Russ",
+                "Russ"
+            ],
+            "6": [
+                "Empereur"
+            ],
+            "7": [
+                "Davan"
+            ],
+            "8": [
+                "Dahl"
+            ],
+            "9": [
+                "Elgin Marron",
+                "Marron"
+            ],
+            "10": [
+                "Qu"
+            ],
+            "11": [
+                "Raych"
+            ],
+            "12": [
+                "Demerzel"
+            ],
+            "13": [
+                "Hummin"
+            ],
+            "14": [
+                "Trantor"
+            ],
+            "15": [
+                "Galactos"
+            ],
+            "16": [
+                "Kan"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

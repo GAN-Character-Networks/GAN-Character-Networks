@@ -1,0 +1,1686 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "profita pour observer avec intérêt les assistants qui venaient se servir. — J’ai aidé à faire le punch, dit Jessie. Je peux vous certifier qu’il est bon. En voulez-vous encore ? S’apercevant que son verre était vide, il sourit et accepta. Le visage de la jeune fille était ovale, mais pas précisément joli, en raison de la grosseur du nez. Elle était de mise modeste et avait des cheveux châtains et bouclés, qui formaient sur son front une petite frange. Elle prit, elle aussi, un second verre de",
+        "entities": [
+            {
+                "start": 21,
+                "end": 22,
+                "word": "Jessie"
+            },
+            {
+                "start": 120,
+                "end": 121,
+                "word": "Jessie"
+            },
+            {
+                "start": 194,
+                "end": 195,
+                "word": "Jézabel"
+            },
+            {
+                "start": 236,
+                "end": 237,
+                "word": "Jézabel"
+            },
+            {
+                "start": 273,
+                "end": 274,
+                "word": "Jézabel"
+            },
+            {
+                "start": 280,
+                "end": 281,
+                "word": "Baley"
+            },
+            {
+                "start": 290,
+                "end": 291,
+                "word": "Elie"
+            },
+            {
+                "start": 312,
+                "end": 313,
+                "word": "Elie"
+            },
+            {
+                "start": 318,
+                "end": 319,
+                "word": "Jézabel"
+            },
+            {
+                "start": 370,
+                "end": 373,
+                "word": "Elijah </PER><PER> Elie"
+            },
+            {
+                "start": 393,
+                "end": 394,
+                "word": "Baley"
+            },
+            {
+                "start": 438,
+                "end": 440,
+                "word": "Lije Baley"
+            },
+            {
+                "start": 481,
+                "end": 483,
+                "word": "Julius Enderby"
+            },
+            {
+                "start": 489,
+                "end": 490,
+                "word": "Baley"
+            },
+            {
+                "start": 507,
+                "end": 508,
+                "word": "Jessie"
+            },
+            {
+                "start": 534,
+                "end": 535,
+                "word": "Jézabel"
+            },
+            {
+                "start": 605,
+                "end": 606,
+                "word": "Jézabel"
+            },
+            {
+                "start": 642,
+                "end": 643,
+                "word": "Jézabel"
+            },
+            {
+                "start": 690,
+                "end": 691,
+                "word": "Jessie"
+            },
+            {
+                "start": 715,
+                "end": 716,
+                "word": "Jézabel"
+            },
+            {
+                "start": 742,
+                "end": 743,
+                "word": "Ahab"
+            },
+            {
+                "start": 746,
+                "end": 747,
+                "word": "Jézabel"
+            },
+            {
+                "start": 751,
+                "end": 752,
+                "word": "Jéhoram"
+            },
+            {
+                "start": 767,
+                "end": 768,
+                "word": "Jéhu"
+            },
+            {
+                "start": 779,
+                "end": 780,
+                "word": "Jéhu"
+            },
+            {
+                "start": 793,
+                "end": 794,
+                "word": "Jézabel"
+            },
+            {
+                "start": 882,
+                "end": 883,
+                "word": "Jézabel"
+            },
+            {
+                "start": 941,
+                "end": 942,
+                "word": "Elie"
+            },
+            {
+                "start": 976,
+                "end": 977,
+                "word": "Elie"
+            },
+            {
+                "start": 1007,
+                "end": 1008,
+                "word": "Jessie"
+            },
+            {
+                "start": 1025,
+                "end": 1026,
+                "word": "Naboth"
+            },
+            {
+                "start": 1027,
+                "end": 1028,
+                "word": "Lije"
+            },
+            {
+                "start": 1049,
+                "end": 1050,
+                "word": "Jézabel"
+            },
+            {
+                "start": 1060,
+                "end": 1061,
+                "word": "Naboth"
+            },
+            {
+                "start": 1089,
+                "end": 1090,
+                "word": "Baley"
+            },
+            {
+                "start": 1130,
+                "end": 1131,
+                "word": "Naboth"
+            },
+            {
+                "start": 1152,
+                "end": 1153,
+                "word": "Naboth"
+            },
+            {
+                "start": 1183,
+                "end": 1184,
+                "word": "Ahab"
+            },
+            {
+                "start": 1199,
+                "end": 1200,
+                "word": "Jézabel"
+            },
+            {
+                "start": 1208,
+                "end": 1209,
+                "word": "Ahab"
+            },
+            {
+                "start": 1237,
+                "end": 1238,
+                "word": "Naboth"
+            },
+            {
+                "start": 1262,
+                "end": 1263,
+                "word": "Jessie"
+            },
+            {
+                "start": 1292,
+                "end": 1293,
+                "word": "Jessie"
+            },
+            {
+                "start": 1345,
+                "end": 1346,
+                "word": "Bentley"
+            },
+            {
+                "start": 1349,
+                "end": 1350,
+                "word": "Baley"
+            },
+            {
+                "start": 1357,
+                "end": 1359,
+                "word": "Bentley Baley"
+            },
+            {
+                "start": 1433,
+                "end": 1434,
+                "word": "Elie"
+            },
+            {
+                "start": 1440,
+                "end": 1441,
+                "word": "Junior"
+            },
+            {
+                "start": 1468,
+                "end": 1469,
+                "word": "Elie"
+            },
+            {
+                "start": 1515,
+                "end": 1516,
+                "word": "Bentley"
+            },
+            {
+                "start": 1556,
+                "end": 1557,
+                "word": "Jessie"
+            },
+            {
+                "start": 1580,
+                "end": 1582,
+                "word": "Daneel Olivaw"
+            },
+            {
+                "start": 1599,
+                "end": 1600,
+                "word": "Bentley"
+            },
+            {
+                "start": 1616,
+                "end": 1617,
+                "word": "Baley"
+            },
+            {
+                "start": 1750,
+                "end": 1751,
+                "word": "Baley"
+            },
+            {
+                "start": 1891,
+                "end": 1892,
+                "word": "Baley"
+            },
+            {
+                "start": 1902,
+                "end": 1903,
+                "word": "Daneel"
+            },
+            {
+                "start": 2106,
+                "end": 2107,
+                "word": "Baley"
+            },
+            {
+                "start": 2190,
+                "end": 2192,
+                "word": "Lije Baley"
+            },
+            {
+                "start": 2350,
+                "end": 2351,
+                "word": "Baley"
+            },
+            {
+                "start": 2379,
+                "end": 2380,
+                "word": "Jessie"
+            },
+            {
+                "start": 2395,
+                "end": 2396,
+                "word": "Olivaw"
+            },
+            {
+                "start": 2399,
+                "end": 2400,
+                "word": "Lije"
+            },
+            {
+                "start": 2422,
+                "end": 2423,
+                "word": "Daneel"
+            },
+            {
+                "start": 2440,
+                "end": 2441,
+                "word": "Jessie"
+            },
+            {
+                "start": 2493,
+                "end": 2494,
+                "word": "Olivaw"
+            },
+            {
+                "start": 2504,
+                "end": 2505,
+                "word": "Lije"
+            },
+            {
+                "start": 2506,
+                "end": 2507,
+                "word": "Bentley"
+            },
+            {
+                "start": 2523,
+                "end": 2524,
+                "word": "Baley"
+            },
+            {
+                "start": 2574,
+                "end": 2577,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2598,
+                "end": 2599,
+                "word": "Jessie"
+            },
+            {
+                "start": 2624,
+                "end": 2625,
+                "word": "Jessie"
+            },
+            {
+                "start": 2656,
+                "end": 2657,
+                "word": "Jessie"
+            },
+            {
+                "start": 2692,
+                "end": 2693,
+                "word": "Jessie"
+            },
+            {
+                "start": 2714,
+                "end": 2715,
+                "word": "Jessie"
+            },
+            {
+                "start": 2735,
+                "end": 2738,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2756,
+                "end": 2757,
+                "word": "Bentley"
+            },
+            {
+                "start": 2759,
+                "end": 2760,
+                "word": "Lije"
+            },
+            {
+                "start": 2766,
+                "end": 2767,
+                "word": "Ben"
+            },
+            {
+                "start": 2774,
+                "end": 2776,
+                "word": "Daneel Olivaw"
+            },
+            {
+                "start": 2789,
+                "end": 2790,
+                "word": "Olivaw"
+            },
+            {
+                "start": 2835,
+                "end": 2836,
+                "word": "Ben"
+            },
+            {
+                "start": 2839,
+                "end": 2840,
+                "word": "Baley"
+            },
+            {
+                "start": 2841,
+                "end": 2842,
+                "word": "Bentley"
+            },
+            {
+                "start": 2873,
+                "end": 2874,
+                "word": "Bentley"
+            },
+            {
+                "start": 2939,
+                "end": 2940,
+                "word": "Bentley"
+            },
+            {
+                "start": 2983,
+                "end": 2984,
+                "word": "Jessie"
+            },
+            {
+                "start": 3000,
+                "end": 3001,
+                "word": "Bentley"
+            },
+            {
+                "start": 3065,
+                "end": 3066,
+                "word": "Bentley"
+            },
+            {
+                "start": 3068,
+                "end": 3069,
+                "word": "Lije"
+            },
+            {
+                "start": 3085,
+                "end": 3086,
+                "word": "Bentley"
+            },
+            {
+                "start": 3106,
+                "end": 3109,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3145,
+                "end": 3146,
+                "word": "Bentley"
+            },
+            {
+                "start": 3211,
+                "end": 3214,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3226,
+                "end": 3227,
+                "word": "Olivaw"
+            },
+            {
+                "start": 3228,
+                "end": 3229,
+                "word": "Baley"
+            },
+            {
+                "start": 3242,
+                "end": 3243,
+                "word": "Bentley"
+            },
+            {
+                "start": 3245,
+                "end": 3248,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3319,
+                "end": 3320,
+                "word": "Bentley"
+            },
+            {
+                "start": 3331,
+                "end": 3334,
+                "word": "M . Olivaw"
+            }
+        ]
+    },
+    "entities": [
+        "Daneel",
+        "Elijah </PER><PER> Elie",
+        "Julius Enderby",
+        "Naboth",
+        "Jéhoram",
+        "Jessie",
+        "Jézabel",
+        "Bentley Baley",
+        "Junior",
+        "Lije Baley",
+        "Bentley",
+        "Jéhu",
+        "Lije",
+        "Ben",
+        "Baley",
+        "Olivaw",
+        "Elie",
+        "R . Daneel",
+        "M . Olivaw",
+        "Ahab",
+        "Daneel Olivaw"
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "R . Daneel",
+            "Daneel Olivaw"
+        ],
+        [
+            "Elijah",
+            "Elie",
+            "Lije",
+            "Lije Baley",
+            "Baley"
+        ],
+        [
+            "Julius Enderby"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Bentley Baley",
+            "Bentley",
+            "Junior",
+            "Ben"
+        ],
+        [
+            "Olivaw",
+            "M . Olivaw"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Jézabel",
+            "Elijah </PER><PER> Elie"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Elie"
+        ],
+        [
+            "Baley",
+            "Elie"
+        ],
+        [
+            "Baley",
+            "Jézabel"
+        ],
+        [
+            "Baley",
+            "Elijah </PER><PER> Elie"
+        ],
+        [
+            "Elie",
+            "Jézabel"
+        ],
+        [
+            "Elie",
+            "Elijah </PER><PER> Elie"
+        ],
+        [
+            "Elie",
+            "Baley"
+        ],
+        [
+            "Elie",
+            "Jézabel"
+        ],
+        [
+            "Elie",
+            "Elijah </PER><PER> Elie"
+        ],
+        [
+            "Elie",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Elijah </PER><PER> Elie"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Lije Baley"
+        ],
+        [
+            "Elijah </PER><PER> Elie",
+            "Baley"
+        ],
+        [
+            "Elijah </PER><PER> Elie",
+            "Lije Baley"
+        ],
+        [
+            "Elijah </PER><PER> Elie",
+            "Julius Enderby"
+        ],
+        [
+            "Elijah </PER><PER> Elie",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Lije Baley"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Lije Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Lije Baley",
+            "Baley"
+        ],
+        [
+            "Lije Baley",
+            "Jessie"
+        ],
+        [
+            "Lije Baley",
+            "Jézabel"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Jessie"
+        ],
+        [
+            "Julius Enderby",
+            "Jézabel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Jessie"
+        ],
+        [
+            "Jézabel",
+            "Jessie"
+        ],
+        [
+            "Jézabel",
+            "Ahab"
+        ],
+        [
+            "Jézabel",
+            "Jéhoram"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Ahab"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Jéhoram"
+        ],
+        [
+            "Jessie",
+            "Jéhu"
+        ],
+        [
+            "Jessie",
+            "Jéhu"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Ahab"
+        ],
+        [
+            "Jézabel",
+            "Jéhoram"
+        ],
+        [
+            "Jézabel",
+            "Jéhu"
+        ],
+        [
+            "Jézabel",
+            "Jéhu"
+        ],
+        [
+            "Ahab",
+            "Jézabel"
+        ],
+        [
+            "Ahab",
+            "Jéhoram"
+        ],
+        [
+            "Ahab",
+            "Jéhu"
+        ],
+        [
+            "Ahab",
+            "Jéhu"
+        ],
+        [
+            "Ahab",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Jéhoram"
+        ],
+        [
+            "Jézabel",
+            "Jéhu"
+        ],
+        [
+            "Jézabel",
+            "Jéhu"
+        ],
+        [
+            "Jéhoram",
+            "Jéhu"
+        ],
+        [
+            "Jéhoram",
+            "Jéhu"
+        ],
+        [
+            "Jéhoram",
+            "Jézabel"
+        ],
+        [
+            "Jéhu",
+            "Jézabel"
+        ],
+        [
+            "Jéhu",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Jézabel",
+            "Elie"
+        ],
+        [
+            "Elie",
+            "Jessie"
+        ],
+        [
+            "Elie",
+            "Naboth"
+        ],
+        [
+            "Elie",
+            "Lije"
+        ],
+        [
+            "Elie",
+            "Jessie"
+        ],
+        [
+            "Elie",
+            "Naboth"
+        ],
+        [
+            "Elie",
+            "Lije"
+        ],
+        [
+            "Elie",
+            "Jézabel"
+        ],
+        [
+            "Elie",
+            "Naboth"
+        ],
+        [
+            "Jessie",
+            "Naboth"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Naboth"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Naboth",
+            "Lije"
+        ],
+        [
+            "Naboth",
+            "Jézabel"
+        ],
+        [
+            "Naboth",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Jézabel"
+        ],
+        [
+            "Lije",
+            "Naboth"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Naboth"
+        ],
+        [
+            "Jézabel",
+            "Naboth"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Naboth"
+        ],
+        [
+            "Jézabel",
+            "Naboth"
+        ],
+        [
+            "Naboth",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Naboth"
+        ],
+        [
+            "Baley",
+            "Naboth"
+        ],
+        [
+            "Baley",
+            "Ahab"
+        ],
+        [
+            "Baley",
+            "Jézabel"
+        ],
+        [
+            "Naboth",
+            "Ahab"
+        ],
+        [
+            "Naboth",
+            "Jézabel"
+        ],
+        [
+            "Naboth",
+            "Ahab"
+        ],
+        [
+            "Naboth",
+            "Ahab"
+        ],
+        [
+            "Naboth",
+            "Jézabel"
+        ],
+        [
+            "Naboth",
+            "Ahab"
+        ],
+        [
+            "Naboth",
+            "Jessie"
+        ],
+        [
+            "Ahab",
+            "Jézabel"
+        ],
+        [
+            "Ahab",
+            "Naboth"
+        ],
+        [
+            "Ahab",
+            "Jessie"
+        ],
+        [
+            "Jézabel",
+            "Ahab"
+        ],
+        [
+            "Jézabel",
+            "Naboth"
+        ],
+        [
+            "Jézabel",
+            "Jessie"
+        ],
+        [
+            "Jézabel",
+            "Jessie"
+        ],
+        [
+            "Ahab",
+            "Naboth"
+        ],
+        [
+            "Ahab",
+            "Jessie"
+        ],
+        [
+            "Ahab",
+            "Jessie"
+        ],
+        [
+            "Naboth",
+            "Jessie"
+        ],
+        [
+            "Naboth",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Bentley Baley"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "Bentley",
+            "Bentley Baley"
+        ],
+        [
+            "Bentley",
+            "Elie"
+        ],
+        [
+            "Bentley",
+            "Junior"
+        ],
+        [
+            "Baley",
+            "Bentley Baley"
+        ],
+        [
+            "Baley",
+            "Elie"
+        ],
+        [
+            "Baley",
+            "Junior"
+        ],
+        [
+            "Bentley Baley",
+            "Elie"
+        ],
+        [
+            "Bentley Baley",
+            "Junior"
+        ],
+        [
+            "Elie",
+            "Junior"
+        ],
+        [
+            "Elie",
+            "Bentley"
+        ],
+        [
+            "Junior",
+            "Elie"
+        ],
+        [
+            "Junior",
+            "Bentley"
+        ],
+        [
+            "Elie",
+            "Bentley"
+        ],
+        [
+            "Bentley",
+            "Jessie"
+        ],
+        [
+            "Bentley",
+            "Daneel Olivaw"
+        ],
+        [
+            "Jessie",
+            "Daneel Olivaw"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Daneel Olivaw",
+            "Bentley"
+        ],
+        [
+            "Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Lije Baley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Olivaw"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Olivaw"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "Olivaw",
+            "Lije"
+        ],
+        [
+            "Olivaw",
+            "Daneel"
+        ],
+        [
+            "Olivaw",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Daneel"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Olivaw"
+        ],
+        [
+            "Daneel",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Olivaw"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Olivaw",
+            "Lije"
+        ],
+        [
+            "Olivaw",
+            "Bentley"
+        ],
+        [
+            "Olivaw",
+            "Baley"
+        ],
+        [
+            "Olivaw",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "Bentley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Daneel Olivaw"
+        ],
+        [
+            "Jessie",
+            "Olivaw"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Daneel Olivaw"
+        ],
+        [
+            "Jessie",
+            "Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "Bentley"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Ben"
+        ],
+        [
+            "R . Daneel",
+            "Daneel Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "Ben"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Bentley",
+            "Lije"
+        ],
+        [
+            "Bentley",
+            "Ben"
+        ],
+        [
+            "Bentley",
+            "Daneel Olivaw"
+        ],
+        [
+            "Bentley",
+            "Olivaw"
+        ],
+        [
+            "Bentley",
+            "Ben"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Ben"
+        ],
+        [
+            "Lije",
+            "Daneel Olivaw"
+        ],
+        [
+            "Lije",
+            "Olivaw"
+        ],
+        [
+            "Lije",
+            "Ben"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Ben",
+            "Daneel Olivaw"
+        ],
+        [
+            "Ben",
+            "Olivaw"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Ben",
+            "Bentley"
+        ],
+        [
+            "Daneel Olivaw",
+            "Olivaw"
+        ],
+        [
+            "Daneel Olivaw",
+            "Ben"
+        ],
+        [
+            "Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "Daneel Olivaw",
+            "Bentley"
+        ],
+        [
+            "Daneel Olivaw",
+            "Bentley"
+        ],
+        [
+            "Olivaw",
+            "Ben"
+        ],
+        [
+            "Olivaw",
+            "Baley"
+        ],
+        [
+            "Olivaw",
+            "Bentley"
+        ],
+        [
+            "Olivaw",
+            "Bentley"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Ben",
+            "Bentley"
+        ],
+        [
+            "Ben",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "Bentley"
+        ],
+        [
+            "Bentley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Bentley",
+            "Lije"
+        ],
+        [
+            "Bentley",
+            "Lije"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Lije",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Bentley"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "Bentley",
+            "Olivaw"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Bentley"
+        ],
+        [
+            "R . Daneel",
+            "Bentley"
+        ],
+        [
+            "Olivaw",
+            "Baley"
+        ],
+        [
+            "Olivaw",
+            "Bentley"
+        ],
+        [
+            "Olivaw",
+            "R . Daneel"
+        ],
+        [
+            "Olivaw",
+            "Bentley"
+        ],
+        [
+            "Olivaw",
+            "M . Olivaw"
+        ],
+        [
+            "Baley",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "M . Olivaw"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "Bentley",
+            "M . Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "Bentley"
+        ],
+        [
+            "R . Daneel",
+            "M . Olivaw"
+        ],
+        [
+            "Bentley",
+            "M . Olivaw"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Daneel\nElijah </PER><PER> Elie\nJulius Enderby\nNaboth\nJéhoram\nJessie\nJézabel\nBentley Baley\nJunior\nLije Baley\nBentley\nJéhu\nLije\nBen\nBaley\nOlivaw\nElie\nR . Daneel\nM . Olivaw\nAhab\nDaneel Olivaw\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Daneel",
+                "R . Daneel",
+                "Daneel Olivaw"
+            ],
+            "1": [
+                "Elijah",
+                "Elie",
+                "Lije",
+                "Lije Baley",
+                "Baley"
+            ],
+            "2": [
+                "Julius Enderby"
+            ],
+            "3": [
+                "Jessie"
+            ],
+            "4": [
+                "Bentley Baley",
+                "Bentley",
+                "Junior",
+                "Ben"
+            ],
+            "5": [
+                "Olivaw",
+                "M . Olivaw"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

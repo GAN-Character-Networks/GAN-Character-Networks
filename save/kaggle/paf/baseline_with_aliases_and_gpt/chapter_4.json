@@ -1,0 +1,1947 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un",
+        "entities": [
+            {
+                "start": 47,
+                "end": 49,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 60,
+                "end": 62,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 69,
+                "end": 70,
+                "word": "Hummin"
+            },
+            {
+                "start": 120,
+                "end": 121,
+                "word": "Seldon"
+            },
+            {
+                "start": 130,
+                "end": 131,
+                "word": "Hummin"
+            },
+            {
+                "start": 150,
+                "end": 151,
+                "word": "Seldon"
+            },
+            {
+                "start": 173,
+                "end": 174,
+                "word": "Hummin"
+            },
+            {
+                "start": 229,
+                "end": 230,
+                "word": "Seldon"
+            },
+            {
+                "start": 295,
+                "end": 296,
+                "word": "Demerzel"
+            },
+            {
+                "start": 382,
+                "end": 383,
+                "word": "Demerzel"
+            },
+            {
+                "start": 460,
+                "end": 461,
+                "word": "Hélicon"
+            },
+            {
+                "start": 478,
+                "end": 479,
+                "word": "Seldon"
+            },
+            {
+                "start": 502,
+                "end": 503,
+                "word": "Seldon"
+            },
+            {
+                "start": 592,
+                "end": 593,
+                "word": "Seldon"
+            },
+            {
+                "start": 630,
+                "end": 631,
+                "word": "Hummin"
+            },
+            {
+                "start": 681,
+                "end": 682,
+                "word": "Seldon"
+            },
+            {
+                "start": 687,
+                "end": 689,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 905,
+                "end": 906,
+                "word": "Hummin"
+            },
+            {
+                "start": 915,
+                "end": 917,
+                "word": "Dors Machinchose"
+            },
+            {
+                "start": 1023,
+                "end": 1024,
+                "word": "Trantor"
+            },
+            {
+                "start": 1058,
+                "end": 1059,
+                "word": "Seldon"
+            },
+            {
+                "start": 1111,
+                "end": 1112,
+                "word": "Seldon"
+            },
+            {
+                "start": 1121,
+                "end": 1122,
+                "word": "Hummin"
+            },
+            {
+                "start": 1135,
+                "end": 1136,
+                "word": "Seldon"
+            },
+            {
+                "start": 1179,
+                "end": 1181,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1209,
+                "end": 1210,
+                "word": "Dors"
+            },
+            {
+                "start": 1232,
+                "end": 1233,
+                "word": "Hari"
+            },
+            {
+                "start": 1271,
+                "end": 1272,
+                "word": "Hari"
+            },
+            {
+                "start": 1343,
+                "end": 1344,
+                "word": "Seldon"
+            },
+            {
+                "start": 1416,
+                "end": 1417,
+                "word": "Hari"
+            },
+            {
+                "start": 1468,
+                "end": 1469,
+                "word": "Hummin"
+            },
+            {
+                "start": 1529,
+                "end": 1531,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 1550,
+                "end": 1551,
+                "word": "Hummin"
+            },
+            {
+                "start": 1739,
+                "end": 1740,
+                "word": "Seldon"
+            },
+            {
+                "start": 1806,
+                "end": 1807,
+                "word": "Seldon"
+            },
+            {
+                "start": 1844,
+                "end": 1845,
+                "word": "Seldon"
+            },
+            {
+                "start": 1877,
+                "end": 1878,
+                "word": "Dors"
+            },
+            {
+                "start": 1911,
+                "end": 1912,
+                "word": "Trantor"
+            },
+            {
+                "start": 1916,
+                "end": 1917,
+                "word": "Seldon"
+            },
+            {
+                "start": 1989,
+                "end": 1991,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 2021,
+                "end": 2022,
+                "word": "Seldon"
+            },
+            {
+                "start": 2136,
+                "end": 2137,
+                "word": "Chetter"
+            },
+            {
+                "start": 2338,
+                "end": 2340,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 2359,
+                "end": 2360,
+                "word": "Seldon"
+            },
+            {
+                "start": 2378,
+                "end": 2379,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2390,
+                "end": 2391,
+                "word": "Seldon"
+            },
+            {
+                "start": 2413,
+                "end": 2414,
+                "word": "Dors"
+            },
+            {
+                "start": 2430,
+                "end": 2431,
+                "word": "Trantor"
+            },
+            {
+                "start": 2528,
+                "end": 2529,
+                "word": "Trantor"
+            },
+            {
+                "start": 2619,
+                "end": 2620,
+                "word": "Seldon"
+            },
+            {
+                "start": 2676,
+                "end": 2677,
+                "word": "Dors"
+            },
+            {
+                "start": 2732,
+                "end": 2733,
+                "word": "Dors"
+            },
+            {
+                "start": 2768,
+                "end": 2769,
+                "word": "Hari"
+            },
+            {
+                "start": 2838,
+                "end": 2839,
+                "word": "Seldon"
+            },
+            {
+                "start": 2840,
+                "end": 2841,
+                "word": "Dors"
+            },
+            {
+                "start": 2961,
+                "end": 2962,
+                "word": "Seldon"
+            },
+            {
+                "start": 3172,
+                "end": 3173,
+                "word": "Seldon"
+            },
+            {
+                "start": 3211,
+                "end": 3212,
+                "word": "Hummin"
+            },
+            {
+                "start": 3266,
+                "end": 3267,
+                "word": "Cléon"
+            },
+            {
+                "start": 3281,
+                "end": 3282,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3290,
+                "end": 3291,
+                "word": "Cléon"
+            },
+            {
+                "start": 3319,
+                "end": 3320,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3327,
+                "end": 3328,
+                "word": "Empereur"
+            },
+            {
+                "start": 3350,
+                "end": 3351,
+                "word": "Sire"
+            },
+            {
+                "start": 3353,
+                "end": 3354,
+                "word": "Cléon"
+            },
+            {
+                "start": 3419,
+                "end": 3420,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3426,
+                "end": 3427,
+                "word": "Sire"
+            },
+            {
+                "start": 3451,
+                "end": 3452,
+                "word": "Cléon"
+            },
+            {
+                "start": 3457,
+                "end": 3458,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3501,
+                "end": 3502,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3524,
+                "end": 3525,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3528,
+                "end": 3529,
+                "word": "Cléon"
+            },
+            {
+                "start": 3549,
+                "end": 3550,
+                "word": "Empereur"
+            },
+            {
+                "start": 3605,
+                "end": 3606,
+                "word": "Cléon"
+            },
+            {
+                "start": 3621,
+                "end": 3622,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3627,
+                "end": 3628,
+                "word": "Sire"
+            },
+            {
+                "start": 3642,
+                "end": 3643,
+                "word": "Trantor"
+            },
+            {
+                "start": 3715,
+                "end": 3716,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3741,
+                "end": 3742,
+                "word": "Empereur"
+            },
+            {
+                "start": 3756,
+                "end": 3757,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3760,
+                "end": 3761,
+                "word": "Seldon"
+            },
+            {
+                "start": 3776,
+                "end": 3777,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3796,
+                "end": 3797,
+                "word": "Empereur"
+            },
+            {
+                "start": 3831,
+                "end": 3832,
+                "word": "Cléon"
+            },
+            {
+                "start": 3860,
+                "end": 3861,
+                "word": "Sire"
+            },
+            {
+                "start": 3942,
+                "end": 3943,
+                "word": "Empereur"
+            },
+            {
+                "start": 3971,
+                "end": 3972,
+                "word": "Sire"
+            },
+            {
+                "start": 3975,
+                "end": 3976,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3978,
+                "end": 3979,
+                "word": "Maire"
+            },
+            {
+                "start": 3980,
+                "end": 3981,
+                "word": "Kan"
+            },
+            {
+                "start": 3988,
+                "end": 3989,
+                "word": "Cléon"
+            },
+            {
+                "start": 4007,
+                "end": 4008,
+                "word": "Sire"
+            },
+            {
+                "start": 4015,
+                "end": 4016,
+                "word": "Demerzel"
+            },
+            {
+                "start": 4034,
+                "end": 4035,
+                "word": "Seldon"
+            },
+            {
+                "start": 4041,
+                "end": 4042,
+                "word": "Sire"
+            },
+            {
+                "start": 4046,
+                "end": 4047,
+                "word": "Demerzel"
+            },
+            {
+                "start": 4057,
+                "end": 4058,
+                "word": "Kan"
+            },
+            {
+                "start": 4068,
+                "end": 4069,
+                "word": "Seldon"
+            },
+            {
+                "start": 4071,
+                "end": 4072,
+                "word": "Kan"
+            },
+            {
+                "start": 4081,
+                "end": 4082,
+                "word": "Sire"
+            },
+            {
+                "start": 4125,
+                "end": 4126,
+                "word": "Seldon"
+            },
+            {
+                "start": 4134,
+                "end": 4135,
+                "word": "Dors"
+            },
+            {
+                "start": 4148,
+                "end": 4149,
+                "word": "Seldon"
+            },
+            {
+                "start": 4266,
+                "end": 4267,
+                "word": "Venabili"
+            },
+            {
+                "start": 4506,
+                "end": 4507,
+                "word": "Hélicon"
+            },
+            {
+                "start": 4516,
+                "end": 4517,
+                "word": "Trantor"
+            },
+            {
+                "start": 4532,
+                "end": 4533,
+                "word": "Seldon"
+            },
+            {
+                "start": 4541,
+                "end": 4542,
+                "word": "Hélicon"
+            },
+            {
+                "start": 4596,
+                "end": 4597,
+                "word": "Hélicon"
+            },
+            {
+                "start": 4631,
+                "end": 4632,
+                "word": "Hélicon"
+            },
+            {
+                "start": 4717,
+                "end": 4718,
+                "word": "Dors"
+            },
+            {
+                "start": 4772,
+                "end": 4773,
+                "word": "Hari"
+            },
+            {
+                "start": 4851,
+                "end": 4852,
+                "word": "Seldon"
+            },
+            {
+                "start": 4898,
+                "end": 4899,
+                "word": "Seldon"
+            },
+            {
+                "start": 4920,
+                "end": 4921,
+                "word": "Dors"
+            },
+            {
+                "start": 4954,
+                "end": 4955,
+                "word": "Hummin"
+            }
+        ]
+    },
+    "entities": [
+        "Maire",
+        "Hummin",
+        "Chetter",
+        "Hélicon",
+        "Dors Machinchose",
+        "Kan",
+        "Chetter Hummin",
+        "Seldon",
+        "Trantor",
+        "Cléon",
+        "Empereur",
+        "Hari Seldon",
+        "Sire",
+        "Venabili",
+        "Dors Venabili",
+        "Demerzel",
+        "Dors",
+        "Hari"
+    ],
+    "aliases": [
+        [
+            "Maire",
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Chetter"
+        ],
+        [
+            "Hélicon"
+        ],
+        [
+            "Dors Machinchose",
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Trantor"
+        ],
+        [
+            "Cléon",
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Venabili"
+        ],
+        [
+            "Demerzel"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Hélicon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors Machinchose"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors Venabili"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Chetter Hummin"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Chetter Hummin"
+        ],
+        [
+            "Seldon",
+            "Chetter Hummin"
+        ],
+        [
+            "Chetter Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Chetter"
+        ],
+        [
+            "Chetter Hummin",
+            "Seldon"
+        ],
+        [
+            "Chetter Hummin",
+            "Hélicon"
+        ],
+        [
+            "Chetter Hummin",
+            "Seldon"
+        ],
+        [
+            "Chetter Hummin",
+            "Dors"
+        ],
+        [
+            "Chetter Hummin",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Dors"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Trantor"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Trantor"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Trantor"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Empereur"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Maire"
+        ],
+        [
+            "Empereur",
+            "Kan"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Maire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Cléon"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "Seldon"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Seldon"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Cléon"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Dors"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Dors"
+        ],
+        [
+            "Hélicon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Maire\nHummin\nChetter\nHélicon\nDors Machinchose\nKan\nChetter Hummin\nSeldon\nTrantor\nCléon\nEmpereur\nHari Seldon\nSire\nVenabili\nDors Venabili\nDemerzel\nDors\nHari\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Maire",
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            "1": [
+                "Chetter"
+            ],
+            "2": [
+                "Hélicon"
+            ],
+            "3": [
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ],
+            "4": [
+                "Kan"
+            ],
+            "5": [
+                "Seldon",
+                "Hari Seldon",
+                "Hari"
+            ],
+            "6": [
+                "Trantor"
+            ],
+            "7": [
+                "Cléon",
+                "Empereur",
+                "Sire"
+            ],
+            "8": [
+                "Venabili"
+            ],
+            "9": [
+                "Demerzel"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

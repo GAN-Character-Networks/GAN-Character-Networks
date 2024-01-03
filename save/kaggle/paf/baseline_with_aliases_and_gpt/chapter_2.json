@@ -1,0 +1,1954 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Fuite TRANTOR — ... capitale du premier Empire Galactique... C’est sous le règne de Cléon Ier qu’elle a « jeté ses derniers feux ». Selon toute apparence, elle était alors à son apogée. Ses 200 millions de kilomètres carrés de terres émergées étaient entièrement recouverts de dômes (hormis le domaine du Palais impérial) sous lesquels se développait en continu une cité qui s’étendait au-dessous des plates-formes continentales. La population était de quarante milliards d’habitants et, même si de",
+        "entities": [
+            {
+                "start": 15,
+                "end": 17,
+                "word": "Cléon Ier"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "word": "Trantor"
+            },
+            {
+                "start": 128,
+                "end": 129,
+                "word": "Seldon"
+            },
+            {
+                "start": 188,
+                "end": 189,
+                "word": "Seldon"
+            },
+            {
+                "start": 220,
+                "end": 221,
+                "word": "Seldon"
+            },
+            {
+                "start": 266,
+                "end": 267,
+                "word": "Marbie"
+            },
+            {
+                "start": 269,
+                "end": 270,
+                "word": "Marbie"
+            },
+            {
+                "start": 302,
+                "end": 303,
+                "word": "Marbie"
+            },
+            {
+                "start": 320,
+                "end": 321,
+                "word": "Alem"
+            },
+            {
+                "start": 323,
+                "end": 324,
+                "word": "Marbie"
+            },
+            {
+                "start": 327,
+                "end": 328,
+                "word": "Alem"
+            },
+            {
+                "start": 339,
+                "end": 340,
+                "word": "Marbie"
+            },
+            {
+                "start": 347,
+                "end": 348,
+                "word": "Hummin"
+            },
+            {
+                "start": 357,
+                "end": 358,
+                "word": "Alem"
+            },
+            {
+                "start": 359,
+                "end": 360,
+                "word": "Marbie"
+            },
+            {
+                "start": 383,
+                "end": 384,
+                "word": "Alem"
+            },
+            {
+                "start": 391,
+                "end": 392,
+                "word": "Seldon"
+            },
+            {
+                "start": 411,
+                "end": 412,
+                "word": "Hummin"
+            },
+            {
+                "start": 417,
+                "end": 418,
+                "word": "Trantor"
+            },
+            {
+                "start": 421,
+                "end": 422,
+                "word": "Alem"
+            },
+            {
+                "start": 432,
+                "end": 433,
+                "word": "Alem"
+            },
+            {
+                "start": 444,
+                "end": 445,
+                "word": "Trantor"
+            },
+            {
+                "start": 511,
+                "end": 512,
+                "word": "Hummin"
+            },
+            {
+                "start": 514,
+                "end": 515,
+                "word": "Seldon"
+            },
+            {
+                "start": 546,
+                "end": 547,
+                "word": "Seldon"
+            },
+            {
+                "start": 565,
+                "end": 566,
+                "word": "Alem"
+            },
+            {
+                "start": 571,
+                "end": 572,
+                "word": "Seldon"
+            },
+            {
+                "start": 583,
+                "end": 584,
+                "word": "Trantor"
+            },
+            {
+                "start": 593,
+                "end": 594,
+                "word": "Marbie"
+            },
+            {
+                "start": 596,
+                "end": 597,
+                "word": "Alem"
+            },
+            {
+                "start": 617,
+                "end": 618,
+                "word": "Seldon"
+            },
+            {
+                "start": 645,
+                "end": 646,
+                "word": "Seldon"
+            },
+            {
+                "start": 685,
+                "end": 686,
+                "word": "Alem"
+            },
+            {
+                "start": 703,
+                "end": 704,
+                "word": "Hummin"
+            },
+            {
+                "start": 760,
+                "end": 761,
+                "word": "Seldon"
+            },
+            {
+                "start": 764,
+                "end": 765,
+                "word": "Hummin"
+            },
+            {
+                "start": 909,
+                "end": 910,
+                "word": "Alem"
+            },
+            {
+                "start": 941,
+                "end": 942,
+                "word": "Seldon"
+            },
+            {
+                "start": 1015,
+                "end": 1016,
+                "word": "Hummin"
+            },
+            {
+                "start": 1022,
+                "end": 1023,
+                "word": "Seldon"
+            },
+            {
+                "start": 1027,
+                "end": 1028,
+                "word": "Seldon"
+            },
+            {
+                "start": 1069,
+                "end": 1070,
+                "word": "Seldon"
+            },
+            {
+                "start": 1098,
+                "end": 1099,
+                "word": "Hummin"
+            },
+            {
+                "start": 1103,
+                "end": 1104,
+                "word": "Seldon"
+            },
+            {
+                "start": 1128,
+                "end": 1129,
+                "word": "Trantor"
+            },
+            {
+                "start": 1142,
+                "end": 1143,
+                "word": "Alem"
+            },
+            {
+                "start": 1197,
+                "end": 1198,
+                "word": "Hummin"
+            },
+            {
+                "start": 1212,
+                "end": 1213,
+                "word": "Seldon"
+            },
+            {
+                "start": 1237,
+                "end": 1238,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1372,
+                "end": 1373,
+                "word": "Seldon"
+            },
+            {
+                "start": 1444,
+                "end": 1445,
+                "word": "Seldon"
+            },
+            {
+                "start": 1515,
+                "end": 1516,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1715,
+                "end": 1716,
+                "word": "Empereur"
+            },
+            {
+                "start": 1747,
+                "end": 1748,
+                "word": "Hummin"
+            },
+            {
+                "start": 1788,
+                "end": 1789,
+                "word": "Empereur"
+            },
+            {
+                "start": 1802,
+                "end": 1803,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1805,
+                "end": 1806,
+                "word": "Seldon"
+            },
+            {
+                "start": 1857,
+                "end": 1858,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1878,
+                "end": 1879,
+                "word": "Trantor"
+            },
+            {
+                "start": 1914,
+                "end": 1915,
+                "word": "Seldon"
+            },
+            {
+                "start": 1920,
+                "end": 1921,
+                "word": "Trantor"
+            },
+            {
+                "start": 1957,
+                "end": 1958,
+                "word": "Trantor"
+            },
+            {
+                "start": 1982,
+                "end": 1983,
+                "word": "Seldon"
+            },
+            {
+                "start": 1988,
+                "end": 1989,
+                "word": "Trantor"
+            },
+            {
+                "start": 2034,
+                "end": 2035,
+                "word": "Seldon"
+            },
+            {
+                "start": 2045,
+                "end": 2047,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 2056,
+                "end": 2057,
+                "word": "Hummin"
+            },
+            {
+                "start": 2084,
+                "end": 2085,
+                "word": "Seldon"
+            },
+            {
+                "start": 2117,
+                "end": 2118,
+                "word": "Hummin"
+            },
+            {
+                "start": 2183,
+                "end": 2184,
+                "word": "Seldon"
+            },
+            {
+                "start": 2220,
+                "end": 2221,
+                "word": "Seldon"
+            },
+            {
+                "start": 2302,
+                "end": 2303,
+                "word": "Seldon"
+            },
+            {
+                "start": 2335,
+                "end": 2336,
+                "word": "Hummin"
+            },
+            {
+                "start": 2405,
+                "end": 2406,
+                "word": "Seldon"
+            },
+            {
+                "start": 2488,
+                "end": 2489,
+                "word": "Seldon"
+            },
+            {
+                "start": 2491,
+                "end": 2492,
+                "word": "Seldon"
+            },
+            {
+                "start": 2641,
+                "end": 2642,
+                "word": "Trantor"
+            },
+            {
+                "start": 2774,
+                "end": 2775,
+                "word": "Demerzel"
+            },
+            {
+                "start": 2894,
+                "end": 2895,
+                "word": "Seldon"
+            },
+            {
+                "start": 2956,
+                "end": 2957,
+                "word": "Seldon"
+            },
+            {
+                "start": 2963,
+                "end": 2964,
+                "word": "Hummin"
+            },
+            {
+                "start": 3010,
+                "end": 3011,
+                "word": "Hummin"
+            },
+            {
+                "start": 3046,
+                "end": 3047,
+                "word": "Seldon"
+            },
+            {
+                "start": 3094,
+                "end": 3095,
+                "word": "Hummin"
+            },
+            {
+                "start": 3121,
+                "end": 3122,
+                "word": "Hummin"
+            },
+            {
+                "start": 3127,
+                "end": 3128,
+                "word": "Seldon"
+            },
+            {
+                "start": 3211,
+                "end": 3212,
+                "word": "Hummin"
+            },
+            {
+                "start": 3221,
+                "end": 3222,
+                "word": "Seldon"
+            },
+            {
+                "start": 3294,
+                "end": 3295,
+                "word": "Hummin"
+            },
+            {
+                "start": 3326,
+                "end": 3327,
+                "word": "Seldon"
+            },
+            {
+                "start": 3347,
+                "end": 3348,
+                "word": "Hummin"
+            },
+            {
+                "start": 3397,
+                "end": 3398,
+                "word": "Seldon"
+            },
+            {
+                "start": 3419,
+                "end": 3420,
+                "word": "Hummin"
+            },
+            {
+                "start": 3427,
+                "end": 3428,
+                "word": "Seldon"
+            },
+            {
+                "start": 3485,
+                "end": 3486,
+                "word": "Seldon"
+            },
+            {
+                "start": 3540,
+                "end": 3541,
+                "word": "Hummin"
+            },
+            {
+                "start": 3579,
+                "end": 3580,
+                "word": "Hummin"
+            },
+            {
+                "start": 3611,
+                "end": 3612,
+                "word": "Seldon"
+            },
+            {
+                "start": 3660,
+                "end": 3661,
+                "word": "Seldon"
+            },
+            {
+                "start": 3702,
+                "end": 3703,
+                "word": "Seldon"
+            },
+            {
+                "start": 3732,
+                "end": 3733,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3783,
+                "end": 3784,
+                "word": "Seldon"
+            },
+            {
+                "start": 3823,
+                "end": 3824,
+                "word": "Trantor"
+            },
+            {
+                "start": 3895,
+                "end": 3896,
+                "word": "Hummin"
+            },
+            {
+                "start": 3935,
+                "end": 3936,
+                "word": "Hummin"
+            },
+            {
+                "start": 3950,
+                "end": 3951,
+                "word": "Seldon"
+            },
+            {
+                "start": 3979,
+                "end": 3980,
+                "word": "Trantor"
+            },
+            {
+                "start": 4021,
+                "end": 4022,
+                "word": "Seldon"
+            },
+            {
+                "start": 4053,
+                "end": 4054,
+                "word": "Hummin"
+            },
+            {
+                "start": 4099,
+                "end": 4100,
+                "word": "Empereur"
+            },
+            {
+                "start": 4233,
+                "end": 4234,
+                "word": "Hummin"
+            },
+            {
+                "start": 4256,
+                "end": 4257,
+                "word": "Empereur"
+            },
+            {
+                "start": 4318,
+                "end": 4319,
+                "word": "Trantor"
+            },
+            {
+                "start": 4418,
+                "end": 4419,
+                "word": "Hummin"
+            }
+        ]
+    },
+    "entities": [
+        "Cléon Ier",
+        "Hummin",
+        "Seldon",
+        "Trantor",
+        "Marbie",
+        "Empereur",
+        "Hari Seldon",
+        "Alem",
+        "Demerzel"
+    ],
+    "aliases": [
+        [
+            "Cléon Ier",
+            "Empereur"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Trantor"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Marbie"
+        ],
+        [
+            "Alem"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Cléon Ier",
+            "Trantor"
+        ],
+        [
+            "Cléon Ier",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Marbie"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Alem"
+        ],
+        [
+            "Trantor",
+            "Alem"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Alem"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Marbie"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Trantor"
+        ],
+        [
+            "Alem",
+            "Marbie"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Marbie"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Marbie"
+        ],
+        [
+            "Trantor",
+            "Alem"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Alem"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Seldon"
+        ],
+        [
+            "Marbie",
+            "Alem"
+        ],
+        [
+            "Marbie",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Alem"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Alem"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Alem"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Alem",
+            "Hummin"
+        ],
+        [
+            "Alem",
+            "Seldon"
+        ],
+        [
+            "Alem",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hari Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Cléon Ier\nHummin\nSeldon\nTrantor\nMarbie\nEmpereur\nHari Seldon\nAlem\nDemerzel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Cléon Ier",
+                "Empereur"
+            ],
+            "1": [
+                "Hummin"
+            ],
+            "2": [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "3": [
+                "Trantor"
+            ],
+            "4": [
+                "Demerzel"
+            ],
+            "5": [
+                "Marbie"
+            ],
+            "6": [
+                "Alem"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

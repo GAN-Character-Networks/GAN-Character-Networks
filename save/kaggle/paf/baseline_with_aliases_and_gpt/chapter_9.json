@@ -1,0 +1,1543 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Microferme MYCOGÈNE. — ... Les microfermes de Mycogène sont légendaires, bien qu’elles ne survivent de nos jours que dans des expressions courantes telles que « riche comme les microfermes de Mycogène » ou bien « savoureux comme la levure mycogénienne ». Ces formules laudatives tendent à proliférer avec le temps, c’est sûr, mais Hari Seldon a visité ces microfermes durant la Fuite et l’on trouve dans ses mémoires des références qui tendraient à conforter l’opinion populaire... ENCYCLOPAEDIA",
+        "entities": [
+            {
+                "start": 7,
+                "end": 8,
+                "word": "Mycogène"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "word": "Mycogène"
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 94,
+                "end": 95,
+                "word": "Seldon"
+            },
+            {
+                "start": 103,
+                "end": 104,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "word": "Dors"
+            },
+            {
+                "start": 217,
+                "end": 218,
+                "word": "Sœur"
+            },
+            {
+                "start": 430,
+                "end": 431,
+                "word": "Seldon"
+            },
+            {
+                "start": 437,
+                "end": 438,
+                "word": "Dors"
+            },
+            {
+                "start": 443,
+                "end": 444,
+                "word": "Seldon"
+            },
+            {
+                "start": 467,
+                "end": 468,
+                "word": "Dors"
+            },
+            {
+                "start": 559,
+                "end": 560,
+                "word": "Mycogène"
+            },
+            {
+                "start": 571,
+                "end": 572,
+                "word": "Seldon"
+            },
+            {
+                "start": 637,
+                "end": 638,
+                "word": "Mycogène"
+            },
+            {
+                "start": 672,
+                "end": 673,
+                "word": "Mycogène"
+            },
+            {
+                "start": 710,
+                "end": 711,
+                "word": "Hari"
+            },
+            {
+                "start": 726,
+                "end": 727,
+                "word": "Seldon"
+            },
+            {
+                "start": 730,
+                "end": 731,
+                "word": "Dors"
+            },
+            {
+                "start": 742,
+                "end": 743,
+                "word": "Hari"
+            },
+            {
+                "start": 757,
+                "end": 758,
+                "word": "Seldon"
+            },
+            {
+                "start": 770,
+                "end": 771,
+                "word": "Dors"
+            },
+            {
+                "start": 979,
+                "end": 980,
+                "word": "Seldon"
+            },
+            {
+                "start": 1075,
+                "end": 1076,
+                "word": "Dors"
+            },
+            {
+                "start": 1089,
+                "end": 1090,
+                "word": "Hari"
+            },
+            {
+                "start": 1117,
+                "end": 1119,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 1132,
+                "end": 1133,
+                "word": "Hummin"
+            },
+            {
+                "start": 1284,
+                "end": 1285,
+                "word": "Dors"
+            },
+            {
+                "start": 1296,
+                "end": 1297,
+                "word": "Seldon"
+            },
+            {
+                "start": 1301,
+                "end": 1302,
+                "word": "Dors"
+            },
+            {
+                "start": 1410,
+                "end": 1411,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1423,
+                "end": 1424,
+                "word": "Dors"
+            },
+            {
+                "start": 1493,
+                "end": 1494,
+                "word": "Seldon"
+            },
+            {
+                "start": 1501,
+                "end": 1502,
+                "word": "Sœur"
+            },
+            {
+                "start": 1509,
+                "end": 1510,
+                "word": "Hari"
+            },
+            {
+                "start": 1511,
+                "end": 1512,
+                "word": "Dors"
+            },
+            {
+                "start": 1521,
+                "end": 1526,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 1533,
+                "end": 1534,
+                "word": "Dors"
+            },
+            {
+                "start": 1542,
+                "end": 1543,
+                "word": "Hari"
+            },
+            {
+                "start": 1592,
+                "end": 1593,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1599,
+                "end": 1601,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 1606,
+                "end": 1610,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 1630,
+                "end": 1634,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 1640,
+                "end": 1645,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 1650,
+                "end": 1655,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 1669,
+                "end": 1670,
+                "word": "Dors"
+            },
+            {
+                "start": 1678,
+                "end": 1679,
+                "word": "Seldon"
+            },
+            {
+                "start": 1691,
+                "end": 1696,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 1784,
+                "end": 1785,
+                "word": "Seldon"
+            },
+            {
+                "start": 1839,
+                "end": 1840,
+                "word": "Sœur"
+            },
+            {
+                "start": 1845,
+                "end": 1846,
+                "word": "Dors"
+            },
+            {
+                "start": 1874,
+                "end": 1875,
+                "word": "Seldon"
+            },
+            {
+                "start": 1957,
+                "end": 1958,
+                "word": "Dors"
+            },
+            {
+                "start": 2051,
+                "end": 2056,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 2140,
+                "end": 2145,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 2150,
+                "end": 2151,
+                "word": "Sœur"
+            },
+            {
+                "start": 2189,
+                "end": 2190,
+                "word": "Seldon"
+            },
+            {
+                "start": 2208,
+                "end": 2209,
+                "word": "Seldon"
+            },
+            {
+                "start": 2217,
+                "end": 2218,
+                "word": "Dors"
+            },
+            {
+                "start": 2366,
+                "end": 2367,
+                "word": "Dors"
+            },
+            {
+                "start": 2422,
+                "end": 2423,
+                "word": "Seldon"
+            },
+            {
+                "start": 2506,
+                "end": 2511,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 2516,
+                "end": 2517,
+                "word": "Seldon"
+            },
+            {
+                "start": 2546,
+                "end": 2547,
+                "word": "Seldon"
+            },
+            {
+                "start": 2574,
+                "end": 2575,
+                "word": "Seldon"
+            },
+            {
+                "start": 2627,
+                "end": 2628,
+                "word": "Seldon"
+            },
+            {
+                "start": 2723,
+                "end": 2724,
+                "word": "Seldon"
+            },
+            {
+                "start": 2748,
+                "end": 2753,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 2942,
+                "end": 2943,
+                "word": "Frère"
+            },
+            {
+                "start": 2945,
+                "end": 2946,
+                "word": "Sœur"
+            },
+            {
+                "start": 2979,
+                "end": 2980,
+                "word": "Seldon"
+            },
+            {
+                "start": 3047,
+                "end": 3048,
+                "word": "Seldon"
+            },
+            {
+                "start": 3111,
+                "end": 3116,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 3128,
+                "end": 3129,
+                "word": "Frère"
+            },
+            {
+                "start": 3131,
+                "end": 3132,
+                "word": "Sœur"
+            },
+            {
+                "start": 3163,
+                "end": 3164,
+                "word": "Seldon"
+            },
+            {
+                "start": 3177,
+                "end": 3178,
+                "word": "Sœur"
+            },
+            {
+                "start": 3205,
+                "end": 3206,
+                "word": "Seldon"
+            },
+            {
+                "start": 3263,
+                "end": 3268,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 3350,
+                "end": 3351,
+                "word": "Frère"
+            },
+            {
+                "start": 3375,
+                "end": 3380,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 3382,
+                "end": 3383,
+                "word": "Seldon"
+            },
+            {
+                "start": 3389,
+                "end": 3390,
+                "word": "Seldon"
+            },
+            {
+                "start": 3400,
+                "end": 3401,
+                "word": "Frère"
+            },
+            {
+                "start": 3428,
+                "end": 3429,
+                "word": "Frère"
+            },
+            {
+                "start": 3435,
+                "end": 3436,
+                "word": "Frère"
+            },
+            {
+                "start": 3442,
+                "end": 3443,
+                "word": "Seldon"
+            },
+            {
+                "start": 3456,
+                "end": 3461,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 3500,
+                "end": 3501,
+                "word": "Frère"
+            },
+            {
+                "start": 3506,
+                "end": 3507,
+                "word": "Seldon"
+            },
+            {
+                "start": 3566,
+                "end": 3567,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3600,
+                "end": 3601,
+                "word": "Seldon"
+            },
+            {
+                "start": 3725,
+                "end": 3726,
+                "word": "Seldon"
+            },
+            {
+                "start": 3886,
+                "end": 3887,
+                "word": "Seldon"
+            },
+            {
+                "start": 3968,
+                "end": 3970,
+                "word": "La Sœur"
+            },
+            {
+                "start": 3998,
+                "end": 3999,
+                "word": "Seldon"
+            },
+            {
+                "start": 4285,
+                "end": 4286,
+                "word": "Seldon"
+            },
+            {
+                "start": 4311,
+                "end": 4316,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 4343,
+                "end": 4344,
+                "word": "Seldon"
+            }
+        ]
+    },
+    "entities": [
+        "Hummin",
+        "La Sœur",
+        "Mycogène",
+        "Sœur",
+        "Hari",
+        "Chetter Hummin",
+        "Maître du Soleil Quatorze",
+        "Goutte de Pluie Quarante cinq",
+        "Seldon",
+        "Frère",
+        "Hari Seldon",
+        "Goutte de Pluie Quarante trois",
+        "Dors",
+        "Grisnuage"
+    ],
+    "aliases": [
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "La Sœur",
+            "Sœur"
+        ],
+        [
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Mycogène",
+            "Hari Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Grisnuage"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Grisnuage"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sœur"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Grisnuage",
+            "Sœur"
+        ],
+        [
+            "Dors",
+            "Sœur"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Chetter Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Chetter Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Sœur"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Sœur"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Sœur"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Chetter Hummin"
+        ],
+        [
+            "Sœur",
+            "Hari"
+        ],
+        [
+            "Sœur",
+            "Dors"
+        ],
+        [
+            "Sœur",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Sœur",
+            "Dors"
+        ],
+        [
+            "Sœur",
+            "Hari"
+        ],
+        [
+            "Sœur",
+            "Mycogène"
+        ],
+        [
+            "Sœur",
+            "Chetter Hummin"
+        ],
+        [
+            "Sœur",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Chetter Hummin"
+        ],
+        [
+            "Hari",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Chetter Hummin"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Chetter Hummin"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Chetter Hummin"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Chetter Hummin"
+        ],
+        [
+            "Hari",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hari",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Mycogène",
+            "Chetter Hummin"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Chetter Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Chetter Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Chetter Hummin",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Chetter Hummin",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Chetter Hummin",
+            "Dors"
+        ],
+        [
+            "Chetter Hummin",
+            "Seldon"
+        ],
+        [
+            "Chetter Hummin",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Sœur"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Sœur",
+            "Dors"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Sœur"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Sœur"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Frère",
+            "Sœur"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Sœur"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Sœur"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Sœur"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Sœur"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Sœur"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Sœur"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Mycogène"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Mycogène"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "La Sœur"
+        ],
+        [
+            "La Sœur",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Hummin\nLa Sœur\nMycogène\nSœur\nHari\nChetter Hummin\nMaître du Soleil Quatorze\nGoutte de Pluie Quarante cinq\nSeldon\nFrère\nHari Seldon\nGoutte de Pluie Quarante trois\nDors\nGrisnuage\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            "1": [
+                "La Sœur",
+                "Sœur"
+            ],
+            "2": [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "3": [
+                "Maître du Soleil Quatorze"
+            ],
+            "4": [
+                "Goutte de Pluie Quarante cinq",
+                "Goutte de Pluie Quarante trois"
+            ],
+            "5": [
+                "Dors"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

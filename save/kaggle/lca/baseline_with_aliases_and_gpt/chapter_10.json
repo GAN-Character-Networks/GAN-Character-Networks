@@ -1,0 +1,850 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Un long moment s’écoula sans que R. Daneel dît un mot. Un bruit léger se fit entendre, au loin, s’enfla pendant quelques secondes, puis disparut. Ce devait être une autre voiture de police qui passait à plus d’un kilomètre de là, ou encore des pompiers se hâtant vers quelque incendie. Et Baley se demanda s’il y avait encore à New York un homme connaissant à fond toutes les autoroutes qui serpentaient au sein de la Cité. A aucun moment du jour ou de la nuit, le réseau de ces voies de communication",
+        "entities": [
+            {
+                "start": 7,
+                "end": 10,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "word": "Baley"
+            },
+            {
+                "start": 261,
+                "end": 262,
+                "word": "Trinité"
+            },
+            {
+                "start": 517,
+                "end": 518,
+                "word": "Baley"
+            },
+            {
+                "start": 540,
+                "end": 542,
+                "word": "commissaire Enderby"
+            },
+            {
+                "start": 556,
+                "end": 558,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 569,
+                "end": 570,
+                "word": "Baley"
+            },
+            {
+                "start": 676,
+                "end": 677,
+                "word": "Elijah"
+            },
+            {
+                "start": 700,
+                "end": 701,
+                "word": "Baley"
+            },
+            {
+                "start": 760,
+                "end": 761,
+                "word": "Julius"
+            },
+            {
+                "start": 824,
+                "end": 825,
+                "word": "Baley"
+            },
+            {
+                "start": 858,
+                "end": 859,
+                "word": "Spacetown"
+            },
+            {
+                "start": 860,
+                "end": 861,
+                "word": "Lije"
+            },
+            {
+                "start": 875,
+                "end": 876,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 881,
+                "end": 882,
+                "word": "Baley"
+            },
+            {
+                "start": 910,
+                "end": 911,
+                "word": "Enderby"
+            },
+            {
+                "start": 966,
+                "end": 967,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 997,
+                "end": 998,
+                "word": "Lije"
+            },
+            {
+                "start": 1018,
+                "end": 1019,
+                "word": "Baley"
+            },
+            {
+                "start": 1095,
+                "end": 1096,
+                "word": "Daneel"
+            },
+            {
+                "start": 1170,
+                "end": 1171,
+                "word": "Baley"
+            },
+            {
+                "start": 1236,
+                "end": 1237,
+                "word": "Baley"
+            },
+            {
+                "start": 1244,
+                "end": 1247,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1283,
+                "end": 1284,
+                "word": "Baley"
+            },
+            {
+                "start": 1311,
+                "end": 1313,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1320,
+                "end": 1321,
+                "word": "Spacetown"
+            },
+            {
+                "start": 1348,
+                "end": 1349,
+                "word": "Enderby"
+            },
+            {
+                "start": 1365,
+                "end": 1366,
+                "word": "Spacetown"
+            },
+            {
+                "start": 1461,
+                "end": 1462,
+                "word": "Baley"
+            },
+            {
+                "start": 1592,
+                "end": 1593,
+                "word": "Daneel"
+            },
+            {
+                "start": 1599,
+                "end": 1600,
+                "word": "Elijah"
+            },
+            {
+                "start": 1604,
+                "end": 1605,
+                "word": "Daneel"
+            },
+            {
+                "start": 1627,
+                "end": 1628,
+                "word": "Jessie"
+            },
+            {
+                "start": 1675,
+                "end": 1676,
+                "word": "Enderby"
+            },
+            {
+                "start": 1714,
+                "end": 1717,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1767,
+                "end": 1768,
+                "word": "Baley"
+            },
+            {
+                "start": 1970,
+                "end": 1971,
+                "word": "Baley"
+            },
+            {
+                "start": 2083,
+                "end": 2084,
+                "word": "Shakespeare"
+            },
+            {
+                "start": 2086,
+                "end": 2087,
+                "word": "Churchill"
+            },
+            {
+                "start": 2281,
+                "end": 2282,
+                "word": "Baley"
+            },
+            {
+                "start": 2315,
+                "end": 2318,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2344,
+                "end": 2345,
+                "word": "Elijah"
+            },
+            {
+                "start": 2363,
+                "end": 2364,
+                "word": "Baley"
+            },
+            {
+                "start": 2449,
+                "end": 2452,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2454,
+                "end": 2455,
+                "word": "Baley"
+            },
+            {
+                "start": 2541,
+                "end": 2542,
+                "word": "Baley"
+            },
+            {
+                "start": 2558,
+                "end": 2561,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2616,
+                "end": 2617,
+                "word": "Baley"
+            },
+            {
+                "start": 2663,
+                "end": 2666,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2668,
+                "end": 2669,
+                "word": "Baley"
+            },
+            {
+                "start": 2787,
+                "end": 2790,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2840,
+                "end": 2842,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 2862,
+                "end": 2863,
+                "word": "Bentley"
+            },
+            {
+                "start": 2908,
+                "end": 2909,
+                "word": "Elijah"
+            },
+            {
+                "start": 2911,
+                "end": 2914,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3018,
+                "end": 3019,
+                "word": "Baley"
+            },
+            {
+                "start": 3076,
+                "end": 3079,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3086,
+                "end": 3087,
+                "word": "Baley"
+            },
+            {
+                "start": 3149,
+                "end": 3152,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3183,
+                "end": 3184,
+                "word": "Elijah"
+            }
+        ]
+    },
+    "entities": [
+        "Enderby",
+        "R . Daneel",
+        "Fastolfe",
+        "Elijah",
+        "Spacetown",
+        "commissaire Enderby",
+        "Lije",
+        "Shakespeare",
+        "Baley",
+        "Julius",
+        "Trinité",
+        "Bentley",
+        "Jessie",
+        "Dr Sarton",
+        "Dr Fastolfe",
+        "Churchill",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "Enderby",
+            "commissaire Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Dr Fastolfe"
+        ],
+        [
+            "Elijah",
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Bentley"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Dr Sarton"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "commissaire Enderby"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "commissaire Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "commissaire Enderby",
+            "Baley"
+        ],
+        [
+            "commissaire Enderby",
+            "Elijah"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "Julius",
+            "Baley"
+        ],
+        [
+            "Julius",
+            "Spacetown"
+        ],
+        [
+            "Julius",
+            "Lije"
+        ],
+        [
+            "Julius",
+            "Fastolfe"
+        ],
+        [
+            "Julius",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Spacetown",
+            "Lije"
+        ],
+        [
+            "Spacetown",
+            "Fastolfe"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Fastolfe"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Enderby",
+            "Fastolfe"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Lije"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Spacetown"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "Dr Sarton",
+            "Spacetown"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Spacetown"
+        ],
+        [
+            "Spacetown",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Spacetown"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Jessie"
+        ],
+        [
+            "Elijah",
+            "Enderby"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Enderby"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Shakespeare"
+        ],
+        [
+            "Baley",
+            "Churchill"
+        ],
+        [
+            "Shakespeare",
+            "Churchill"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Dr Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Bentley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Bentley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Elijah"
+        ],
+        [
+            "Dr Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Bentley",
+            "Elijah"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Enderby\nR . Daneel\nFastolfe\nElijah\nSpacetown\ncommissaire Enderby\nLije\nShakespeare\nBaley\nJulius\nTrinité\nBentley\nJessie\nDr Sarton\nDr Fastolfe\nChurchill\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            "1": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "2": [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ],
+            "3": [
+                "Elijah",
+                "Lije",
+                "Baley"
+            ],
+            "4": [
+                "Bentley"
+            ],
+            "5": [
+                "Jessie"
+            ],
+            "6": [
+                "Dr Sarton"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

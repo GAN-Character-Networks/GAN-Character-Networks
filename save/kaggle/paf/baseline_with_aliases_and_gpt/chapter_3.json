@@ -1,0 +1,831 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Université UNIVERSITÉ DE STREELING.— ... Établissement d’enseignement supérieur dans le secteur de Streeling de l’antique Trantor... Malgré sa renommée dans les domaines littéraires et scientifiques, ce n’est pas pour cette raison que le souvenir de l’Université hante encore la conscience contemporaine. Sans doute les savants qui ont fréquenté cet établissement pendant des générations auraient-ils été bien surpris si on leur avait appris que dans l’avenir, l’Université de Streeling serait connue",
+        "entities": [
+            {
+                "start": 18,
+                "end": 19,
+                "word": "Trantor"
+            },
+            {
+                "start": 87,
+                "end": 89,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 105,
+                "end": 107,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 119,
+                "end": 120,
+                "word": "Hummin"
+            },
+            {
+                "start": 239,
+                "end": 240,
+                "word": "Hummin"
+            },
+            {
+                "start": 344,
+                "end": 345,
+                "word": "Seldon"
+            },
+            {
+                "start": 499,
+                "end": 500,
+                "word": "Seldon"
+            },
+            {
+                "start": 505,
+                "end": 506,
+                "word": "Hélicon"
+            },
+            {
+                "start": 536,
+                "end": 537,
+                "word": "Hélicon"
+            },
+            {
+                "start": 576,
+                "end": 577,
+                "word": "Hélicon"
+            },
+            {
+                "start": 678,
+                "end": 679,
+                "word": "Seldon"
+            },
+            {
+                "start": 708,
+                "end": 709,
+                "word": "Seldon"
+            },
+            {
+                "start": 728,
+                "end": 729,
+                "word": "Trantor"
+            },
+            {
+                "start": 735,
+                "end": 736,
+                "word": "Hummin"
+            },
+            {
+                "start": 764,
+                "end": 765,
+                "word": "Trantor"
+            },
+            {
+                "start": 810,
+                "end": 811,
+                "word": "Trantor"
+            },
+            {
+                "start": 852,
+                "end": 853,
+                "word": "Trantor"
+            },
+            {
+                "start": 878,
+                "end": 879,
+                "word": "Trantor"
+            },
+            {
+                "start": 882,
+                "end": 883,
+                "word": "Seldon"
+            },
+            {
+                "start": 932,
+                "end": 933,
+                "word": "Trantor"
+            },
+            {
+                "start": 1098,
+                "end": 1099,
+                "word": "Hummin"
+            },
+            {
+                "start": 1148,
+                "end": 1149,
+                "word": "Trantor"
+            },
+            {
+                "start": 1181,
+                "end": 1182,
+                "word": "Trantor"
+            },
+            {
+                "start": 1244,
+                "end": 1245,
+                "word": "Trantor"
+            },
+            {
+                "start": 1259,
+                "end": 1260,
+                "word": "Seldon"
+            },
+            {
+                "start": 1392,
+                "end": 1393,
+                "word": "Seldon"
+            },
+            {
+                "start": 1574,
+                "end": 1576,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 1692,
+                "end": 1693,
+                "word": "Seldon"
+            },
+            {
+                "start": 1869,
+                "end": 1870,
+                "word": "Seldon"
+            },
+            {
+                "start": 1889,
+                "end": 1890,
+                "word": "Hummin"
+            },
+            {
+                "start": 1891,
+                "end": 1892,
+                "word": "Seldon"
+            },
+            {
+                "start": 1937,
+                "end": 1938,
+                "word": "Seldon"
+            },
+            {
+                "start": 2034,
+                "end": 2035,
+                "word": "Empereur"
+            },
+            {
+                "start": 2038,
+                "end": 2039,
+                "word": "Demerzel"
+            },
+            {
+                "start": 2062,
+                "end": 2063,
+                "word": "Seldon"
+            },
+            {
+                "start": 2119,
+                "end": 2120,
+                "word": "Seldon"
+            },
+            {
+                "start": 2132,
+                "end": 2133,
+                "word": "Hummin"
+            },
+            {
+                "start": 2265,
+                "end": 2266,
+                "word": "Seldon"
+            },
+            {
+                "start": 2283,
+                "end": 2284,
+                "word": "Trantor"
+            },
+            {
+                "start": 2319,
+                "end": 2320,
+                "word": "Trantor"
+            },
+            {
+                "start": 2329,
+                "end": 2330,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2366,
+                "end": 2367,
+                "word": "Trantor"
+            },
+            {
+                "start": 2371,
+                "end": 2372,
+                "word": "Seldon"
+            },
+            {
+                "start": 2406,
+                "end": 2407,
+                "word": "Hummin"
+            },
+            {
+                "start": 2443,
+                "end": 2444,
+                "word": "Seldon"
+            },
+            {
+                "start": 2447,
+                "end": 2448,
+                "word": "Hummin"
+            },
+            {
+                "start": 2491,
+                "end": 2492,
+                "word": "Hummin"
+            },
+            {
+                "start": 2519,
+                "end": 2520,
+                "word": "Seldon"
+            },
+            {
+                "start": 2607,
+                "end": 2608,
+                "word": "Seldon"
+            },
+            {
+                "start": 2682,
+                "end": 2683,
+                "word": "Seldon"
+            },
+            {
+                "start": 2686,
+                "end": 2687,
+                "word": "Hummin"
+            },
+            {
+                "start": 2869,
+                "end": 2870,
+                "word": "Hummin"
+            },
+            {
+                "start": 2882,
+                "end": 2883,
+                "word": "Seldon"
+            },
+            {
+                "start": 2912,
+                "end": 2913,
+                "word": "Seldon"
+            },
+            {
+                "start": 3055,
+                "end": 3056,
+                "word": "Hummin"
+            },
+            {
+                "start": 3074,
+                "end": 3075,
+                "word": "Seldon"
+            },
+            {
+                "start": 3144,
+                "end": 3145,
+                "word": "Seldon"
+            },
+            {
+                "start": 3176,
+                "end": 3177,
+                "word": "Seldon"
+            },
+            {
+                "start": 3206,
+                "end": 3207,
+                "word": "Trantor"
+            },
+            {
+                "start": 3216,
+                "end": 3217,
+                "word": "Seldon"
+            },
+            {
+                "start": 3245,
+                "end": 3246,
+                "word": "Seldon"
+            },
+            {
+                "start": 3247,
+                "end": 3248,
+                "word": "Hummin"
+            },
+            {
+                "start": 3284,
+                "end": 3285,
+                "word": "Hélicon"
+            },
+            {
+                "start": 3338,
+                "end": 3339,
+                "word": "Hummin"
+            },
+            {
+                "start": 3385,
+                "end": 3386,
+                "word": "Empereur"
+            },
+            {
+                "start": 3387,
+                "end": 3388,
+                "word": "Demerzel"
+            }
+        ]
+    },
+    "entities": [
+        "Hummin",
+        "Hélicon",
+        "Chetter Hummin",
+        "Seldon",
+        "Trantor",
+        "Empereur",
+        "Hari Seldon",
+        "Demerzel"
+    ],
+    "aliases": [
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Demerzel"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Trantor",
+            "Hari Seldon"
+        ],
+        [
+            "Trantor",
+            "Hari Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Hummin"
+        ],
+        [
+            "Hélicon",
+            "Empereur"
+        ],
+        [
+            "Hélicon",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Hummin\nHélicon\nChetter Hummin\nSeldon\nTrantor\nEmpereur\nHari Seldon\nDemerzel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            "1": [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "2": [
+                "Empereur"
+            ],
+            "3": [
+                "Demerzel"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

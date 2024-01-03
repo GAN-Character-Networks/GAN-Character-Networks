@@ -1,0 +1,1205 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le",
+        "entities": [
+            {
+                "start": 17,
+                "end": 18,
+                "word": "cle"
+            },
+            {
+                "start": 383,
+                "end": 384,
+                "word": "Baley"
+            },
+            {
+                "start": 450,
+                "end": 451,
+                "word": "Clousarr"
+            },
+            {
+                "start": 552,
+                "end": 553,
+                "word": "Baley"
+            },
+            {
+                "start": 585,
+                "end": 586,
+                "word": "Baley"
+            },
+            {
+                "start": 708,
+                "end": 709,
+                "word": "Baley"
+            },
+            {
+                "start": 814,
+                "end": 816,
+                "word": "Francis Clousarr"
+            },
+            {
+                "start": 884,
+                "end": 885,
+                "word": "Baley"
+            },
+            {
+                "start": 921,
+                "end": 922,
+                "word": "Clousarr"
+            },
+            {
+                "start": 934,
+                "end": 935,
+                "word": "Baley"
+            },
+            {
+                "start": 936,
+                "end": 937,
+                "word": "Daneel"
+            },
+            {
+                "start": 979,
+                "end": 982,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 988,
+                "end": 989,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1056,
+                "end": 1057,
+                "word": "Baley"
+            },
+            {
+                "start": 1066,
+                "end": 1067,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1324,
+                "end": 1325,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1419,
+                "end": 1420,
+                "word": "Baley"
+            },
+            {
+                "start": 1527,
+                "end": 1528,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1544,
+                "end": 1547,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1565,
+                "end": 1566,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1567,
+                "end": 1568,
+                "word": "Daneel"
+            },
+            {
+                "start": 1575,
+                "end": 1576,
+                "word": "Elijah"
+            },
+            {
+                "start": 1595,
+                "end": 1596,
+                "word": "Elijah"
+            },
+            {
+                "start": 1626,
+                "end": 1627,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1633,
+                "end": 1634,
+                "word": "Daneel"
+            },
+            {
+                "start": 1636,
+                "end": 1637,
+                "word": "Baley"
+            },
+            {
+                "start": 1691,
+                "end": 1692,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1695,
+                "end": 1696,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1699,
+                "end": 1700,
+                "word": "Baley"
+            },
+            {
+                "start": 1725,
+                "end": 1726,
+                "word": "Daneel"
+            },
+            {
+                "start": 1732,
+                "end": 1733,
+                "word": "Baley"
+            },
+            {
+                "start": 1734,
+                "end": 1737,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1749,
+                "end": 1750,
+                "word": "Baley"
+            },
+            {
+                "start": 1753,
+                "end": 1754,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1769,
+                "end": 1770,
+                "word": "Baley"
+            },
+            {
+                "start": 1794,
+                "end": 1795,
+                "word": "Daneel"
+            },
+            {
+                "start": 1844,
+                "end": 1845,
+                "word": "Daneel"
+            },
+            {
+                "start": 1867,
+                "end": 1868,
+                "word": "Daneel"
+            },
+            {
+                "start": 1912,
+                "end": 1913,
+                "word": "Daneel"
+            },
+            {
+                "start": 1918,
+                "end": 1919,
+                "word": "Baley"
+            },
+            {
+                "start": 1922,
+                "end": 1923,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1932,
+                "end": 1933,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1973,
+                "end": 1974,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1992,
+                "end": 1993,
+                "word": "Baley"
+            },
+            {
+                "start": 2107,
+                "end": 2108,
+                "word": "Baley"
+            },
+            {
+                "start": 2121,
+                "end": 2123,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 2151,
+                "end": 2152,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2224,
+                "end": 2225,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2410,
+                "end": 2411,
+                "word": "Baley"
+            },
+            {
+                "start": 2424,
+                "end": 2425,
+                "word": "Daneel"
+            },
+            {
+                "start": 2546,
+                "end": 2547,
+                "word": "Enderby"
+            },
+            {
+                "start": 2548,
+                "end": 2549,
+                "word": "Elijah"
+            },
+            {
+                "start": 2566,
+                "end": 2567,
+                "word": "Baley"
+            },
+            {
+                "start": 2611,
+                "end": 2614,
+                "word": "Dieu du Ciel"
+            },
+            {
+                "start": 2626,
+                "end": 2629,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2630,
+                "end": 2631,
+                "word": "Baley"
+            },
+            {
+                "start": 2658,
+                "end": 2661,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2694,
+                "end": 2695,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2702,
+                "end": 2703,
+                "word": "Baley"
+            },
+            {
+                "start": 2734,
+                "end": 2735,
+                "word": "Clousarr"
+            },
+            {
+                "start": 2744,
+                "end": 2745,
+                "word": "Baley"
+            },
+            {
+                "start": 2781,
+                "end": 2782,
+                "word": "Elijah"
+            },
+            {
+                "start": 2805,
+                "end": 2808,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2825,
+                "end": 2826,
+                "word": "Baley"
+            },
+            {
+                "start": 2839,
+                "end": 2842,
+                "word": "R . Sammy"
+            }
+        ]
+    },
+    "entities": [
+        "Enderby",
+        "R . Daneel",
+        "Dieu du Ciel",
+        "Elijah",
+        "Baley",
+        "Francis Clousarr",
+        "cle",
+        "Clousarr",
+        "R . Sammy",
+        "Dr Fastolfe",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Clousarr"
+        ],
+        [
+            "Dr Fastolfe"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Francis Clousarr",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Clousarr"
+        ],
+        [
+            "Francis Clousarr",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Clousarr"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Clousarr",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Clousarr"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Dr Fastolfe",
+            "Clousarr"
+        ],
+        [
+            "Dr Fastolfe",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Enderby",
+            "Elijah"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Dieu du Ciel"
+        ],
+        [
+            "Enderby",
+            "R . Sammy"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Dieu du Ciel"
+        ],
+        [
+            "Elijah",
+            "R . Sammy"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dieu du Ciel"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Dieu du Ciel",
+            "R . Sammy"
+        ],
+        [
+            "Dieu du Ciel",
+            "Baley"
+        ],
+        [
+            "Dieu du Ciel",
+            "R . Daneel"
+        ],
+        [
+            "Dieu du Ciel",
+            "Clousarr"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "R . Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Clousarr"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Elijah"
+        ],
+        [
+            "Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Elijah",
+            "R . Sammy"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Sammy"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Enderby\nR . Daneel\nDieu du Ciel\nElijah\nBaley\nFrancis Clousarr\ncle\nClousarr\nR . Sammy\nDr Fastolfe\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Enderby"
+            ],
+            "1": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "2": [
+                "Elijah",
+                "Baley"
+            ],
+            "3": [
+                "Francis Clousarr",
+                "Clousarr"
+            ],
+            "4": [
+                "Dr Fastolfe"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

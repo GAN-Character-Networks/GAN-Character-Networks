@@ -1,0 +1,430 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Il sauta de tapis roulant en tapis roulant, avec l’aisance et l’adresse acquises au cours d’une vie entière passée à ce genre d’exercice. Les enfants apprenaient à sauter d’un tapis sur l’autre dès qu’ils commençaient à marcher. C’est à peine si Baley sentait l’accélération progressive du tapis, et il avait une telle habitude de ce mode de transport qu’il ne se rendait même plus compte que, instinctivement, il se penchait en avant pour compenser la force qui l’entraînait. Il ne lui fallut pas",
+        "entities": [
+            {
+                "start": 52,
+                "end": 53,
+                "word": "Baley"
+            },
+            {
+                "start": 372,
+                "end": 373,
+                "word": "Baley"
+            },
+            {
+                "start": 599,
+                "end": 600,
+                "word": "Baley"
+            },
+            {
+                "start": 837,
+                "end": 838,
+                "word": "Baley"
+            },
+            {
+                "start": 878,
+                "end": 880,
+                "word": "Julius Enderby"
+            },
+            {
+                "start": 898,
+                "end": 899,
+                "word": "Baley"
+            },
+            {
+                "start": 1716,
+                "end": 1717,
+                "word": "Baley"
+            },
+            {
+                "start": 1984,
+                "end": 1985,
+                "word": "Baley"
+            },
+            {
+                "start": 2024,
+                "end": 2025,
+                "word": "Baley"
+            },
+            {
+                "start": 2074,
+                "end": 2075,
+                "word": "Baley"
+            },
+            {
+                "start": 2084,
+                "end": 2085,
+                "word": "Enderby"
+            },
+            {
+                "start": 2133,
+                "end": 2137,
+                "word": "R . Daneel Olivaw"
+            },
+            {
+                "start": 2183,
+                "end": 2184,
+                "word": "Baley"
+            },
+            {
+                "start": 2207,
+                "end": 2208,
+                "word": "Olivaw"
+            },
+            {
+                "start": 2223,
+                "end": 2225,
+                "word": "Elijah Baley"
+            },
+            {
+                "start": 2345,
+                "end": 2346,
+                "word": "Baley"
+            },
+            {
+                "start": 2381,
+                "end": 2384,
+                "word": "Da ... Daneel"
+            },
+            {
+                "start": 2404,
+                "end": 2405,
+                "word": "Elijah"
+            },
+            {
+                "start": 2514,
+                "end": 2515,
+                "word": "Baley"
+            },
+            {
+                "start": 2529,
+                "end": 2530,
+                "word": "Baley"
+            },
+            {
+                "start": 2581,
+                "end": 2584,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2609,
+                "end": 2612,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2748,
+                "end": 2752,
+                "word": "R . Daneel Olivaw"
+            },
+            {
+                "start": 2777,
+                "end": 2778,
+                "word": "Baley"
+            },
+            {
+                "start": 2797,
+                "end": 2800,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2875,
+                "end": 2878,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2886,
+                "end": 2887,
+                "word": "Baley"
+            },
+            {
+                "start": 2902,
+                "end": 2905,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2914,
+                "end": 2915,
+                "word": "Baley"
+            },
+            {
+                "start": 3096,
+                "end": 3097,
+                "word": "Baley"
+            },
+            {
+                "start": 3102,
+                "end": 3103,
+                "word": "Daneel"
+            },
+            {
+                "start": 3125,
+                "end": 3126,
+                "word": "Baley"
+            },
+            {
+                "start": 3173,
+                "end": 3174,
+                "word": "Baley"
+            },
+            {
+                "start": 3255,
+                "end": 3256,
+                "word": "Baley"
+            }
+        ]
+    },
+    "entities": [
+        "Elijah",
+        "R . Daneel",
+        "R . Sammy",
+        "Daneel",
+        "Julius Enderby",
+        "R . Daneel Olivaw",
+        "Elijah Baley",
+        "Da ... Daneel",
+        "Enderby",
+        "Baley",
+        "Olivaw"
+    ],
+    "aliases": [
+        [
+            "Elijah",
+            "Elijah Baley",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel",
+            "R . Daneel Olivaw",
+            "Da ... Daneel",
+            "Olivaw"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Olivaw"
+        ],
+        [
+            "Baley",
+            "Elijah Baley"
+        ],
+        [
+            "Enderby",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Olivaw"
+        ],
+        [
+            "Enderby",
+            "Elijah Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Olivaw"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Elijah Baley"
+        ],
+        [
+            "Baley",
+            "Olivaw"
+        ],
+        [
+            "Baley",
+            "Elijah Baley"
+        ],
+        [
+            "Olivaw",
+            "Elijah Baley"
+        ],
+        [
+            "Baley",
+            "Da ... Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Da ... Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "R . Sammy"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Sammy",
+            "R . Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "R . Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Elijah\nR . Daneel\nR . Sammy\nDaneel\nJulius Enderby\nR . Daneel Olivaw\nElijah Baley\nDa ... Daneel\nEnderby\nBaley\nOlivaw\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Elijah",
+                "Elijah Baley",
+                "Baley"
+            ],
+            "1": [
+                "R . Daneel",
+                "Daneel",
+                "R . Daneel Olivaw",
+                "Da ... Daneel",
+                "Olivaw"
+            ],
+            "2": [
+                "Julius Enderby",
+                "Enderby"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

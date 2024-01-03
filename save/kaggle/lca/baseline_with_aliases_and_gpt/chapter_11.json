@@ -1,0 +1,670 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "fixés sur les fonctions qu’exerçait Baley. Or, pour qu’un détective circulât en compagnie d’un robot humanoïde, il fallait que ce policier fût quelqu’un de très important, et Baley n’eut aucune peine à reconstituer le raisonnement de ses mystérieux adversaires. Il en déduisit qu’ils avaient dû placer des espions aux alentours de l’Hôtel de Ville, pour surveiller ses agissements et ceux de R. Daneel ; peut-être même disposaient-ils de complices au sein même des services officiels et dans",
+        "entities": [
+            {
+                "start": 6,
+                "end": 7,
+                "word": "Baley"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "word": "Baley"
+            },
+            {
+                "start": 74,
+                "end": 77,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 141,
+                "end": 142,
+                "word": "Spacetown"
+            },
+            {
+                "start": 148,
+                "end": 149,
+                "word": "Baley"
+            },
+            {
+                "start": 159,
+                "end": 162,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 214,
+                "end": 215,
+                "word": "Baley"
+            },
+            {
+                "start": 307,
+                "end": 308,
+                "word": "Baley"
+            },
+            {
+                "start": 436,
+                "end": 437,
+                "word": "Baley"
+            },
+            {
+                "start": 496,
+                "end": 497,
+                "word": "Ben"
+            },
+            {
+                "start": 539,
+                "end": 540,
+                "word": "Baley"
+            },
+            {
+                "start": 598,
+                "end": 599,
+                "word": "Baley"
+            },
+            {
+                "start": 690,
+                "end": 691,
+                "word": "Baley"
+            },
+            {
+                "start": 768,
+                "end": 769,
+                "word": "Daneel"
+            },
+            {
+                "start": 777,
+                "end": 778,
+                "word": "Elijah"
+            },
+            {
+                "start": 791,
+                "end": 792,
+                "word": "Baley"
+            },
+            {
+                "start": 975,
+                "end": 977,
+                "word": "Elijah Baley"
+            },
+            {
+                "start": 1154,
+                "end": 1155,
+                "word": "Baley"
+            },
+            {
+                "start": 1251,
+                "end": 1254,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1266,
+                "end": 1267,
+                "word": "Daneel"
+            },
+            {
+                "start": 1285,
+                "end": 1286,
+                "word": "Baley"
+            },
+            {
+                "start": 1415,
+                "end": 1416,
+                "word": "Daneel"
+            },
+            {
+                "start": 1437,
+                "end": 1438,
+                "word": "Baley"
+            },
+            {
+                "start": 1532,
+                "end": 1533,
+                "word": "Baley"
+            },
+            {
+                "start": 1534,
+                "end": 1537,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1583,
+                "end": 1584,
+                "word": "Baley"
+            },
+            {
+                "start": 1769,
+                "end": 1770,
+                "word": "Daneel"
+            },
+            {
+                "start": 1832,
+                "end": 1833,
+                "word": "Baley"
+            },
+            {
+                "start": 1850,
+                "end": 1853,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1900,
+                "end": 1901,
+                "word": "Daneel"
+            },
+            {
+                "start": 1996,
+                "end": 1997,
+                "word": "Daneel"
+            },
+            {
+                "start": 2010,
+                "end": 2011,
+                "word": "Baley"
+            },
+            {
+                "start": 2040,
+                "end": 2041,
+                "word": "Spacetown"
+            },
+            {
+                "start": 2074,
+                "end": 2077,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2079,
+                "end": 2080,
+                "word": "Baley"
+            },
+            {
+                "start": 2089,
+                "end": 2090,
+                "word": "Elijah"
+            },
+            {
+                "start": 2104,
+                "end": 2105,
+                "word": "Baley"
+            },
+            {
+                "start": 2261,
+                "end": 2262,
+                "word": "Baley"
+            },
+            {
+                "start": 2292,
+                "end": 2295,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2314,
+                "end": 2315,
+                "word": "Baley"
+            },
+            {
+                "start": 2410,
+                "end": 2411,
+                "word": "Baley"
+            },
+            {
+                "start": 2421,
+                "end": 2422,
+                "word": "Ben"
+            },
+            {
+                "start": 2435,
+                "end": 2436,
+                "word": "Baley"
+            },
+            {
+                "start": 2442,
+                "end": 2443,
+                "word": "Ben"
+            },
+            {
+                "start": 2513,
+                "end": 2514,
+                "word": "Baley"
+            },
+            {
+                "start": 2556,
+                "end": 2557,
+                "word": "Ben"
+            },
+            {
+                "start": 2627,
+                "end": 2628,
+                "word": "Baley"
+            },
+            {
+                "start": 2756,
+                "end": 2757,
+                "word": "Jessie"
+            },
+            {
+                "start": 2761,
+                "end": 2762,
+                "word": "Jessie"
+            },
+            {
+                "start": 2784,
+                "end": 2785,
+                "word": "Baley"
+            },
+            {
+                "start": 2802,
+                "end": 2803,
+                "word": "Jessie"
+            },
+            {
+                "start": 2804,
+                "end": 2805,
+                "word": "Ben"
+            },
+            {
+                "start": 2861,
+                "end": 2862,
+                "word": "Jessie"
+            },
+            {
+                "start": 2878,
+                "end": 2879,
+                "word": "Lije"
+            },
+            {
+                "start": 2928,
+                "end": 2929,
+                "word": "Ben"
+            },
+            {
+                "start": 2976,
+                "end": 2977,
+                "word": "Ben"
+            }
+        ]
+    },
+    "entities": [
+        "R . Daneel",
+        "Spacetown",
+        "Elijah",
+        "Lije",
+        "Baley",
+        "Jessie",
+        "Ben",
+        "Elijah Baley",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Lije",
+            "Baley",
+            "Elijah Baley"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Ben"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "R . Daneel",
+            "Spacetown"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "R . Daneel"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Spacetown"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Spacetown"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Spacetown",
+            "R . Daneel"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "Spacetown",
+            "Elijah"
+        ],
+        [
+            "Spacetown",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Ben",
+            "Jessie"
+        ],
+        [
+            "Ben",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Lije",
+            "Ben"
+        ],
+        [
+            "Lije",
+            "Ben"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    R . Daneel\nSpacetown\nElijah\nLije\nBaley\nJessie\nBen\nElijah Baley\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "1": [
+                "Elijah",
+                "Lije",
+                "Baley",
+                "Elijah Baley"
+            ],
+            "2": [
+                "Jessie"
+            ],
+            "3": [
+                "Ben"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

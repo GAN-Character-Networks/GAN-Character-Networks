@@ -1,0 +1,1175 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Livre ― HISTOIRE DE LA MAIN SUR LA CUISSE ‖ — ... Une anecdote citée par Hari Seldon comme le premier tournant dans sa recherche d’une méthode pour mettre au point la psychohistoire. Malheureusement, ses écrits publiés ne fournissent aucune indication quant à la teneur de cette « histoire » et les (nombreuses) spéculations concernant celle- ci restent vaines. C’est l’un des nombreux et irritants mystères qui entourent la carrière de Seldon. ENCYCLOPAEDIA GALACTICA. Goutte-de-Pluie Quarante-trois",
+        "entities": [
+            {
+                "start": 13,
+                "end": 15,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "word": "Seldon"
+            },
+            {
+                "start": 79,
+                "end": 84,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "word": "Seldon"
+            },
+            {
+                "start": 107,
+                "end": 108,
+                "word": "Seldon"
+            },
+            {
+                "start": 118,
+                "end": 119,
+                "word": "Frère"
+            },
+            {
+                "start": 131,
+                "end": 132,
+                "word": "Il"
+            },
+            {
+                "start": 349,
+                "end": 350,
+                "word": "Mycogène"
+            },
+            {
+                "start": 416,
+                "end": 417,
+                "word": "Seldon"
+            },
+            {
+                "start": 453,
+                "end": 454,
+                "word": "Il"
+            },
+            {
+                "start": 467,
+                "end": 468,
+                "word": "Dors"
+            },
+            {
+                "start": 515,
+                "end": 516,
+                "word": "Hélicon"
+            },
+            {
+                "start": 527,
+                "end": 528,
+                "word": "Hélicon"
+            },
+            {
+                "start": 561,
+                "end": 562,
+                "word": "Hélicon"
+            },
+            {
+                "start": 610,
+                "end": 611,
+                "word": "Sœur"
+            },
+            {
+                "start": 621,
+                "end": 622,
+                "word": "Seldon"
+            },
+            {
+                "start": 646,
+                "end": 647,
+                "word": "Seldon"
+            },
+            {
+                "start": 664,
+                "end": 666,
+                "word": "la Sœur"
+            },
+            {
+                "start": 683,
+                "end": 688,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 719,
+                "end": 721,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 726,
+                "end": 727,
+                "word": "Il"
+            },
+            {
+                "start": 744,
+                "end": 745,
+                "word": "Il"
+            },
+            {
+                "start": 850,
+                "end": 851,
+                "word": "Il"
+            },
+            {
+                "start": 892,
+                "end": 893,
+                "word": "Seldon"
+            },
+            {
+                "start": 906,
+                "end": 907,
+                "word": "Sœur"
+            },
+            {
+                "start": 977,
+                "end": 978,
+                "word": "Seldon"
+            },
+            {
+                "start": 1027,
+                "end": 1028,
+                "word": "Il"
+            },
+            {
+                "start": 1064,
+                "end": 1069,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 1080,
+                "end": 1081,
+                "word": "Seldon"
+            },
+            {
+                "start": 1104,
+                "end": 1105,
+                "word": "Il"
+            },
+            {
+                "start": 1116,
+                "end": 1117,
+                "word": "Seldon"
+            },
+            {
+                "start": 1128,
+                "end": 1133,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 1160,
+                "end": 1162,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1177,
+                "end": 1178,
+                "word": "Seldon"
+            },
+            {
+                "start": 1273,
+                "end": 1274,
+                "word": "Dors"
+            },
+            {
+                "start": 1310,
+                "end": 1311,
+                "word": "Il"
+            },
+            {
+                "start": 1319,
+                "end": 1320,
+                "word": "Dors"
+            },
+            {
+                "start": 1335,
+                "end": 1336,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1338,
+                "end": 1339,
+                "word": "Seldon"
+            },
+            {
+                "start": 1364,
+                "end": 1365,
+                "word": "Il"
+            },
+            {
+                "start": 1392,
+                "end": 1393,
+                "word": "Dors"
+            },
+            {
+                "start": 1421,
+                "end": 1422,
+                "word": "Hari"
+            },
+            {
+                "start": 1448,
+                "end": 1449,
+                "word": "Frère"
+            },
+            {
+                "start": 1769,
+                "end": 1770,
+                "word": "Il"
+            },
+            {
+                "start": 1830,
+                "end": 1831,
+                "word": "Il"
+            },
+            {
+                "start": 1898,
+                "end": 1899,
+                "word": "Il"
+            },
+            {
+                "start": 1997,
+                "end": 1998,
+                "word": "Il"
+            },
+            {
+                "start": 2119,
+                "end": 2120,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2255,
+                "end": 2256,
+                "word": "Dors"
+            },
+            {
+                "start": 2330,
+                "end": 2331,
+                "word": "Il"
+            },
+            {
+                "start": 2335,
+                "end": 2336,
+                "word": "Dors"
+            },
+            {
+                "start": 2406,
+                "end": 2407,
+                "word": "Hari"
+            },
+            {
+                "start": 2543,
+                "end": 2544,
+                "word": "Il"
+            },
+            {
+                "start": 2597,
+                "end": 2598,
+                "word": "Dors"
+            },
+            {
+                "start": 2676,
+                "end": 2677,
+                "word": "Il"
+            },
+            {
+                "start": 2732,
+                "end": 2733,
+                "word": "Il"
+            },
+            {
+                "start": 2818,
+                "end": 2819,
+                "word": "Seldon"
+            },
+            {
+                "start": 2841,
+                "end": 2842,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2869,
+                "end": 2870,
+                "word": "Seldon"
+            },
+            {
+                "start": 2904,
+                "end": 2905,
+                "word": "Il"
+            },
+            {
+                "start": 2931,
+                "end": 2933,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 2978,
+                "end": 2979,
+                "word": "Seldon"
+            },
+            {
+                "start": 3015,
+                "end": 3016,
+                "word": "Dors"
+            },
+            {
+                "start": 3050,
+                "end": 3051,
+                "word": "Seldon"
+            },
+            {
+                "start": 3069,
+                "end": 3070,
+                "word": "Il"
+            },
+            {
+                "start": 3105,
+                "end": 3106,
+                "word": "Il"
+            },
+            {
+                "start": 3132,
+                "end": 3133,
+                "word": "Seldon"
+            },
+            {
+                "start": 3205,
+                "end": 3206,
+                "word": "Il"
+            },
+            {
+                "start": 3259,
+                "end": 3260,
+                "word": "Seldon"
+            },
+            {
+                "start": 3316,
+                "end": 3317,
+                "word": "Seldon"
+            },
+            {
+                "start": 3414,
+                "end": 3415,
+                "word": "Seldon"
+            },
+            {
+                "start": 3462,
+                "end": 3463,
+                "word": "Seldon"
+            },
+            {
+                "start": 3537,
+                "end": 3538,
+                "word": "Hari"
+            },
+            {
+                "start": 3557,
+                "end": 3558,
+                "word": "Seldon"
+            },
+            {
+                "start": 3596,
+                "end": 3597,
+                "word": "Il"
+            },
+            {
+                "start": 3694,
+                "end": 3695,
+                "word": "Seldon"
+            },
+            {
+                "start": 3752,
+                "end": 3753,
+                "word": "Seldon"
+            },
+            {
+                "start": 3777,
+                "end": 3778,
+                "word": "Hari"
+            },
+            {
+                "start": 3780,
+                "end": 3781,
+                "word": "Dors"
+            },
+            {
+                "start": 3788,
+                "end": 3791,
+                "word": "Goutte de Pluie"
+            },
+            {
+                "start": 3822,
+                "end": 3823,
+                "word": "Hari"
+            },
+            {
+                "start": 3969,
+                "end": 3970,
+                "word": "Il"
+            },
+            {
+                "start": 4203,
+                "end": 4204,
+                "word": "Dors"
+            },
+            {
+                "start": 4211,
+                "end": 4216,
+                "word": "Goutte de Pluie Quarante cinq"
+            }
+        ]
+    },
+    "entities": [
+        "Hélicon",
+        "Mycogène",
+        "Sœur",
+        "Frère",
+        "la Sœur",
+        "Il",
+        "Goutte de Pluie Quarante cinq",
+        "Seldon",
+        "Hari Seldon",
+        "Dors Venabili",
+        "Goutte de Pluie Quarante trois",
+        "Goutte de Pluie",
+        "Dors",
+        "Hari"
+    ],
+    "aliases": [
+        [
+            "Hari Seldon",
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Frère"
+        ],
+        [
+            "Hari Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Frère"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Frère",
+            "Il"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Il"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Il",
+            "Hélicon"
+        ],
+        [
+            "Il",
+            "Hélicon"
+        ],
+        [
+            "Il",
+            "Hélicon"
+        ],
+        [
+            "Dors",
+            "Hélicon"
+        ],
+        [
+            "Dors",
+            "Hélicon"
+        ],
+        [
+            "Dors",
+            "Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Sœur"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Sœur"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Sœur"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "la Sœur"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Sœur",
+            "la Sœur"
+        ],
+        [
+            "Sœur",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Sœur",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "la Sœur"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "la Sœur"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "la Sœur",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "la Sœur",
+            "Hari Seldon"
+        ],
+        [
+            "la Sœur",
+            "Il"
+        ],
+        [
+            "la Sœur",
+            "Il"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Hari Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Il"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Il"
+        ],
+        [
+            "Hari Seldon",
+            "Il"
+        ],
+        [
+            "Hari Seldon",
+            "Il"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Sœur"
+        ],
+        [
+            "Seldon",
+            "Sœur"
+        ],
+        [
+            "Sœur",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Il",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Il"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Il",
+            "Dors Venabili"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors Venabili"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Il",
+            "Mycogène"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Il"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Il",
+            "Hari"
+        ],
+        [
+            "Il",
+            "Frère"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Frère"
+        ],
+        [
+            "Hari",
+            "Frère"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Il",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Il"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Il"
+        ],
+        [
+            "Hélicon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Il",
+            "Dors Venabili"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Dors",
+            "Il"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Il"
+        ],
+        [
+            "Seldon",
+            "Il"
+        ],
+        [
+            "Il",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Hélicon\nMycogène\nSœur\nFrère\nla Sœur\nIl\nGoutte de Pluie Quarante cinq\nSeldon\nHari Seldon\nDors Venabili\nGoutte de Pluie Quarante trois\nGoutte de Pluie\nDors\nHari\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            "1": [
+                "Dors Venabili",
+                "Dors"
+            ],
+            "2": [
+                "Goutte de Pluie Quarante cinq",
+                "Goutte de Pluie Quarante trois",
+                "Goutte de Pluie"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

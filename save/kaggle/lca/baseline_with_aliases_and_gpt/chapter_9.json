@@ -1,0 +1,369 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "manche autant qu’il le put, découvrant ainsi le poignet. La chair du robot était douce au toucher, mais on sentait que, sous cette couche, il y avait une matière plus dure que des os. R. Daneel laissa le policier lui serrer le bras, et Baley l’examina longuement, pinçant la peau le long de la ligne médiane. Comportait-elle une légère couture ? Logiquement, il devait y en avoir une. Un robot, recouvert de peau synthétique, et construit pour ressembler vraiment à un être humain, ne pouvait être",
+        "entities": [
+            {
+                "start": 41,
+                "end": 44,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "word": "Baley"
+            },
+            {
+                "start": 192,
+                "end": 193,
+                "word": "Baley"
+            },
+            {
+                "start": 203,
+                "end": 205,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 255,
+                "end": 256,
+                "word": "Baley"
+            },
+            {
+                "start": 365,
+                "end": 366,
+                "word": "Baley"
+            },
+            {
+                "start": 405,
+                "end": 406,
+                "word": "Lije"
+            },
+            {
+                "start": 469,
+                "end": 470,
+                "word": "Baley"
+            },
+            {
+                "start": 702,
+                "end": 703,
+                "word": "Baley"
+            },
+            {
+                "start": 858,
+                "end": 859,
+                "word": "Baley"
+            },
+            {
+                "start": 861,
+                "end": 863,
+                "word": "le Spacien"
+            },
+            {
+                "start": 934,
+                "end": 935,
+                "word": "Baley"
+            },
+            {
+                "start": 956,
+                "end": 958,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 965,
+                "end": 966,
+                "word": "Baley"
+            },
+            {
+                "start": 1096,
+                "end": 1097,
+                "word": "Baley"
+            },
+            {
+                "start": 1132,
+                "end": 1133,
+                "word": "Baley"
+            },
+            {
+                "start": 1134,
+                "end": 1137,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1291,
+                "end": 1292,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 1303,
+                "end": 1304,
+                "word": "Baley"
+            },
+            {
+                "start": 1513,
+                "end": 1514,
+                "word": "Baley"
+            },
+            {
+                "start": 1535,
+                "end": 1536,
+                "word": "Baley"
+            },
+            {
+                "start": 1587,
+                "end": 1588,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 1696,
+                "end": 1697,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 1722,
+                "end": 1723,
+                "word": "Baley"
+            },
+            {
+                "start": 2163,
+                "end": 2164,
+                "word": "Baley"
+            },
+            {
+                "start": 2307,
+                "end": 2308,
+                "word": "Baley"
+            },
+            {
+                "start": 2458,
+                "end": 2459,
+                "word": "Baley"
+            },
+            {
+                "start": 2463,
+                "end": 2466,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2564,
+                "end": 2565,
+                "word": "Baley"
+            },
+            {
+                "start": 2638,
+                "end": 2639,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 2668,
+                "end": 2669,
+                "word": "Baley"
+            },
+            {
+                "start": 2766,
+                "end": 2767,
+                "word": "Baley"
+            },
+            {
+                "start": 2928,
+                "end": 2930,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 2961,
+                "end": 2962,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 3321,
+                "end": 3322,
+                "word": "Daneel"
+            },
+            {
+                "start": 3328,
+                "end": 3329,
+                "word": "Elijah"
+            },
+            {
+                "start": 3332,
+                "end": 3334,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 3347,
+                "end": 3348,
+                "word": "Elijah"
+            }
+        ]
+    },
+    "entities": [
+        "R . Daneel",
+        "Fastolfe",
+        "Lije",
+        "Elijah",
+        "le Spacien",
+        "Baley",
+        "Dr Fastolfe",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Dr Fastolfe"
+        ],
+        [
+            "Lije",
+            "Elijah",
+            "Baley"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "le Spacien"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "le Spacien",
+            "Baley"
+        ],
+        [
+            "le Spacien",
+            "Dr Fastolfe"
+        ],
+        [
+            "le Spacien",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Fastolfe"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Dr Fastolfe"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Elijah"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    R . Daneel\nFastolfe\nLije\nElijah\nle Spacien\nBaley\nDr Fastolfe\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "1": [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ],
+            "2": [
+                "Lije",
+                "Elijah",
+                "Baley"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

@@ -1,0 +1,1646 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Mycogène MYCOGÈNE. — ... Secteur de l’antique Trantor... Enfouie dans le passé de ses propres légendes, Mycogène n’eut que peu d’impact sur la planète. Cultivant l’isolationnisme et l’autosatisfaction à un point... ENCYCLOPAEDIA GALACTICA Quand Seldon s’éveilla, ce fut pour découvrir un nouveau visage qui le fixait, solennel. Un instant, il fronça les sourcils, ahuri, puis dit : « Hummin ? » Ce dernier sourit imperceptiblement. « Vous vous souvenez donc de moi ? — Cela n’a duré qu’une journée, il",
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "word": "Mycogène"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "word": "Trantor"
+            },
+            {
+                "start": 19,
+                "end": 20,
+                "word": "Mycogène"
+            },
+            {
+                "start": 43,
+                "end": 44,
+                "word": "Seldon"
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "word": "Hummin"
+            },
+            {
+                "start": 143,
+                "end": 144,
+                "word": "Dors"
+            },
+            {
+                "start": 202,
+                "end": 203,
+                "word": "Hummin"
+            },
+            {
+                "start": 212,
+                "end": 213,
+                "word": "Dors"
+            },
+            {
+                "start": 226,
+                "end": 227,
+                "word": "Hummin"
+            },
+            {
+                "start": 237,
+                "end": 238,
+                "word": "Dors"
+            },
+            {
+                "start": 264,
+                "end": 265,
+                "word": "Seldon"
+            },
+            {
+                "start": 323,
+                "end": 324,
+                "word": "Hummin"
+            },
+            {
+                "start": 338,
+                "end": 340,
+                "word": "Eto Demerzel"
+            },
+            {
+                "start": 356,
+                "end": 357,
+                "word": "Hummin"
+            },
+            {
+                "start": 437,
+                "end": 438,
+                "word": "Hummin"
+            },
+            {
+                "start": 447,
+                "end": 448,
+                "word": "Demerzel"
+            },
+            {
+                "start": 506,
+                "end": 507,
+                "word": "Dors"
+            },
+            {
+                "start": 508,
+                "end": 509,
+                "word": "Leggen"
+            },
+            {
+                "start": 518,
+                "end": 519,
+                "word": "Seldon"
+            },
+            {
+                "start": 553,
+                "end": 554,
+                "word": "Leggen"
+            },
+            {
+                "start": 579,
+                "end": 580,
+                "word": "Seldon"
+            },
+            {
+                "start": 590,
+                "end": 591,
+                "word": "Hummin"
+            },
+            {
+                "start": 645,
+                "end": 646,
+                "word": "Seldon"
+            },
+            {
+                "start": 742,
+                "end": 743,
+                "word": "Hummin"
+            },
+            {
+                "start": 799,
+                "end": 800,
+                "word": "Leggen"
+            },
+            {
+                "start": 807,
+                "end": 808,
+                "word": "Seldon"
+            },
+            {
+                "start": 843,
+                "end": 844,
+                "word": "Seldon"
+            },
+            {
+                "start": 869,
+                "end": 870,
+                "word": "Dors"
+            },
+            {
+                "start": 880,
+                "end": 881,
+                "word": "Hari"
+            },
+            {
+                "start": 918,
+                "end": 919,
+                "word": "Seldon"
+            },
+            {
+                "start": 947,
+                "end": 948,
+                "word": "Leggen"
+            },
+            {
+                "start": 950,
+                "end": 951,
+                "word": "Hummin"
+            },
+            {
+                "start": 1107,
+                "end": 1108,
+                "word": "Seldon"
+            },
+            {
+                "start": 1157,
+                "end": 1158,
+                "word": "Hari"
+            },
+            {
+                "start": 1181,
+                "end": 1182,
+                "word": "Hummin"
+            },
+            {
+                "start": 1201,
+                "end": 1202,
+                "word": "Randa"
+            },
+            {
+                "start": 1220,
+                "end": 1221,
+                "word": "Randa"
+            },
+            {
+                "start": 1257,
+                "end": 1258,
+                "word": "Dors"
+            },
+            {
+                "start": 1297,
+                "end": 1298,
+                "word": "Randa"
+            },
+            {
+                "start": 1334,
+                "end": 1335,
+                "word": "Seldon"
+            },
+            {
+                "start": 1353,
+                "end": 1354,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1356,
+                "end": 1357,
+                "word": "Hummin"
+            },
+            {
+                "start": 1375,
+                "end": 1376,
+                "word": "Seldon"
+            },
+            {
+                "start": 1382,
+                "end": 1383,
+                "word": "Dors"
+            },
+            {
+                "start": 1395,
+                "end": 1397,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 1467,
+                "end": 1468,
+                "word": "Hummin"
+            },
+            {
+                "start": 1472,
+                "end": 1473,
+                "word": "Seldon"
+            },
+            {
+                "start": 1490,
+                "end": 1491,
+                "word": "Seldon"
+            },
+            {
+                "start": 1537,
+                "end": 1538,
+                "word": "Hummin"
+            },
+            {
+                "start": 1613,
+                "end": 1614,
+                "word": "Cléon"
+            },
+            {
+                "start": 1619,
+                "end": 1620,
+                "word": "Seldon"
+            },
+            {
+                "start": 1687,
+                "end": 1688,
+                "word": "Leggen"
+            },
+            {
+                "start": 1727,
+                "end": 1728,
+                "word": "Trantor"
+            },
+            {
+                "start": 1742,
+                "end": 1743,
+                "word": "Dors"
+            },
+            {
+                "start": 1756,
+                "end": 1757,
+                "word": "Hummin"
+            },
+            {
+                "start": 1843,
+                "end": 1844,
+                "word": "Seldon"
+            },
+            {
+                "start": 1875,
+                "end": 1876,
+                "word": "Seldon"
+            },
+            {
+                "start": 1888,
+                "end": 1889,
+                "word": "Hummin"
+            },
+            {
+                "start": 1935,
+                "end": 1936,
+                "word": "Seldon"
+            },
+            {
+                "start": 1948,
+                "end": 1949,
+                "word": "Hari"
+            },
+            {
+                "start": 1950,
+                "end": 1951,
+                "word": "Dors"
+            },
+            {
+                "start": 1971,
+                "end": 1972,
+                "word": "Seldon"
+            },
+            {
+                "start": 1997,
+                "end": 1998,
+                "word": "Seldon"
+            },
+            {
+                "start": 2039,
+                "end": 2040,
+                "word": "Hummin"
+            },
+            {
+                "start": 2143,
+                "end": 2144,
+                "word": "Dors"
+            },
+            {
+                "start": 2230,
+                "end": 2231,
+                "word": "Seldon"
+            },
+            {
+                "start": 2273,
+                "end": 2274,
+                "word": "Hummin"
+            },
+            {
+                "start": 2287,
+                "end": 2288,
+                "word": "Seldon"
+            },
+            {
+                "start": 2301,
+                "end": 2302,
+                "word": "Hummin"
+            },
+            {
+                "start": 2544,
+                "end": 2545,
+                "word": "Dors"
+            },
+            {
+                "start": 2716,
+                "end": 2717,
+                "word": "Hummin"
+            },
+            {
+                "start": 2792,
+                "end": 2793,
+                "word": "Hummin"
+            },
+            {
+                "start": 2835,
+                "end": 2836,
+                "word": "Dors"
+            },
+            {
+                "start": 2924,
+                "end": 2925,
+                "word": "Hummin"
+            },
+            {
+                "start": 2971,
+                "end": 2972,
+                "word": "Dors"
+            },
+            {
+                "start": 3007,
+                "end": 3008,
+                "word": "Seldon"
+            },
+            {
+                "start": 3105,
+                "end": 3106,
+                "word": "Hari"
+            },
+            {
+                "start": 3154,
+                "end": 3155,
+                "word": "Dors"
+            },
+            {
+                "start": 3183,
+                "end": 3184,
+                "word": "Dors"
+            },
+            {
+                "start": 3255,
+                "end": 3256,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3259,
+                "end": 3260,
+                "word": "Dors"
+            },
+            {
+                "start": 3263,
+                "end": 3264,
+                "word": "Hummin"
+            },
+            {
+                "start": 3279,
+                "end": 3280,
+                "word": "Seldon"
+            },
+            {
+                "start": 3292,
+                "end": 3293,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3295,
+                "end": 3296,
+                "word": "Hari"
+            },
+            {
+                "start": 3315,
+                "end": 3316,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3324,
+                "end": 3325,
+                "word": "Hari"
+            },
+            {
+                "start": 3355,
+                "end": 3356,
+                "word": "Dors"
+            },
+            {
+                "start": 3414,
+                "end": 3415,
+                "word": "Seldon"
+            },
+            {
+                "start": 3512,
+                "end": 3513,
+                "word": "Trantor"
+            },
+            {
+                "start": 3529,
+                "end": 3530,
+                "word": "Seldon"
+            },
+            {
+                "start": 3548,
+                "end": 3549,
+                "word": "Dors"
+            },
+            {
+                "start": 3577,
+                "end": 3578,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3815,
+                "end": 3816,
+                "word": "Seldon"
+            },
+            {
+                "start": 3821,
+                "end": 3823,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 3824,
+                "end": 3826,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 3834,
+                "end": 3835,
+                "word": "Seldon"
+            },
+            {
+                "start": 3838,
+                "end": 3839,
+                "word": "Dors"
+            },
+            {
+                "start": 3845,
+                "end": 3846,
+                "word": "Trantor"
+            },
+            {
+                "start": 3865,
+                "end": 3866,
+                "word": "Hummin"
+            },
+            {
+                "start": 3957,
+                "end": 3958,
+                "word": "Dors"
+            },
+            {
+                "start": 3971,
+                "end": 3972,
+                "word": "Seldon"
+            },
+            {
+                "start": 3991,
+                "end": 3992,
+                "word": "Trantor"
+            },
+            {
+                "start": 4006,
+                "end": 4007,
+                "word": "Dors"
+            },
+            {
+                "start": 4176,
+                "end": 4177,
+                "word": "Dors"
+            },
+            {
+                "start": 4250,
+                "end": 4251,
+                "word": "Trantor"
+            },
+            {
+                "start": 4314,
+                "end": 4315,
+                "word": "Dors"
+            }
+        ]
+    },
+    "entities": [
+        "docteur Leggen",
+        "Hummin",
+        "Mycogène",
+        "Eto Demerzel",
+        "Leggen",
+        "Seldon",
+        "Trantor",
+        "Cléon",
+        "Hari Seldon",
+        "Randa",
+        "Dors Venabili",
+        "Demerzel",
+        "Dors",
+        "Hari"
+    ],
+    "aliases": [
+        [
+            "docteur Leggen",
+            "Leggen"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Cléon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Randa"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Mycogène",
+            "Trantor"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Mycogène"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Eto Demerzel"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Eto Demerzel"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Eto Demerzel"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Eto Demerzel"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Eto Demerzel"
+        ],
+        [
+            "Eto Demerzel",
+            "Hummin"
+        ],
+        [
+            "Eto Demerzel",
+            "Hummin"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Leggen"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Leggen"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Hummin"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Leggen"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Leggen"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Leggen",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Randa"
+        ],
+        [
+            "Hari",
+            "Randa"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Randa"
+        ],
+        [
+            "Hummin",
+            "Randa"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Randa"
+        ],
+        [
+            "Randa",
+            "Dors"
+        ],
+        [
+            "Randa",
+            "Dors"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Randa"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Demerzel"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Demerzel"
+        ],
+        [
+            "Randa",
+            "Hummin"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Dors"
+        ],
+        [
+            "Randa",
+            "docteur Leggen"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "docteur Leggen"
+        ],
+        [
+            "Demerzel",
+            "Hummin"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "docteur Leggen"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "docteur Leggen"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "docteur Leggen"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Hummin"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Trantor"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Trantor"
+        ],
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Trantor"
+        ],
+        [
+            "Dors Venabili",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Hummin"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    docteur Leggen\nHummin\nMycogène\nEto Demerzel\nLeggen\nSeldon\nTrantor\nCléon\nHari Seldon\nRanda\nDors Venabili\nDemerzel\nDors\nHari\nOutput : ",
+        "generated_content": {
+            "0": [
+                "docteur Leggen",
+                "Leggen"
+            ],
+            "1": [
+                "Hummin"
+            ],
+            "2": [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            "3": [
+                "Seldon",
+                "Hari Seldon",
+                "Hari"
+            ],
+            "4": [
+                "Cléon"
+            ],
+            "5": [
+                "Dors Venabili",
+                "Dors"
+            ],
+            "6": [
+                "Randa"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

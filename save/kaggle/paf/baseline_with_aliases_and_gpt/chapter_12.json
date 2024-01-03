@@ -1,0 +1,2523 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Aire ROBOT. — ... Terme employé dans les légendes antiques de plusieurs mondes pour qualifier ce qu’on appelle plus communément des « automates ». Les robots sont généralement décrits comme faits de métal et d’apparence humaine, mais l’on suppose que certains auraient été de nature pseudo-organique. La croyance populaire veut qu’au cours de la Fuite, Hari Seldon ait aperçu un véritable robot, mais la véracité de cette anecdote reste douteuse. Nulle part, dans les volumineux écrits laissés par",
+        "entities": [
+            {
+                "start": 63,
+                "end": 65,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 89,
+                "end": 90,
+                "word": "Seldon"
+            },
+            {
+                "start": 108,
+                "end": 110,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 111,
+                "end": 113,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 230,
+                "end": 231,
+                "word": "Seldon"
+            },
+            {
+                "start": 239,
+                "end": 240,
+                "word": "Dors"
+            },
+            {
+                "start": 250,
+                "end": 253,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 271,
+                "end": 272,
+                "word": "Seldon"
+            },
+            {
+                "start": 304,
+                "end": 305,
+                "word": "Seldon"
+            },
+            {
+                "start": 361,
+                "end": 362,
+                "word": "Seldon"
+            },
+            {
+                "start": 372,
+                "end": 373,
+                "word": "Mycogène"
+            },
+            {
+                "start": 395,
+                "end": 396,
+                "word": "Ancien"
+            },
+            {
+                "start": 450,
+                "end": 451,
+                "word": "Seldon"
+            },
+            {
+                "start": 481,
+                "end": 482,
+                "word": "Dors"
+            },
+            {
+                "start": 578,
+                "end": 579,
+                "word": "Hari"
+            },
+            {
+                "start": 609,
+                "end": 610,
+                "word": "Hummin"
+            },
+            {
+                "start": 657,
+                "end": 658,
+                "word": "Hari"
+            },
+            {
+                "start": 718,
+                "end": 719,
+                "word": "Dors"
+            },
+            {
+                "start": 725,
+                "end": 726,
+                "word": "Seldon"
+            },
+            {
+                "start": 799,
+                "end": 800,
+                "word": "Seldon"
+            },
+            {
+                "start": 860,
+                "end": 861,
+                "word": "Dors"
+            },
+            {
+                "start": 890,
+                "end": 891,
+                "word": "Seldon"
+            },
+            {
+                "start": 908,
+                "end": 909,
+                "word": "Dors"
+            },
+            {
+                "start": 918,
+                "end": 919,
+                "word": "Seldon"
+            },
+            {
+                "start": 942,
+                "end": 943,
+                "word": "Seldon"
+            },
+            {
+                "start": 956,
+                "end": 957,
+                "word": "Dors"
+            },
+            {
+                "start": 1103,
+                "end": 1104,
+                "word": "Dors"
+            },
+            {
+                "start": 1166,
+                "end": 1167,
+                "word": "Dors"
+            },
+            {
+                "start": 1168,
+                "end": 1169,
+                "word": "Seldon"
+            },
+            {
+                "start": 1206,
+                "end": 1207,
+                "word": "Seldon"
+            },
+            {
+                "start": 1360,
+                "end": 1361,
+                "word": "Seldon"
+            },
+            {
+                "start": 1371,
+                "end": 1372,
+                "word": "Dors"
+            },
+            {
+                "start": 1392,
+                "end": 1393,
+                "word": "Ancien"
+            },
+            {
+                "start": 1401,
+                "end": 1402,
+                "word": "Seldon"
+            },
+            {
+                "start": 1412,
+                "end": 1413,
+                "word": "Ancien"
+            },
+            {
+                "start": 1416,
+                "end": 1417,
+                "word": "Seldon"
+            },
+            {
+                "start": 1459,
+                "end": 1460,
+                "word": "Dors"
+            },
+            {
+                "start": 1521,
+                "end": 1522,
+                "word": "Ancien"
+            },
+            {
+                "start": 1567,
+                "end": 1568,
+                "word": "Seldon"
+            },
+            {
+                "start": 1664,
+                "end": 1665,
+                "word": "Seldon"
+            },
+            {
+                "start": 1725,
+                "end": 1726,
+                "word": "Seldon"
+            },
+            {
+                "start": 1761,
+                "end": 1762,
+                "word": "Seldon"
+            },
+            {
+                "start": 1775,
+                "end": 1776,
+                "word": "Dors"
+            },
+            {
+                "start": 1863,
+                "end": 1864,
+                "word": "Dors"
+            },
+            {
+                "start": 1871,
+                "end": 1872,
+                "word": "Seldon"
+            },
+            {
+                "start": 1951,
+                "end": 1952,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1999,
+                "end": 2000,
+                "word": "Seldon"
+            },
+            {
+                "start": 2052,
+                "end": 2053,
+                "word": "Seldon"
+            },
+            {
+                "start": 2072,
+                "end": 2073,
+                "word": "Hummin"
+            },
+            {
+                "start": 2078,
+                "end": 2079,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2089,
+                "end": 2090,
+                "word": "Hummin"
+            },
+            {
+                "start": 2109,
+                "end": 2110,
+                "word": "Venabili"
+            },
+            {
+                "start": 2126,
+                "end": 2127,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2226,
+                "end": 2227,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2243,
+                "end": 2244,
+                "word": "Seldon"
+            },
+            {
+                "start": 2265,
+                "end": 2269,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 2283,
+                "end": 2284,
+                "word": "Seldon"
+            },
+            {
+                "start": 2292,
+                "end": 2293,
+                "word": "Hummin"
+            },
+            {
+                "start": 2379,
+                "end": 2380,
+                "word": "Frère"
+            },
+            {
+                "start": 2425,
+                "end": 2426,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2480,
+                "end": 2481,
+                "word": "Frère"
+            },
+            {
+                "start": 2527,
+                "end": 2528,
+                "word": "Bande"
+            },
+            {
+                "start": 2529,
+                "end": 2530,
+                "word": "Deux"
+            },
+            {
+                "start": 2606,
+                "end": 2607,
+                "word": "Frère"
+            },
+            {
+                "start": 2706,
+                "end": 2707,
+                "word": "Dors"
+            },
+            {
+                "start": 2723,
+                "end": 2724,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 2797,
+                "end": 2798,
+                "word": "Dors"
+            },
+            {
+                "start": 2801,
+                "end": 2805,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 2816,
+                "end": 2817,
+                "word": "Seldon"
+            },
+            {
+                "start": 2826,
+                "end": 2827,
+                "word": "Seldon"
+            },
+            {
+                "start": 2892,
+                "end": 2893,
+                "word": "Frère"
+            },
+            {
+                "start": 2958,
+                "end": 2959,
+                "word": "Bande"
+            },
+            {
+                "start": 2960,
+                "end": 2961,
+                "word": "Deux"
+            },
+            {
+                "start": 2968,
+                "end": 2969,
+                "word": "Dors"
+            },
+            {
+                "start": 2998,
+                "end": 2999,
+                "word": "Seldon"
+            },
+            {
+                "start": 3002,
+                "end": 3006,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 3044,
+                "end": 3048,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 3050,
+                "end": 3051,
+                "word": "Seldon"
+            },
+            {
+                "start": 3063,
+                "end": 3064,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3093,
+                "end": 3094,
+                "word": "Empereur"
+            },
+            {
+                "start": 3136,
+                "end": 3139,
+                "word": "Le Grand Ancien"
+            },
+            {
+                "start": 3164,
+                "end": 3165,
+                "word": "Seldon"
+            },
+            {
+                "start": 3190,
+                "end": 3191,
+                "word": "Hummin"
+            },
+            {
+                "start": 3207,
+                "end": 3208,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3220,
+                "end": 3221,
+                "word": "Hummin"
+            },
+            {
+                "start": 3250,
+                "end": 3251,
+                "word": "Hari"
+            },
+            {
+                "start": 3269,
+                "end": 3270,
+                "word": "Hummin"
+            },
+            {
+                "start": 3382,
+                "end": 3386,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 3420,
+                "end": 3421,
+                "word": "Hummin"
+            },
+            {
+                "start": 3429,
+                "end": 3431,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 3440,
+                "end": 3441,
+                "word": "Venabili"
+            },
+            {
+                "start": 3465,
+                "end": 3466,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3477,
+                "end": 3478,
+                "word": "Frère"
+            },
+            {
+                "start": 3485,
+                "end": 3489,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 3498,
+                "end": 3499,
+                "word": "Ancien"
+            },
+            {
+                "start": 3577,
+                "end": 3578,
+                "word": "Empereur"
+            },
+            {
+                "start": 3588,
+                "end": 3589,
+                "word": "Hummin"
+            },
+            {
+                "start": 3602,
+                "end": 3605,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 3613,
+                "end": 3614,
+                "word": "Frère"
+            },
+            {
+                "start": 3641,
+                "end": 3642,
+                "word": "Empereur"
+            },
+            {
+                "start": 3669,
+                "end": 3671,
+                "word": "Eto Demerzel"
+            },
+            {
+                "start": 3687,
+                "end": 3689,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 3740,
+                "end": 3741,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3824,
+                "end": 3826,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 3867,
+                "end": 3868,
+                "word": "Empereur"
+            },
+            {
+                "start": 3893,
+                "end": 3894,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3918,
+                "end": 3920,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 3950,
+                "end": 3951,
+                "word": "Demerzel"
+            },
+            {
+                "start": 4046,
+                "end": 4047,
+                "word": "Mycogène"
+            },
+            {
+                "start": 4092,
+                "end": 4096,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 4099,
+                "end": 4100,
+                "word": "Hummin"
+            },
+            {
+                "start": 4117,
+                "end": 4118,
+                "word": "Hummin"
+            },
+            {
+                "start": 4127,
+                "end": 4128,
+                "word": "Seldon"
+            },
+            {
+                "start": 4129,
+                "end": 4130,
+                "word": "Dors"
+            },
+            {
+                "start": 4135,
+                "end": 4136,
+                "word": "Seldon"
+            },
+            {
+                "start": 4142,
+                "end": 4143,
+                "word": "Dors"
+            },
+            {
+                "start": 4161,
+                "end": 4162,
+                "word": "Dors"
+            },
+            {
+                "start": 4231,
+                "end": 4232,
+                "word": "Dors"
+            },
+            {
+                "start": 4238,
+                "end": 4239,
+                "word": "Seldon"
+            },
+            {
+                "start": 4245,
+                "end": 4246,
+                "word": "Chetter"
+            },
+            {
+                "start": 4266,
+                "end": 4267,
+                "word": "Hummin"
+            },
+            {
+                "start": 4273,
+                "end": 4274,
+                "word": "Dors"
+            },
+            {
+                "start": 4275,
+                "end": 4276,
+                "word": "Seldon"
+            },
+            {
+                "start": 4313,
+                "end": 4314,
+                "word": "Dors"
+            },
+            {
+                "start": 4323,
+                "end": 4324,
+                "word": "Chetter"
+            },
+            {
+                "start": 4337,
+                "end": 4338,
+                "word": "Hari"
+            },
+            {
+                "start": 4346,
+                "end": 4347,
+                "word": "Mycogène"
+            },
+            {
+                "start": 4379,
+                "end": 4380,
+                "word": "Seldon"
+            },
+            {
+                "start": 4383,
+                "end": 4384,
+                "word": "Dors"
+            },
+            {
+                "start": 4392,
+                "end": 4393,
+                "word": "Hummin"
+            },
+            {
+                "start": 4434,
+                "end": 4435,
+                "word": "Seldon"
+            },
+            {
+                "start": 4449,
+                "end": 4450,
+                "word": "Hummin"
+            },
+            {
+                "start": 4500,
+                "end": 4501,
+                "word": "Seldon"
+            },
+            {
+                "start": 4673,
+                "end": 4674,
+                "word": "Renégat"
+            },
+            {
+                "start": 4700,
+                "end": 4701,
+                "word": "Dors"
+            },
+            {
+                "start": 4764,
+                "end": 4765,
+                "word": "Hummin"
+            },
+            {
+                "start": 4773,
+                "end": 4774,
+                "word": "Renégat"
+            },
+            {
+                "start": 4814,
+                "end": 4815,
+                "word": "Ancien"
+            },
+            {
+                "start": 4826,
+                "end": 4827,
+                "word": "Seldon"
+            },
+            {
+                "start": 4865,
+                "end": 4866,
+                "word": "Mycogène"
+            },
+            {
+                "start": 4880,
+                "end": 4881,
+                "word": "Renégat"
+            },
+            {
+                "start": 4920,
+                "end": 4921,
+                "word": "Renégat"
+            },
+            {
+                "start": 4923,
+                "end": 4924,
+                "word": "Seldon"
+            },
+            {
+                "start": 4960,
+                "end": 4961,
+                "word": "Hummin"
+            },
+            {
+                "start": 5045,
+                "end": 5046,
+                "word": "Mycogène"
+            },
+            {
+                "start": 5047,
+                "end": 5048,
+                "word": "Seldon"
+            },
+            {
+                "start": 5057,
+                "end": 5058,
+                "word": "Hummin"
+            },
+            {
+                "start": 5085,
+                "end": 5086,
+                "word": "Hummin"
+            },
+            {
+                "start": 5127,
+                "end": 5128,
+                "word": "Seldon"
+            }
+        ]
+    },
+    "entities": [
+        "Frère",
+        "Dors",
+        "Maître du Soleil Quatorze",
+        "Bande",
+        "Eto Demerzel",
+        "Grand Ancien",
+        "Mycogénien",
+        "Empereur",
+        "Maître du Soleil",
+        "Le Grand Ancien",
+        "Venabili",
+        "Renégat",
+        "Ancien",
+        "Hari",
+        "Chetter",
+        "Mycélium Soixante douze",
+        "Dors Venabili",
+        "Demerzel",
+        "Deux",
+        "Hummin",
+        "Mycogène",
+        "Seldon",
+        "Hari Seldon"
+    ],
+    "aliases": [
+        [
+            "Dors",
+            "Venabili",
+            "Dors Venabili"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Maître du Soleil"
+        ],
+        [
+            "Grand Ancien",
+            "Le Grand Ancien",
+            "Ancien"
+        ],
+        [
+            "Mycogénien",
+            "Mycogène"
+        ],
+        [
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Renégat"
+        ],
+        [
+            "Chetter"
+        ],
+        [
+            "Deux"
+        ],
+        [
+            "Frère"
+        ],
+        [
+            "Bande"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Dors",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Ancien"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Ancien"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Ancien"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Dors",
+            "Ancien"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Venabili",
+            "Mycogène"
+        ],
+        [
+            "Venabili",
+            "Mycogène"
+        ],
+        [
+            "Venabili",
+            "Seldon"
+        ],
+        [
+            "Venabili",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Hummin",
+            "Frère"
+        ],
+        [
+            "Frère",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Frère"
+        ],
+        [
+            "Mycogène",
+            "Bande"
+        ],
+        [
+            "Mycogène",
+            "Deux"
+        ],
+        [
+            "Frère",
+            "Bande"
+        ],
+        [
+            "Frère",
+            "Deux"
+        ],
+        [
+            "Bande",
+            "Deux"
+        ],
+        [
+            "Bande",
+            "Frère"
+        ],
+        [
+            "Deux",
+            "Frère"
+        ],
+        [
+            "Frère",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mycogénien"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Dors"
+        ],
+        [
+            "Mycogénien",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Frère"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Frère",
+            "Bande"
+        ],
+        [
+            "Frère",
+            "Deux"
+        ],
+        [
+            "Frère",
+            "Dors"
+        ],
+        [
+            "Bande",
+            "Deux"
+        ],
+        [
+            "Bande",
+            "Dors"
+        ],
+        [
+            "Bande",
+            "Seldon"
+        ],
+        [
+            "Bande",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Bande",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Bande",
+            "Seldon"
+        ],
+        [
+            "Deux",
+            "Dors"
+        ],
+        [
+            "Deux",
+            "Seldon"
+        ],
+        [
+            "Deux",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Deux",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Deux",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Mycogène"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Empereur"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Mycogène"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Empereur"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Le Grand Ancien"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Le Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Empereur"
+        ],
+        [
+            "Mycogène",
+            "Le Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Le Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Le Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Le Grand Ancien",
+            "Hummin"
+        ],
+        [
+            "Le Grand Ancien",
+            "Mycogène"
+        ],
+        [
+            "Le Grand Ancien",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Grand Ancien"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Venabili"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Mycogène"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Frère"
+        ],
+        [
+            "Hummin",
+            "Grand Ancien"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Frère"
+        ],
+        [
+            "Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hummin",
+            "Ancien"
+        ],
+        [
+            "Grand Ancien",
+            "Venabili"
+        ],
+        [
+            "Grand Ancien",
+            "Mycogène"
+        ],
+        [
+            "Grand Ancien",
+            "Frère"
+        ],
+        [
+            "Grand Ancien",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Grand Ancien",
+            "Ancien"
+        ],
+        [
+            "Venabili",
+            "Mycogène"
+        ],
+        [
+            "Venabili",
+            "Frère"
+        ],
+        [
+            "Venabili",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Venabili",
+            "Ancien"
+        ],
+        [
+            "Mycogène",
+            "Frère"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Ancien"
+        ],
+        [
+            "Mycogène",
+            "Empereur"
+        ],
+        [
+            "Frère",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Frère",
+            "Ancien"
+        ],
+        [
+            "Frère",
+            "Empereur"
+        ],
+        [
+            "Frère",
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Ancien"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Empereur"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Ancien",
+            "Empereur"
+        ],
+        [
+            "Ancien",
+            "Hummin"
+        ],
+        [
+            "Ancien",
+            "Maître du Soleil"
+        ],
+        [
+            "Ancien",
+            "Frère"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Maître du Soleil"
+        ],
+        [
+            "Empereur",
+            "Frère"
+        ],
+        [
+            "Empereur",
+            "Eto Demerzel"
+        ],
+        [
+            "Hummin",
+            "Maître du Soleil"
+        ],
+        [
+            "Hummin",
+            "Frère"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Eto Demerzel"
+        ],
+        [
+            "Hummin",
+            "Grand Ancien"
+        ],
+        [
+            "Maître du Soleil",
+            "Frère"
+        ],
+        [
+            "Maître du Soleil",
+            "Empereur"
+        ],
+        [
+            "Maître du Soleil",
+            "Eto Demerzel"
+        ],
+        [
+            "Maître du Soleil",
+            "Grand Ancien"
+        ],
+        [
+            "Frère",
+            "Empereur"
+        ],
+        [
+            "Frère",
+            "Eto Demerzel"
+        ],
+        [
+            "Frère",
+            "Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Eto Demerzel"
+        ],
+        [
+            "Empereur",
+            "Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Eto Demerzel",
+            "Grand Ancien"
+        ],
+        [
+            "Eto Demerzel",
+            "Demerzel"
+        ],
+        [
+            "Grand Ancien",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Grand Ancien"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Grand Ancien",
+            "Empereur"
+        ],
+        [
+            "Grand Ancien",
+            "Mycogène"
+        ],
+        [
+            "Grand Ancien",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Demerzel"
+        ],
+        [
+            "Grand Ancien",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Chetter"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Chetter"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Chetter",
+            "Hummin"
+        ],
+        [
+            "Chetter",
+            "Dors"
+        ],
+        [
+            "Chetter",
+            "Seldon"
+        ],
+        [
+            "Chetter",
+            "Dors"
+        ],
+        [
+            "Chetter",
+            "Hari"
+        ],
+        [
+            "Chetter",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Chetter"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Chetter"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Chetter"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Chetter",
+            "Hari"
+        ],
+        [
+            "Chetter",
+            "Mycogène"
+        ],
+        [
+            "Chetter",
+            "Seldon"
+        ],
+        [
+            "Chetter",
+            "Dors"
+        ],
+        [
+            "Chetter",
+            "Hummin"
+        ],
+        [
+            "Chetter",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Renégat",
+            "Dors"
+        ],
+        [
+            "Renégat",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Renégat"
+        ],
+        [
+            "Hummin",
+            "Renégat"
+        ],
+        [
+            "Hummin",
+            "Ancien"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Renégat",
+            "Ancien"
+        ],
+        [
+            "Renégat",
+            "Seldon"
+        ],
+        [
+            "Renégat",
+            "Mycogène"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Mycogène"
+        ],
+        [
+            "Ancien",
+            "Renégat"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Renégat"
+        ],
+        [
+            "Seldon",
+            "Renégat"
+        ],
+        [
+            "Mycogène",
+            "Renégat"
+        ],
+        [
+            "Mycogène",
+            "Renégat"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Renégat",
+            "Seldon"
+        ],
+        [
+            "Renégat",
+            "Hummin"
+        ],
+        [
+            "Renégat",
+            "Seldon"
+        ],
+        [
+            "Renégat",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Frère\nDors\nMaître du Soleil Quatorze\nBande\nEto Demerzel\nGrand Ancien\nMycogénien\nEmpereur\nMaître du Soleil\nLe Grand Ancien\nVenabili\nRenégat\nAncien\nHari\nChetter\nMycélium Soixante douze\nDors Venabili\nDemerzel\nDeux\nHummin\nMycogène\nSeldon\nHari Seldon\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Dors",
+                "Venabili",
+                "Dors Venabili"
+            ],
+            "1": [
+                "Eto Demerzel",
+                "Demerzel"
+            ],
+            "2": [
+                "Empereur"
+            ],
+            "3": [
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "4": [
+                "Hummin"
+            ],
+            "5": [
+                "Maître du Soleil Quatorze",
+                "Maître du Soleil"
+            ],
+            "6": [
+                "Grand Ancien",
+                "Le Grand Ancien",
+                "Ancien"
+            ],
+            "7": [
+                "Mycogénien",
+                "Mycogène"
+            ],
+            "8": [
+                "Mycélium Soixante douze"
+            ],
+            "9": [
+                "Renégat"
+            ],
+            "10": [
+                "Chetter"
+            ],
+            "11": [
+                "Deux"
+            ],
+            "12": [
+                "Frère"
+            ],
+            "13": [
+                "Bande"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

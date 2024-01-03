@@ -1,0 +1,1406 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Sauvetage LEGGEN, JENARR. — ... Ses contributions à la météorologie, toutefois, bien que considérables, s’effacent devant ce que l’on a, depuis, pris coutume d’appeler la Controverse Leggen. Que ses actes aient contribué à mettre en péril la vie de Seldon est indiscutable, mais le débat fait toujours rage entre les tenants des circonstances fortuites et ceux du complot délibéré. De part et d’autre, les passions ne sont pas retombées et les recherches, même les plus poussées, n’ont pas permis",
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "word": "LEGGEN"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "word": "Leggen"
+            },
+            {
+                "start": 49,
+                "end": 50,
+                "word": "Seldon"
+            },
+            {
+                "start": 124,
+                "end": 125,
+                "word": "Leggen"
+            },
+            {
+                "start": 143,
+                "end": 145,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 146,
+                "end": 148,
+                "word": "Jenarr Leggen"
+            },
+            {
+                "start": 185,
+                "end": 186,
+                "word": "Leggen"
+            },
+            {
+                "start": 210,
+                "end": 211,
+                "word": "Hari"
+            },
+            {
+                "start": 214,
+                "end": 216,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 234,
+                "end": 235,
+                "word": "Leggen"
+            },
+            {
+                "start": 248,
+                "end": 249,
+                "word": "Héliconien"
+            },
+            {
+                "start": 296,
+                "end": 298,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 304,
+                "end": 305,
+                "word": "Dors"
+            },
+            {
+                "start": 309,
+                "end": 310,
+                "word": "Clowzia"
+            },
+            {
+                "start": 347,
+                "end": 348,
+                "word": "Dors"
+            },
+            {
+                "start": 371,
+                "end": 372,
+                "word": "Leggen"
+            },
+            {
+                "start": 391,
+                "end": 392,
+                "word": "Dors"
+            },
+            {
+                "start": 403,
+                "end": 404,
+                "word": "Hari"
+            },
+            {
+                "start": 418,
+                "end": 419,
+                "word": "Leggen"
+            },
+            {
+                "start": 450,
+                "end": 451,
+                "word": "Clowzia"
+            },
+            {
+                "start": 478,
+                "end": 479,
+                "word": "Dors"
+            },
+            {
+                "start": 513,
+                "end": 514,
+                "word": "Leggen"
+            },
+            {
+                "start": 532,
+                "end": 533,
+                "word": "Leggen"
+            },
+            {
+                "start": 618,
+                "end": 619,
+                "word": "Dors"
+            },
+            {
+                "start": 660,
+                "end": 661,
+                "word": "Clowzia"
+            },
+            {
+                "start": 735,
+                "end": 737,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 763,
+                "end": 764,
+                "word": "Benastra"
+            },
+            {
+                "start": 900,
+                "end": 901,
+                "word": "Dors"
+            },
+            {
+                "start": 931,
+                "end": 932,
+                "word": "Dors"
+            },
+            {
+                "start": 946,
+                "end": 947,
+                "word": "Dors"
+            },
+            {
+                "start": 1073,
+                "end": 1074,
+                "word": "Dors"
+            },
+            {
+                "start": 1114,
+                "end": 1115,
+                "word": "Benastra"
+            },
+            {
+                "start": 1262,
+                "end": 1263,
+                "word": "Benastra"
+            },
+            {
+                "start": 1334,
+                "end": 1335,
+                "word": "Benastra"
+            },
+            {
+                "start": 1367,
+                "end": 1368,
+                "word": "Dors"
+            },
+            {
+                "start": 1472,
+                "end": 1473,
+                "word": "Benastra"
+            },
+            {
+                "start": 1489,
+                "end": 1490,
+                "word": "Dors"
+            },
+            {
+                "start": 1579,
+                "end": 1580,
+                "word": "Hari"
+            },
+            {
+                "start": 1658,
+                "end": 1659,
+                "word": "Jenarr"
+            },
+            {
+                "start": 1662,
+                "end": 1663,
+                "word": "Benastra"
+            },
+            {
+                "start": 1670,
+                "end": 1671,
+                "word": "Dors"
+            },
+            {
+                "start": 1731,
+                "end": 1732,
+                "word": "Jenarr"
+            },
+            {
+                "start": 1795,
+                "end": 1796,
+                "word": "Jenarr"
+            },
+            {
+                "start": 1856,
+                "end": 1857,
+                "word": "Leggen"
+            },
+            {
+                "start": 1875,
+                "end": 1876,
+                "word": "Benastra"
+            },
+            {
+                "start": 1896,
+                "end": 1898,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1942,
+                "end": 1943,
+                "word": "Leggen"
+            },
+            {
+                "start": 1967,
+                "end": 1968,
+                "word": "Benastra"
+            },
+            {
+                "start": 1978,
+                "end": 1979,
+                "word": "Dors"
+            },
+            {
+                "start": 2015,
+                "end": 2016,
+                "word": "Leggen"
+            },
+            {
+                "start": 2111,
+                "end": 2112,
+                "word": "Benastra"
+            },
+            {
+                "start": 2134,
+                "end": 2135,
+                "word": "Dors"
+            },
+            {
+                "start": 2194,
+                "end": 2195,
+                "word": "Dors"
+            },
+            {
+                "start": 2212,
+                "end": 2213,
+                "word": "Seldon"
+            },
+            {
+                "start": 2225,
+                "end": 2226,
+                "word": "Benastra"
+            },
+            {
+                "start": 2228,
+                "end": 2229,
+                "word": "Dors"
+            },
+            {
+                "start": 2275,
+                "end": 2276,
+                "word": "Seldon"
+            },
+            {
+                "start": 2294,
+                "end": 2295,
+                "word": "Dors"
+            },
+            {
+                "start": 2308,
+                "end": 2310,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 2333,
+                "end": 2334,
+                "word": "Seldon"
+            },
+            {
+                "start": 2365,
+                "end": 2366,
+                "word": "Leggen"
+            },
+            {
+                "start": 2413,
+                "end": 2414,
+                "word": "Benastra"
+            },
+            {
+                "start": 2416,
+                "end": 2417,
+                "word": "Seldon"
+            },
+            {
+                "start": 2440,
+                "end": 2441,
+                "word": "Seldon"
+            },
+            {
+                "start": 2447,
+                "end": 2448,
+                "word": "Dors"
+            },
+            {
+                "start": 2476,
+                "end": 2477,
+                "word": "Dors"
+            },
+            {
+                "start": 2550,
+                "end": 2551,
+                "word": "Dors"
+            },
+            {
+                "start": 2575,
+                "end": 2576,
+                "word": "Hari"
+            },
+            {
+                "start": 2600,
+                "end": 2601,
+                "word": "Hari"
+            },
+            {
+                "start": 2769,
+                "end": 2770,
+                "word": "Dors"
+            },
+            {
+                "start": 2795,
+                "end": 2796,
+                "word": "Clowzia"
+            },
+            {
+                "start": 2811,
+                "end": 2813,
+                "word": "Jenarr Leggen"
+            },
+            {
+                "start": 2831,
+                "end": 2832,
+                "word": "Dors"
+            },
+            {
+                "start": 2833,
+                "end": 2834,
+                "word": "Seldon"
+            },
+            {
+                "start": 2879,
+                "end": 2880,
+                "word": "Seldon"
+            },
+            {
+                "start": 2909,
+                "end": 2910,
+                "word": "Venabili"
+            },
+            {
+                "start": 2950,
+                "end": 2951,
+                "word": "Leggen"
+            },
+            {
+                "start": 3076,
+                "end": 3077,
+                "word": "Seldon"
+            },
+            {
+                "start": 3138,
+                "end": 3139,
+                "word": "Dors"
+            },
+            {
+                "start": 3144,
+                "end": 3145,
+                "word": "Hari"
+            },
+            {
+                "start": 3173,
+                "end": 3175,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 3188,
+                "end": 3190,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 3221,
+                "end": 3222,
+                "word": "Seldon"
+            },
+            {
+                "start": 3502,
+                "end": 3503,
+                "word": "Seldon"
+            },
+            {
+                "start": 3524,
+                "end": 3525,
+                "word": "Leggen"
+            },
+            {
+                "start": 3534,
+                "end": 3535,
+                "word": "Dors"
+            },
+            {
+                "start": 3564,
+                "end": 3565,
+                "word": "Leggen"
+            },
+            {
+                "start": 3569,
+                "end": 3571,
+                "word": "Docteur Venabili"
+            }
+        ]
+    },
+    "entities": [
+        "docteur Leggen",
+        "Jenarr Leggen",
+        "Leggen",
+        "Benastra",
+        "Seldon",
+        "Hari Seldon",
+        "Clowzia",
+        "Docteur Venabili",
+        "Jenarr",
+        "Venabili",
+        "Dors Venabili",
+        "Héliconien",
+        "LEGGEN",
+        "Dors",
+        "Hari"
+    ],
+    "aliases": [
+        [
+            "docteur Leggen",
+            "Jenarr Leggen",
+            "Leggen",
+            "Jenarr",
+            "LEGGEN"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Docteur Venabili",
+            "Venabili",
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Benastra"
+        ],
+        [
+            "Clowzia"
+        ],
+        [
+            "Héliconien"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "LEGGEN",
+            "Leggen"
+        ],
+        [
+            "LEGGEN",
+            "Seldon"
+        ],
+        [
+            "LEGGEN",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Dors Venabili"
+        ],
+        [
+            "Leggen",
+            "Jenarr Leggen"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Jenarr Leggen"
+        ],
+        [
+            "Leggen",
+            "Dors Venabili"
+        ],
+        [
+            "Leggen",
+            "Jenarr Leggen"
+        ],
+        [
+            "Leggen",
+            "Hari"
+        ],
+        [
+            "Leggen",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Jenarr Leggen"
+        ],
+        [
+            "Dors Venabili",
+            "Leggen"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Leggen"
+        ],
+        [
+            "Dors Venabili",
+            "Héliconien"
+        ],
+        [
+            "Jenarr Leggen",
+            "Leggen"
+        ],
+        [
+            "Jenarr Leggen",
+            "Hari"
+        ],
+        [
+            "Jenarr Leggen",
+            "Hari Seldon"
+        ],
+        [
+            "Jenarr Leggen",
+            "Leggen"
+        ],
+        [
+            "Jenarr Leggen",
+            "Héliconien"
+        ],
+        [
+            "Leggen",
+            "Hari"
+        ],
+        [
+            "Leggen",
+            "Hari Seldon"
+        ],
+        [
+            "Leggen",
+            "Héliconien"
+        ],
+        [
+            "Leggen",
+            "Hari Seldon"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Clowzia"
+        ],
+        [
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Hari",
+            "Leggen"
+        ],
+        [
+            "Hari",
+            "Héliconien"
+        ],
+        [
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Clowzia"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Leggen"
+        ],
+        [
+            "Hari Seldon",
+            "Héliconien"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Clowzia"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Héliconien"
+        ],
+        [
+            "Leggen",
+            "Hari Seldon"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Clowzia"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Héliconien",
+            "Hari Seldon"
+        ],
+        [
+            "Héliconien",
+            "Dors"
+        ],
+        [
+            "Héliconien",
+            "Clowzia"
+        ],
+        [
+            "Héliconien",
+            "Dors"
+        ],
+        [
+            "Héliconien",
+            "Leggen"
+        ],
+        [
+            "Héliconien",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Clowzia"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Leggen"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Hari Seldon",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Clowzia",
+            "Dors"
+        ],
+        [
+            "Clowzia",
+            "Leggen"
+        ],
+        [
+            "Clowzia",
+            "Dors"
+        ],
+        [
+            "Clowzia",
+            "Hari"
+        ],
+        [
+            "Clowzia",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Hari"
+        ],
+        [
+            "Leggen",
+            "Clowzia"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Hari",
+            "Leggen"
+        ],
+        [
+            "Hari",
+            "Clowzia"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Clowzia"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Clowzia",
+            "Dors"
+        ],
+        [
+            "Clowzia",
+            "Leggen"
+        ],
+        [
+            "Clowzia",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Clowzia"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Clowzia",
+            "docteur Leggen"
+        ],
+        [
+            "Clowzia",
+            "Benastra"
+        ],
+        [
+            "docteur Leggen",
+            "Benastra"
+        ],
+        [
+            "Dors",
+            "Benastra"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Benastra"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Jenarr"
+        ],
+        [
+            "Hari",
+            "Benastra"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Jenarr",
+            "Benastra"
+        ],
+        [
+            "Jenarr",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Jenarr"
+        ],
+        [
+            "Dors",
+            "Jenarr"
+        ],
+        [
+            "Jenarr",
+            "Leggen"
+        ],
+        [
+            "Jenarr",
+            "Benastra"
+        ],
+        [
+            "Jenarr",
+            "Dors Venabili"
+        ],
+        [
+            "Leggen",
+            "Benastra"
+        ],
+        [
+            "Leggen",
+            "Dors Venabili"
+        ],
+        [
+            "Benastra",
+            "Dors Venabili"
+        ],
+        [
+            "Benastra",
+            "Leggen"
+        ],
+        [
+            "Dors Venabili",
+            "Leggen"
+        ],
+        [
+            "Dors Venabili",
+            "Benastra"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Benastra"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Benastra"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Seldon"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Benastra"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Benastra"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Benastra"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "docteur Leggen"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Seldon"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "docteur Leggen"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Benastra"
+        ],
+        [
+            "Leggen",
+            "Benastra"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Seldon"
+        ],
+        [
+            "Benastra",
+            "Seldon"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Benastra",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Jenarr Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Jenarr Leggen"
+        ],
+        [
+            "Clowzia",
+            "Dors"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Jenarr Leggen",
+            "Dors"
+        ],
+        [
+            "Jenarr Leggen",
+            "Seldon"
+        ],
+        [
+            "Jenarr Leggen",
+            "Seldon"
+        ],
+        [
+            "Jenarr Leggen",
+            "Venabili"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Venabili",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "docteur Leggen"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "docteur Leggen"
+        ],
+        [
+            "Hari",
+            "docteur Leggen"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Docteur Venabili"
+        ],
+        [
+            "Leggen",
+            "Dors"
+        ],
+        [
+            "Leggen",
+            "Docteur Venabili"
+        ],
+        [
+            "Dors",
+            "Leggen"
+        ],
+        [
+            "Dors",
+            "Docteur Venabili"
+        ],
+        [
+            "Leggen",
+            "Docteur Venabili"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    docteur Leggen\nJenarr Leggen\nLeggen\nBenastra\nSeldon\nHari Seldon\nClowzia\nDocteur Venabili\nJenarr\nVenabili\nDors Venabili\nHéliconien\nLEGGEN\nDors\nHari\nOutput : ",
+        "generated_content": {
+            "0": [
+                "docteur Leggen",
+                "Jenarr Leggen",
+                "Leggen",
+                "Jenarr",
+                "LEGGEN"
+            ],
+            "1": [
+                "Seldon",
+                "Hari Seldon",
+                "Hari"
+            ],
+            "2": [
+                "Docteur Venabili",
+                "Venabili",
+                "Dors Venabili",
+                "Dors"
+            ],
+            "3": [
+                "Benastra"
+            ],
+            "4": [
+                "Clowzia"
+            ],
+            "5": [
+                "Héliconien"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

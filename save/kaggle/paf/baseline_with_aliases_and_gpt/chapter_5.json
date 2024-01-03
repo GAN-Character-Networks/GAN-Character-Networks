@@ -1,0 +1,819 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Couverture TRANTOR. — ... Elle n’est presque jamais décrite comme un monde vu de l’espace. Depuis longtemps, l’inconscient collectif la voit comme un monde de l’intérieur dont l’image est celle de la ruche humaine vivant sous dôme. Pourtant, il existait également un extérieur, et il nous reste encore des hologrammes pris de l’espace qui le montrent plus ou moins en détail (cf. figures 14 et 15). On remarquera que la surface des dômes, l’interface de la vaste cité et de l’atmosphère qui la",
+        "entities": [
+            {
+                "start": 119,
+                "end": 121,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 136,
+                "end": 137,
+                "word": "Hummin"
+            },
+            {
+                "start": 263,
+                "end": 264,
+                "word": "Seldon"
+            },
+            {
+                "start": 273,
+                "end": 275,
+                "word": "Lisung Randa"
+            },
+            {
+                "start": 282,
+                "end": 283,
+                "word": "Seldon"
+            },
+            {
+                "start": 284,
+                "end": 285,
+                "word": "Randa"
+            },
+            {
+                "start": 286,
+                "end": 287,
+                "word": "Dors"
+            },
+            {
+                "start": 344,
+                "end": 345,
+                "word": "Randa"
+            },
+            {
+                "start": 383,
+                "end": 384,
+                "word": "Randa"
+            },
+            {
+                "start": 403,
+                "end": 404,
+                "word": "Seldon"
+            },
+            {
+                "start": 435,
+                "end": 436,
+                "word": "Hari"
+            },
+            {
+                "start": 559,
+                "end": 560,
+                "word": "Randa"
+            },
+            {
+                "start": 605,
+                "end": 606,
+                "word": "Seldon"
+            },
+            {
+                "start": 642,
+                "end": 644,
+                "word": "Kiangtow Randa"
+            },
+            {
+                "start": 646,
+                "end": 647,
+                "word": "Seldon"
+            },
+            {
+                "start": 656,
+                "end": 657,
+                "word": "Randa"
+            },
+            {
+                "start": 728,
+                "end": 729,
+                "word": "Seldon"
+            },
+            {
+                "start": 756,
+                "end": 757,
+                "word": "Seldon"
+            },
+            {
+                "start": 762,
+                "end": 763,
+                "word": "Hari"
+            },
+            {
+                "start": 836,
+                "end": 837,
+                "word": "Lisung"
+            },
+            {
+                "start": 957,
+                "end": 958,
+                "word": "Seldon"
+            },
+            {
+                "start": 1079,
+                "end": 1081,
+                "word": "Jenarr Leggen"
+            },
+            {
+                "start": 1089,
+                "end": 1090,
+                "word": "Seldon"
+            },
+            {
+                "start": 1126,
+                "end": 1127,
+                "word": "Hummin"
+            },
+            {
+                "start": 1174,
+                "end": 1175,
+                "word": "Seldon"
+            },
+            {
+                "start": 1270,
+                "end": 1271,
+                "word": "Seldon"
+            },
+            {
+                "start": 1407,
+                "end": 1408,
+                "word": "Seldon"
+            },
+            {
+                "start": 1424,
+                "end": 1425,
+                "word": "Randa"
+            },
+            {
+                "start": 1473,
+                "end": 1474,
+                "word": "Seldon"
+            },
+            {
+                "start": 1560,
+                "end": 1561,
+                "word": "Seldon"
+            },
+            {
+                "start": 1588,
+                "end": 1589,
+                "word": "Leggen"
+            },
+            {
+                "start": 1596,
+                "end": 1597,
+                "word": "Leggen"
+            },
+            {
+                "start": 1633,
+                "end": 1634,
+                "word": "Seldon"
+            },
+            {
+                "start": 1716,
+                "end": 1717,
+                "word": "Seldon"
+            },
+            {
+                "start": 1788,
+                "end": 1789,
+                "word": "Seldon"
+            },
+            {
+                "start": 1799,
+                "end": 1800,
+                "word": "Leggen"
+            },
+            {
+                "start": 1805,
+                "end": 1806,
+                "word": "Seldon"
+            },
+            {
+                "start": 1810,
+                "end": 1811,
+                "word": "Hélicon"
+            },
+            {
+                "start": 1914,
+                "end": 1915,
+                "word": "Clowzia"
+            },
+            {
+                "start": 1931,
+                "end": 1932,
+                "word": "Seldon"
+            },
+            {
+                "start": 1949,
+                "end": 1950,
+                "word": "Clowzia"
+            },
+            {
+                "start": 1973,
+                "end": 1974,
+                "word": "Seldon"
+            },
+            {
+                "start": 2084,
+                "end": 2085,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2229,
+                "end": 2230,
+                "word": "Seldon"
+            },
+            {
+                "start": 2328,
+                "end": 2329,
+                "word": "Clowzia"
+            },
+            {
+                "start": 2370,
+                "end": 2371,
+                "word": "Clowzia"
+            },
+            {
+                "start": 2385,
+                "end": 2387,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 2431,
+                "end": 2432,
+                "word": "Seldon"
+            },
+            {
+                "start": 2433,
+                "end": 2434,
+                "word": "Clowzia"
+            },
+            {
+                "start": 2464,
+                "end": 2466,
+                "word": "docteur Leggen"
+            },
+            {
+                "start": 2511,
+                "end": 2512,
+                "word": "Seldon"
+            },
+            {
+                "start": 2604,
+                "end": 2605,
+                "word": "Seldon"
+            },
+            {
+                "start": 3054,
+                "end": 3055,
+                "word": "Clowzia"
+            },
+            {
+                "start": 3103,
+                "end": 3104,
+                "word": "Seldon"
+            },
+            {
+                "start": 3245,
+                "end": 3246,
+                "word": "Dors"
+            },
+            {
+                "start": 3408,
+                "end": 3409,
+                "word": "Seldon"
+            },
+            {
+                "start": 3486,
+                "end": 3487,
+                "word": "Seldon"
+            },
+            {
+                "start": 3735,
+                "end": 3736,
+                "word": "Seldon"
+            },
+            {
+                "start": 3744,
+                "end": 3745,
+                "word": "Hélicon"
+            },
+            {
+                "start": 3836,
+                "end": 3837,
+                "word": "Seldon"
+            },
+            {
+                "start": 3886,
+                "end": 3887,
+                "word": "Hummin"
+            },
+            {
+                "start": 4074,
+                "end": 4075,
+                "word": "Clowzia"
+            },
+            {
+                "start": 4135,
+                "end": 4137,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 4262,
+                "end": 4263,
+                "word": "Seldon"
+            },
+            {
+                "start": 4378,
+                "end": 4379,
+                "word": "Seldon"
+            },
+            {
+                "start": 4602,
+                "end": 4603,
+                "word": "Seldon"
+            },
+            {
+                "start": 4635,
+                "end": 4636,
+                "word": "Leggen"
+            },
+            {
+                "start": 4652,
+                "end": 4653,
+                "word": "Seldon"
+            },
+            {
+                "start": 4845,
+                "end": 4846,
+                "word": "Clowzia"
+            },
+            {
+                "start": 4866,
+                "end": 4867,
+                "word": "Seldon"
+            },
+            {
+                "start": 5078,
+                "end": 5079,
+                "word": "Seldon"
+            },
+            {
+                "start": 5235,
+                "end": 5236,
+                "word": "Hummin"
+            },
+            {
+                "start": 5251,
+                "end": 5252,
+                "word": "Hélicon"
+            }
+        ]
+    },
+    "entities": [
+        "docteur Leggen",
+        "Hummin",
+        "Lisung",
+        "Jenarr Leggen",
+        "Hélicon",
+        "Leggen",
+        "Seldon",
+        "Hari Seldon",
+        "Clowzia",
+        "Randa",
+        "Dors Venabili",
+        "Dors",
+        "Kiangtow Randa",
+        "Hari",
+        "Lisung Randa"
+    ],
+    "aliases": [
+        [
+            "docteur Leggen",
+            "Jenarr Leggen",
+            "Leggen"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Lisung",
+            "Lisung Randa"
+        ],
+        [
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Clowzia"
+        ],
+        [
+            "Randa",
+            "Kiangtow Randa"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Lisung Randa"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Lisung Randa",
+            "Seldon"
+        ],
+        [
+            "Lisung Randa",
+            "Randa"
+        ],
+        [
+            "Lisung Randa",
+            "Dors"
+        ],
+        [
+            "Lisung Randa",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Randa",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Randa"
+        ],
+        [
+            "Dors",
+            "Randa"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Hari"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Kiangtow Randa"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Kiangtow Randa"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Kiangtow Randa",
+            "Seldon"
+        ],
+        [
+            "Kiangtow Randa",
+            "Randa"
+        ],
+        [
+            "Kiangtow Randa",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Randa",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Lisung"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Lisung"
+        ],
+        [
+            "Hari",
+            "Lisung"
+        ],
+        [
+            "Seldon",
+            "Jenarr Leggen"
+        ],
+        [
+            "Jenarr Leggen",
+            "Seldon"
+        ],
+        [
+            "Jenarr Leggen",
+            "Hummin"
+        ],
+        [
+            "Jenarr Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Randa"
+        ],
+        [
+            "Randa",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Leggen",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Hélicon",
+            "Clowzia"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Clowzia",
+            "docteur Leggen"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "docteur Leggen"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "docteur Leggen"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Clowzia"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Seldon",
+            "docteur Leggen"
+        ],
+        [
+            "Clowzia",
+            "docteur Leggen"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "docteur Leggen",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Clowzia",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Leggen"
+        ],
+        [
+            "Leggen",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Hélicon"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    docteur Leggen\nHummin\nLisung\nJenarr Leggen\nHélicon\nLeggen\nSeldon\nHari Seldon\nClowzia\nRanda\nDors Venabili\nDors\nKiangtow Randa\nHari\nLisung Randa\nOutput : ",
+        "generated_content": {
+            "0": [
+                "docteur Leggen",
+                "Jenarr Leggen",
+                "Leggen"
+            ],
+            "1": [
+                "Hummin"
+            ],
+            "2": [
+                "Lisung",
+                "Lisung Randa"
+            ],
+            "3": [
+                "Hélicon"
+            ],
+            "4": [
+                "Seldon",
+                "Hari Seldon",
+                "Hari"
+            ],
+            "5": [
+                "Clowzia"
+            ],
+            "6": [
+                "Randa",
+                "Kiangtow Randa"
+            ],
+            "7": [
+                "Dors Venabili",
+                "Dors"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

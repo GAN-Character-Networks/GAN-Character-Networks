@@ -1,0 +1,760 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "doute. Il n’est donc pas facile d’y renoncer. Aussi, quoique la venue du soir ne soit pas visible, les lumières des appartements s’éteignent à mesure que la soirée s’avance, et le pouls de la Cité semble presque cesser de battre. Certes, aucun phénomène cosmique ne permet de distinguer minuit de midi, dans les avenues entièrement closes de l’immense ville ; et cependant la population observe scrupuleusement les divisions arbitraires que lui imposent silencieusement les aiguilles de la montre. Et,",
+        "entities": [
+            {
+                "start": 140,
+                "end": 142,
+                "word": "Elijah Baley"
+            },
+            {
+                "start": 175,
+                "end": 176,
+                "word": "Jessie"
+            },
+            {
+                "start": 209,
+                "end": 213,
+                "word": "R . Daneel Olivaw"
+            },
+            {
+                "start": 218,
+                "end": 219,
+                "word": "Baley"
+            },
+            {
+                "start": 233,
+                "end": 234,
+                "word": "Jessie"
+            },
+            {
+                "start": 241,
+                "end": 242,
+                "word": "Jessie"
+            },
+            {
+                "start": 260,
+                "end": 261,
+                "word": "Jessie"
+            },
+            {
+                "start": 299,
+                "end": 300,
+                "word": "Jessie"
+            },
+            {
+                "start": 303,
+                "end": 304,
+                "word": "Baley"
+            },
+            {
+                "start": 344,
+                "end": 345,
+                "word": "Lije"
+            },
+            {
+                "start": 438,
+                "end": 439,
+                "word": "Lije"
+            },
+            {
+                "start": 440,
+                "end": 441,
+                "word": "Jessie"
+            },
+            {
+                "start": 483,
+                "end": 485,
+                "word": "Julius Enderby"
+            },
+            {
+                "start": 511,
+                "end": 512,
+                "word": "Enderby"
+            },
+            {
+                "start": 535,
+                "end": 536,
+                "word": "Lije"
+            },
+            {
+                "start": 562,
+                "end": 563,
+                "word": "Baley"
+            },
+            {
+                "start": 571,
+                "end": 573,
+                "word": "Julius Enderby"
+            },
+            {
+                "start": 583,
+                "end": 584,
+                "word": "Enderby"
+            },
+            {
+                "start": 588,
+                "end": 589,
+                "word": "Baley"
+            },
+            {
+                "start": 607,
+                "end": 608,
+                "word": "Baley"
+            },
+            {
+                "start": 637,
+                "end": 639,
+                "word": "Julius Enderby"
+            },
+            {
+                "start": 645,
+                "end": 646,
+                "word": "Baley"
+            },
+            {
+                "start": 648,
+                "end": 649,
+                "word": "Enderby"
+            },
+            {
+                "start": 668,
+                "end": 669,
+                "word": "Baley"
+            },
+            {
+                "start": 689,
+                "end": 690,
+                "word": "Enderby"
+            },
+            {
+                "start": 743,
+                "end": 744,
+                "word": "Baley"
+            },
+            {
+                "start": 824,
+                "end": 825,
+                "word": "Baley"
+            },
+            {
+                "start": 886,
+                "end": 887,
+                "word": "Enderby"
+            },
+            {
+                "start": 966,
+                "end": 967,
+                "word": "Lije"
+            },
+            {
+                "start": 1021,
+                "end": 1022,
+                "word": "Bentley"
+            },
+            {
+                "start": 1045,
+                "end": 1046,
+                "word": "Jessie"
+            },
+            {
+                "start": 1085,
+                "end": 1086,
+                "word": "Baley"
+            },
+            {
+                "start": 1121,
+                "end": 1122,
+                "word": "Jessie"
+            },
+            {
+                "start": 1132,
+                "end": 1133,
+                "word": "Baley"
+            },
+            {
+                "start": 1161,
+                "end": 1162,
+                "word": "Jessie"
+            },
+            {
+                "start": 1175,
+                "end": 1176,
+                "word": "Daneel"
+            },
+            {
+                "start": 1243,
+                "end": 1244,
+                "word": "Jessie"
+            },
+            {
+                "start": 1336,
+                "end": 1337,
+                "word": "Lije"
+            },
+            {
+                "start": 1407,
+                "end": 1408,
+                "word": "Jessie"
+            },
+            {
+                "start": 1480,
+                "end": 1481,
+                "word": "Baley"
+            },
+            {
+                "start": 1546,
+                "end": 1547,
+                "word": "Lije"
+            },
+            {
+                "start": 1549,
+                "end": 1550,
+                "word": "Jessie"
+            },
+            {
+                "start": 1563,
+                "end": 1564,
+                "word": "Jessie"
+            },
+            {
+                "start": 1629,
+                "end": 1630,
+                "word": "Baley"
+            }
+        ]
+    },
+    "entities": [
+        "Daneel",
+        "Julius Enderby",
+        "Bentley",
+        "R . Daneel Olivaw",
+        "Lije",
+        "Jessie",
+        "Elijah Baley",
+        "Enderby",
+        "Baley"
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Bentley"
+        ],
+        [
+            "Lije",
+            "Elijah Baley",
+            "Baley"
+        ],
+        [
+            "Jessie"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Elijah Baley",
+            "Jessie"
+        ],
+        [
+            "Elijah Baley",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Elijah Baley",
+            "Baley"
+        ],
+        [
+            "Elijah Baley",
+            "Jessie"
+        ],
+        [
+            "Elijah Baley",
+            "Jessie"
+        ],
+        [
+            "Elijah Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Jessie"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Jessie"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Jessie"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Jessie"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Julius Enderby"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Julius Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Jessie",
+            "Julius Enderby"
+        ],
+        [
+            "Jessie",
+            "Enderby"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Lije"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Julius Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Julius Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Bentley",
+            "Jessie"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Daneel\nJulius Enderby\nBentley\nR . Daneel Olivaw\nLije\nJessie\nElijah Baley\nEnderby\nBaley\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Daneel",
+                "R . Daneel Olivaw"
+            ],
+            "1": [
+                "Julius Enderby",
+                "Enderby"
+            ],
+            "2": [
+                "Bentley"
+            ],
+            "3": [
+                "Lije",
+                "Elijah Baley",
+                "Baley"
+            ],
+            "4": [
+                "Jessie"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

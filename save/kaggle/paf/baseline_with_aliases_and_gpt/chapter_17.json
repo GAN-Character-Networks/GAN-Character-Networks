@@ -1,0 +1,4148 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA",
+        "entities": [
+            {
+                "start": 0,
+                "end": 1,
+                "word": "Kan"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "word": "Trantor"
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "word": "Kan"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "word": "Empereurs"
+            },
+            {
+                "start": 59,
+                "end": 61,
+                "word": "Mannix IV"
+            },
+            {
+                "start": 62,
+                "end": 63,
+                "word": "Kan"
+            },
+            {
+                "start": 154,
+                "end": 155,
+                "word": "Mycogène"
+            },
+            {
+                "start": 157,
+                "end": 158,
+                "word": "Seldon"
+            },
+            {
+                "start": 200,
+                "end": 201,
+                "word": "Seldon"
+            },
+            {
+                "start": 231,
+                "end": 233,
+                "word": "Emmer Thalus"
+            },
+            {
+                "start": 253,
+                "end": 255,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 256,
+                "end": 257,
+                "word": "Seldon"
+            },
+            {
+                "start": 274,
+                "end": 275,
+                "word": "Thalus"
+            },
+            {
+                "start": 292,
+                "end": 293,
+                "word": "Dors"
+            },
+            {
+                "start": 299,
+                "end": 300,
+                "word": "Sergent"
+            },
+            {
+                "start": 333,
+                "end": 335,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 374,
+                "end": 376,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 405,
+                "end": 406,
+                "word": "Dors"
+            },
+            {
+                "start": 423,
+                "end": 424,
+                "word": "Raych"
+            },
+            {
+                "start": 532,
+                "end": 533,
+                "word": "Raych"
+            },
+            {
+                "start": 581,
+                "end": 582,
+                "word": "Seldon"
+            },
+            {
+                "start": 593,
+                "end": 594,
+                "word": "Raych"
+            },
+            {
+                "start": 628,
+                "end": 629,
+                "word": "Sergent"
+            },
+            {
+                "start": 737,
+                "end": 738,
+                "word": "Raych"
+            },
+            {
+                "start": 759,
+                "end": 760,
+                "word": "Raych"
+            },
+            {
+                "start": 761,
+                "end": 762,
+                "word": "Dors"
+            },
+            {
+                "start": 779,
+                "end": 780,
+                "word": "Raych"
+            },
+            {
+                "start": 809,
+                "end": 810,
+                "word": "Seldon"
+            },
+            {
+                "start": 816,
+                "end": 817,
+                "word": "Dors"
+            },
+            {
+                "start": 819,
+                "end": 820,
+                "word": "Dors"
+            },
+            {
+                "start": 842,
+                "end": 843,
+                "word": "Seldon"
+            },
+            {
+                "start": 854,
+                "end": 856,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 881,
+                "end": 882,
+                "word": "Seldon"
+            },
+            {
+                "start": 885,
+                "end": 886,
+                "word": "Davan"
+            },
+            {
+                "start": 887,
+                "end": 888,
+                "word": "Davan"
+            },
+            {
+                "start": 917,
+                "end": 918,
+                "word": "Thalus"
+            },
+            {
+                "start": 921,
+                "end": 923,
+                "word": "Yugo Amaryl"
+            },
+            {
+                "start": 976,
+                "end": 977,
+                "word": "Davan"
+            },
+            {
+                "start": 1000,
+                "end": 1001,
+                "word": "Raych"
+            },
+            {
+                "start": 1004,
+                "end": 1006,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 1007,
+                "end": 1008,
+                "word": "Raych"
+            },
+            {
+                "start": 1041,
+                "end": 1042,
+                "word": "Seldon"
+            },
+            {
+                "start": 1046,
+                "end": 1047,
+                "word": "Trantor"
+            },
+            {
+                "start": 1112,
+                "end": 1113,
+                "word": "Thalus"
+            },
+            {
+                "start": 1153,
+                "end": 1154,
+                "word": "Hari"
+            },
+            {
+                "start": 1178,
+                "end": 1180,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 1188,
+                "end": 1189,
+                "word": "Dahl"
+            },
+            {
+                "start": 1200,
+                "end": 1201,
+                "word": "Seldon"
+            },
+            {
+                "start": 1220,
+                "end": 1221,
+                "word": "Dors"
+            },
+            {
+                "start": 1256,
+                "end": 1257,
+                "word": "Dahl"
+            },
+            {
+                "start": 1335,
+                "end": 1336,
+                "word": "Raych"
+            },
+            {
+                "start": 1349,
+                "end": 1350,
+                "word": "Seldon"
+            },
+            {
+                "start": 1364,
+                "end": 1365,
+                "word": "Dors"
+            },
+            {
+                "start": 1464,
+                "end": 1465,
+                "word": "Seldon"
+            },
+            {
+                "start": 1507,
+                "end": 1508,
+                "word": "Dors"
+            },
+            {
+                "start": 1549,
+                "end": 1550,
+                "word": "Dors"
+            },
+            {
+                "start": 1562,
+                "end": 1563,
+                "word": "Hari"
+            },
+            {
+                "start": 1627,
+                "end": 1628,
+                "word": "Seldon"
+            },
+            {
+                "start": 1629,
+                "end": 1630,
+                "word": "Dors"
+            },
+            {
+                "start": 1636,
+                "end": 1637,
+                "word": "Raych"
+            },
+            {
+                "start": 1665,
+                "end": 1666,
+                "word": "Thalus"
+            },
+            {
+                "start": 1669,
+                "end": 1670,
+                "word": "Seldon"
+            },
+            {
+                "start": 1702,
+                "end": 1703,
+                "word": "Dors"
+            },
+            {
+                "start": 1704,
+                "end": 1705,
+                "word": "Raych"
+            },
+            {
+                "start": 1765,
+                "end": 1766,
+                "word": "Seldon"
+            },
+            {
+                "start": 1810,
+                "end": 1811,
+                "word": "Seldon"
+            },
+            {
+                "start": 1846,
+                "end": 1847,
+                "word": "Seldon"
+            },
+            {
+                "start": 1848,
+                "end": 1849,
+                "word": "Dors"
+            },
+            {
+                "start": 1860,
+                "end": 1861,
+                "word": "Raych"
+            },
+            {
+                "start": 1974,
+                "end": 1975,
+                "word": "Dors"
+            },
+            {
+                "start": 1977,
+                "end": 1978,
+                "word": "Raych"
+            },
+            {
+                "start": 2018,
+                "end": 2020,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 2039,
+                "end": 2041,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 2105,
+                "end": 2106,
+                "word": "Dors"
+            },
+            {
+                "start": 2144,
+                "end": 2145,
+                "word": "Raych"
+            },
+            {
+                "start": 2172,
+                "end": 2173,
+                "word": "Raych"
+            },
+            {
+                "start": 2195,
+                "end": 2196,
+                "word": "dame"
+            },
+            {
+                "start": 2221,
+                "end": 2222,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2256,
+                "end": 2257,
+                "word": "Dors"
+            },
+            {
+                "start": 2268,
+                "end": 2269,
+                "word": "Kan"
+            },
+            {
+                "start": 2283,
+                "end": 2284,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2302,
+                "end": 2303,
+                "word": "Dors"
+            },
+            {
+                "start": 2333,
+                "end": 2334,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2345,
+                "end": 2346,
+                "word": "Venabili"
+            },
+            {
+                "start": 2439,
+                "end": 2440,
+                "word": "Kan"
+            },
+            {
+                "start": 2449,
+                "end": 2450,
+                "word": "Seldon"
+            },
+            {
+                "start": 2467,
+                "end": 2468,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2508,
+                "end": 2509,
+                "word": "Dors"
+            },
+            {
+                "start": 2523,
+                "end": 2524,
+                "word": "Hummin"
+            },
+            {
+                "start": 2541,
+                "end": 2542,
+                "word": "Kan"
+            },
+            {
+                "start": 2550,
+                "end": 2551,
+                "word": "Hummin"
+            },
+            {
+                "start": 2570,
+                "end": 2571,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2604,
+                "end": 2605,
+                "word": "Hari"
+            },
+            {
+                "start": 2609,
+                "end": 2610,
+                "word": "Dors"
+            },
+            {
+                "start": 2617,
+                "end": 2618,
+                "word": "Raych"
+            },
+            {
+                "start": 2638,
+                "end": 2639,
+                "word": "Seldon"
+            },
+            {
+                "start": 2640,
+                "end": 2641,
+                "word": "Raych"
+            },
+            {
+                "start": 2644,
+                "end": 2645,
+                "word": "Trantor"
+            },
+            {
+                "start": 2654,
+                "end": 2657,
+                "word": "Dors de Cinna"
+            },
+            {
+                "start": 2671,
+                "end": 2672,
+                "word": "Seldon"
+            },
+            {
+                "start": 2721,
+                "end": 2722,
+                "word": "Thalus"
+            },
+            {
+                "start": 2731,
+                "end": 2732,
+                "word": "Dahl"
+            },
+            {
+                "start": 2738,
+                "end": 2739,
+                "word": "Dors"
+            },
+            {
+                "start": 2740,
+                "end": 2741,
+                "word": "Raych"
+            },
+            {
+                "start": 2744,
+                "end": 2745,
+                "word": "Seldon"
+            },
+            {
+                "start": 2759,
+                "end": 2760,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2823,
+                "end": 2824,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2827,
+                "end": 2828,
+                "word": "Raych"
+            },
+            {
+                "start": 2868,
+                "end": 2869,
+                "word": "dame"
+            },
+            {
+                "start": 2871,
+                "end": 2872,
+                "word": "Raych"
+            },
+            {
+                "start": 2878,
+                "end": 2879,
+                "word": "Dors"
+            },
+            {
+                "start": 2894,
+                "end": 2895,
+                "word": "Raych"
+            },
+            {
+                "start": 2908,
+                "end": 2909,
+                "word": "Dors"
+            },
+            {
+                "start": 2944,
+                "end": 2945,
+                "word": "Kan"
+            },
+            {
+                "start": 2955,
+                "end": 2956,
+                "word": "Kan"
+            },
+            {
+                "start": 2964,
+                "end": 2965,
+                "word": "Rachelle"
+            },
+            {
+                "start": 2970,
+                "end": 2971,
+                "word": "Kan"
+            },
+            {
+                "start": 3010,
+                "end": 3011,
+                "word": "Dahl"
+            },
+            {
+                "start": 3045,
+                "end": 3046,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3060,
+                "end": 3061,
+                "word": "Dors"
+            },
+            {
+                "start": 3080,
+                "end": 3081,
+                "word": "Kan"
+            },
+            {
+                "start": 3092,
+                "end": 3093,
+                "word": "Kan"
+            },
+            {
+                "start": 3108,
+                "end": 3109,
+                "word": "Dors"
+            },
+            {
+                "start": 3116,
+                "end": 3117,
+                "word": "Trantor"
+            },
+            {
+                "start": 3121,
+                "end": 3122,
+                "word": "Kan"
+            },
+            {
+                "start": 3158,
+                "end": 3159,
+                "word": "Kan"
+            },
+            {
+                "start": 3162,
+                "end": 3163,
+                "word": "Maire"
+            },
+            {
+                "start": 3171,
+                "end": 3172,
+                "word": "Kan"
+            },
+            {
+                "start": 3186,
+                "end": 3187,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3194,
+                "end": 3195,
+                "word": "Raych"
+            },
+            {
+                "start": 3212,
+                "end": 3213,
+                "word": "Maire"
+            },
+            {
+                "start": 3222,
+                "end": 3223,
+                "word": "Kan"
+            },
+            {
+                "start": 3280,
+                "end": 3281,
+                "word": "Raych"
+            },
+            {
+                "start": 3302,
+                "end": 3303,
+                "word": "Raych"
+            },
+            {
+                "start": 3312,
+                "end": 3314,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3340,
+                "end": 3341,
+                "word": "Raych"
+            },
+            {
+                "start": 3350,
+                "end": 3351,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3352,
+                "end": 3353,
+                "word": "Seldon"
+            },
+            {
+                "start": 3369,
+                "end": 3371,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3373,
+                "end": 3376,
+                "word": "dame </PER><PER> Venabili"
+            },
+            {
+                "start": 3378,
+                "end": 3379,
+                "word": "Raych"
+            },
+            {
+                "start": 3387,
+                "end": 3388,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3391,
+                "end": 3392,
+                "word": "Maître"
+            },
+            {
+                "start": 3415,
+                "end": 3416,
+                "word": "Dors"
+            },
+            {
+                "start": 3442,
+                "end": 3443,
+                "word": "Raych"
+            },
+            {
+                "start": 3446,
+                "end": 3447,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3520,
+                "end": 3521,
+                "word": "Seldon"
+            },
+            {
+                "start": 3536,
+                "end": 3537,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3545,
+                "end": 3547,
+                "word": "le Maire"
+            },
+            {
+                "start": 3551,
+                "end": 3552,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3564,
+                "end": 3565,
+                "word": "Hari"
+            },
+            {
+                "start": 3570,
+                "end": 3571,
+                "word": "Dors"
+            },
+            {
+                "start": 3610,
+                "end": 3611,
+                "word": "Hari"
+            },
+            {
+                "start": 3626,
+                "end": 3628,
+                "word": "le Maire"
+            },
+            {
+                "start": 3630,
+                "end": 3631,
+                "word": "Dors"
+            },
+            {
+                "start": 3642,
+                "end": 3643,
+                "word": "Kan"
+            },
+            {
+                "start": 3649,
+                "end": 3650,
+                "word": "Mannix"
+            },
+            {
+                "start": 3688,
+                "end": 3689,
+                "word": "Empereurs"
+            },
+            {
+                "start": 3697,
+                "end": 3698,
+                "word": "Dors"
+            },
+            {
+                "start": 3705,
+                "end": 3706,
+                "word": "Kan"
+            },
+            {
+                "start": 3770,
+                "end": 3771,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3793,
+                "end": 3795,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 3808,
+                "end": 3810,
+                "word": "Mannix IV"
+            },
+            {
+                "start": 3836,
+                "end": 3837,
+                "word": "Kan"
+            },
+            {
+                "start": 3864,
+                "end": 3865,
+                "word": "Empereur"
+            },
+            {
+                "start": 3877,
+                "end": 3878,
+                "word": "Dors"
+            },
+            {
+                "start": 3885,
+                "end": 3886,
+                "word": "Rachelle"
+            },
+            {
+                "start": 3895,
+                "end": 3896,
+                "word": "Empereurs"
+            },
+            {
+                "start": 3971,
+                "end": 3972,
+                "word": "Kan"
+            },
+            {
+                "start": 3991,
+                "end": 3992,
+                "word": "Dors"
+            },
+            {
+                "start": 3995,
+                "end": 3996,
+                "word": "Empereur"
+            },
+            {
+                "start": 4046,
+                "end": 4047,
+                "word": "Empereur"
+            },
+            {
+                "start": 4055,
+                "end": 4056,
+                "word": "Trantor"
+            },
+            {
+                "start": 4065,
+                "end": 4066,
+                "word": "Dors"
+            },
+            {
+                "start": 4174,
+                "end": 4175,
+                "word": "Dors"
+            },
+            {
+                "start": 4227,
+                "end": 4230,
+                "word": "atrice de Rien"
+            },
+            {
+                "start": 4243,
+                "end": 4244,
+                "word": "Trantor"
+            },
+            {
+                "start": 4256,
+                "end": 4257,
+                "word": "Rachelle"
+            },
+            {
+                "start": 4297,
+                "end": 4298,
+                "word": "Dors"
+            },
+            {
+                "start": 4318,
+                "end": 4319,
+                "word": "Rachelle"
+            },
+            {
+                "start": 4336,
+                "end": 4337,
+                "word": "Seldon"
+            },
+            {
+                "start": 4355,
+                "end": 4356,
+                "word": "Rachelle"
+            },
+            {
+                "start": 4366,
+                "end": 4368,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 4379,
+                "end": 4380,
+                "word": "Venabili"
+            },
+            {
+                "start": 4474,
+                "end": 4476,
+                "word": "docteur Seldon"
+            },
+            {
+                "start": 4538,
+                "end": 4539,
+                "word": "Hari"
+            },
+            {
+                "start": 4704,
+                "end": 4705,
+                "word": "Kan"
+            },
+            {
+                "start": 4799,
+                "end": 4800,
+                "word": "Hari"
+            }
+        ]
+    },
+    "entities": [
+        "Sergent",
+        "Maître Seldon",
+        "Chetter Hummin",
+        "Dors de Cinna",
+        "Dors",
+        "Thalus",
+        "Empereur",
+        "Davan",
+        "dame",
+        "Venabili",
+        "Dahl",
+        "Hari",
+        "Raych",
+        "le Maire",
+        "Yugo Amaryl",
+        "Rachelle",
+        "Emmer Thalus",
+        "Mannix IV",
+        "Dors Venabili",
+        "Demerzel",
+        "docteur Seldon",
+        "Mannix",
+        "Maire",
+        "Hummin",
+        "Empereurs",
+        "atrice de Rien",
+        "Mycogène",
+        "Trantor",
+        "Seldon",
+        "Hari Seldon",
+        "dame </PER><PER> Venabili",
+        "Maître",
+        "Kan"
+    ],
+    "aliases": [
+        [
+            "Maître Seldon",
+            "Hari",
+            "docteur Seldon",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "Dors de Cinna",
+            "Dors",
+            "Dors Venabili",
+            "dame Venabili",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Thalus",
+            "Emmer Thalus"
+        ],
+        [
+            "Empereur",
+            "Empereurs"
+        ],
+        [
+            "Davan"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Mannix IV",
+            "Mannix"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "le Maire"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Rachelle"
+        ],
+        [
+            "atrice de Rien"
+        ],
+        [
+            "Mycogène"
+        ],
+        [
+            "Trantor"
+        ],
+        [
+            "Kan"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Mannix IV"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Empereurs"
+        ],
+        [
+            "Trantor",
+            "Mannix IV"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Mannix IV"
+        ],
+        [
+            "Empereurs",
+            "Mannix IV"
+        ],
+        [
+            "Empereurs",
+            "Kan"
+        ],
+        [
+            "Empereurs",
+            "Mycogène"
+        ],
+        [
+            "Empereurs",
+            "Seldon"
+        ],
+        [
+            "Mannix IV",
+            "Kan"
+        ],
+        [
+            "Mannix IV",
+            "Mycogène"
+        ],
+        [
+            "Mannix IV",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Emmer Thalus"
+        ],
+        [
+            "Mycogène",
+            "Hari Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Thalus"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "Emmer Thalus"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "Emmer Thalus"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Emmer Thalus",
+            "Hari Seldon"
+        ],
+        [
+            "Emmer Thalus",
+            "Seldon"
+        ],
+        [
+            "Emmer Thalus",
+            "Thalus"
+        ],
+        [
+            "Emmer Thalus",
+            "Dors"
+        ],
+        [
+            "Emmer Thalus",
+            "Sergent"
+        ],
+        [
+            "Emmer Thalus",
+            "docteur Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Thalus"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Sergent"
+        ],
+        [
+            "Hari Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Thalus",
+            "Dors"
+        ],
+        [
+            "Thalus",
+            "Sergent"
+        ],
+        [
+            "Thalus",
+            "docteur Seldon"
+        ],
+        [
+            "Thalus",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Sergent"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Sergent",
+            "docteur Seldon"
+        ],
+        [
+            "Sergent",
+            "docteur Seldon"
+        ],
+        [
+            "Sergent",
+            "Dors"
+        ],
+        [
+            "docteur Seldon",
+            "Dors"
+        ],
+        [
+            "docteur Seldon",
+            "Raych"
+        ],
+        [
+            "docteur Seldon",
+            "Dors"
+        ],
+        [
+            "docteur Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Sergent"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Sergent"
+        ],
+        [
+            "Raych",
+            "Sergent"
+        ],
+        [
+            "Sergent",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Davan"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Davan"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "docteur Seldon",
+            "Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Davan"
+        ],
+        [
+            "docteur Seldon",
+            "Davan"
+        ],
+        [
+            "docteur Seldon",
+            "Thalus"
+        ],
+        [
+            "docteur Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "docteur Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Thalus"
+        ],
+        [
+            "Davan",
+            "Yugo Amaryl"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Thalus"
+        ],
+        [
+            "Davan",
+            "Yugo Amaryl"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Thalus",
+            "Yugo Amaryl"
+        ],
+        [
+            "Thalus",
+            "Davan"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Thalus",
+            "Hari Seldon"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl",
+            "Davan"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl",
+            "Hari Seldon"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Hari Seldon"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Davan",
+            "Seldon"
+        ],
+        [
+            "Davan",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Hari Seldon",
+            "Raych"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Trantor"
+        ],
+        [
+            "Hari Seldon",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Chetter Hummin"
+        ],
+        [
+            "Trantor",
+            "Thalus"
+        ],
+        [
+            "Trantor",
+            "Hari"
+        ],
+        [
+            "Trantor",
+            "Chetter Hummin"
+        ],
+        [
+            "Trantor",
+            "Dahl"
+        ],
+        [
+            "Thalus",
+            "Hari"
+        ],
+        [
+            "Thalus",
+            "Chetter Hummin"
+        ],
+        [
+            "Thalus",
+            "Dahl"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Dors"
+        ],
+        [
+            "Thalus",
+            "Dahl"
+        ],
+        [
+            "Hari",
+            "Chetter Hummin"
+        ],
+        [
+            "Hari",
+            "Dahl"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dahl"
+        ],
+        [
+            "Chetter Hummin",
+            "Dahl"
+        ],
+        [
+            "Chetter Hummin",
+            "Seldon"
+        ],
+        [
+            "Chetter Hummin",
+            "Dors"
+        ],
+        [
+            "Chetter Hummin",
+            "Dahl"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Thalus"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Dors"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Hari Seldon"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Raych",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "dame"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "dame"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "dame"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Rachelle"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Rachelle"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Venabili"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Venabili",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Kan"
+        ],
+        [
+            "Hummin",
+            "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Dors de Cinna"
+        ],
+        [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors de Cinna"
+        ],
+        [
+            "Hummin",
+            "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Dors de Cinna"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Trantor"
+        ],
+        [
+            "Rachelle",
+            "Dors de Cinna"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Trantor"
+        ],
+        [
+            "Hari",
+            "Dors de Cinna"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Dors de Cinna"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Dors de Cinna"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors de Cinna"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Raych",
+            "Trantor"
+        ],
+        [
+            "Raych",
+            "Dors de Cinna"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Thalus"
+        ],
+        [
+            "Trantor",
+            "Dors de Cinna"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Thalus"
+        ],
+        [
+            "Dors de Cinna",
+            "Seldon"
+        ],
+        [
+            "Dors de Cinna",
+            "Thalus"
+        ],
+        [
+            "Dors de Cinna",
+            "Dahl"
+        ],
+        [
+            "Dors de Cinna",
+            "Dors"
+        ],
+        [
+            "Dors de Cinna",
+            "Raych"
+        ],
+        [
+            "Dors de Cinna",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Thalus"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Thalus",
+            "Dahl"
+        ],
+        [
+            "Thalus",
+            "Dors"
+        ],
+        [
+            "Thalus",
+            "Raych"
+        ],
+        [
+            "Thalus",
+            "Seldon"
+        ],
+        [
+            "Thalus",
+            "Rachelle"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Raych"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "dame"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "dame"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Raych"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "dame",
+            "Raych"
+        ],
+        [
+            "dame",
+            "Dors"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "dame",
+            "Rachelle"
+        ],
+        [
+            "dame",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Dahl"
+        ],
+        [
+            "Rachelle",
+            "Demerzel"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Demerzel"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Kan"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Trantor"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Maire"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Maire"
+        ],
+        [
+            "Trantor",
+            "Kan"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Trantor",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Rachelle"
+        ],
+        [
+            "Maire",
+            "Raych"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Maire"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Maire"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Raych",
+            "Maire"
+        ],
+        [
+            "Raych",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Raych"
+        ],
+        [
+            "Kan",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Maître"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Maître"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "Maître Seldon",
+            "Maître"
+        ],
+        [
+            "Maître Seldon",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Maître"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Maître Seldon"
+        ],
+        [
+            "Rachelle",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Maître"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Maître"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Maître Seldon",
+            "dame </PER><PER> Venabili"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "Maître Seldon",
+            "Maître"
+        ],
+        [
+            "Maître Seldon",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Raych"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Rachelle"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Maître"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Dors"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Raych"
+        ],
+        [
+            "dame </PER><PER> Venabili",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Maître"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Maître"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Maître",
+            "Dors"
+        ],
+        [
+            "Maître",
+            "Raych"
+        ],
+        [
+            "Maître",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "le Maire"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "le Maire"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Rachelle"
+        ],
+        [
+            "le Maire",
+            "Hari"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Hari"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Mannix"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "le Maire"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Mannix"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "le Maire"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Kan"
+        ],
+        [
+            "Hari",
+            "Mannix"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "le Maire"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Mannix"
+        ],
+        [
+            "Hari",
+            "le Maire"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Kan"
+        ],
+        [
+            "Hari",
+            "Mannix"
+        ],
+        [
+            "Hari",
+            "Empereurs"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "le Maire",
+            "Mannix"
+        ],
+        [
+            "le Maire",
+            "Empereurs"
+        ],
+        [
+            "le Maire",
+            "Dors"
+        ],
+        [
+            "le Maire",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Mannix"
+        ],
+        [
+            "Dors",
+            "Empereurs"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Kan",
+            "Mannix"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Mannix",
+            "Empereurs"
+        ],
+        [
+            "Mannix",
+            "Dors"
+        ],
+        [
+            "Mannix",
+            "Kan"
+        ],
+        [
+            "Empereurs",
+            "Dors"
+        ],
+        [
+            "Empereurs",
+            "Kan"
+        ],
+        [
+            "Empereurs",
+            "Rachelle"
+        ],
+        [
+            "Empereurs",
+            "docteur Seldon"
+        ],
+        [
+            "Empereurs",
+            "Mannix IV"
+        ],
+        [
+            "Dors",
+            "Kan"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Mannix IV"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "docteur Seldon"
+        ],
+        [
+            "Kan",
+            "Mannix IV"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Mannix IV"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Rachelle",
+            "Empereur"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "docteur Seldon",
+            "Mannix IV"
+        ],
+        [
+            "docteur Seldon",
+            "Kan"
+        ],
+        [
+            "docteur Seldon",
+            "Empereur"
+        ],
+        [
+            "docteur Seldon",
+            "Dors"
+        ],
+        [
+            "docteur Seldon",
+            "Rachelle"
+        ],
+        [
+            "docteur Seldon",
+            "Empereurs"
+        ],
+        [
+            "Mannix IV",
+            "Kan"
+        ],
+        [
+            "Mannix IV",
+            "Empereur"
+        ],
+        [
+            "Mannix IV",
+            "Dors"
+        ],
+        [
+            "Mannix IV",
+            "Rachelle"
+        ],
+        [
+            "Mannix IV",
+            "Empereurs"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Rachelle"
+        ],
+        [
+            "Kan",
+            "Empereurs"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Rachelle"
+        ],
+        [
+            "Empereur",
+            "Empereurs"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Empereurs"
+        ],
+        [
+            "Rachelle",
+            "Empereurs"
+        ],
+        [
+            "Rachelle",
+            "Kan"
+        ],
+        [
+            "Empereurs",
+            "Kan"
+        ],
+        [
+            "Empereurs",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Trantor"
+        ],
+        [
+            "Kan",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Trantor"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "atrice de Rien"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "atrice de Rien",
+            "Trantor"
+        ],
+        [
+            "atrice de Rien",
+            "Rachelle"
+        ],
+        [
+            "atrice de Rien",
+            "Dors"
+        ],
+        [
+            "atrice de Rien",
+            "Rachelle"
+        ],
+        [
+            "atrice de Rien",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "docteur Seldon"
+        ],
+        [
+            "Dors",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "docteur Seldon",
+            "Venabili"
+        ],
+        [
+            "Venabili",
+            "docteur Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Hari"
+        ],
+        [
+            "Kan",
+            "Hari"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Sergent\nMaître Seldon\nChetter Hummin\nDors de Cinna\nDors\nThalus\nEmpereur\nDavan\ndame\nVenabili\nDahl\nHari\nRaych\nle Maire\nYugo Amaryl\nRachelle\nEmmer Thalus\nMannix IV\nDors Venabili\nDemerzel\ndocteur Seldon\nMannix\nMaire\nHummin\nEmpereurs\natrice de Rien\nMycogène\nTrantor\nSeldon\nHari Seldon\ndame </PER><PER> Venabili\nMaître\nKan\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Maître Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "1": [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            "2": [
+                "Dors de Cinna",
+                "Dors",
+                "Dors Venabili",
+                "dame Venabili",
+                "dame </PER><PER> Venabili"
+            ],
+            "3": [
+                "Thalus",
+                "Emmer Thalus"
+            ],
+            "4": [
+                "Empereur",
+                "Empereurs"
+            ],
+            "5": [
+                "Davan"
+            ],
+            "6": [
+                "Yugo Amaryl"
+            ],
+            "7": [
+                "Mannix IV",
+                "Mannix"
+            ],
+            "8": [
+                "Demerzel"
+            ],
+            "9": [
+                "Maire",
+                "le Maire"
+            ],
+            "10": [
+                "Raych"
+            ],
+            "11": [
+                "Rachelle"
+            ],
+            "12": [
+                "atrice de Rien"
+            ],
+            "13": [
+                "Mycogène"
+            ],
+            "14": [
+                "Trantor"
+            ],
+            "15": [
+                "Kan"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

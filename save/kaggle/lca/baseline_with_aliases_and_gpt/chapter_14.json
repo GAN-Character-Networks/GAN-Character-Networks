@@ -1,0 +1,1123 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "— Est-ce que... est-ce que c’est le robot ?... Elle leva une main devant ses yeux et s’arracha des bras de Baley, puis, respirant profondément, elle finit par répéter, en s’efforçant de sourire : — C’est bien vous n’est-ce pas ? — Oui, Jessie, fit R. Daneel. — Ca ne vous fait rien que je vous traite de robot ? — Mais non, Jessie, puisque c’est ce que je suis ! — Et moi, ça ne me fait rien qu’on me traite d’imbécile, d’idiote et de complice d’agitateurs, parce que c’est ce que je suis. — Jessie !",
+        "entities": [
+            {
+                "start": 25,
+                "end": 26,
+                "word": "Baley"
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "word": "Jessie"
+            },
+            {
+                "start": 56,
+                "end": 59,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 75,
+                "end": 76,
+                "word": "Jessie"
+            },
+            {
+                "start": 117,
+                "end": 118,
+                "word": "Jessie"
+            },
+            {
+                "start": 120,
+                "end": 121,
+                "word": "Baley"
+            },
+            {
+                "start": 128,
+                "end": 129,
+                "word": "Lije"
+            },
+            {
+                "start": 211,
+                "end": 212,
+                "word": "Lije"
+            },
+            {
+                "start": 235,
+                "end": 236,
+                "word": "Baley"
+            },
+            {
+                "start": 249,
+                "end": 252,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 301,
+                "end": 302,
+                "word": "Daneel"
+            },
+            {
+                "start": 319,
+                "end": 320,
+                "word": "Jessie"
+            },
+            {
+                "start": 330,
+                "end": 331,
+                "word": "Lije"
+            },
+            {
+                "start": 334,
+                "end": 335,
+                "word": "Jessie"
+            },
+            {
+                "start": 441,
+                "end": 442,
+                "word": "Baley"
+            },
+            {
+                "start": 503,
+                "end": 504,
+                "word": "Baley"
+            },
+            {
+                "start": 521,
+                "end": 522,
+                "word": "Jessie"
+            },
+            {
+                "start": 566,
+                "end": 569,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 577,
+                "end": 578,
+                "word": "Jessie"
+            },
+            {
+                "start": 580,
+                "end": 581,
+                "word": "Baley"
+            },
+            {
+                "start": 628,
+                "end": 629,
+                "word": "Jessie"
+            },
+            {
+                "start": 659,
+                "end": 660,
+                "word": "Jessie"
+            },
+            {
+                "start": 673,
+                "end": 674,
+                "word": "Lije"
+            },
+            {
+                "start": 694,
+                "end": 695,
+                "word": "Baley"
+            },
+            {
+                "start": 772,
+                "end": 773,
+                "word": "Lije"
+            },
+            {
+                "start": 827,
+                "end": 828,
+                "word": "Lizzy"
+            },
+            {
+                "start": 914,
+                "end": 916,
+                "word": "Jane Myers"
+            },
+            {
+                "start": 933,
+                "end": 934,
+                "word": "Elisabeth"
+            },
+            {
+                "start": 1009,
+                "end": 1010,
+                "word": "Daneel"
+            },
+            {
+                "start": 1021,
+                "end": 1022,
+                "word": "Jessie"
+            },
+            {
+                "start": 1042,
+                "end": 1043,
+                "word": "Baley"
+            },
+            {
+                "start": 1056,
+                "end": 1057,
+                "word": "Jessie"
+            },
+            {
+                "start": 1087,
+                "end": 1088,
+                "word": "Elisabeth"
+            },
+            {
+                "start": 1206,
+                "end": 1207,
+                "word": "Lije"
+            },
+            {
+                "start": 1231,
+                "end": 1232,
+                "word": "Jessie"
+            },
+            {
+                "start": 1234,
+                "end": 1235,
+                "word": "Baley"
+            },
+            {
+                "start": 1243,
+                "end": 1244,
+                "word": "Lije"
+            },
+            {
+                "start": 1262,
+                "end": 1263,
+                "word": "Jézabel"
+            },
+            {
+                "start": 1346,
+                "end": 1347,
+                "word": "Baley"
+            },
+            {
+                "start": 1356,
+                "end": 1357,
+                "word": "Lije"
+            },
+            {
+                "start": 1373,
+                "end": 1374,
+                "word": "Jessie"
+            },
+            {
+                "start": 1722,
+                "end": 1723,
+                "word": "Daneel"
+            },
+            {
+                "start": 1770,
+                "end": 1771,
+                "word": "Lije"
+            },
+            {
+                "start": 1791,
+                "end": 1792,
+                "word": "Baley"
+            },
+            {
+                "start": 1799,
+                "end": 1800,
+                "word": "Jessie"
+            },
+            {
+                "start": 1871,
+                "end": 1872,
+                "word": "Lije"
+            },
+            {
+                "start": 1877,
+                "end": 1878,
+                "word": "Bentley"
+            },
+            {
+                "start": 1907,
+                "end": 1908,
+                "word": "Baley"
+            },
+            {
+                "start": 1924,
+                "end": 1927,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1946,
+                "end": 1947,
+                "word": "Jessie"
+            },
+            {
+                "start": 1988,
+                "end": 1990,
+                "word": "Joseph Klemin"
+            },
+            {
+                "start": 2043,
+                "end": 2044,
+                "word": "Lije"
+            },
+            {
+                "start": 2076,
+                "end": 2077,
+                "word": "Klemin"
+            },
+            {
+                "start": 2152,
+                "end": 2153,
+                "word": "Lije"
+            },
+            {
+                "start": 2211,
+                "end": 2212,
+                "word": "Baley"
+            },
+            {
+                "start": 2219,
+                "end": 2222,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2342,
+                "end": 2343,
+                "word": "Jessie"
+            },
+            {
+                "start": 2357,
+                "end": 2360,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2373,
+                "end": 2374,
+                "word": "Jessie"
+            },
+            {
+                "start": 2381,
+                "end": 2382,
+                "word": "Baley"
+            },
+            {
+                "start": 2428,
+                "end": 2429,
+                "word": "Baley"
+            },
+            {
+                "start": 2475,
+                "end": 2476,
+                "word": "Daneel"
+            },
+            {
+                "start": 2538,
+                "end": 2541,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2570,
+                "end": 2571,
+                "word": "Baley"
+            },
+            {
+                "start": 2625,
+                "end": 2626,
+                "word": "Daneel"
+            },
+            {
+                "start": 2641,
+                "end": 2642,
+                "word": "Baley"
+            },
+            {
+                "start": 2675,
+                "end": 2678,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2718,
+                "end": 2721,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2789,
+                "end": 2792,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2826,
+                "end": 2827,
+                "word": "Baley"
+            },
+            {
+                "start": 2911,
+                "end": 2912,
+                "word": "Baley"
+            },
+            {
+                "start": 3007,
+                "end": 3008,
+                "word": "Jésus"
+            },
+            {
+                "start": 3044,
+                "end": 3045,
+                "word": "Daneel"
+            },
+            {
+                "start": 3075,
+                "end": 3076,
+                "word": "Elijah"
+            },
+            {
+                "start": 3092,
+                "end": 3093,
+                "word": "Baley"
+            },
+            {
+                "start": 3130,
+                "end": 3133,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3146,
+                "end": 3148,
+                "word": "Francis Clousarr"
+            },
+            {
+                "start": 3159,
+                "end": 3160,
+                "word": "Elijah"
+            },
+            {
+                "start": 3166,
+                "end": 3167,
+                "word": "Daneel"
+            }
+        ]
+    },
+    "entities": [
+        "R . Daneel",
+        "Joseph Klemin",
+        "Jésus",
+        "Lije",
+        "Elijah",
+        "Elisabeth",
+        "Baley",
+        "Francis Clousarr",
+        "Klemin",
+        "Jézabel",
+        "Jane Myers",
+        "Jessie",
+        "Bentley",
+        "Lizzy",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Joseph Klemin",
+            "Klemin"
+        ],
+        [
+            "Lije",
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr"
+        ],
+        [
+            "Jane Myers"
+        ],
+        [
+            "Jessie",
+            "Lizzy"
+        ],
+        [
+            "Bentley"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Lije"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Lizzy"
+        ],
+        [
+            "Lizzy",
+            "Jane Myers"
+        ],
+        [
+            "Jane Myers",
+            "Elisabeth"
+        ],
+        [
+            "Elisabeth",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Elisabeth"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Elisabeth"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Elisabeth"
+        ],
+        [
+            "Jessie",
+            "Elisabeth"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Jézabel"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Jézabel"
+        ],
+        [
+            "Lije",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Lije"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Bentley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Bentley",
+            "Baley"
+        ],
+        [
+            "Bentley",
+            "R . Daneel"
+        ],
+        [
+            "Bentley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Joseph Klemin"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Joseph Klemin"
+        ],
+        [
+            "Jessie",
+            "Joseph Klemin"
+        ],
+        [
+            "Joseph Klemin",
+            "Lije"
+        ],
+        [
+            "Joseph Klemin",
+            "Klemin"
+        ],
+        [
+            "Lije",
+            "Klemin"
+        ],
+        [
+            "Klemin",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Jésus",
+            "Daneel"
+        ],
+        [
+            "Jésus",
+            "Elijah"
+        ],
+        [
+            "Jésus",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Francis Clousarr"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Francis Clousarr"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Francis Clousarr"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Francis Clousarr"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Francis Clousarr",
+            "Elijah"
+        ],
+        [
+            "Francis Clousarr",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    R . Daneel\nJoseph Klemin\nJésus\nLije\nElijah\nElisabeth\nBaley\nFrancis Clousarr\nKlemin\nJézabel\nJane Myers\nJessie\nBentley\nLizzy\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "1": [
+                "Joseph Klemin",
+                "Klemin"
+            ],
+            "2": [
+                "Lije",
+                "Elijah",
+                "Baley"
+            ],
+            "3": [
+                "Francis Clousarr"
+            ],
+            "4": [
+                "Jane Myers"
+            ],
+            "5": [
+                "Jessie",
+                "Lizzy"
+            ],
+            "6": [
+                "Bentley"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

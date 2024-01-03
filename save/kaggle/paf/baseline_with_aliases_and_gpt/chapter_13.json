@@ -1,0 +1,4688 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par",
+        "entities": [
+            {
+                "start": 15,
+                "end": 17,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "word": "Dahl"
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "word": "Trantor"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "word": "Seldon"
+            },
+            {
+                "start": 105,
+                "end": 110,
+                "word": "Empereur de toute la Galaxie"
+            },
+            {
+                "start": 213,
+                "end": 214,
+                "word": "Trantor"
+            },
+            {
+                "start": 263,
+                "end": 264,
+                "word": "Empereur"
+            },
+            {
+                "start": 279,
+                "end": 280,
+                "word": "Empereur"
+            },
+            {
+                "start": 332,
+                "end": 333,
+                "word": "Demerzel"
+            },
+            {
+                "start": 334,
+                "end": 335,
+                "word": "Cléon"
+            },
+            {
+                "start": 346,
+                "end": 347,
+                "word": "Demerzel"
+            },
+            {
+                "start": 353,
+                "end": 354,
+                "word": "Empereurs"
+            },
+            {
+                "start": 400,
+                "end": 401,
+                "word": "Cléon"
+            },
+            {
+                "start": 409,
+                "end": 410,
+                "word": "Demerzel"
+            },
+            {
+                "start": 434,
+                "end": 435,
+                "word": "Empire"
+            },
+            {
+                "start": 474,
+                "end": 475,
+                "word": "Cléon"
+            },
+            {
+                "start": 478,
+                "end": 479,
+                "word": "Demerzel"
+            },
+            {
+                "start": 513,
+                "end": 514,
+                "word": "Cléon"
+            },
+            {
+                "start": 519,
+                "end": 520,
+                "word": "Demerzel"
+            },
+            {
+                "start": 532,
+                "end": 533,
+                "word": "Empereur"
+            },
+            {
+                "start": 534,
+                "end": 535,
+                "word": "Demerzel"
+            },
+            {
+                "start": 553,
+                "end": 554,
+                "word": "Empereur"
+            },
+            {
+                "start": 569,
+                "end": 570,
+                "word": "Demerzel"
+            },
+            {
+                "start": 591,
+                "end": 592,
+                "word": "Cléon"
+            },
+            {
+                "start": 612,
+                "end": 613,
+                "word": "Cléon"
+            },
+            {
+                "start": 627,
+                "end": 628,
+                "word": "Demerzel"
+            },
+            {
+                "start": 655,
+                "end": 656,
+                "word": "Cléon"
+            },
+            {
+                "start": 695,
+                "end": 696,
+                "word": "Demerzel"
+            },
+            {
+                "start": 703,
+                "end": 704,
+                "word": "Demerzel"
+            },
+            {
+                "start": 707,
+                "end": 712,
+                "word": "Empereur de toute la Galaxie"
+            },
+            {
+                "start": 722,
+                "end": 723,
+                "word": "Sire"
+            },
+            {
+                "start": 725,
+                "end": 726,
+                "word": "Demerzel"
+            },
+            {
+                "start": 743,
+                "end": 744,
+                "word": "Sire"
+            },
+            {
+                "start": 758,
+                "end": 759,
+                "word": "Mycogène"
+            },
+            {
+                "start": 781,
+                "end": 782,
+                "word": "Empereur"
+            },
+            {
+                "start": 804,
+                "end": 805,
+                "word": "Mycogène"
+            },
+            {
+                "start": 836,
+                "end": 837,
+                "word": "Cléon"
+            },
+            {
+                "start": 847,
+                "end": 848,
+                "word": "Maire"
+            },
+            {
+                "start": 849,
+                "end": 850,
+                "word": "Mycogène"
+            },
+            {
+                "start": 855,
+                "end": 857,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 858,
+                "end": 859,
+                "word": "Sire"
+            },
+            {
+                "start": 868,
+                "end": 870,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 878,
+                "end": 879,
+                "word": "Sire"
+            },
+            {
+                "start": 885,
+                "end": 886,
+                "word": "Seldon"
+            },
+            {
+                "start": 911,
+                "end": 912,
+                "word": "Cléon"
+            },
+            {
+                "start": 923,
+                "end": 924,
+                "word": "Sire"
+            },
+            {
+                "start": 937,
+                "end": 938,
+                "word": "Maire"
+            },
+            {
+                "start": 939,
+                "end": 940,
+                "word": "Kan"
+            },
+            {
+                "start": 945,
+                "end": 946,
+                "word": "Sire"
+            },
+            {
+                "start": 956,
+                "end": 957,
+                "word": "Kan"
+            },
+            {
+                "start": 979,
+                "end": 980,
+                "word": "Empereur"
+            },
+            {
+                "start": 996,
+                "end": 997,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1041,
+                "end": 1042,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1052,
+                "end": 1053,
+                "word": "Empereur"
+            },
+            {
+                "start": 1055,
+                "end": 1056,
+                "word": "Demerzel"
+            },
+            {
+                "start": 1083,
+                "end": 1084,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1088,
+                "end": 1089,
+                "word": "Sire"
+            },
+            {
+                "start": 1102,
+                "end": 1103,
+                "word": "Kan"
+            },
+            {
+                "start": 1115,
+                "end": 1116,
+                "word": "Sire"
+            },
+            {
+                "start": 1140,
+                "end": 1142,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 1143,
+                "end": 1145,
+                "word": "Maître Hummin"
+            },
+            {
+                "start": 1178,
+                "end": 1179,
+                "word": "Seldon"
+            },
+            {
+                "start": 1185,
+                "end": 1186,
+                "word": "Hummin"
+            },
+            {
+                "start": 1193,
+                "end": 1194,
+                "word": "Dahl"
+            },
+            {
+                "start": 1195,
+                "end": 1196,
+                "word": "Seldon"
+            },
+            {
+                "start": 1223,
+                "end": 1224,
+                "word": "Empire"
+            },
+            {
+                "start": 1281,
+                "end": 1282,
+                "word": "Empereur"
+            },
+            {
+                "start": 1321,
+                "end": 1322,
+                "word": "Hummin"
+            },
+            {
+                "start": 1324,
+                "end": 1325,
+                "word": "Seldon"
+            },
+            {
+                "start": 1369,
+                "end": 1370,
+                "word": "Hummin"
+            },
+            {
+                "start": 1382,
+                "end": 1383,
+                "word": "Streeling"
+            },
+            {
+                "start": 1390,
+                "end": 1391,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1397,
+                "end": 1398,
+                "word": "Dahl"
+            },
+            {
+                "start": 1404,
+                "end": 1405,
+                "word": "Venabili"
+            },
+            {
+                "start": 1414,
+                "end": 1415,
+                "word": "Seldon"
+            },
+            {
+                "start": 1438,
+                "end": 1439,
+                "word": "Trantor"
+            },
+            {
+                "start": 1464,
+                "end": 1465,
+                "word": "Dors"
+            },
+            {
+                "start": 1506,
+                "end": 1507,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1553,
+                "end": 1554,
+                "word": "Dahl"
+            },
+            {
+                "start": 1590,
+                "end": 1591,
+                "word": "Empereur"
+            },
+            {
+                "start": 1606,
+                "end": 1607,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1621,
+                "end": 1622,
+                "word": "Seldon"
+            },
+            {
+                "start": 1660,
+                "end": 1661,
+                "word": "Dors"
+            },
+            {
+                "start": 1663,
+                "end": 1664,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1703,
+                "end": 1704,
+                "word": "Seldon"
+            },
+            {
+                "start": 1873,
+                "end": 1874,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1922,
+                "end": 1923,
+                "word": "Empereur"
+            },
+            {
+                "start": 1925,
+                "end": 1926,
+                "word": "Dors"
+            },
+            {
+                "start": 1959,
+                "end": 1960,
+                "word": "Hummin"
+            },
+            {
+                "start": 1999,
+                "end": 2003,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 2051,
+                "end": 2052,
+                "word": "Dahl"
+            },
+            {
+                "start": 2077,
+                "end": 2078,
+                "word": "Dors"
+            },
+            {
+                "start": 2106,
+                "end": 2107,
+                "word": "Seldon"
+            },
+            {
+                "start": 2110,
+                "end": 2111,
+                "word": "Trantor"
+            },
+            {
+                "start": 2120,
+                "end": 2122,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 2168,
+                "end": 2169,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2176,
+                "end": 2177,
+                "word": "Dors"
+            },
+            {
+                "start": 2210,
+                "end": 2211,
+                "word": "Seldon"
+            },
+            {
+                "start": 2227,
+                "end": 2228,
+                "word": "Seldon"
+            },
+            {
+                "start": 2230,
+                "end": 2231,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2233,
+                "end": 2235,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 2260,
+                "end": 2261,
+                "word": "Seldon"
+            },
+            {
+                "start": 2268,
+                "end": 2269,
+                "word": "Hari"
+            },
+            {
+                "start": 2271,
+                "end": 2272,
+                "word": "Seldon"
+            },
+            {
+                "start": 2319,
+                "end": 2320,
+                "word": "Trantor"
+            },
+            {
+                "start": 2321,
+                "end": 2322,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2349,
+                "end": 2350,
+                "word": "Jirad"
+            },
+            {
+                "start": 2363,
+                "end": 2364,
+                "word": "Casilia"
+            },
+            {
+                "start": 2377,
+                "end": 2378,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2379,
+                "end": 2381,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 2383,
+                "end": 2384,
+                "word": "Seldon"
+            },
+            {
+                "start": 2408,
+                "end": 2409,
+                "word": "Trantor"
+            },
+            {
+                "start": 2422,
+                "end": 2423,
+                "word": "Hélicon"
+            },
+            {
+                "start": 2435,
+                "end": 2436,
+                "word": "Trantor"
+            },
+            {
+                "start": 2443,
+                "end": 2444,
+                "word": "Trantor"
+            },
+            {
+                "start": 2481,
+                "end": 2482,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2508,
+                "end": 2509,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2520,
+                "end": 2521,
+                "word": "Seldon"
+            },
+            {
+                "start": 2590,
+                "end": 2592,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 2612,
+                "end": 2613,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2637,
+                "end": 2639,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 2679,
+                "end": 2680,
+                "word": "Dahl"
+            },
+            {
+                "start": 2731,
+                "end": 2732,
+                "word": "Dahlite"
+            },
+            {
+                "start": 2735,
+                "end": 2736,
+                "word": "Seldon"
+            },
+            {
+                "start": 2759,
+                "end": 2760,
+                "word": "Dahl"
+            },
+            {
+                "start": 2768,
+                "end": 2769,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2793,
+                "end": 2794,
+                "word": "Seldon"
+            },
+            {
+                "start": 2850,
+                "end": 2851,
+                "word": "Dahlite"
+            },
+            {
+                "start": 2862,
+                "end": 2863,
+                "word": "cogéniens"
+            },
+            {
+                "start": 2904,
+                "end": 2905,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2944,
+                "end": 2946,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 2974,
+                "end": 2975,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2989,
+                "end": 2991,
+                "word": "Hano Lindor"
+            },
+            {
+                "start": 2996,
+                "end": 2997,
+                "word": "Tisalver"
+            },
+            {
+                "start": 2998,
+                "end": 2999,
+                "word": "Seldon"
+            },
+            {
+                "start": 3051,
+                "end": 3052,
+                "word": "Lindor"
+            },
+            {
+                "start": 3079,
+                "end": 3080,
+                "word": "Dors"
+            },
+            {
+                "start": 3105,
+                "end": 3106,
+                "word": "Seldon"
+            },
+            {
+                "start": 3161,
+                "end": 3162,
+                "word": "Dahl"
+            },
+            {
+                "start": 3223,
+                "end": 3224,
+                "word": "Tisalver"
+            },
+            {
+                "start": 3228,
+                "end": 3229,
+                "word": "Seldon"
+            },
+            {
+                "start": 3232,
+                "end": 3233,
+                "word": "Lindor"
+            },
+            {
+                "start": 3237,
+                "end": 3238,
+                "word": "Dors"
+            },
+            {
+                "start": 3248,
+                "end": 3249,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 3264,
+                "end": 3265,
+                "word": "Dors"
+            },
+            {
+                "start": 3282,
+                "end": 3283,
+                "word": "Maîtresse"
+            },
+            {
+                "start": 3285,
+                "end": 3286,
+                "word": "Lindor"
+            },
+            {
+                "start": 3323,
+                "end": 3324,
+                "word": "Dors"
+            },
+            {
+                "start": 3352,
+                "end": 3353,
+                "word": "Dors"
+            },
+            {
+                "start": 3497,
+                "end": 3498,
+                "word": "Dors"
+            },
+            {
+                "start": 3500,
+                "end": 3501,
+                "word": "Seldon"
+            },
+            {
+                "start": 3506,
+                "end": 3507,
+                "word": "Hari"
+            },
+            {
+                "start": 3550,
+                "end": 3551,
+                "word": "Dors"
+            },
+            {
+                "start": 3588,
+                "end": 3589,
+                "word": "Dors"
+            },
+            {
+                "start": 3593,
+                "end": 3594,
+                "word": "Lindor"
+            },
+            {
+                "start": 3699,
+                "end": 3700,
+                "word": "Dahl"
+            },
+            {
+                "start": 3767,
+                "end": 3768,
+                "word": "Tisalver"
+            },
+            {
+                "start": 3808,
+                "end": 3809,
+                "word": "Tisalver"
+            },
+            {
+                "start": 3818,
+                "end": 3820,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3826,
+                "end": 3827,
+                "word": "Casilia"
+            },
+            {
+                "start": 3839,
+                "end": 3840,
+                "word": "Seldon"
+            },
+            {
+                "start": 3852,
+                "end": 3854,
+                "word": "Casilia Tisalver"
+            },
+            {
+                "start": 3886,
+                "end": 3887,
+                "word": "Seldon"
+            },
+            {
+                "start": 3900,
+                "end": 3902,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 3915,
+                "end": 3916,
+                "word": "Jirad"
+            },
+            {
+                "start": 3924,
+                "end": 3926,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 3969,
+                "end": 3971,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 3976,
+                "end": 3977,
+                "word": "Hari"
+            },
+            {
+                "start": 3984,
+                "end": 3986,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 3990,
+                "end": 3991,
+                "word": "Seldon"
+            },
+            {
+                "start": 4031,
+                "end": 4032,
+                "word": "Seldon"
+            },
+            {
+                "start": 4036,
+                "end": 4038,
+                "word": "Maîtresse Tisalver"
+            },
+            {
+                "start": 4110,
+                "end": 4111,
+                "word": "Dahl"
+            },
+            {
+                "start": 4153,
+                "end": 4156,
+                "word": "Grimace de Seldon"
+            },
+            {
+                "start": 4218,
+                "end": 4223,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 4276,
+                "end": 4277,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4341,
+                "end": 4342,
+                "word": "Seldon"
+            },
+            {
+                "start": 4356,
+                "end": 4357,
+                "word": "Dors"
+            },
+            {
+                "start": 4394,
+                "end": 4395,
+                "word": "Seldon"
+            },
+            {
+                "start": 4396,
+                "end": 4397,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4423,
+                "end": 4424,
+                "word": "Seldon"
+            },
+            {
+                "start": 4470,
+                "end": 4471,
+                "word": "Seldon"
+            },
+            {
+                "start": 4502,
+                "end": 4503,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4548,
+                "end": 4549,
+                "word": "Seldon"
+            },
+            {
+                "start": 4654,
+                "end": 4655,
+                "word": "Seldon"
+            },
+            {
+                "start": 4665,
+                "end": 4666,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4679,
+                "end": 4680,
+                "word": "Seldon"
+            },
+            {
+                "start": 4753,
+                "end": 4754,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4758,
+                "end": 4759,
+                "word": "Seldon"
+            },
+            {
+                "start": 4788,
+                "end": 4789,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4806,
+                "end": 4807,
+                "word": "Seldon"
+            },
+            {
+                "start": 4819,
+                "end": 4821,
+                "word": "Anat Bigell"
+            },
+            {
+                "start": 4907,
+                "end": 4908,
+                "word": "Seldon"
+            },
+            {
+                "start": 4911,
+                "end": 4912,
+                "word": "Dors"
+            },
+            {
+                "start": 4928,
+                "end": 4929,
+                "word": "Trantor"
+            },
+            {
+                "start": 4935,
+                "end": 4936,
+                "word": "Amaryl"
+            },
+            {
+                "start": 4950,
+                "end": 4951,
+                "word": "Dahlite"
+            },
+            {
+                "start": 5129,
+                "end": 5130,
+                "word": "Seldon"
+            },
+            {
+                "start": 5144,
+                "end": 5146,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 5152,
+                "end": 5153,
+                "word": "Trantor"
+            },
+            {
+                "start": 5208,
+                "end": 5209,
+                "word": "Seldon"
+            },
+            {
+                "start": 5245,
+                "end": 5246,
+                "word": "Amaryl"
+            },
+            {
+                "start": 5279,
+                "end": 5280,
+                "word": "Dahl"
+            },
+            {
+                "start": 5296,
+                "end": 5297,
+                "word": "Seldon"
+            },
+            {
+                "start": 5300,
+                "end": 5301,
+                "word": "Dors"
+            },
+            {
+                "start": 5312,
+                "end": 5313,
+                "word": "Amaryl"
+            },
+            {
+                "start": 5401,
+                "end": 5402,
+                "word": "Dors"
+            },
+            {
+                "start": 5417,
+                "end": 5418,
+                "word": "Seldon"
+            },
+            {
+                "start": 5540,
+                "end": 5541,
+                "word": "Amaryl"
+            },
+            {
+                "start": 5572,
+                "end": 5574,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 5613,
+                "end": 5615,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 5643,
+                "end": 5644,
+                "word": "Amaryl"
+            }
+        ]
+    },
+    "entities": [
+        "Anat Bigell",
+        "Maître Seldon",
+        "Cléon",
+        "Sire",
+        "Dahlite",
+        "Amaryl",
+        "Dors",
+        "Maître du Soleil Quatorze",
+        "Jirad",
+        "Hélicon",
+        "Streeling",
+        "Hano Lindor",
+        "Tisalver",
+        "Maîtresse",
+        "Grand Ancien",
+        "Empereur",
+        "Maître Hummin",
+        "Venabili",
+        "Dahl",
+        "Maîtresse Venabili",
+        "Hari",
+        "Lindor",
+        "Casilia Tisalver",
+        "Dors Venabili",
+        "Demerzel",
+        "Empire",
+        "Empereur de toute la Galaxie",
+        "Maire",
+        "Hummin",
+        "Empereurs",
+        "Mycogène",
+        "Casilia",
+        "Grimace de Seldon",
+        "Maîtresse Tisalver",
+        "Seldon",
+        "Trantor",
+        "Hari Seldon",
+        "Mère Rittah",
+        "Goutte de Pluie Quarante trois",
+        "cogéniens",
+        "Kan"
+    ],
+    "aliases": [
+        [
+            "Anat Bigell"
+        ],
+        [
+            "Maître Seldon",
+            "Hari Seldon",
+            "Seldon",
+            "Hari",
+            "Grimace de Seldon"
+        ],
+        [
+            "Cléon",
+            "Sire",
+            "Empereur",
+            "Empereur de toute la Galaxie",
+            "Empereurs"
+        ],
+        [
+            "Dahlite",
+            "Dahl"
+        ],
+        [
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Dors Venabili",
+            "Maîtresse Venabili",
+            "Venabili"
+        ],
+        [
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Jirad"
+        ],
+        [
+            "Hélicon"
+        ],
+        [
+            "Streeling"
+        ],
+        [
+            "Hano Lindor",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse"
+        ],
+        [
+            "Grand Ancien"
+        ],
+        [
+            "Maître Hummin",
+            "Hummin"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Empire"
+        ],
+        [
+            "Maire"
+        ],
+        [
+            "Mycogène"
+        ],
+        [
+            "Casilia"
+        ],
+        [
+            "Mère Rittah"
+        ],
+        [
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "cogéniens"
+        ],
+        [
+            "Kan"
+        ],
+        [
+            "Trantor"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Hari Seldon",
+            "Dahl"
+        ],
+        [
+            "Hari Seldon",
+            "Trantor"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Seldon",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Empereur"
+        ],
+        [
+            "Trantor",
+            "Empereur"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Cléon"
+        ],
+        [
+            "Trantor",
+            "Demerzel"
+        ],
+        [
+            "Trantor",
+            "Empereurs"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Empereurs"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Empereurs"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereurs"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereurs"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empire"
+        ],
+        [
+            "Demerzel",
+            "Empereurs"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empire"
+        ],
+        [
+            "Empereurs",
+            "Cléon"
+        ],
+        [
+            "Empereurs",
+            "Demerzel"
+        ],
+        [
+            "Empereurs",
+            "Empire"
+        ],
+        [
+            "Empereurs",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Empire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Empire",
+            "Cléon"
+        ],
+        [
+            "Empire",
+            "Demerzel"
+        ],
+        [
+            "Empire",
+            "Cléon"
+        ],
+        [
+            "Empire",
+            "Demerzel"
+        ],
+        [
+            "Empire",
+            "Empereur"
+        ],
+        [
+            "Empire",
+            "Demerzel"
+        ],
+        [
+            "Empire",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Empereur de toute la Galaxie"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Sire"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Demerzel"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Sire"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Mycogène"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Empereur"
+        ],
+        [
+            "Empereur de toute la Galaxie",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Empereur"
+        ],
+        [
+            "Mycogène",
+            "Cléon"
+        ],
+        [
+            "Mycogène",
+            "Maire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Cléon"
+        ],
+        [
+            "Empereur",
+            "Maire"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Grand Ancien"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Cléon"
+        ],
+        [
+            "Mycogène",
+            "Maire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Maire"
+        ],
+        [
+            "Cléon",
+            "Mycogène"
+        ],
+        [
+            "Cléon",
+            "Grand Ancien"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Grand Ancien"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Seldon"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Maire"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Mycogène"
+        ],
+        [
+            "Maire",
+            "Grand Ancien"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Grand Ancien"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Seldon"
+        ],
+        [
+            "Maire",
+            "Cléon"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Grand Ancien"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Cléon"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Maire"
+        ],
+        [
+            "Mycogène",
+            "Kan"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Grand Ancien",
+            "Cléon"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Maire"
+        ],
+        [
+            "Grand Ancien",
+            "Kan"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Sire",
+            "Grand Ancien"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Grand Ancien",
+            "Cléon"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Maire"
+        ],
+        [
+            "Grand Ancien",
+            "Kan"
+        ],
+        [
+            "Grand Ancien",
+            "Sire"
+        ],
+        [
+            "Grand Ancien",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Cléon"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Maire"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Sire"
+        ],
+        [
+            "Seldon",
+            "Kan"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Maire"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Cléon",
+            "Sire"
+        ],
+        [
+            "Cléon",
+            "Kan"
+        ],
+        [
+            "Cléon",
+            "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Maire"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Sire"
+        ],
+        [
+            "Maire",
+            "Kan"
+        ],
+        [
+            "Maire",
+            "Empereur"
+        ],
+        [
+            "Maire",
+            "Demerzel"
+        ],
+        [
+            "Maire",
+            "Mycogène"
+        ],
+        [
+            "Maire",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Sire",
+            "Mycogène"
+        ],
+        [
+            "Sire",
+            "Empereur"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Kan",
+            "Empereur"
+        ],
+        [
+            "Kan",
+            "Demerzel"
+        ],
+        [
+            "Kan",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Empereur"
+        ],
+        [
+            "Mycogène",
+            "Demerzel"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Kan"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Maître Seldon"
+        ],
+        [
+            "Mycogène",
+            "Maître Hummin"
+        ],
+        [
+            "Empereur",
+            "Demerzel"
+        ],
+        [
+            "Empereur",
+            "Mycogène"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Kan"
+        ],
+        [
+            "Empereur",
+            "Sire"
+        ],
+        [
+            "Empereur",
+            "Maître Seldon"
+        ],
+        [
+            "Empereur",
+            "Maître Hummin"
+        ],
+        [
+            "Demerzel",
+            "Mycogène"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Kan"
+        ],
+        [
+            "Demerzel",
+            "Sire"
+        ],
+        [
+            "Demerzel",
+            "Maître Seldon"
+        ],
+        [
+            "Demerzel",
+            "Maître Hummin"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Kan"
+        ],
+        [
+            "Mycogène",
+            "Sire"
+        ],
+        [
+            "Mycogène",
+            "Maître Seldon"
+        ],
+        [
+            "Mycogène",
+            "Maître Hummin"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Sire",
+            "Kan"
+        ],
+        [
+            "Sire",
+            "Maître Seldon"
+        ],
+        [
+            "Sire",
+            "Maître Hummin"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Hummin"
+        ],
+        [
+            "Sire",
+            "Dahl"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Sire"
+        ],
+        [
+            "Kan",
+            "Maître Seldon"
+        ],
+        [
+            "Kan",
+            "Maître Hummin"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Kan",
+            "Hummin"
+        ],
+        [
+            "Kan",
+            "Dahl"
+        ],
+        [
+            "Kan",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Maître Seldon"
+        ],
+        [
+            "Sire",
+            "Maître Hummin"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Hummin"
+        ],
+        [
+            "Sire",
+            "Dahl"
+        ],
+        [
+            "Sire",
+            "Seldon"
+        ],
+        [
+            "Sire",
+            "Empire"
+        ],
+        [
+            "Maître Seldon",
+            "Maître Hummin"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Hummin"
+        ],
+        [
+            "Maître Seldon",
+            "Dahl"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Empire"
+        ],
+        [
+            "Maître Hummin",
+            "Seldon"
+        ],
+        [
+            "Maître Hummin",
+            "Hummin"
+        ],
+        [
+            "Maître Hummin",
+            "Dahl"
+        ],
+        [
+            "Maître Hummin",
+            "Seldon"
+        ],
+        [
+            "Maître Hummin",
+            "Empire"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Empire"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Empire"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Empire"
+        ],
+        [
+            "Dahl",
+            "Empereur"
+        ],
+        [
+            "Dahl",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Empire"
+        ],
+        [
+            "Seldon",
+            "Empereur"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Empire",
+            "Empereur"
+        ],
+        [
+            "Empire",
+            "Hummin"
+        ],
+        [
+            "Empire",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Streeling"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Streeling"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Streeling"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Streeling"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Trantor"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Streeling",
+            "Mycogène"
+        ],
+        [
+            "Streeling",
+            "Dahl"
+        ],
+        [
+            "Streeling",
+            "Venabili"
+        ],
+        [
+            "Streeling",
+            "Seldon"
+        ],
+        [
+            "Streeling",
+            "Trantor"
+        ],
+        [
+            "Streeling",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Dahl"
+        ],
+        [
+            "Mycogène",
+            "Venabili"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Trantor"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Venabili"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Venabili",
+            "Seldon"
+        ],
+        [
+            "Venabili",
+            "Trantor"
+        ],
+        [
+            "Venabili",
+            "Dors"
+        ],
+        [
+            "Venabili",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Empereur"
+        ],
+        [
+            "Dahl",
+            "Empereur"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Tisalver"
+        ],
+        [
+            "Empereur",
+            "Seldon"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Empereur"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Hummin"
+        ],
+        [
+            "Tisalver",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Hummin"
+        ],
+        [
+            "Empereur",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Empereur",
+            "Dahl"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hummin",
+            "Dahl"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dahl"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Trantor"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Trantor"
+        ],
+        [
+            "Dahl",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Trantor",
+            "Mycogène"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Mycogène"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hélicon"
+        ],
+        [
+            "Mycogène",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hélicon"
+        ],
+        [
+            "Dors",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Hélicon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Hari"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hari"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Trantor"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Casilia"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Trantor"
+        ],
+        [
+            "Hari",
+            "Hélicon"
+        ],
+        [
+            "Hari",
+            "Jirad"
+        ],
+        [
+            "Hari",
+            "Casilia"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Casilia"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Jirad"
+        ],
+        [
+            "Trantor",
+            "Casilia"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Maître Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Jirad"
+        ],
+        [
+            "Hélicon",
+            "Casilia"
+        ],
+        [
+            "Hélicon",
+            "Maître Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Jirad",
+            "Casilia"
+        ],
+        [
+            "Jirad",
+            "Hélicon"
+        ],
+        [
+            "Jirad",
+            "Maître Seldon"
+        ],
+        [
+            "Jirad",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Trantor"
+        ],
+        [
+            "Jirad",
+            "Hélicon"
+        ],
+        [
+            "Jirad",
+            "Trantor"
+        ],
+        [
+            "Jirad",
+            "Trantor"
+        ],
+        [
+            "Casilia",
+            "Hélicon"
+        ],
+        [
+            "Casilia",
+            "Maître Seldon"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Trantor"
+        ],
+        [
+            "Casilia",
+            "Hélicon"
+        ],
+        [
+            "Casilia",
+            "Trantor"
+        ],
+        [
+            "Casilia",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Maître Seldon"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Hélicon"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Hélicon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Trantor",
+            "Hélicon"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Trantor"
+        ],
+        [
+            "Hélicon",
+            "Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Tisalver"
+        ],
+        [
+            "Hélicon",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Tisalver"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Dahl"
+        ],
+        [
+            "Tisalver",
+            "Dahlite"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahl"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahlite"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahl"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Dahlite"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahlite",
+            "Seldon"
+        ],
+        [
+            "Dahlite",
+            "Dahl"
+        ],
+        [
+            "Dahlite",
+            "Tisalver"
+        ],
+        [
+            "Dahlite",
+            "Seldon"
+        ],
+        [
+            "Dahlite",
+            "cogéniens"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dahlite"
+        ],
+        [
+            "Seldon",
+            "cogéniens"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dahlite"
+        ],
+        [
+            "Dahl",
+            "cogéniens"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dahlite"
+        ],
+        [
+            "Tisalver",
+            "cogéniens"
+        ],
+        [
+            "Seldon",
+            "Dahlite"
+        ],
+        [
+            "Seldon",
+            "cogéniens"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dahlite",
+            "cogéniens"
+        ],
+        [
+            "Dahlite",
+            "Tisalver"
+        ],
+        [
+            "Dahlite",
+            "Maîtresse Venabili"
+        ],
+        [
+            "cogéniens",
+            "Tisalver"
+        ],
+        [
+            "cogéniens",
+            "Maîtresse Venabili"
+        ],
+        [
+            "cogéniens",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Hano Lindor"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Hano Lindor"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Tisalver"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Hano Lindor"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Hano Lindor",
+            "Tisalver"
+        ],
+        [
+            "Hano Lindor",
+            "Seldon"
+        ],
+        [
+            "Hano Lindor",
+            "Lindor"
+        ],
+        [
+            "Hano Lindor",
+            "Dors"
+        ],
+        [
+            "Hano Lindor",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Lindor"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Maîtresse"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Maîtresse"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse"
+        ],
+        [
+            "Tisalver",
+            "Lindor"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Maîtresse"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Maîtresse"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Maîtresse"
+        ],
+        [
+            "Dors",
+            "Maîtresse"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Lindor"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Maîtresse"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Maîtresse",
+            "Lindor"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Lindor",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Lindor"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Lindor"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Dors",
+            "Lindor"
+        ],
+        [
+            "Lindor",
+            "Dahl"
+        ],
+        [
+            "Dahl",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Jirad"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Casilia"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Casilia Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Jirad"
+        ],
+        [
+            "Maître Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Casilia Tisalver"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia",
+            "Jirad"
+        ],
+        [
+            "Casilia",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Casilia Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Casilia Tisalver",
+            "Seldon"
+        ],
+        [
+            "Casilia Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia Tisalver",
+            "Jirad"
+        ],
+        [
+            "Casilia Tisalver",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Casilia Tisalver",
+            "Dors Venabili"
+        ],
+        [
+            "Casilia Tisalver",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Jirad"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Jirad"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors Venabili"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hari"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Jirad",
+            "Dors Venabili"
+        ],
+        [
+            "Jirad",
+            "Hari"
+        ],
+        [
+            "Jirad",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Jirad",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Seldon"
+        ],
+        [
+            "Jirad",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dors Venabili"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Hari"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Hari",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Grimace de Seldon"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Dahl"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Grimace de Seldon"
+        ],
+        [
+            "Dahl",
+            "Grimace de Seldon"
+        ],
+        [
+            "Dahl",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Grimace de Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Anat Bigell"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Anat Bigell"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Anat Bigell"
+        ],
+        [
+            "Seldon",
+            "Anat Bigell"
+        ],
+        [
+            "Anat Bigell",
+            "Seldon"
+        ],
+        [
+            "Anat Bigell",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Dahlite"
+        ],
+        [
+            "Dors",
+            "Trantor"
+        ],
+        [
+            "Dors",
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Dahlite"
+        ],
+        [
+            "Trantor",
+            "Amaryl"
+        ],
+        [
+            "Trantor",
+            "Dahlite"
+        ],
+        [
+            "Amaryl",
+            "Dahlite"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Maître Seldon",
+            "Trantor"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Amaryl"
+        ],
+        [
+            "Maître Seldon",
+            "Dahl"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Amaryl"
+        ],
+        [
+            "Trantor",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Dahl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Dahl"
+        ],
+        [
+            "Amaryl",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Seldon"
+        ],
+        [
+            "Dahl",
+            "Dors"
+        ],
+        [
+            "Dahl",
+            "Amaryl"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Amaryl"
+        ],
+        [
+            "Dors",
+            "Amaryl"
+        ],
+        [
+            "Amaryl",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Amaryl",
+            "Mère Rittah"
+        ],
+        [
+            "Amaryl",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Amaryl"
+        ],
+        [
+            "Mère Rittah",
+            "Amaryl"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Anat Bigell\nMaître Seldon\nCléon\nSire\nDahlite\nAmaryl\nDors\nMaître du Soleil Quatorze\nJirad\nHélicon\nStreeling\nHano Lindor\nTisalver\nMaîtresse\nGrand Ancien\nEmpereur\nMaître Hummin\nVenabili\nDahl\nMaîtresse Venabili\nHari\nLindor\nCasilia Tisalver\nDors Venabili\nDemerzel\nEmpire\nEmpereur de toute la Galaxie\nMaire\nHummin\nEmpereurs\nMycogène\nCasilia\nGrimace de Seldon\nMaîtresse Tisalver\nSeldon\nTrantor\nHari Seldon\nMère Rittah\nGoutte de Pluie Quarante trois\ncogéniens\nKan\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Anat Bigell"
+            ],
+            "1": [
+                "Maître Seldon",
+                "Hari Seldon",
+                "Seldon",
+                "Hari",
+                "Grimace de Seldon"
+            ],
+            "2": [
+                "Cléon",
+                "Sire",
+                "Empereur",
+                "Empereur de toute la Galaxie",
+                "Empereurs"
+            ],
+            "3": [
+                "Dahlite",
+                "Dahl"
+            ],
+            "4": [
+                "Amaryl"
+            ],
+            "5": [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse Venabili",
+                "Venabili"
+            ],
+            "6": [
+                "Maître du Soleil Quatorze"
+            ],
+            "7": [
+                "Jirad"
+            ],
+            "8": [
+                "Hélicon"
+            ],
+            "9": [
+                "Streeling"
+            ],
+            "10": [
+                "Hano Lindor",
+                "Lindor"
+            ],
+            "11": [
+                "Tisalver",
+                "Casilia Tisalver",
+                "Maîtresse Tisalver"
+            ],
+            "12": [
+                "Maîtresse"
+            ],
+            "13": [
+                "Grand Ancien"
+            ],
+            "14": [
+                "Maître Hummin",
+                "Hummin"
+            ],
+            "15": [
+                "Demerzel"
+            ],
+            "16": [
+                "Empire"
+            ],
+            "17": [
+                "Maire"
+            ],
+            "18": [
+                "Mycogène"
+            ],
+            "19": [
+                "Casilia"
+            ],
+            "20": [
+                "Mère Rittah"
+            ],
+            "21": [
+                "Goutte de Pluie Quarante trois"
+            ],
+            "22": [
+                "cogéniens"
+            ],
+            "23": [
+                "Kan"
+            ],
+            "24": [
+                "Trantor"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

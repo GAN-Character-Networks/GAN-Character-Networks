@@ -1,0 +1,1822 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement",
+        "entities": [
+            {
+                "start": 0,
+                "end": 3,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "word": "Mycogène"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "word": "Trantor"
+            },
+            {
+                "start": 63,
+                "end": 65,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 88,
+                "end": 89,
+                "word": "Seldon"
+            },
+            {
+                "start": 156,
+                "end": 157,
+                "word": "Dors"
+            },
+            {
+                "start": 180,
+                "end": 182,
+                "word": "Endor Levanian"
+            },
+            {
+                "start": 267,
+                "end": 268,
+                "word": "Dors"
+            },
+            {
+                "start": 280,
+                "end": 281,
+                "word": "Seldon"
+            },
+            {
+                "start": 296,
+                "end": 297,
+                "word": "Levanian"
+            },
+            {
+                "start": 319,
+                "end": 320,
+                "word": "Levanian"
+            },
+            {
+                "start": 344,
+                "end": 345,
+                "word": "Seldon"
+            },
+            {
+                "start": 485,
+                "end": 486,
+                "word": "Seldon"
+            },
+            {
+                "start": 504,
+                "end": 505,
+                "word": "Seldon"
+            },
+            {
+                "start": 532,
+                "end": 533,
+                "word": "Trantor"
+            },
+            {
+                "start": 569,
+                "end": 570,
+                "word": "Dors"
+            },
+            {
+                "start": 574,
+                "end": 575,
+                "word": "Seldon"
+            },
+            {
+                "start": 595,
+                "end": 596,
+                "word": "Hari"
+            },
+            {
+                "start": 606,
+                "end": 607,
+                "word": "Dors"
+            },
+            {
+                "start": 624,
+                "end": 625,
+                "word": "Seldon"
+            },
+            {
+                "start": 722,
+                "end": 723,
+                "word": "Hummin"
+            },
+            {
+                "start": 742,
+                "end": 743,
+                "word": "Levanian"
+            },
+            {
+                "start": 838,
+                "end": 839,
+                "word": "Seldon"
+            },
+            {
+                "start": 840,
+                "end": 841,
+                "word": "Dors"
+            },
+            {
+                "start": 899,
+                "end": 900,
+                "word": "Clowzia"
+            },
+            {
+                "start": 910,
+                "end": 911,
+                "word": "Seldon"
+            },
+            {
+                "start": 950,
+                "end": 951,
+                "word": "Seldon"
+            },
+            {
+                "start": 1014,
+                "end": 1015,
+                "word": "Seldon"
+            },
+            {
+                "start": 1016,
+                "end": 1018,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1166,
+                "end": 1167,
+                "word": "Seldon"
+            },
+            {
+                "start": 1238,
+                "end": 1240,
+                "word": "tter Hummin"
+            },
+            {
+                "start": 1267,
+                "end": 1268,
+                "word": "Hummin"
+            },
+            {
+                "start": 1311,
+                "end": 1312,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1352,
+                "end": 1353,
+                "word": "Dors"
+            },
+            {
+                "start": 1364,
+                "end": 1368,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 1370,
+                "end": 1373,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 1456,
+                "end": 1457,
+                "word": "Dors"
+            },
+            {
+                "start": 1462,
+                "end": 1465,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 1537,
+                "end": 1538,
+                "word": "Seldon"
+            },
+            {
+                "start": 1656,
+                "end": 1659,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 1720,
+                "end": 1721,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 1784,
+                "end": 1785,
+                "word": "Seldon"
+            },
+            {
+                "start": 1871,
+                "end": 1874,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 1876,
+                "end": 1877,
+                "word": "Seldon"
+            },
+            {
+                "start": 1901,
+                "end": 1902,
+                "word": "Seldon"
+            },
+            {
+                "start": 1916,
+                "end": 1917,
+                "word": "Seldon"
+            },
+            {
+                "start": 1956,
+                "end": 1959,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 2025,
+                "end": 2026,
+                "word": "Dors"
+            },
+            {
+                "start": 2033,
+                "end": 2034,
+                "word": "Seldon"
+            },
+            {
+                "start": 2039,
+                "end": 2040,
+                "word": "Frère"
+            },
+            {
+                "start": 2084,
+                "end": 2085,
+                "word": "Dors"
+            },
+            {
+                "start": 2131,
+                "end": 2134,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 2146,
+                "end": 2147,
+                "word": "Seldon"
+            },
+            {
+                "start": 2151,
+                "end": 2154,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 2227,
+                "end": 2228,
+                "word": "Seldon"
+            },
+            {
+                "start": 2235,
+                "end": 2236,
+                "word": "Trantor"
+            },
+            {
+                "start": 2252,
+                "end": 2255,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 2277,
+                "end": 2280,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 2307,
+                "end": 2308,
+                "word": "Seldon"
+            },
+            {
+                "start": 2389,
+                "end": 2390,
+                "word": "Dors"
+            },
+            {
+                "start": 2399,
+                "end": 2400,
+                "word": "Seldon"
+            },
+            {
+                "start": 2524,
+                "end": 2525,
+                "word": "Dors"
+            },
+            {
+                "start": 2573,
+                "end": 2574,
+                "word": "Dors"
+            },
+            {
+                "start": 2602,
+                "end": 2603,
+                "word": "Hari"
+            },
+            {
+                "start": 2721,
+                "end": 2722,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2760,
+                "end": 2761,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2825,
+                "end": 2826,
+                "word": "Mycogène"
+            },
+            {
+                "start": 2860,
+                "end": 2861,
+                "word": "Dors"
+            },
+            {
+                "start": 2899,
+                "end": 2900,
+                "word": "Seldon"
+            },
+            {
+                "start": 2923,
+                "end": 2924,
+                "word": "Dors"
+            },
+            {
+                "start": 3043,
+                "end": 3044,
+                "word": "Seldon"
+            },
+            {
+                "start": 3100,
+                "end": 3101,
+                "word": "Seldon"
+            },
+            {
+                "start": 3136,
+                "end": 3137,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3166,
+                "end": 3167,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3182,
+                "end": 3183,
+                "word": "Hummin"
+            },
+            {
+                "start": 3197,
+                "end": 3201,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 3242,
+                "end": 3243,
+                "word": "Dors"
+            },
+            {
+                "start": 3366,
+                "end": 3367,
+                "word": "Dors"
+            },
+            {
+                "start": 3436,
+                "end": 3437,
+                "word": "Dors"
+            },
+            {
+                "start": 3447,
+                "end": 3448,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 3460,
+                "end": 3461,
+                "word": "Seldon"
+            },
+            {
+                "start": 3478,
+                "end": 3479,
+                "word": "Hari"
+            },
+            {
+                "start": 3506,
+                "end": 3510,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 3519,
+                "end": 3522,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 3534,
+                "end": 3535,
+                "word": "Seldon"
+            },
+            {
+                "start": 3565,
+                "end": 3566,
+                "word": "Seldon"
+            },
+            {
+                "start": 3580,
+                "end": 3581,
+                "word": "Dors"
+            },
+            {
+                "start": 3596,
+                "end": 3597,
+                "word": "Dors"
+            },
+            {
+                "start": 3624,
+                "end": 3625,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 3643,
+                "end": 3644,
+                "word": "Dors"
+            },
+            {
+                "start": 3666,
+                "end": 3667,
+                "word": "Seldon"
+            },
+            {
+                "start": 3701,
+                "end": 3702,
+                "word": "Dors"
+            },
+            {
+                "start": 3729,
+                "end": 3730,
+                "word": "Seldon"
+            },
+            {
+                "start": 3762,
+                "end": 3763,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 3778,
+                "end": 3779,
+                "word": "Seldon"
+            },
+            {
+                "start": 3782,
+                "end": 3785,
+                "word": "Maître du Soleil"
+            },
+            {
+                "start": 3796,
+                "end": 3797,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 3869,
+                "end": 3870,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 3907,
+                "end": 3908,
+                "word": "Dors"
+            },
+            {
+                "start": 3932,
+                "end": 3933,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 3943,
+                "end": 3944,
+                "word": "Grisnuage"
+            },
+            {
+                "start": 3983,
+                "end": 3988,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 3999,
+                "end": 4004,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 4036,
+                "end": 4037,
+                "word": "Dors"
+            },
+            {
+                "start": 4056,
+                "end": 4059,
+                "word": "Goutte de Pluie"
+            },
+            {
+                "start": 4068,
+                "end": 4073,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 4103,
+                "end": 4104,
+                "word": "Seldon"
+            },
+            {
+                "start": 4119,
+                "end": 4120,
+                "word": "Dors"
+            },
+            {
+                "start": 4128,
+                "end": 4129,
+                "word": "Hari"
+            },
+            {
+                "start": 4137,
+                "end": 4138,
+                "word": "Seldon"
+            },
+            {
+                "start": 4200,
+                "end": 4201,
+                "word": "Dors"
+            },
+            {
+                "start": 4229,
+                "end": 4234,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 4239,
+                "end": 4244,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 4248,
+                "end": 4249,
+                "word": "Seldon"
+            },
+            {
+                "start": 4268,
+                "end": 4269,
+                "word": "Dors"
+            },
+            {
+                "start": 4301,
+                "end": 4306,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 4323,
+                "end": 4328,
+                "word": "Goutte de Pluie Quarante trois"
+            }
+        ]
+    },
+    "entities": [
+        "Frère",
+        "Clowzia",
+        "Dors",
+        "Maître du Soleil Quatorze",
+        "Levanian",
+        "Goutte de Pluie Quarante cinq",
+        "Mycogénien",
+        "Maître du Soleil",
+        "Goutte de Pluie",
+        "tter Hummin",
+        "Hari",
+        "Endor Levanian",
+        "Dors Venabili",
+        "Grisnuage",
+        "Hummin",
+        "Mycogène",
+        "Seldon",
+        "Trantor",
+        "Hari Seldon",
+        "Goutte de Pluie Quarante trois"
+    ],
+    "aliases": [
+        [
+            "Frère",
+            "Clowzia",
+            "Dors",
+            "Maître du Soleil Quatorze",
+            "Levanian",
+            "Goutte de Pluie Quarante cinq",
+            "Mycogénien",
+            "Maître du Soleil",
+            "Goutte de Pluie",
+            "tter Hummin",
+            "Hari",
+            "Endor Levanian",
+            "Dors Venabili",
+            "Grisnuage",
+            "Hummin",
+            "Mycogène",
+            "Seldon",
+            "Trantor",
+            "Hari Seldon",
+            "Goutte de Pluie Quarante trois"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Maître du Soleil",
+            "Mycogène"
+        ],
+        [
+            "Maître du Soleil",
+            "Trantor"
+        ],
+        [
+            "Maître du Soleil",
+            "Hari Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Trantor"
+        ],
+        [
+            "Mycogène",
+            "Hari Seldon"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hari Seldon"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Endor Levanian"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Endor Levanian"
+        ],
+        [
+            "Dors",
+            "Endor Levanian"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Levanian"
+        ],
+        [
+            "Dors",
+            "Levanian"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Levanian"
+        ],
+        [
+            "Seldon",
+            "Levanian"
+        ],
+        [
+            "Levanian",
+            "Seldon"
+        ],
+        [
+            "Levanian",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Trantor",
+            "Hari"
+        ],
+        [
+            "Trantor",
+            "Dors"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Levanian"
+        ],
+        [
+            "Levanian",
+            "Seldon"
+        ],
+        [
+            "Levanian",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Clowzia"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Seldon"
+        ],
+        [
+            "Clowzia",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "tter Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "tter Hummin",
+            "Hummin"
+        ],
+        [
+            "tter Hummin",
+            "Mycogène"
+        ],
+        [
+            "tter Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Mycogène"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil",
+            "Mycogénien"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Frère"
+        ],
+        [
+            "Maître du Soleil",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Frère"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Frère",
+            "Dors"
+        ],
+        [
+            "Frère",
+            "Maître du Soleil"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Frère",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Trantor"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Trantor",
+            "Maître du Soleil"
+        ],
+        [
+            "Trantor",
+            "Maître du Soleil"
+        ],
+        [
+            "Trantor",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hummin"
+        ],
+        [
+            "Mycogène",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mycogénien"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Mycogénien"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Hari"
+        ],
+        [
+            "Mycogénien",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Mycogénien",
+            "Maître du Soleil"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Hari",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hari",
+            "Maître du Soleil"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Maître du Soleil"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Seldon"
+        ],
+        [
+            "Maître du Soleil",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Grisnuage"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Grisnuage"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Grisnuage",
+            "Seldon"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Grisnuage",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Grisnuage"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maître du Soleil"
+        ],
+        [
+            "Dors",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Grisnuage",
+            "Seldon"
+        ],
+        [
+            "Grisnuage",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Seldon",
+            "Grisnuage"
+        ],
+        [
+            "Maître du Soleil",
+            "Grisnuage"
+        ],
+        [
+            "Maître du Soleil",
+            "Grisnuage"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Grisnuage"
+        ],
+        [
+            "Dors",
+            "Grisnuage"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Grisnuage",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Grisnuage",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Grisnuage",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Grisnuage",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Grisnuage",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Frère\nClowzia\nDors\nMaître du Soleil Quatorze\nLevanian\nGoutte de Pluie Quarante cinq\nMycogénien\nMaître du Soleil\nGoutte de Pluie\ntter Hummin\nHari\nEndor Levanian\nDors Venabili\nGrisnuage\nHummin\nMycogène\nSeldon\nTrantor\nHari Seldon\nGoutte de Pluie Quarante trois\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Frère",
+                "Clowzia",
+                "Dors",
+                "Maître du Soleil Quatorze",
+                "Levanian",
+                "Goutte de Pluie Quarante cinq",
+                "Mycogénien",
+                "Maître du Soleil",
+                "Goutte de Pluie",
+                "tter Hummin",
+                "Hari",
+                "Endor Levanian",
+                "Dors Venabili",
+                "Grisnuage",
+                "Hummin",
+                "Mycogène",
+                "Seldon",
+                "Trantor",
+                "Hari Seldon",
+                "Goutte de Pluie Quarante trois"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

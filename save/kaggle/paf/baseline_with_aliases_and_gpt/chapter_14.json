@@ -1,0 +1,2014 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Billibotton DAHL. — ... Assez curieusement, l’endroit le plus connu de ce secteur est Billibotton, lieu en partie mythique autour duquel sont nées d’innombrables légendes. En fait, toute une branche de la littérature s’est développée peu à peu, où héros et aventuriers (et victimes) doivent affronter les dangers de la traversée de Billibotton. Ces contes sont devenus tellement archétypiques que le seul récit parfaitement connu, et sans doute authentique, d’un tel passage, celui de Hari Seldon et",
+        "entities": [
+            {
+                "start": 1,
+                "end": 2,
+                "word": "DAHL"
+            },
+            {
+                "start": 87,
+                "end": 89,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 90,
+                "end": 92,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 105,
+                "end": 107,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 108,
+                "end": 110,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 113,
+                "end": 114,
+                "word": "Dors"
+            },
+            {
+                "start": 124,
+                "end": 125,
+                "word": "Mère"
+            },
+            {
+                "start": 130,
+                "end": 131,
+                "word": "Dors"
+            },
+            {
+                "start": 138,
+                "end": 139,
+                "word": "Hari"
+            },
+            {
+                "start": 185,
+                "end": 186,
+                "word": "Mycogène"
+            },
+            {
+                "start": 265,
+                "end": 266,
+                "word": "Dors"
+            },
+            {
+                "start": 270,
+                "end": 271,
+                "word": "Hari"
+            },
+            {
+                "start": 412,
+                "end": 413,
+                "word": "Seldon"
+            },
+            {
+                "start": 541,
+                "end": 542,
+                "word": "Hummin"
+            },
+            {
+                "start": 545,
+                "end": 549,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 605,
+                "end": 606,
+                "word": "Dors"
+            },
+            {
+                "start": 612,
+                "end": 614,
+                "word": "Chetter Hummin"
+            },
+            {
+                "start": 627,
+                "end": 628,
+                "word": "Demerzel"
+            },
+            {
+                "start": 631,
+                "end": 632,
+                "word": "Empereur"
+            },
+            {
+                "start": 655,
+                "end": 657,
+                "word": "Yugo Amaryl"
+            },
+            {
+                "start": 696,
+                "end": 697,
+                "word": "Dors"
+            },
+            {
+                "start": 706,
+                "end": 707,
+                "word": "Casilia"
+            },
+            {
+                "start": 742,
+                "end": 743,
+                "word": "Tisalver"
+            },
+            {
+                "start": 778,
+                "end": 780,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 808,
+                "end": 809,
+                "word": "Tisalver"
+            },
+            {
+                "start": 875,
+                "end": 876,
+                "word": "Tisalver"
+            },
+            {
+                "start": 883,
+                "end": 885,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 983,
+                "end": 984,
+                "word": "Casilia"
+            },
+            {
+                "start": 994,
+                "end": 995,
+                "word": "Casilia"
+            },
+            {
+                "start": 1020,
+                "end": 1021,
+                "word": "Seldon"
+            },
+            {
+                "start": 1191,
+                "end": 1192,
+                "word": "Seldon"
+            },
+            {
+                "start": 1227,
+                "end": 1229,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 1235,
+                "end": 1236,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1256,
+                "end": 1257,
+                "word": "Seldon"
+            },
+            {
+                "start": 1258,
+                "end": 1259,
+                "word": "Dors"
+            },
+            {
+                "start": 1271,
+                "end": 1272,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1289,
+                "end": 1290,
+                "word": "Casilia"
+            },
+            {
+                "start": 1320,
+                "end": 1321,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1381,
+                "end": 1382,
+                "word": "Seldon"
+            },
+            {
+                "start": 1389,
+                "end": 1390,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1399,
+                "end": 1400,
+                "word": "Dors"
+            },
+            {
+                "start": 1432,
+                "end": 1434,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 1436,
+                "end": 1437,
+                "word": "Tisalver"
+            },
+            {
+                "start": 1447,
+                "end": 1449,
+                "word": "Maîtresse Venabili"
+            },
+            {
+                "start": 1467,
+                "end": 1468,
+                "word": "Seldon"
+            },
+            {
+                "start": 1477,
+                "end": 1478,
+                "word": "Dors"
+            },
+            {
+                "start": 1533,
+                "end": 1534,
+                "word": "Dors"
+            },
+            {
+                "start": 1828,
+                "end": 1829,
+                "word": "Seldon"
+            },
+            {
+                "start": 1961,
+                "end": 1962,
+                "word": "Seldon"
+            },
+            {
+                "start": 1985,
+                "end": 1987,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 1992,
+                "end": 1993,
+                "word": "Dors"
+            },
+            {
+                "start": 2259,
+                "end": 2260,
+                "word": "Seldon"
+            },
+            {
+                "start": 2350,
+                "end": 2351,
+                "word": "Seldon"
+            },
+            {
+                "start": 2377,
+                "end": 2378,
+                "word": "Nân"
+            },
+            {
+                "start": 2391,
+                "end": 2392,
+                "word": "Raych"
+            },
+            {
+                "start": 2455,
+                "end": 2456,
+                "word": "Nân"
+            },
+            {
+                "start": 2536,
+                "end": 2538,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 2577,
+                "end": 2578,
+                "word": "Seldon"
+            },
+            {
+                "start": 2599,
+                "end": 2601,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 2602,
+                "end": 2603,
+                "word": "Raych"
+            },
+            {
+                "start": 2614,
+                "end": 2615,
+                "word": "Raych"
+            },
+            {
+                "start": 2683,
+                "end": 2684,
+                "word": "Seldon"
+            },
+            {
+                "start": 2693,
+                "end": 2694,
+                "word": "Raych"
+            },
+            {
+                "start": 2706,
+                "end": 2707,
+                "word": "Seldon"
+            },
+            {
+                "start": 2721,
+                "end": 2723,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 2724,
+                "end": 2726,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 2871,
+                "end": 2872,
+                "word": "Seldon"
+            },
+            {
+                "start": 2936,
+                "end": 2938,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 2941,
+                "end": 2943,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 2951,
+                "end": 2953,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 2986,
+                "end": 2987,
+                "word": "Mère"
+            },
+            {
+                "start": 2989,
+                "end": 2990,
+                "word": "Dors"
+            },
+            {
+                "start": 3034,
+                "end": 3035,
+                "word": "Seldon"
+            },
+            {
+                "start": 3046,
+                "end": 3048,
+                "word": "Maître Seldon"
+            },
+            {
+                "start": 3073,
+                "end": 3075,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 3086,
+                "end": 3087,
+                "word": "Seldon"
+            },
+            {
+                "start": 3212,
+                "end": 3214,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 3274,
+                "end": 3275,
+                "word": "Mère"
+            },
+            {
+                "start": 3277,
+                "end": 3278,
+                "word": "Dors"
+            },
+            {
+                "start": 3301,
+                "end": 3303,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 3346,
+                "end": 3348,
+                "word": "Ba Lee"
+            },
+            {
+                "start": 3379,
+                "end": 3380,
+                "word": "Seldon"
+            },
+            {
+                "start": 3460,
+                "end": 3462,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 3464,
+                "end": 3465,
+                "word": "Seldon"
+            },
+            {
+                "start": 3528,
+                "end": 3530,
+                "word": "Da Nee"
+            },
+            {
+                "start": 3534,
+                "end": 3536,
+                "word": "Ba Lee"
+            },
+            {
+                "start": 3578,
+                "end": 3580,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 3673,
+                "end": 3674,
+                "word": "Seldon"
+            },
+            {
+                "start": 3707,
+                "end": 3708,
+                "word": "Dors"
+            },
+            {
+                "start": 3780,
+                "end": 3781,
+                "word": "Dors"
+            },
+            {
+                "start": 3782,
+                "end": 3783,
+                "word": "Seldon"
+            },
+            {
+                "start": 3797,
+                "end": 3798,
+                "word": "Seldon"
+            },
+            {
+                "start": 3814,
+                "end": 3815,
+                "word": "Seldon"
+            },
+            {
+                "start": 3835,
+                "end": 3836,
+                "word": "Dors"
+            },
+            {
+                "start": 3859,
+                "end": 3861,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 3879,
+                "end": 3880,
+                "word": "Seldon"
+            },
+            {
+                "start": 3902,
+                "end": 3903,
+                "word": "Seldon"
+            },
+            {
+                "start": 3922,
+                "end": 3923,
+                "word": "Seldon"
+            },
+            {
+                "start": 3927,
+                "end": 3928,
+                "word": "Marron"
+            },
+            {
+                "start": 4008,
+                "end": 4009,
+                "word": "Marron"
+            },
+            {
+                "start": 4017,
+                "end": 4018,
+                "word": "Hari"
+            },
+            {
+                "start": 4021,
+                "end": 4022,
+                "word": "Dors"
+            },
+            {
+                "start": 4029,
+                "end": 4030,
+                "word": "Marron"
+            },
+            {
+                "start": 4072,
+                "end": 4073,
+                "word": "Marron"
+            },
+            {
+                "start": 4179,
+                "end": 4180,
+                "word": "Dors"
+            },
+            {
+                "start": 4222,
+                "end": 4223,
+                "word": "Marron"
+            },
+            {
+                "start": 4260,
+                "end": 4261,
+                "word": "Marron"
+            },
+            {
+                "start": 4285,
+                "end": 4286,
+                "word": "Dors"
+            },
+            {
+                "start": 4308,
+                "end": 4309,
+                "word": "Marron"
+            },
+            {
+                "start": 4343,
+                "end": 4344,
+                "word": "Dors"
+            },
+            {
+                "start": 4393,
+                "end": 4394,
+                "word": "Marron"
+            },
+            {
+                "start": 4411,
+                "end": 4412,
+                "word": "Seldon"
+            },
+            {
+                "start": 4445,
+                "end": 4446,
+                "word": "Dors"
+            },
+            {
+                "start": 4454,
+                "end": 4455,
+                "word": "Marron"
+            },
+            {
+                "start": 4480,
+                "end": 4481,
+                "word": "Marron"
+            },
+            {
+                "start": 4500,
+                "end": 4501,
+                "word": "Dors"
+            },
+            {
+                "start": 4511,
+                "end": 4512,
+                "word": "Seldon"
+            },
+            {
+                "start": 4638,
+                "end": 4639,
+                "word": "Dors"
+            },
+            {
+                "start": 4651,
+                "end": 4652,
+                "word": "Hummin"
+            },
+            {
+                "start": 4675,
+                "end": 4676,
+                "word": "Seldon"
+            },
+            {
+                "start": 4696,
+                "end": 4697,
+                "word": "Dors"
+            }
+        ]
+    },
+    "entities": [
+        "Maître Seldon",
+        "Chetter Hummin",
+        "Da Nee",
+        "Nân",
+        "Dors",
+        "Maître du Soleil Quatorze",
+        "Tisalver",
+        "Empereur",
+        "DAHL",
+        "Maîtresse Venabili",
+        "Hari",
+        "Raych",
+        "Marron",
+        "Yugo Amaryl",
+        "Dors Venabili",
+        "Demerzel",
+        "Hummin",
+        "Mycogène",
+        "Casilia",
+        "Seldon",
+        "Mère",
+        "Hari Seldon",
+        "Mère Rittah",
+        "Ba Lee"
+    ],
+    "aliases": [
+        [
+            "Maître Seldon",
+            "Hari",
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Dors Venabili",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Tisalver"
+        ],
+        [
+            "Empereur"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Mère",
+            "Mère Rittah"
+        ],
+        [
+            "Ba Lee"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "DAHL",
+            "Hari Seldon"
+        ],
+        [
+            "DAHL",
+            "Dors Venabili"
+        ],
+        [
+            "DAHL",
+            "Hari Seldon"
+        ],
+        [
+            "DAHL",
+            "Dors Venabili"
+        ],
+        [
+            "DAHL",
+            "Dors"
+        ],
+        [
+            "DAHL",
+            "Mère"
+        ],
+        [
+            "DAHL",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Mère"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Hari Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors Venabili",
+            "Hari Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Mère"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Mycogène"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Mère"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Hari Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Mère"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Mère"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Mère",
+            "Dors"
+        ],
+        [
+            "Mère",
+            "Hari"
+        ],
+        [
+            "Mère",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Empereur"
+        ],
+        [
+            "Hummin",
+            "Yugo Amaryl"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Chetter Hummin"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Demerzel"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Empereur"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Yugo Amaryl"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Chetter Hummin"
+        ],
+        [
+            "Dors",
+            "Demerzel"
+        ],
+        [
+            "Dors",
+            "Empereur"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors",
+            "Casilia"
+        ],
+        [
+            "Chetter Hummin",
+            "Demerzel"
+        ],
+        [
+            "Chetter Hummin",
+            "Empereur"
+        ],
+        [
+            "Chetter Hummin",
+            "Yugo Amaryl"
+        ],
+        [
+            "Chetter Hummin",
+            "Dors"
+        ],
+        [
+            "Chetter Hummin",
+            "Casilia"
+        ],
+        [
+            "Demerzel",
+            "Empereur"
+        ],
+        [
+            "Demerzel",
+            "Yugo Amaryl"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Casilia"
+        ],
+        [
+            "Empereur",
+            "Yugo Amaryl"
+        ],
+        [
+            "Empereur",
+            "Dors"
+        ],
+        [
+            "Empereur",
+            "Casilia"
+        ],
+        [
+            "Yugo Amaryl",
+            "Dors"
+        ],
+        [
+            "Yugo Amaryl",
+            "Casilia"
+        ],
+        [
+            "Yugo Amaryl",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Casilia"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Maître Seldon"
+        ],
+        [
+            "Casilia",
+            "Tisalver"
+        ],
+        [
+            "Casilia",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Maître Seldon",
+            "Casilia"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Casilia"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Casilia"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Casilia"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Casilia"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Tisalver",
+            "Casilia"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Casilia",
+            "Tisalver"
+        ],
+        [
+            "Casilia",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Maître Seldon"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Maître Seldon"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître Seldon",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Dors"
+        ],
+        [
+            "Maître Seldon",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Maîtresse Venabili"
+        ],
+        [
+            "Tisalver",
+            "Seldon"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Tisalver",
+            "Dors"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Seldon"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Dors"
+        ],
+        [
+            "Maîtresse Venabili",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Mère Rittah",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Nân"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Nân"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Nân"
+        ],
+        [
+            "Nân",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Nân"
+        ],
+        [
+            "Nân",
+            "Mère Rittah"
+        ],
+        [
+            "Nân",
+            "Seldon"
+        ],
+        [
+            "Nân",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Raych"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Mère Rittah"
+        ],
+        [
+            "Raych",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Mère Rittah"
+        ],
+        [
+            "Raych",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Mère"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Mère Rittah",
+            "Hari Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Dors Venabili"
+        ],
+        [
+            "Mère Rittah",
+            "Mère"
+        ],
+        [
+            "Mère Rittah",
+            "Dors"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Maître Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Mère"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Mère"
+        ],
+        [
+            "Dors Venabili",
+            "Dors"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Maître Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Mère Rittah"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Mère",
+            "Dors"
+        ],
+        [
+            "Mère",
+            "Seldon"
+        ],
+        [
+            "Mère",
+            "Maître Seldon"
+        ],
+        [
+            "Mère",
+            "Mère Rittah"
+        ],
+        [
+            "Mère",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Maître Seldon"
+        ],
+        [
+            "Dors",
+            "Mère Rittah"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Maître Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Maître Seldon",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Mère"
+        ],
+        [
+            "Mère Rittah",
+            "Dors"
+        ],
+        [
+            "Mère",
+            "Dors"
+        ],
+        [
+            "Mère",
+            "Mère Rittah"
+        ],
+        [
+            "Mère",
+            "Ba Lee"
+        ],
+        [
+            "Mère",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mère Rittah"
+        ],
+        [
+            "Dors",
+            "Ba Lee"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Ba Lee"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Ba Lee",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Da Nee"
+        ],
+        [
+            "Mère Rittah",
+            "Ba Lee"
+        ],
+        [
+            "Seldon",
+            "Da Nee"
+        ],
+        [
+            "Seldon",
+            "Ba Lee"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Da Nee",
+            "Ba Lee"
+        ],
+        [
+            "Da Nee",
+            "Mère Rittah"
+        ],
+        [
+            "Ba Lee",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mère Rittah"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Dors",
+            "Mère Rittah"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Seldon"
+        ],
+        [
+            "Mère Rittah",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Hari"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Hari"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Marron"
+        ],
+        [
+            "Hari",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Marron",
+            "Seldon"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Marron"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Marron"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Seldon"
+        ],
+        [
+            "Marron",
+            "Dors"
+        ],
+        [
+            "Marron",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Maître Seldon\nChetter Hummin\nDa Nee\nNân\nDors\nMaître du Soleil Quatorze\nTisalver\nEmpereur\nDAHL\nMaîtresse Venabili\nHari\nRaych\nMarron\nYugo Amaryl\nDors Venabili\nDemerzel\nHummin\nMycogène\nCasilia\nSeldon\nMère\nHari Seldon\nMère Rittah\nBa Lee\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Maître Seldon",
+                "Hari",
+                "Seldon",
+                "Hari Seldon"
+            ],
+            "1": [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            "2": [
+                "Dors",
+                "Dors Venabili",
+                "Maîtresse Venabili"
+            ],
+            "3": [
+                "Maître du Soleil Quatorze"
+            ],
+            "4": [
+                "Tisalver"
+            ],
+            "5": [
+                "Empereur"
+            ],
+            "6": [
+                "Raych"
+            ],
+            "7": [
+                "Yugo Amaryl"
+            ],
+            "8": [
+                "Demerzel"
+            ],
+            "9": [
+                "Mère",
+                "Mère Rittah"
+            ],
+            "10": [
+                "Ba Lee"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

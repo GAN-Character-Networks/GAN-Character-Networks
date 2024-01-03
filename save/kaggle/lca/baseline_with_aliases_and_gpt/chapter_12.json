@@ -1,0 +1,797 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "pas à se concentrer sur ce travail. Soudain, il se rendit compte que quelqu’un se tenait près de sa table. — Qu’est-ce que tu veux ? demanda-t-il en levant la tête vers R. Sammy. « Garçon de courses automatique ! songea-t-il. Ca rapporte d’être commissaire principal ! » — Le commissaire vous demande, Lije, fit le robot, toujours souriant. Il a dit : tout de suite ! — Je viens de le voir, fit Baley en faisant signe au messager de s’en aller. Dis-lui que je viendrai tout à l’heure. — Il a dit :",
+        "entities": [
+            {
+                "start": 39,
+                "end": 42,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "word": "Lije"
+            },
+            {
+                "start": 89,
+                "end": 90,
+                "word": "Baley"
+            },
+            {
+                "start": 118,
+                "end": 121,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 157,
+                "end": 158,
+                "word": "Lije"
+            },
+            {
+                "start": 170,
+                "end": 171,
+                "word": "Baley"
+            },
+            {
+                "start": 237,
+                "end": 238,
+                "word": "Enderby"
+            },
+            {
+                "start": 245,
+                "end": 246,
+                "word": "Lije"
+            },
+            {
+                "start": 250,
+                "end": 251,
+                "word": "Baley"
+            },
+            {
+                "start": 273,
+                "end": 274,
+                "word": "Julius"
+            },
+            {
+                "start": 328,
+                "end": 331,
+                "word": "A . Gerrigel"
+            },
+            {
+                "start": 420,
+                "end": 421,
+                "word": "Elijah"
+            },
+            {
+                "start": 461,
+                "end": 464,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 466,
+                "end": 467,
+                "word": "Baley"
+            },
+            {
+                "start": 612,
+                "end": 613,
+                "word": "Baley"
+            },
+            {
+                "start": 631,
+                "end": 633,
+                "word": "Francis Clousarr"
+            },
+            {
+                "start": 719,
+                "end": 720,
+                "word": "Baley"
+            },
+            {
+                "start": 723,
+                "end": 724,
+                "word": "Elijah"
+            },
+            {
+                "start": 730,
+                "end": 732,
+                "word": "Paul Gerhard"
+            },
+            {
+                "start": 733,
+                "end": 734,
+                "word": "Baley"
+            },
+            {
+                "start": 761,
+                "end": 764,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 851,
+                "end": 853,
+                "word": "Dr Gerrigel"
+            },
+            {
+                "start": 854,
+                "end": 857,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 988,
+                "end": 990,
+                "word": "Dr Gerrigel"
+            },
+            {
+                "start": 1086,
+                "end": 1088,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 1171,
+                "end": 1172,
+                "word": "Gerrigel"
+            },
+            {
+                "start": 1234,
+                "end": 1235,
+                "word": "Chester"
+            },
+            {
+                "start": 1331,
+                "end": 1332,
+                "word": "Gerrigel"
+            },
+            {
+                "start": 1492,
+                "end": 1494,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 1658,
+                "end": 1660,
+                "word": "Dr Gerrigel"
+            },
+            {
+                "start": 1670,
+                "end": 1672,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 1690,
+                "end": 1692,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 1843,
+                "end": 1844,
+                "word": "Baley"
+            },
+            {
+                "start": 1855,
+                "end": 1856,
+                "word": "Heisenberg"
+            },
+            {
+                "start": 1885,
+                "end": 1886,
+                "word": "Baley"
+            },
+            {
+                "start": 1900,
+                "end": 1902,
+                "word": "Dr Gerrigel"
+            },
+            {
+                "start": 2058,
+                "end": 2060,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 2277,
+                "end": 2278,
+                "word": "Baley"
+            },
+            {
+                "start": 2316,
+                "end": 2318,
+                "word": "Dr Gerrigel"
+            },
+            {
+                "start": 2330,
+                "end": 2332,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 2407,
+                "end": 2409,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 2685,
+                "end": 2687,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 2742,
+                "end": 2744,
+                "word": "monsieur Baley"
+            },
+            {
+                "start": 2746,
+                "end": 2747,
+                "word": "Gerrigel"
+            },
+            {
+                "start": 2853,
+                "end": 2854,
+                "word": "Daneel"
+            },
+            {
+                "start": 2896,
+                "end": 2899,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2914,
+                "end": 2915,
+                "word": "Elijah"
+            },
+            {
+                "start": 2928,
+                "end": 2929,
+                "word": "Baley"
+            },
+            {
+                "start": 2957,
+                "end": 2958,
+                "word": "Gerrigel"
+            },
+            {
+                "start": 2967,
+                "end": 2968,
+                "word": "Baley"
+            },
+            {
+                "start": 2970,
+                "end": 2971,
+                "word": "Daneel"
+            },
+            {
+                "start": 2994,
+                "end": 2997,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3050,
+                "end": 3051,
+                "word": "Baley"
+            },
+            {
+                "start": 3062,
+                "end": 3065,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3112,
+                "end": 3113,
+                "word": "Daneel"
+            },
+            {
+                "start": 3125,
+                "end": 3126,
+                "word": "Gerrigel"
+            }
+        ]
+    },
+    "entities": [
+        "Gerrigel",
+        "Paul Gerhard",
+        "Enderby",
+        "R . Daneel",
+        "Chester",
+        "Heisenberg",
+        "Lije",
+        "Elijah",
+        "Baley",
+        "Francis Clousarr",
+        "Dr Gerrigel",
+        "Julius",
+        "A . Gerrigel",
+        "monsieur Baley",
+        "R . Sammy",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "Gerrigel",
+            "Dr Gerrigel",
+            "A . Gerrigel"
+        ],
+        [
+            "Paul Gerhard"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Chester"
+        ],
+        [
+            "Heisenberg"
+        ],
+        [
+            "Lije",
+            "Elijah",
+            "Baley",
+            "monsieur Baley"
+        ],
+        [
+            "Francis Clousarr"
+        ],
+        [
+            "Julius"
+        ],
+        [
+            "R . Sammy"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Julius"
+        ],
+        [
+            "Enderby",
+            "A . Gerrigel"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Julius"
+        ],
+        [
+            "Lije",
+            "A . Gerrigel"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "A . Gerrigel"
+        ],
+        [
+            "Julius",
+            "A . Gerrigel"
+        ],
+        [
+            "A . Gerrigel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Francis Clousarr"
+        ],
+        [
+            "Francis Clousarr",
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Elijah"
+        ],
+        [
+            "Francis Clousarr",
+            "Paul Gerhard"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "Paul Gerhard"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Paul Gerhard"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Paul Gerhard",
+            "Baley"
+        ],
+        [
+            "Paul Gerhard",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Dr Gerrigel"
+        ],
+        [
+            "Dr Gerrigel",
+            "R . Daneel"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "monsieur Baley",
+            "Gerrigel"
+        ],
+        [
+            "Gerrigel",
+            "Chester"
+        ],
+        [
+            "Chester",
+            "Gerrigel"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "Baley",
+            "Heisenberg"
+        ],
+        [
+            "Baley",
+            "Dr Gerrigel"
+        ],
+        [
+            "Heisenberg",
+            "Baley"
+        ],
+        [
+            "Heisenberg",
+            "Dr Gerrigel"
+        ],
+        [
+            "Baley",
+            "Dr Gerrigel"
+        ],
+        [
+            "Baley",
+            "Dr Gerrigel"
+        ],
+        [
+            "Baley",
+            "monsieur Baley"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "monsieur Baley",
+            "Gerrigel"
+        ],
+        [
+            "monsieur Baley",
+            "Gerrigel"
+        ],
+        [
+            "monsieur Baley",
+            "Daneel"
+        ],
+        [
+            "Gerrigel",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Gerrigel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Gerrigel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Gerrigel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Gerrigel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Gerrigel",
+            "Baley"
+        ],
+        [
+            "Gerrigel",
+            "Daneel"
+        ],
+        [
+            "Gerrigel",
+            "R . Daneel"
+        ],
+        [
+            "Gerrigel",
+            "Baley"
+        ],
+        [
+            "Gerrigel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Gerrigel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Gerrigel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Gerrigel"
+        ],
+        [
+            "Daneel",
+            "Gerrigel"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Gerrigel\nPaul Gerhard\nEnderby\nR . Daneel\nChester\nHeisenberg\nLije\nElijah\nBaley\nFrancis Clousarr\nDr Gerrigel\nJulius\nA . Gerrigel\nmonsieur Baley\nR . Sammy\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Gerrigel",
+                "Dr Gerrigel",
+                "A . Gerrigel"
+            ],
+            "1": [
+                "Paul Gerhard"
+            ],
+            "2": [
+                "Enderby"
+            ],
+            "3": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "4": [
+                "Chester"
+            ],
+            "5": [
+                "Heisenberg"
+            ],
+            "6": [
+                "Lije",
+                "Elijah",
+                "Baley",
+                "monsieur Baley"
+            ],
+            "7": [
+                "Francis Clousarr"
+            ],
+            "8": [
+                "Julius"
+            ],
+            "9": [
+                "R . Sammy"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

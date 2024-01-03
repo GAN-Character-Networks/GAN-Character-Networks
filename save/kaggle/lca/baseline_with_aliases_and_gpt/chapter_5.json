@@ -1,0 +1,1020 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "— Je suis désolé de vous faire partir, Jessie. — Oh ! ne vous tracassez pas pour ça, monsieur Olivaw ! répliqua-t-elle. Ce n’est pas à cause de vous que je sors ; j’ai toutes les semaines une réunion de jeunes filles dont je m’occupe, et elle a justement lieu ce soir. Allons, viens, Ben ! Mais le garçon ne voulait rien entendre, et il maugréa : — Je voudrais bien savoir pourquoi il faut que j’y aille ! Je ne les dérangerai pas si je reste ! Ah, la barbe ! — Allons, ça suffit maintenant ! Fais ce",
+        "entities": [
+            {
+                "start": 8,
+                "end": 9,
+                "word": "Jessie"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "word": "Olivaw"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "word": "Ben"
+            },
+            {
+                "start": 160,
+                "end": 161,
+                "word": "Baley"
+            },
+            {
+                "start": 288,
+                "end": 289,
+                "word": "Jessie"
+            },
+            {
+                "start": 307,
+                "end": 310,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 311,
+                "end": 312,
+                "word": "Baley"
+            },
+            {
+                "start": 357,
+                "end": 358,
+                "word": "Daneel"
+            },
+            {
+                "start": 407,
+                "end": 408,
+                "word": "Elijah"
+            },
+            {
+                "start": 409,
+                "end": 410,
+                "word": "Baley"
+            },
+            {
+                "start": 486,
+                "end": 487,
+                "word": "Spa"
+            },
+            {
+                "start": 515,
+                "end": 518,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 660,
+                "end": 661,
+                "word": "Spa"
+            },
+            {
+                "start": 683,
+                "end": 684,
+                "word": "Baley"
+            },
+            {
+                "start": 695,
+                "end": 696,
+                "word": "Spa"
+            },
+            {
+                "start": 840,
+                "end": 841,
+                "word": "Baley"
+            },
+            {
+                "start": 863,
+                "end": 865,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 903,
+                "end": 905,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 911,
+                "end": 912,
+                "word": "Spa"
+            },
+            {
+                "start": 954,
+                "end": 956,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1021,
+                "end": 1023,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1063,
+                "end": 1064,
+                "word": "Spa"
+            },
+            {
+                "start": 1077,
+                "end": 1078,
+                "word": "Spa"
+            },
+            {
+                "start": 1104,
+                "end": 1105,
+                "word": "Spa"
+            },
+            {
+                "start": 1108,
+                "end": 1109,
+                "word": "Baley"
+            },
+            {
+                "start": 1118,
+                "end": 1121,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1129,
+                "end": 1131,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1216,
+                "end": 1217,
+                "word": "Baley"
+            },
+            {
+                "start": 1224,
+                "end": 1225,
+                "word": "Spa"
+            },
+            {
+                "start": 1263,
+                "end": 1264,
+                "word": "Baley"
+            },
+            {
+                "start": 1312,
+                "end": 1313,
+                "word": "Daneel"
+            },
+            {
+                "start": 1356,
+                "end": 1357,
+                "word": "Baley"
+            },
+            {
+                "start": 1388,
+                "end": 1391,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1406,
+                "end": 1407,
+                "word": "Baley"
+            },
+            {
+                "start": 1432,
+                "end": 1435,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1437,
+                "end": 1439,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 1481,
+                "end": 1482,
+                "word": "Elijah"
+            },
+            {
+                "start": 1545,
+                "end": 1546,
+                "word": "Baley"
+            },
+            {
+                "start": 1568,
+                "end": 1569,
+                "word": "Elijah"
+            },
+            {
+                "start": 1611,
+                "end": 1612,
+                "word": "Baley"
+            },
+            {
+                "start": 1629,
+                "end": 1632,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1682,
+                "end": 1683,
+                "word": "Spa"
+            },
+            {
+                "start": 1695,
+                "end": 1698,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1730,
+                "end": 1731,
+                "word": "Elijah"
+            },
+            {
+                "start": 1744,
+                "end": 1745,
+                "word": "Spa"
+            },
+            {
+                "start": 1754,
+                "end": 1755,
+                "word": "Baley"
+            },
+            {
+                "start": 1806,
+                "end": 1809,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1882,
+                "end": 1883,
+                "word": "Elijah"
+            },
+            {
+                "start": 1918,
+                "end": 1919,
+                "word": "Spa"
+            },
+            {
+                "start": 2033,
+                "end": 2034,
+                "word": "Spa"
+            },
+            {
+                "start": 2075,
+                "end": 2076,
+                "word": "Spa"
+            },
+            {
+                "start": 2126,
+                "end": 2127,
+                "word": "Spa"
+            },
+            {
+                "start": 2155,
+                "end": 2156,
+                "word": "Spa"
+            },
+            {
+                "start": 2275,
+                "end": 2276,
+                "word": "Baley"
+            },
+            {
+                "start": 2304,
+                "end": 2305,
+                "word": "Julius"
+            },
+            {
+                "start": 2323,
+                "end": 2324,
+                "word": "Enderby"
+            },
+            {
+                "start": 2337,
+                "end": 2338,
+                "word": "Spa"
+            },
+            {
+                "start": 2394,
+                "end": 2396,
+                "word": "Julius Enderby"
+            },
+            {
+                "start": 2422,
+                "end": 2423,
+                "word": "Baley"
+            },
+            {
+                "start": 2435,
+                "end": 2436,
+                "word": "Enderby"
+            },
+            {
+                "start": 2439,
+                "end": 2442,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2469,
+                "end": 2470,
+                "word": "Elijah"
+            },
+            {
+                "start": 2471,
+                "end": 2472,
+                "word": "Baley"
+            },
+            {
+                "start": 2518,
+                "end": 2521,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2547,
+                "end": 2548,
+                "word": "Lije"
+            },
+            {
+                "start": 2556,
+                "end": 2557,
+                "word": "Julius"
+            },
+            {
+                "start": 2719,
+                "end": 2720,
+                "word": "Enderby"
+            },
+            {
+                "start": 2774,
+                "end": 2775,
+                "word": "Baley"
+            },
+            {
+                "start": 2850,
+                "end": 2851,
+                "word": "Spa"
+            },
+            {
+                "start": 2873,
+                "end": 2874,
+                "word": "Elijah"
+            }
+        ]
+    },
+    "entities": [
+        "R . Daneel",
+        "Elijah",
+        "Spa",
+        "Daneel",
+        "Julius Enderby",
+        "Dr Sarton",
+        "Lije",
+        "Jessie",
+        "Enderby",
+        "Julius",
+        "Ben",
+        "Baley",
+        "Olivaw"
+    ],
+    "aliases": [
+        [
+            "R . Daneel",
+            "Daneel",
+            "Olivaw"
+        ],
+        [
+            "Elijah",
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby",
+            "Julius"
+        ],
+        [
+            "Dr Sarton"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Ben"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Jessie",
+            "Olivaw"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Olivaw",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Spa",
+            "Dr Sarton"
+        ],
+        [
+            "Spa",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Dr Sarton"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Dr Sarton"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Spa",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "Elijah"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Spa"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Elijah"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Spa"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Spa"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Spa"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Julius",
+            "Enderby"
+        ],
+        [
+            "Julius",
+            "Spa"
+        ],
+        [
+            "Julius",
+            "Julius Enderby"
+        ],
+        [
+            "Julius",
+            "Baley"
+        ],
+        [
+            "Julius",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Spa"
+        ],
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Spa",
+            "Julius Enderby"
+        ],
+        [
+            "Spa",
+            "Baley"
+        ],
+        [
+            "Spa",
+            "Enderby"
+        ],
+        [
+            "Spa",
+            "R . Daneel"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Julius Enderby",
+            "Elijah"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "Elijah"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Julius"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Lije"
+        ],
+        [
+            "Elijah",
+            "Julius"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Julius"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Julius"
+        ],
+        [
+            "Lije",
+            "Julius"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Spa"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Spa",
+            "Elijah"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    R . Daneel\nElijah\nSpa\nDaneel\nJulius Enderby\nDr Sarton\nLije\nJessie\nEnderby\nJulius\nBen\nBaley\nOlivaw\nOutput : ",
+        "generated_content": {
+            "0": [
+                "R . Daneel",
+                "Daneel",
+                "Olivaw"
+            ],
+            "1": [
+                "Elijah",
+                "Lije",
+                "Baley"
+            ],
+            "2": [
+                "Julius Enderby",
+                "Enderby",
+                "Julius"
+            ],
+            "3": [
+                "Dr Sarton"
+            ],
+            "4": [
+                "Jessie"
+            ],
+            "5": [
+                "Ben"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

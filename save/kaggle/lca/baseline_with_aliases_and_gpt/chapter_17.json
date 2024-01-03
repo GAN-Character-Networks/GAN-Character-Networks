@@ -1,0 +1,989 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "manière, nous aurions renforcé la position de certains politiciens qui, sur notre planète, manifestent une opposition irréductible au principe même de Spacetown. — Mais maintenant, s’écria Baley avec une violence soudaine, vous venez m’informer que vous vous préparez à rentrer chez vous de votre propre initiative ! Pourquoi, au nom du Ciel ? Pourquoi ? La solution de l’énigme Sarton est extrêmement proche. Elle ne peut pas ne pas être à portée de ma main, sans quoi on ne se donnerait pas tant de",
+        "entities": [
+            {
+                "start": 31,
+                "end": 32,
+                "word": "Baley"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "word": "Sarton"
+            },
+            {
+                "start": 342,
+                "end": 345,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 484,
+                "end": 485,
+                "word": "Baley"
+            },
+            {
+                "start": 552,
+                "end": 553,
+                "word": "Baley"
+            },
+            {
+                "start": 588,
+                "end": 591,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 630,
+                "end": 631,
+                "word": "Elijah"
+            },
+            {
+                "start": 710,
+                "end": 712,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 782,
+                "end": 783,
+                "word": "Baley"
+            },
+            {
+                "start": 843,
+                "end": 844,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1084,
+                "end": 1085,
+                "word": "Clousarr"
+            },
+            {
+                "start": 1172,
+                "end": 1175,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1234,
+                "end": 1235,
+                "word": "Baley"
+            },
+            {
+                "start": 1269,
+                "end": 1270,
+                "word": "Baley"
+            },
+            {
+                "start": 1326,
+                "end": 1329,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1355,
+                "end": 1356,
+                "word": "Elijah"
+            },
+            {
+                "start": 1439,
+                "end": 1440,
+                "word": "Elijah"
+            },
+            {
+                "start": 1462,
+                "end": 1463,
+                "word": "Daneel"
+            },
+            {
+                "start": 1501,
+                "end": 1502,
+                "word": "Elijah"
+            },
+            {
+                "start": 1547,
+                "end": 1548,
+                "word": "Baley"
+            },
+            {
+                "start": 1566,
+                "end": 1569,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1600,
+                "end": 1601,
+                "word": "Daneel"
+            },
+            {
+                "start": 1683,
+                "end": 1685,
+                "word": "Elijah Baley"
+            },
+            {
+                "start": 1732,
+                "end": 1735,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1860,
+                "end": 1861,
+                "word": "Baley"
+            },
+            {
+                "start": 1926,
+                "end": 1927,
+                "word": "Baley"
+            },
+            {
+                "start": 1942,
+                "end": 1945,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2028,
+                "end": 2029,
+                "word": "Sarton"
+            },
+            {
+                "start": 2053,
+                "end": 2054,
+                "word": "Elijah"
+            },
+            {
+                "start": 2057,
+                "end": 2060,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2064,
+                "end": 2065,
+                "word": "Baley"
+            },
+            {
+                "start": 2096,
+                "end": 2099,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2109,
+                "end": 2110,
+                "word": "Lije"
+            },
+            {
+                "start": 2168,
+                "end": 2169,
+                "word": "Baley"
+            },
+            {
+                "start": 2180,
+                "end": 2183,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2196,
+                "end": 2197,
+                "word": "Enderby"
+            },
+            {
+                "start": 2212,
+                "end": 2213,
+                "word": "Baley"
+            },
+            {
+                "start": 2274,
+                "end": 2275,
+                "word": "Baley"
+            },
+            {
+                "start": 2296,
+                "end": 2297,
+                "word": "Williamsburg"
+            },
+            {
+                "start": 2298,
+                "end": 2299,
+                "word": "Lije"
+            },
+            {
+                "start": 2380,
+                "end": 2381,
+                "word": "Lije"
+            },
+            {
+                "start": 2397,
+                "end": 2398,
+                "word": "Baley"
+            },
+            {
+                "start": 2455,
+                "end": 2458,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2466,
+                "end": 2467,
+                "word": "Daneel"
+            },
+            {
+                "start": 2515,
+                "end": 2516,
+                "word": "Lije"
+            },
+            {
+                "start": 2526,
+                "end": 2529,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2564,
+                "end": 2565,
+                "word": "Baley"
+            },
+            {
+                "start": 2576,
+                "end": 2577,
+                "word": "Jessie"
+            },
+            {
+                "start": 2589,
+                "end": 2591,
+                "word": "Francis Clousarr"
+            },
+            {
+                "start": 2606,
+                "end": 2609,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2619,
+                "end": 2620,
+                "word": "Williamsburg"
+            },
+            {
+                "start": 2625,
+                "end": 2628,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 2630,
+                "end": 2631,
+                "word": "Jessie"
+            },
+            {
+                "start": 2671,
+                "end": 2672,
+                "word": "Lije"
+            },
+            {
+                "start": 2710,
+                "end": 2711,
+                "word": "Lije"
+            },
+            {
+                "start": 2767,
+                "end": 2768,
+                "word": "Lije"
+            },
+            {
+                "start": 2771,
+                "end": 2772,
+                "word": "Enderby"
+            },
+            {
+                "start": 2852,
+                "end": 2854,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 2884,
+                "end": 2885,
+                "word": "Sarton"
+            },
+            {
+                "start": 2900,
+                "end": 2901,
+                "word": "Baley"
+            },
+            {
+                "start": 2936,
+                "end": 2938,
+                "word": "Dr Sarton"
+            }
+        ]
+    },
+    "entities": [
+        "Enderby",
+        "R . Daneel",
+        "Williamsburg",
+        "Elijah",
+        "Lije",
+        "Sarton",
+        "Baley",
+        "Francis Clousarr",
+        "Jessie",
+        "Dr Sarton",
+        "Clousarr",
+        "R . Sammy",
+        "Elijah Baley",
+        "Dr Fastolfe",
+        "Daneel"
+    ],
+    "aliases": [
+        [
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Lije",
+            "Elijah Baley"
+        ],
+        [
+            "Sarton",
+            "Dr Sarton"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Francis Clousarr",
+            "Clousarr"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Dr Fastolfe"
+        ],
+        [
+            "R . Sammy"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Baley",
+            "Sarton"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Dr Fastolfe"
+        ],
+        [
+            "Elijah",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Clousarr",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah Baley"
+        ],
+        [
+            "Elijah Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Sarton",
+            "Elijah"
+        ],
+        [
+            "Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Sarton",
+            "Baley"
+        ],
+        [
+            "Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Sarton",
+            "Lije"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Daneel"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Williamsburg"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Williamsburg"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Williamsburg"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Williamsburg"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Williamsburg",
+            "Lije"
+        ],
+        [
+            "Williamsburg",
+            "Lije"
+        ],
+        [
+            "Williamsburg",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Lije",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Daneel"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "Jessie"
+        ],
+        [
+            "R . Sammy",
+            "Francis Clousarr"
+        ],
+        [
+            "Daneel",
+            "Lije"
+        ],
+        [
+            "Daneel",
+            "R . Sammy"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Francis Clousarr"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Francis Clousarr"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Lije",
+            "Williamsburg"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "Jessie"
+        ],
+        [
+            "R . Sammy",
+            "Francis Clousarr"
+        ],
+        [
+            "R . Sammy",
+            "Williamsburg"
+        ],
+        [
+            "R . Sammy",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Francis Clousarr"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Williamsburg"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Francis Clousarr"
+        ],
+        [
+            "Jessie",
+            "R . Sammy"
+        ],
+        [
+            "Jessie",
+            "Williamsburg"
+        ],
+        [
+            "Jessie",
+            "R . Sammy"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Francis Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Francis Clousarr",
+            "Williamsburg"
+        ],
+        [
+            "Francis Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "Francis Clousarr",
+            "Jessie"
+        ],
+        [
+            "Francis Clousarr",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Williamsburg"
+        ],
+        [
+            "R . Sammy",
+            "Jessie"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "Williamsburg",
+            "R . Sammy"
+        ],
+        [
+            "Williamsburg",
+            "Jessie"
+        ],
+        [
+            "Williamsburg",
+            "Lije"
+        ],
+        [
+            "Williamsburg",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Jessie"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Sarton",
+            "Baley"
+        ],
+        [
+            "Sarton",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Enderby\nR . Daneel\nWilliamsburg\nElijah\nLije\nSarton\nBaley\nFrancis Clousarr\nJessie\nDr Sarton\nClousarr\nR . Sammy\nElijah Baley\nDr Fastolfe\nDaneel\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Enderby"
+            ],
+            "1": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "2": [
+                "Elijah",
+                "Lije",
+                "Elijah Baley"
+            ],
+            "3": [
+                "Sarton",
+                "Dr Sarton"
+            ],
+            "4": [
+                "Baley"
+            ],
+            "5": [
+                "Francis Clousarr",
+                "Clousarr"
+            ],
+            "6": [
+                "Jessie"
+            ],
+            "7": [
+                "Dr Fastolfe"
+            ],
+            "8": [
+                "R . Sammy"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

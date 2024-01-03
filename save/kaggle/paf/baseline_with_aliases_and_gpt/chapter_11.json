@@ -1,0 +1,2046 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Sacratorium AURORA. — ... Monde mythique, passant pour avoir été habité aux temps primitifs, à l’aube du voyage interstellaire. D’aucuns pensent qu’il pourrait s’agir également de ce mythique « monde des origines » de l’humanité et donc d’un autre nom pour « Terra ». On rapporte que les occupants du secteur de Mycogène (voir ce mot) de l’antique Trantor se seraient considérés comme les descendants des habitants d’Aurora et auraient fait de ce principe le fondement de leur système de croyances",
+        "entities": [
+            {
+                "start": 61,
+                "end": 62,
+                "word": "Mycogène"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "word": "Aurora"
+            },
+            {
+                "start": 107,
+                "end": 110,
+                "word": "Goutte de Pluie"
+            },
+            {
+                "start": 117,
+                "end": 122,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 128,
+                "end": 133,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 160,
+                "end": 161,
+                "word": "Seldon"
+            },
+            {
+                "start": 171,
+                "end": 172,
+                "word": "Dors"
+            },
+            {
+                "start": 218,
+                "end": 219,
+                "word": "Dors"
+            },
+            {
+                "start": 233,
+                "end": 238,
+                "word": "Goutte de Pluie Quarante trois"
+            },
+            {
+                "start": 260,
+                "end": 261,
+                "word": "Dors"
+            },
+            {
+                "start": 262,
+                "end": 263,
+                "word": "Seldon"
+            },
+            {
+                "start": 269,
+                "end": 270,
+                "word": "Hari"
+            },
+            {
+                "start": 305,
+                "end": 310,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 365,
+                "end": 366,
+                "word": "Dors"
+            },
+            {
+                "start": 379,
+                "end": 382,
+                "word": "Goutte de Pluie"
+            },
+            {
+                "start": 453,
+                "end": 454,
+                "word": "Hari"
+            },
+            {
+                "start": 475,
+                "end": 476,
+                "word": "Mycogène"
+            },
+            {
+                "start": 506,
+                "end": 511,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 526,
+                "end": 527,
+                "word": "Aurora"
+            },
+            {
+                "start": 551,
+                "end": 552,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 560,
+                "end": 565,
+                "word": "Goutte de Pluie Quarante cinq"
+            },
+            {
+                "start": 621,
+                "end": 622,
+                "word": "Seldon"
+            },
+            {
+                "start": 631,
+                "end": 632,
+                "word": "Aurora"
+            },
+            {
+                "start": 651,
+                "end": 652,
+                "word": "Mycogène"
+            },
+            {
+                "start": 723,
+                "end": 724,
+                "word": "Tabou"
+            },
+            {
+                "start": 760,
+                "end": 761,
+                "word": "Aurora"
+            },
+            {
+                "start": 807,
+                "end": 808,
+                "word": "Aurora"
+            },
+            {
+                "start": 998,
+                "end": 999,
+                "word": "Hari"
+            },
+            {
+                "start": 1034,
+                "end": 1035,
+                "word": "Dors"
+            },
+            {
+                "start": 1096,
+                "end": 1097,
+                "word": "Hari"
+            },
+            {
+                "start": 1138,
+                "end": 1140,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 1149,
+                "end": 1150,
+                "word": "Dors"
+            },
+            {
+                "start": 1162,
+                "end": 1163,
+                "word": "Mycogène"
+            },
+            {
+                "start": 1178,
+                "end": 1180,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 1206,
+                "end": 1207,
+                "word": "Seldon"
+            },
+            {
+                "start": 1219,
+                "end": 1220,
+                "word": "Hari"
+            },
+            {
+                "start": 1347,
+                "end": 1348,
+                "word": "Dors"
+            },
+            {
+                "start": 1388,
+                "end": 1389,
+                "word": "Dors"
+            },
+            {
+                "start": 1528,
+                "end": 1529,
+                "word": "Seldon"
+            },
+            {
+                "start": 1539,
+                "end": 1540,
+                "word": "Dors"
+            },
+            {
+                "start": 1686,
+                "end": 1687,
+                "word": "Seldon"
+            },
+            {
+                "start": 1707,
+                "end": 1708,
+                "word": "Seldon"
+            },
+            {
+                "start": 1742,
+                "end": 1743,
+                "word": "Dors"
+            },
+            {
+                "start": 1772,
+                "end": 1773,
+                "word": "Seldon"
+            },
+            {
+                "start": 1805,
+                "end": 1806,
+                "word": "Seldon"
+            },
+            {
+                "start": 1833,
+                "end": 1834,
+                "word": "Frère"
+            },
+            {
+                "start": 1879,
+                "end": 1880,
+                "word": "Seldon"
+            },
+            {
+                "start": 1968,
+                "end": 1969,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 2002,
+                "end": 2003,
+                "word": "Seldon"
+            },
+            {
+                "start": 2040,
+                "end": 2041,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 2080,
+                "end": 2081,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 2091,
+                "end": 2092,
+                "word": "Seldon"
+            },
+            {
+                "start": 2142,
+                "end": 2143,
+                "word": "Seldon"
+            },
+            {
+                "start": 2145,
+                "end": 2146,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 2181,
+                "end": 2182,
+                "word": "Seldon"
+            },
+            {
+                "start": 2215,
+                "end": 2216,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 2308,
+                "end": 2309,
+                "word": "Dors"
+            },
+            {
+                "start": 2315,
+                "end": 2316,
+                "word": "Seldon"
+            },
+            {
+                "start": 2322,
+                "end": 2323,
+                "word": "Frère"
+            },
+            {
+                "start": 2385,
+                "end": 2386,
+                "word": "Dors"
+            },
+            {
+                "start": 2467,
+                "end": 2468,
+                "word": "Dors"
+            },
+            {
+                "start": 2475,
+                "end": 2476,
+                "word": "Mycélium"
+            },
+            {
+                "start": 2496,
+                "end": 2497,
+                "word": "Seldon"
+            },
+            {
+                "start": 2539,
+                "end": 2542,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 2560,
+                "end": 2561,
+                "word": "Seldon"
+            },
+            {
+                "start": 2592,
+                "end": 2595,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 2636,
+                "end": 2637,
+                "word": "Ancien"
+            },
+            {
+                "start": 2685,
+                "end": 2686,
+                "word": "Seldon"
+            },
+            {
+                "start": 2691,
+                "end": 2694,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 2733,
+                "end": 2734,
+                "word": "Dors"
+            },
+            {
+                "start": 2735,
+                "end": 2736,
+                "word": "Mycélium"
+            },
+            {
+                "start": 2938,
+                "end": 2939,
+                "word": "Seldon"
+            },
+            {
+                "start": 2956,
+                "end": 2957,
+                "word": "Dors"
+            },
+            {
+                "start": 2981,
+                "end": 2982,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3043,
+                "end": 3044,
+                "word": "Dors"
+            },
+            {
+                "start": 3067,
+                "end": 3068,
+                "word": "Lissauer"
+            },
+            {
+                "start": 3069,
+                "end": 3070,
+                "word": "Mentone"
+            },
+            {
+                "start": 3071,
+                "end": 3072,
+                "word": "Novigor"
+            },
+            {
+                "start": 3100,
+                "end": 3103,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 3141,
+                "end": 3142,
+                "word": "Seldon"
+            },
+            {
+                "start": 3164,
+                "end": 3165,
+                "word": "Dors"
+            },
+            {
+                "start": 3233,
+                "end": 3234,
+                "word": "Seldon"
+            },
+            {
+                "start": 3270,
+                "end": 3272,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 3304,
+                "end": 3307,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 3367,
+                "end": 3368,
+                "word": "Seldon"
+            },
+            {
+                "start": 3394,
+                "end": 3395,
+                "word": "Seldon"
+            },
+            {
+                "start": 3435,
+                "end": 3437,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 3444,
+                "end": 3446,
+                "word": "Dors Venabili"
+            },
+            {
+                "start": 3455,
+                "end": 3456,
+                "word": "Mycogène"
+            },
+            {
+                "start": 3484,
+                "end": 3487,
+                "word": "Bande céleste Deux"
+            },
+            {
+                "start": 3495,
+                "end": 3496,
+                "word": "Ancien"
+            },
+            {
+                "start": 3558,
+                "end": 3560,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 3579,
+                "end": 3580,
+                "word": "Seldon"
+            },
+            {
+                "start": 3582,
+                "end": 3583,
+                "word": "Dors"
+            },
+            {
+                "start": 3632,
+                "end": 3633,
+                "word": "Seldon"
+            },
+            {
+                "start": 3635,
+                "end": 3636,
+                "word": "Ancien"
+            },
+            {
+                "start": 3689,
+                "end": 3691,
+                "word": "Grand Ancien"
+            },
+            {
+                "start": 3703,
+                "end": 3704,
+                "word": "Dors"
+            },
+            {
+                "start": 3756,
+                "end": 3757,
+                "word": "Dors"
+            },
+            {
+                "start": 3764,
+                "end": 3765,
+                "word": "Seldon"
+            },
+            {
+                "start": 3789,
+                "end": 3790,
+                "word": "Seldon"
+            },
+            {
+                "start": 3854,
+                "end": 3857,
+                "word": "Mycélium Soixante douze"
+            },
+            {
+                "start": 3899,
+                "end": 3900,
+                "word": "Ancien"
+            },
+            {
+                "start": 3968,
+                "end": 3969,
+                "word": "Hummin"
+            },
+            {
+                "start": 4007,
+                "end": 4008,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 4015,
+                "end": 4016,
+                "word": "Hari"
+            },
+            {
+                "start": 4039,
+                "end": 4040,
+                "word": "Hari"
+            },
+            {
+                "start": 4110,
+                "end": 4111,
+                "word": "Hari"
+            },
+            {
+                "start": 4347,
+                "end": 4348,
+                "word": "Mycogénien"
+            },
+            {
+                "start": 4478,
+                "end": 4479,
+                "word": "Dors"
+            },
+            {
+                "start": 4496,
+                "end": 4499,
+                "word": "Goutte de Pluie"
+            },
+            {
+                "start": 4506,
+                "end": 4509,
+                "word": "Goutte de Pluie"
+            },
+            {
+                "start": 4554,
+                "end": 4555,
+                "word": "Hari"
+            },
+            {
+                "start": 4569,
+                "end": 4570,
+                "word": "Mycogène"
+            },
+            {
+                "start": 4636,
+                "end": 4637,
+                "word": "Hari"
+            },
+            {
+                "start": 4771,
+                "end": 4772,
+                "word": "Dors"
+            },
+            {
+                "start": 4793,
+                "end": 4794,
+                "word": "Mycogène"
+            },
+            {
+                "start": 4845,
+                "end": 4846,
+                "word": "Dors"
+            },
+            {
+                "start": 4875,
+                "end": 4876,
+                "word": "Hari"
+            },
+            {
+                "start": 4937,
+                "end": 4938,
+                "word": "Seldon"
+            },
+            {
+                "start": 4942,
+                "end": 4943,
+                "word": "Dors"
+            },
+            {
+                "start": 4959,
+                "end": 4960,
+                "word": "Hari"
+            },
+            {
+                "start": 4978,
+                "end": 4979,
+                "word": "Hari"
+            },
+            {
+                "start": 5016,
+                "end": 5017,
+                "word": "Hari"
+            },
+            {
+                "start": 5033,
+                "end": 5034,
+                "word": "Dors"
+            },
+            {
+                "start": 5077,
+                "end": 5078,
+                "word": "Seldon"
+            },
+            {
+                "start": 5104,
+                "end": 5105,
+                "word": "Hummin"
+            }
+        ]
+    },
+    "entities": [
+        "Aurora",
+        "Novigor",
+        "Frère",
+        "Dors",
+        "Goutte de Pluie Quarante cinq",
+        "Grand Ancien",
+        "Mycogénien",
+        "Ancien",
+        "Bande céleste Deux",
+        "Tabou",
+        "Goutte de Pluie",
+        "Lissauer",
+        "Hari",
+        "Mycélium Soixante douze",
+        "Dors Venabili",
+        "Mycélium",
+        "Hummin",
+        "Mycogène",
+        "Seldon",
+        "Hari Seldon",
+        "Goutte de Pluie Quarante trois",
+        "Mentone"
+    ],
+    "aliases": [
+        [
+            "Aurora"
+        ],
+        [
+            "Novigor"
+        ],
+        [
+            "Frère"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Grand Ancien",
+            "Ancien"
+        ],
+        [
+            "Mycogénien",
+            "Mycogène"
+        ],
+        [
+            "Bande céleste Deux"
+        ],
+        [
+            "Tabou"
+        ],
+        [
+            "Lissauer"
+        ],
+        [
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Mycélium"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Seldon"
+        ],
+        [
+            "Mentone"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Mycogène",
+            "Aurora"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Aurora",
+            "Goutte de Pluie"
+        ],
+        [
+            "Aurora",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Aurora",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Aurora",
+            "Seldon"
+        ],
+        [
+            "Aurora",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Goutte de Pluie",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante trois"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie Quarante trois",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Goutte de Pluie"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Dors"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Hari",
+            "Aurora"
+        ],
+        [
+            "Hari",
+            "Mycogénien"
+        ],
+        [
+            "Hari",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Mycogène",
+            "Aurora"
+        ],
+        [
+            "Mycogène",
+            "Mycogénien"
+        ],
+        [
+            "Mycogène",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Aurora"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Aurora"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Mycogénien"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Aurora"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Mycogène"
+        ],
+        [
+            "Aurora",
+            "Mycogénien"
+        ],
+        [
+            "Aurora",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Aurora",
+            "Seldon"
+        ],
+        [
+            "Aurora",
+            "Mycogène"
+        ],
+        [
+            "Mycogénien",
+            "Goutte de Pluie Quarante cinq"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Aurora"
+        ],
+        [
+            "Mycogénien",
+            "Mycogène"
+        ],
+        [
+            "Mycogénien",
+            "Tabou"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Seldon"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Aurora"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie Quarante cinq",
+            "Tabou"
+        ],
+        [
+            "Seldon",
+            "Aurora"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Tabou"
+        ],
+        [
+            "Seldon",
+            "Aurora"
+        ],
+        [
+            "Aurora",
+            "Mycogène"
+        ],
+        [
+            "Aurora",
+            "Tabou"
+        ],
+        [
+            "Mycogène",
+            "Tabou"
+        ],
+        [
+            "Mycogène",
+            "Aurora"
+        ],
+        [
+            "Tabou",
+            "Aurora"
+        ],
+        [
+            "Tabou",
+            "Aurora"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari Seldon"
+        ],
+        [
+            "Hari",
+            "Hari Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Hari",
+            "Dors Venabili"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Dors"
+        ],
+        [
+            "Hari Seldon",
+            "Mycogène"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Dors Venabili"
+        ],
+        [
+            "Mycogène",
+            "Seldon"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Dors Venabili",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Frère",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Mycogénien",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycogénien"
+        ],
+        [
+            "Mycogénien",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Frère"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Frère",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Mycélium",
+            "Seldon"
+        ],
+        [
+            "Mycélium",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Mycélium",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Ancien"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Dors"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Mycélium"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Ancien",
+            "Dors"
+        ],
+        [
+            "Ancien",
+            "Mycélium"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycélium"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Dors"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Mycélium"
+        ],
+        [
+            "Dors",
+            "Mycélium"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Lissauer"
+        ],
+        [
+            "Mycogène",
+            "Mentone"
+        ],
+        [
+            "Mycogène",
+            "Novigor"
+        ],
+        [
+            "Dors",
+            "Lissauer"
+        ],
+        [
+            "Dors",
+            "Mentone"
+        ],
+        [
+            "Dors",
+            "Novigor"
+        ],
+        [
+            "Dors",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Lissauer",
+            "Mentone"
+        ],
+        [
+            "Lissauer",
+            "Novigor"
+        ],
+        [
+            "Lissauer",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Lissauer",
+            "Seldon"
+        ],
+        [
+            "Lissauer",
+            "Dors"
+        ],
+        [
+            "Mentone",
+            "Novigor"
+        ],
+        [
+            "Mentone",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Mentone",
+            "Seldon"
+        ],
+        [
+            "Mentone",
+            "Dors"
+        ],
+        [
+            "Novigor",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Novigor",
+            "Seldon"
+        ],
+        [
+            "Novigor",
+            "Dors"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Dors"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Dors Venabili",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Dors Venabili",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Bande céleste Deux"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Seldon",
+            "Mycogène"
+        ],
+        [
+            "Seldon",
+            "Bande céleste Deux"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Hari Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Hari Seldon",
+            "Mycogène"
+        ],
+        [
+            "Hari Seldon",
+            "Bande céleste Deux"
+        ],
+        [
+            "Hari Seldon",
+            "Ancien"
+        ],
+        [
+            "Dors Venabili",
+            "Mycogène"
+        ],
+        [
+            "Dors Venabili",
+            "Bande céleste Deux"
+        ],
+        [
+            "Dors Venabili",
+            "Ancien"
+        ],
+        [
+            "Mycogène",
+            "Bande céleste Deux"
+        ],
+        [
+            "Mycogène",
+            "Ancien"
+        ],
+        [
+            "Bande céleste Deux",
+            "Ancien"
+        ],
+        [
+            "Bande céleste Deux",
+            "Grand Ancien"
+        ],
+        [
+            "Bande céleste Deux",
+            "Seldon"
+        ],
+        [
+            "Bande céleste Deux",
+            "Dors"
+        ],
+        [
+            "Ancien",
+            "Grand Ancien"
+        ],
+        [
+            "Ancien",
+            "Seldon"
+        ],
+        [
+            "Ancien",
+            "Dors"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Grand Ancien",
+            "Dors"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Grand Ancien",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Ancien"
+        ],
+        [
+            "Seldon",
+            "Grand Ancien"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Ancien",
+            "Grand Ancien"
+        ],
+        [
+            "Ancien",
+            "Dors"
+        ],
+        [
+            "Grand Ancien",
+            "Dors"
+        ],
+        [
+            "Grand Ancien",
+            "Dors"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Grand Ancien",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Seldon",
+            "Mycélium Soixante douze"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Ancien"
+        ],
+        [
+            "Mycélium Soixante douze",
+            "Hummin"
+        ],
+        [
+            "Ancien",
+            "Hummin"
+        ],
+        [
+            "Ancien",
+            "Mycogénien"
+        ],
+        [
+            "Ancien",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Mycogénien"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Mycogénien",
+            "Hari"
+        ],
+        [
+            "Mycogénien",
+            "Hari"
+        ],
+        [
+            "Mycogénien",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Goutte de Pluie"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Goutte de Pluie",
+            "Mycogène"
+        ],
+        [
+            "Goutte de Pluie",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Mycogène"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Mycogène"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Mycogène",
+            "Dors"
+        ],
+        [
+            "Mycogène",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Aurora\nNovigor\nFrère\nDors\nGoutte de Pluie Quarante cinq\nGrand Ancien\nMycogénien\nAncien\nBande céleste Deux\nTabou\nGoutte de Pluie\nLissauer\nHari\nMycélium Soixante douze\nDors Venabili\nMycélium\nHummin\nMycogène\nSeldon\nHari Seldon\nGoutte de Pluie Quarante trois\nMentone\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Aurora"
+            ],
+            "1": [
+                "Novigor"
+            ],
+            "2": [
+                "Frère"
+            ],
+            "3": [
+                "Dors",
+                "Dors Venabili"
+            ],
+            "4": [
+                "Goutte de Pluie Quarante cinq",
+                "Goutte de Pluie",
+                "Goutte de Pluie Quarante trois"
+            ],
+            "5": [
+                "Grand Ancien",
+                "Ancien"
+            ],
+            "6": [
+                "Mycogénien",
+                "Mycogène"
+            ],
+            "7": [
+                "Bande céleste Deux"
+            ],
+            "8": [
+                "Tabou"
+            ],
+            "9": [
+                "Lissauer"
+            ],
+            "10": [
+                "Hari",
+                "Hari Seldon"
+            ],
+            "11": [
+                "Mycélium Soixante douze",
+                "Mycélium"
+            ],
+            "12": [
+                "Hummin"
+            ],
+            "13": [
+                "Seldon"
+            ],
+            "14": [
+                "Mentone"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

@@ -1,0 +1,1276 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "Dors SELDON, HARI. — ... On a coutume d’évoquer Hari Seldon uniquement à propos de la psychohistoire, de ne voir en lui que l’incarnation des mathématiques et du changement social. Sans nul doute a-t-il lui-même encouragé cette vision des choses car nulle part, dans ses écrits officiels, il ne donne le moindre indice sur la manière dont il a résolu les divers problèmes posés par la psychohistoire. A l’en croire, l’intuition aurait aussi bien pu lui tomber du ciel. De même qu’il ne nous dit rien",
+        "entities": [
+            {
+                "start": 0,
+                "end": 2,
+                "word": "Dors SELDON"
+            },
+            {
+                "start": 11,
+                "end": 13,
+                "word": "Hari Seldon"
+            },
+            {
+                "start": 161,
+                "end": 163,
+                "word": "Raych Seldon"
+            },
+            {
+                "start": 192,
+                "end": 193,
+                "word": "Seldon"
+            },
+            {
+                "start": 236,
+                "end": 237,
+                "word": "Hummin"
+            },
+            {
+                "start": 239,
+                "end": 240,
+                "word": "Seldon"
+            },
+            {
+                "start": 267,
+                "end": 268,
+                "word": "Hummin"
+            },
+            {
+                "start": 317,
+                "end": 319,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 328,
+                "end": 329,
+                "word": "Mycogéniens"
+            },
+            {
+                "start": 474,
+                "end": 476,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 540,
+                "end": 541,
+                "word": "Hummin"
+            },
+            {
+                "start": 574,
+                "end": 576,
+                "word": "Mère Rittah"
+            },
+            {
+                "start": 664,
+                "end": 665,
+                "word": "Hari"
+            },
+            {
+                "start": 786,
+                "end": 787,
+                "word": "Seldon"
+            },
+            {
+                "start": 799,
+                "end": 803,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 829,
+                "end": 830,
+                "word": "Dors"
+            },
+            {
+                "start": 849,
+                "end": 850,
+                "word": "Mycogéniens"
+            },
+            {
+                "start": 885,
+                "end": 886,
+                "word": "Tisalver"
+            },
+            {
+                "start": 943,
+                "end": 944,
+                "word": "Cléon"
+            },
+            {
+                "start": 998,
+                "end": 1002,
+                "word": "Mannix IV de Kan"
+            },
+            {
+                "start": 1158,
+                "end": 1159,
+                "word": "Mannix"
+            },
+            {
+                "start": 1166,
+                "end": 1167,
+                "word": "Rachelle"
+            },
+            {
+                "start": 1169,
+                "end": 1170,
+                "word": "Maire"
+            },
+            {
+                "start": 1195,
+                "end": 1196,
+                "word": "Dors"
+            },
+            {
+                "start": 1235,
+                "end": 1236,
+                "word": "Hummin"
+            },
+            {
+                "start": 1273,
+                "end": 1274,
+                "word": "Hummin"
+            },
+            {
+                "start": 1324,
+                "end": 1325,
+                "word": "Seldon"
+            },
+            {
+                "start": 1439,
+                "end": 1440,
+                "word": "Hummin"
+            },
+            {
+                "start": 1448,
+                "end": 1449,
+                "word": "Seldon"
+            },
+            {
+                "start": 1627,
+                "end": 1628,
+                "word": "Daneel"
+            },
+            {
+                "start": 1817,
+                "end": 1821,
+                "word": "Maître du Soleil Quatorze"
+            },
+            {
+                "start": 2061,
+                "end": 2062,
+                "word": "Seldon"
+            },
+            {
+                "start": 2071,
+                "end": 2073,
+                "word": "Maître Robot"
+            },
+            {
+                "start": 2089,
+                "end": 2090,
+                "word": "Daneel"
+            },
+            {
+                "start": 2127,
+                "end": 2128,
+                "word": "Daneel"
+            },
+            {
+                "start": 2452,
+                "end": 2453,
+                "word": "Daneel"
+            },
+            {
+                "start": 2460,
+                "end": 2461,
+                "word": "Seldon"
+            },
+            {
+                "start": 2467,
+                "end": 2468,
+                "word": "Daneel"
+            },
+            {
+                "start": 2473,
+                "end": 2474,
+                "word": "Hari"
+            },
+            {
+                "start": 2556,
+                "end": 2557,
+                "word": "Daneel"
+            },
+            {
+                "start": 2575,
+                "end": 2576,
+                "word": "Seldon"
+            },
+            {
+                "start": 2603,
+                "end": 2604,
+                "word": "Daneel"
+            },
+            {
+                "start": 2648,
+                "end": 2649,
+                "word": "Seldon"
+            },
+            {
+                "start": 2705,
+                "end": 2706,
+                "word": "Dors"
+            },
+            {
+                "start": 2712,
+                "end": 2713,
+                "word": "Seldon"
+            },
+            {
+                "start": 2721,
+                "end": 2722,
+                "word": "Daneel"
+            },
+            {
+                "start": 2759,
+                "end": 2760,
+                "word": "Daneel"
+            },
+            {
+                "start": 2764,
+                "end": 2765,
+                "word": "Hari"
+            },
+            {
+                "start": 2780,
+                "end": 2781,
+                "word": "Dors"
+            },
+            {
+                "start": 2794,
+                "end": 2795,
+                "word": "Raych"
+            },
+            {
+                "start": 2817,
+                "end": 2819,
+                "word": "Yugo Amaryl"
+            },
+            {
+                "start": 2825,
+                "end": 2826,
+                "word": "Raych"
+            },
+            {
+                "start": 2909,
+                "end": 2910,
+                "word": "Hummin"
+            },
+            {
+                "start": 2913,
+                "end": 2914,
+                "word": "Seldon"
+            },
+            {
+                "start": 2945,
+                "end": 2946,
+                "word": "Daneel"
+            },
+            {
+                "start": 2978,
+                "end": 2979,
+                "word": "Dors"
+            },
+            {
+                "start": 3025,
+                "end": 3026,
+                "word": "Dors"
+            },
+            {
+                "start": 3043,
+                "end": 3044,
+                "word": "Dors"
+            },
+            {
+                "start": 3064,
+                "end": 3065,
+                "word": "Dors"
+            },
+            {
+                "start": 3076,
+                "end": 3077,
+                "word": "Hari"
+            },
+            {
+                "start": 3088,
+                "end": 3089,
+                "word": "Hummin"
+            },
+            {
+                "start": 3167,
+                "end": 3168,
+                "word": "Hummin"
+            },
+            {
+                "start": 3184,
+                "end": 3185,
+                "word": "Seldon"
+            },
+            {
+                "start": 3191,
+                "end": 3192,
+                "word": "Hummin"
+            },
+            {
+                "start": 3248,
+                "end": 3249,
+                "word": "Dors"
+            },
+            {
+                "start": 3307,
+                "end": 3308,
+                "word": "Dors"
+            },
+            {
+                "start": 3338,
+                "end": 3339,
+                "word": "Dors"
+            },
+            {
+                "start": 3374,
+                "end": 3375,
+                "word": "Hummin"
+            },
+            {
+                "start": 3380,
+                "end": 3381,
+                "word": "Demerzel"
+            },
+            {
+                "start": 3385,
+                "end": 3386,
+                "word": "Daneel"
+            },
+            {
+                "start": 3405,
+                "end": 3406,
+                "word": "Dors"
+            },
+            {
+                "start": 3426,
+                "end": 3427,
+                "word": "Dors"
+            },
+            {
+                "start": 3430,
+                "end": 3431,
+                "word": "Hari"
+            },
+            {
+                "start": 3488,
+                "end": 3489,
+                "word": "Hari"
+            },
+            {
+                "start": 3517,
+                "end": 3518,
+                "word": "Hari"
+            },
+            {
+                "start": 3561,
+                "end": 3562,
+                "word": "Hari"
+            },
+            {
+                "start": 3570,
+                "end": 3571,
+                "word": "Dors"
+            },
+            {
+                "start": 3617,
+                "end": 3618,
+                "word": "Dors"
+            },
+            {
+                "start": 3625,
+                "end": 3626,
+                "word": "Hari"
+            },
+            {
+                "start": 3642,
+                "end": 3643,
+                "word": "Hari"
+            },
+            {
+                "start": 3685,
+                "end": 3686,
+                "word": "Seldon"
+            },
+            {
+                "start": 3706,
+                "end": 3707,
+                "word": "Dors"
+            },
+            {
+                "start": 3774,
+                "end": 3775,
+                "word": "Hari"
+            },
+            {
+                "start": 3808,
+                "end": 3809,
+                "word": "Dors"
+            }
+        ]
+    },
+    "entities": [
+        "Daneel",
+        "Dors SELDON",
+        "Cléon",
+        "Maître Robot",
+        "Mycogéniens",
+        "Dors",
+        "Maître du Soleil Quatorze",
+        "Tisalver",
+        "Hari",
+        "Raych",
+        "Yugo Amaryl",
+        "Rachelle",
+        "Mannix IV de Kan",
+        "Demerzel",
+        "Raych Seldon",
+        "Mannix",
+        "Maire",
+        "Hummin",
+        "Seldon",
+        "Hari Seldon",
+        "Mère Rittah"
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "Maître Robot",
+            "Demerzel"
+        ],
+        [
+            "Dors SELDON",
+            "Dors"
+        ],
+        [
+            "Cléon"
+        ],
+        [
+            "Mycogéniens"
+        ],
+        [
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Tisalver"
+        ],
+        [
+            "Hari",
+            "Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Raych Seldon"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Rachelle"
+        ],
+        [
+            "Mannix IV de Kan",
+            "Mannix"
+        ],
+        [
+            "Maire"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Mère Rittah"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Dors SELDON",
+            "Hari Seldon"
+        ],
+        [
+            "Raych Seldon",
+            "Seldon"
+        ],
+        [
+            "Raych Seldon",
+            "Hummin"
+        ],
+        [
+            "Raych Seldon",
+            "Seldon"
+        ],
+        [
+            "Raych Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Mère Rittah"
+        ],
+        [
+            "Hummin",
+            "Mycogéniens"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Mère Rittah"
+        ],
+        [
+            "Seldon",
+            "Mycogéniens"
+        ],
+        [
+            "Hummin",
+            "Mère Rittah"
+        ],
+        [
+            "Hummin",
+            "Mycogéniens"
+        ],
+        [
+            "Mère Rittah",
+            "Mycogéniens"
+        ],
+        [
+            "Mère Rittah",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Mère Rittah"
+        ],
+        [
+            "Mère Rittah",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Maître du Soleil Quatorze"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Mycogéniens"
+        ],
+        [
+            "Seldon",
+            "Tisalver"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Dors"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Mycogéniens"
+        ],
+        [
+            "Maître du Soleil Quatorze",
+            "Tisalver"
+        ],
+        [
+            "Dors",
+            "Mycogéniens"
+        ],
+        [
+            "Dors",
+            "Tisalver"
+        ],
+        [
+            "Mycogéniens",
+            "Tisalver"
+        ],
+        [
+            "Mycogéniens",
+            "Cléon"
+        ],
+        [
+            "Tisalver",
+            "Cléon"
+        ],
+        [
+            "Tisalver",
+            "Mannix IV de Kan"
+        ],
+        [
+            "Cléon",
+            "Mannix IV de Kan"
+        ],
+        [
+            "Mannix",
+            "Rachelle"
+        ],
+        [
+            "Mannix",
+            "Maire"
+        ],
+        [
+            "Mannix",
+            "Dors"
+        ],
+        [
+            "Mannix",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Maire"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Maire",
+            "Dors"
+        ],
+        [
+            "Maire",
+            "Hummin"
+        ],
+        [
+            "Maire",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître Robot"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Maître Robot",
+            "Daneel"
+        ],
+        [
+            "Maître Robot",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Daneel"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Daneel"
+        ],
+        [
+            "Dors",
+            "Daneel"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Yugo Amaryl"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Daneel",
+            "Raych"
+        ],
+        [
+            "Daneel",
+            "Yugo Amaryl"
+        ],
+        [
+            "Daneel",
+            "Raych"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Daneel",
+            "Raych"
+        ],
+        [
+            "Daneel",
+            "Yugo Amaryl"
+        ],
+        [
+            "Daneel",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Hari",
+            "Yugo Amaryl"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Yugo Amaryl"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Yugo Amaryl"
+        ],
+        [
+            "Raych",
+            "Hummin"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl",
+            "Hummin"
+        ],
+        [
+            "Yugo Amaryl",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Hummin"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Daneel"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Daneel"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Demerzel"
+        ],
+        [
+            "Dors",
+            "Daneel"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Dors",
+            "Demerzel"
+        ],
+        [
+            "Dors",
+            "Daneel"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Daneel"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Hummin",
+            "Hari"
+        ],
+        [
+            "Demerzel",
+            "Daneel"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Hari"
+        ],
+        [
+            "Demerzel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Seldon"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    Daneel\nDors SELDON\nCléon\nMaître Robot\nMycogéniens\nDors\nMaître du Soleil Quatorze\nTisalver\nHari\nRaych\nYugo Amaryl\nRachelle\nMannix IV de Kan\nDemerzel\nRaych Seldon\nMannix\nMaire\nHummin\nSeldon\nHari Seldon\nMère Rittah\nOutput : ",
+        "generated_content": {
+            "0": [
+                "Daneel",
+                "Maître Robot",
+                "Demerzel"
+            ],
+            "1": [
+                "Dors SELDON",
+                "Dors"
+            ],
+            "2": [
+                "Cléon"
+            ],
+            "3": [
+                "Mycogéniens"
+            ],
+            "4": [
+                "Maître du Soleil Quatorze"
+            ],
+            "5": [
+                "Tisalver"
+            ],
+            "6": [
+                "Hari",
+                "Hari Seldon",
+                "Seldon"
+            ],
+            "7": [
+                "Raych",
+                "Raych Seldon"
+            ],
+            "8": [
+                "Yugo Amaryl"
+            ],
+            "9": [
+                "Rachelle"
+            ],
+            "10": [
+                "Mannix IV de Kan",
+                "Mannix"
+            ],
+            "11": [
+                "Maire"
+            ],
+            "12": [
+                "Hummin"
+            ],
+            "13": [
+                "Mère Rittah"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "avaient créé l’incident de s’en aller ; mais c’était là un inconvénient moins grave... Baley ouvrit la porte en se servant de son passe-partout de policier. A sa vive surprise, il constata que R. Daneel était toujours sur ses talons, et qu’il remettait en poche un autre passe-partout qu’il possédait ; or, Baley dut convenir que cet objet-là était plus petit, mieux fait et plus pratique que celui en usage dans les services de la police new-yorkaise. Le bottier vint à eux, fort agité, et leur dit",
+        "entities": [
+            {
+                "start": 18,
+                "end": 19,
+                "word": "Baley"
+            },
+            {
+                "start": 40,
+                "end": 43,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "word": "Baley"
+            },
+            {
+                "start": 163,
+                "end": 164,
+                "word": "Baley"
+            },
+            {
+                "start": 501,
+                "end": 502,
+                "word": "Lije"
+            },
+            {
+                "start": 520,
+                "end": 521,
+                "word": "Baley"
+            },
+            {
+                "start": 827,
+                "end": 828,
+                "word": "Baley"
+            },
+            {
+                "start": 930,
+                "end": 933,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1017,
+                "end": 1018,
+                "word": "Baley"
+            },
+            {
+                "start": 1319,
+                "end": 1322,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1393,
+                "end": 1396,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1508,
+                "end": 1509,
+                "word": "Daneel"
+            },
+            {
+                "start": 1537,
+                "end": 1538,
+                "word": "Baley"
+            },
+            {
+                "start": 1637,
+                "end": 1640,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1690,
+                "end": 1693,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1716,
+                "end": 1717,
+                "word": "ROBOT"
+            },
+            {
+                "start": 1801,
+                "end": 1802,
+                "word": "Elijah"
+            },
+            {
+                "start": 1940,
+                "end": 1943,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2116,
+                "end": 2117,
+                "word": "Baley"
+            },
+            {
+                "start": 2197,
+                "end": 2198,
+                "word": "Baley"
+            },
+            {
+                "start": 2210,
+                "end": 2213,
+                "word": "R . Daneel"
+            }
+        ]
+    },
+    "entities": [
+        "R . Daneel",
+        "Elijah",
+        "Daneel",
+        "Lije",
+        "Baley",
+        "ROBOT"
+    ],
+    "aliases": [
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Lije",
+            "Baley"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "ROBOT"
+        ],
+        [
+            "R . Daneel",
+            "ROBOT"
+        ],
+        [
+            "ROBOT",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    R . Daneel\nElijah\nDaneel\nLije\nBaley\nROBOT\nOutput : ",
+        "generated_content": {
+            "0": [
+                "R . Daneel",
+                "Daneel"
+            ],
+            "1": [
+                "Elijah",
+                "Lije",
+                "Baley"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}

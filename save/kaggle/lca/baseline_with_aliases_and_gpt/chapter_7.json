@@ -1,0 +1,1069 @@
+{
+    "experiment_details": "\n    gpt-4-1106-preview avec 1 exemples de donné en prompt.\n    ",
+    "chunk_0": {
+        "chunk": "— J’espère que vous ne lui avez pas dit que Daneel était un robot ! — Bien sûr que non ! Enderby, pas du tout détendu, ne cessa de manipuler machinalement le calendrier automatique de son bureau. — Est-ce que ça marche ? demanda-t-il. — C’est plutôt pénible ! — Je suis désolé, Lije... — Vous auriez tout de même pu me prévenir, dit Baley d’une voix dure, qu’il avait tout à fait l’air d’un homme. — Comment, je ne l’avais pas fait ? répliqua le commissaire en prenant l’air surpris. Mais pourtant !",
+        "entities": [
+            {
+                "start": 10,
+                "end": 11,
+                "word": "Daneel"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "word": "Enderby"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "word": "Lije"
+            },
+            {
+                "start": 70,
+                "end": 71,
+                "word": "Baley"
+            },
+            {
+                "start": 136,
+                "end": 139,
+                "word": "R . Sammy"
+            },
+            {
+                "start": 208,
+                "end": 209,
+                "word": "Lije"
+            },
+            {
+                "start": 267,
+                "end": 268,
+                "word": "Daneel"
+            },
+            {
+                "start": 309,
+                "end": 310,
+                "word": "Baley"
+            },
+            {
+                "start": 337,
+                "end": 340,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 354,
+                "end": 355,
+                "word": "Enderby"
+            },
+            {
+                "start": 431,
+                "end": 432,
+                "word": "Baley"
+            },
+            {
+                "start": 587,
+                "end": 588,
+                "word": "Enderby"
+            },
+            {
+                "start": 594,
+                "end": 595,
+                "word": "Baley"
+            },
+            {
+                "start": 708,
+                "end": 709,
+                "word": "Baley"
+            },
+            {
+                "start": 715,
+                "end": 716,
+                "word": "Enderby"
+            },
+            {
+                "start": 777,
+                "end": 778,
+                "word": "Baley"
+            },
+            {
+                "start": 828,
+                "end": 829,
+                "word": "Baley"
+            },
+            {
+                "start": 1075,
+                "end": 1076,
+                "word": "Baley"
+            },
+            {
+                "start": 1224,
+                "end": 1227,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1332,
+                "end": 1333,
+                "word": "Baley"
+            },
+            {
+                "start": 1364,
+                "end": 1365,
+                "word": "Baley"
+            },
+            {
+                "start": 1376,
+                "end": 1377,
+                "word": "Daneel"
+            },
+            {
+                "start": 1396,
+                "end": 1397,
+                "word": "Baley"
+            },
+            {
+                "start": 1413,
+                "end": 1416,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1542,
+                "end": 1543,
+                "word": "Baley"
+            },
+            {
+                "start": 1598,
+                "end": 1599,
+                "word": "Baley"
+            },
+            {
+                "start": 1632,
+                "end": 1633,
+                "word": "Baley"
+            },
+            {
+                "start": 1748,
+                "end": 1751,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 1792,
+                "end": 1793,
+                "word": "Baley"
+            },
+            {
+                "start": 1877,
+                "end": 1878,
+                "word": "Baley"
+            },
+            {
+                "start": 2032,
+                "end": 2033,
+                "word": "Baley"
+            },
+            {
+                "start": 2170,
+                "end": 2171,
+                "word": "Baley"
+            },
+            {
+                "start": 2227,
+                "end": 2230,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2251,
+                "end": 2252,
+                "word": "Elijah"
+            },
+            {
+                "start": 2269,
+                "end": 2270,
+                "word": "Baley"
+            },
+            {
+                "start": 2319,
+                "end": 2322,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2327,
+                "end": 2328,
+                "word": "Elijah"
+            },
+            {
+                "start": 2357,
+                "end": 2358,
+                "word": "Baley"
+            },
+            {
+                "start": 2425,
+                "end": 2426,
+                "word": "Baley"
+            },
+            {
+                "start": 2525,
+                "end": 2526,
+                "word": "Baley"
+            },
+            {
+                "start": 2542,
+                "end": 2545,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2572,
+                "end": 2573,
+                "word": "Baley"
+            },
+            {
+                "start": 2590,
+                "end": 2593,
+                "word": "Dr Han Fastolfe"
+            },
+            {
+                "start": 2597,
+                "end": 2598,
+                "word": "Baley"
+            },
+            {
+                "start": 2606,
+                "end": 2609,
+                "word": "Dr Han Fastolfe"
+            },
+            {
+                "start": 2638,
+                "end": 2639,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 2653,
+                "end": 2654,
+                "word": "Daneel"
+            },
+            {
+                "start": 2672,
+                "end": 2673,
+                "word": "Baley"
+            },
+            {
+                "start": 2688,
+                "end": 2691,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2731,
+                "end": 2732,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 2737,
+                "end": 2740,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 2755,
+                "end": 2756,
+                "word": "Baley"
+            },
+            {
+                "start": 2834,
+                "end": 2835,
+                "word": "Baley"
+            },
+            {
+                "start": 2892,
+                "end": 2893,
+                "word": "Baley"
+            },
+            {
+                "start": 2945,
+                "end": 2946,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 2975,
+                "end": 2977,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 2983,
+                "end": 2984,
+                "word": "Enderby"
+            },
+            {
+                "start": 3006,
+                "end": 3007,
+                "word": "Baley"
+            },
+            {
+                "start": 3031,
+                "end": 3033,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 3051,
+                "end": 3052,
+                "word": "Enderby"
+            },
+            {
+                "start": 3104,
+                "end": 3106,
+                "word": "Dr Fastolfe"
+            },
+            {
+                "start": 3128,
+                "end": 3131,
+                "word": "R . Daneel"
+            },
+            {
+                "start": 3139,
+                "end": 3140,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 3151,
+                "end": 3152,
+                "word": "Baley"
+            },
+            {
+                "start": 3170,
+                "end": 3171,
+                "word": "Enderby"
+            },
+            {
+                "start": 3185,
+                "end": 3186,
+                "word": "Fastolfe"
+            },
+            {
+                "start": 3195,
+                "end": 3196,
+                "word": "Baley"
+            },
+            {
+                "start": 3213,
+                "end": 3215,
+                "word": "Dr Sarton"
+            },
+            {
+                "start": 3241,
+                "end": 3242,
+                "word": "Baley"
+            },
+            {
+                "start": 3249,
+                "end": 3253,
+                "word": "R . Daneel Olivaw"
+            }
+        ]
+    },
+    "entities": [
+        "R . Daneel",
+        "Elijah",
+        "R . Sammy",
+        "Fastolfe",
+        "Daneel",
+        "Dr Han Fastolfe",
+        "Dr Fastolfe",
+        "R . Daneel Olivaw",
+        "Dr Sarton",
+        "Lije",
+        "Enderby",
+        "Baley"
+    ],
+    "aliases": [
+        [
+            "R . Daneel",
+            "Daneel",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Elijah",
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Dr Han Fastolfe",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Sarton"
+        ],
+        [
+            "Enderby"
+        ]
+    ],
+    "cooccurences": [
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Daneel",
+            "Lije"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Daneel"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "Baley",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "Baley",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Fastolfe"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Daneel"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Han Fastolfe"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Fastolfe"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Daneel"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Han Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Fastolfe"
+        ],
+        [
+            "Daneel",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "Enderby"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "Dr Fastolfe"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Dr Sarton",
+            "Fastolfe"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Dr Fastolfe"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "Enderby",
+            "Fastolfe"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Dr Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Dr Fastolfe",
+            "Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Enderby"
+        ],
+        [
+            "Dr Fastolfe",
+            "Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Enderby"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Enderby",
+            "Fastolfe"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "R . Daneel Olivaw"
+        ]
+    ],
+    "gpt": {
+        "system_prompt": "\nTu es un expert dans les livres \"La Fondation\" de Isaac Asimov.\nTon but est d'à partir d'une liste de personnes de déterminer qui est qui en faisant un regroupement. Chaque regroupement représente une personne avec toutes ses références.\n\nPour réaliser ce regroupement, base toi sur la sémantique des mots, notamment le genre, les titres, les ressemblances typographiques, etc. \n\nDonne ta réponse sous le format JSON suivant, et ne dévie pas de cette tâche :\n\n{\n   '0' : [reference_1, …],\n   '1' : [reference_1, …],\n}\n\nChaque entrée du JSON correspond à un personnage et à l'ensemble de ses références. La clef est un chiffre qui donne la position dans le JSON. La position n’a pas d’importance.\n\nVoici des exemples pour t'aider :\n\nExample 1 : \n\nInput:\nCLÉON Ier\nEmpereur\nCléon\nSire\nl'Empereur\nl'empereur Cléon\nHari Seldon\nSeldon\nEto Demerzel\nDemerzel\nLieutenant Alban Wellis\nWellis\nHummin\nTrantor\n\nOutput:\n{\n    '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],\n    '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],\n    '2' : ['Lieutenant Alban Wellis', 'Wellis'],\n    '3' : ['Hummin'],\n}\n\nTu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. \nTu as le droit de supprimer des personnes si tu penses qu'ils ne sont pas des personnages du livre. En effet, le système qui prédit un personnage peut se tromper, et tu dois le corriger.\n\nFais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !\n    ",
+        "user_prompt": "\n\n    Input : \n    R . Daneel\nElijah\nR . Sammy\nFastolfe\nDaneel\nDr Han Fastolfe\nDr Fastolfe\nR . Daneel Olivaw\nDr Sarton\nLije\nEnderby\nBaley\nOutput : ",
+        "generated_content": {
+            "0": [
+                "R . Daneel",
+                "Daneel",
+                "R . Daneel Olivaw"
+            ],
+            "1": [
+                "Elijah",
+                "Lije",
+                "Baley"
+            ],
+            "2": [
+                "Fastolfe",
+                "Dr Han Fastolfe",
+                "Dr Fastolfe"
+            ],
+            "3": [
+                "Dr Sarton"
+            ],
+            "4": [
+                "Enderby"
+            ]
+        },
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}
