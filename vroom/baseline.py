@@ -3,23 +3,16 @@ r"""  Pipeline for cooccurences extraction with baseline methods
 Authors
 --------
  * Nicolas Bataille 2023
- * Adel Moumen 2023
+ * Adel Moumen 2023, 2024
  * Gabriel Desbouis 2023
 """
-from vroom.NER import (
-    get_entities_from_file,
-    chunk_text,
-    read_file,
-    tag_text_with_entities_v2,
-    search_names_with_determinants,
-)
-from vroom.alias import get_aliases_fuzzy_partial_token, get_aliases_fuzzy
+from vroom.NER import get_entities_from_file
+from vroom.alias import get_aliases_fuzzy_partial_token
 from vroom.cooccurences import get_cooccurences
 from vroom.loggers import JSONLogger
 from openai import OpenAI
+from vroom.NER import *
 import json
-import os
-import re
 
 
 def get_cooccurences_from_text(path: str):
@@ -35,7 +28,6 @@ def get_cooccurences_from_text(path: str):
 
     entities, chunks = get_entities_from_file(path)
     return get_cooccurences(chunks, entities)
-
 
 def find_cooccurences_aliases(cooccurences, aliases):
     no_alias_1_list = []
@@ -72,108 +64,11 @@ def find_cooccurences_aliases(cooccurences, aliases):
             if cooccurence[1].lower() in [a.lower() for a in alias]
         ]
 
-        if (
-            cooc_1_aliases
-            and cooc_2_aliases
-            and cooc_1_aliases[0] != cooc_2_aliases[0]
-        ):
+        if cooc_1_aliases and cooc_2_aliases and cooc_1_aliases[0] != cooc_2_aliases[0]:
             cooccurrences_aliases.append((cooc_1_aliases[0], cooc_2_aliases[0]))
 
     print("aliases: ", aliases)
     return cooccurrences_aliases
-
-
-def separate_words(text):
-    # Use regular expression to find words and punctuation, including special words like <PER> and </PERS>
-    words = re.findall(r"\b\w+\b|[.,;!?<>«\'»/]+|<PER>|</PER>", text)
-    return words
-
-
-def merge_special_words(word_list):
-    merged_list = []
-    current_word = ""
-
-    for word in word_list:
-        if word in ["<", "PER", "</", ">"]:
-            current_word += word
-            if word == ">":
-                merged_list.append(current_word)
-                current_word = ""
-        else:
-            if current_word:
-                merged_list.append(current_word)
-                current_word = ""
-            merged_list.append(word)
-
-    if current_word:
-        merged_list.append(current_word)
-
-    return merged_list
-
-
-# def get_positions_of_entities(text):
-#     words = separate_words(text)
-#     with open("words.txt", "w") as f:
-#         f.write(str(words))
-#     words = merge_special_words(words)
-#     with open("words_merged.txt", "w") as f:
-#         f.write(str(words))
-#     positions = {}
-#     current_entity = []
-#     current_entity_start = 0
-#     current_entity_end = 0
-#     i = 0
-#     for word in words:
-#         if word == "<PER>":
-#             current_entity = []
-#             current_entity_start = i
-#         elif word == "</PER>":
-#             current_entity_end = i
-#             positions[(current_entity_start, current_entity_end)] = " ".join(
-#                 current_entity
-#             )
-#         else:
-#             i += 1
-#             current_entity.append(word)
-#     return positions
-
-
-def get_positions_of_entities(text):
-    words = text.split(" ")
-
-    positions = []
-    current_entity = []
-    current_entity_start = 0
-    current_entity_end = 0
-    i = 0
-    for word in words:
-        if word == "<PER>":
-            current_entity = []
-            current_entity_start = i
-        elif word == "</PER>":
-            current_entity_end = i
-            word = " ".join(current_entity)
-
-            positions.append(
-                {
-                    "word": word,
-                    "start": current_entity_start,
-                    "end": current_entity_end,
-                }
-            )
-        else:
-            i += len(word) + 1
-            current_entity.append(word)
-
-    return positions
-
-
-def build_list_of_dicts(input_dict):
-    result = []
-    for key, value in input_dict.items():
-        new_dict = {"start": int(key[0]), "end": int(key[1]), "word": value}
-        result.append(new_dict)
-    return result
 
 
 def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
@@ -187,56 +82,25 @@ def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
     Returns:
         list: A list of tuples representing the interactions between entities in the text.
     """
-    entities, chunks = get_entities_from_file(path, device="cuda")
-
-    # Determinants augmentation
-    all_entities_names = []
-    for chunk in entities:
-        all_entities_names += [entity["word"] for entity in chunk]
-    entities = set(all_entities_names)
-
-    augmented_entities = []
-
-    for chunk in chunks:
-        augmented_entities += search_names_with_determinants(chunk, entities)
-
-    augmented_entities = set(augmented_entities)
-
-    entities = entities.union(augmented_entities)
-
-    tagged_text = tag_text_with_entities_v2(path, entities)
-    # with open(path + ".tagged", "w") as f:
-    #     f.write(tagged_text)
-
-    entities = [get_positions_of_entities(tagged_text)]
-    whole_text = [read_file(path)]
-
-    cooccurences = get_cooccurences(whole_text, entities)
+    entities, chunks = get_entities_from_file(path)
+    cooccurences = get_cooccurences(chunks, entities)
     entities_unfold = [entity for sublist in entities for entity in sublist]
     aliases = get_aliases_fuzzy_partial_token(entities_unfold, 99)
 
-    if logger is not None:
+    if logger is not None: 
         saves = {}
         for i, (chunk, entity) in enumerate(zip(chunks, entities)):
             saves[f"chunk_{i}"] = {
                 "chunk": chunk,
                 "entities": entity,
             }
-        saves["entities"] = list(
-            set([entity["word"] for entity in entities_unfold])
-        )
+        saves["entities"] = list(set([entity["word"] for entity in entities_unfold]))
         saves["aliases"] = aliases
         saves["cooccurences"] = cooccurences
         logger(saves)
 
     cooccurences_aliases = find_cooccurences_aliases(cooccurences, aliases)
-    print("cooccurences_aliases: ", cooccurences_aliases)
-    exit()
     return cooccurences_aliases
-
-
-# TODO: Idée de solving d'alias : Récup tout les alias de tout les chapitres du livre, puis construire par chapitre la liste d'alias correspondante
-
 
 def get_cooccurences_with_aliases_and_gpt(path: str, logger: JSONLogger = None):
     """
