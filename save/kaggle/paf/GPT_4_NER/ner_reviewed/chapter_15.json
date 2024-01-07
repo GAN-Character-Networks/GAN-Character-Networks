@@ -1,0 +1,305 @@
+{
+    "experiment_details": "\n     gpt-4-1106-preview + 4 sentences per batch\n     ",
+    "chunk_0": {
+        "chunk": " Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver.",
+        "ner_chunk": "Clandestins @@DAVAN##. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène @@Davan## ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré @@Hari Seldon## à l’époque où... ENCYCLOPAEDIA GALACTICA @@Hari Seldon## et @@Dors Venabili## avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver."
+    },
+    "chunk_1": {
+        "chunk": "Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra. Son signal à la porte fut (ou parut) bien timide. Le timbre ne retentit pas longtemps. Seldon ouvrit la porte et lança plaisamment : « Bien le bonsoir, Maître Tisalver.",
+        "ner_chunk": "Output : Ils s’étaient changés et se trouvaient dans la chambre de @@Seldon## quand le maître de maison rentra. Son signal à la porte fut (ou parut) bien timide. Le timbre ne retentit pas longtemps. @@Seldon## ouvrit la porte et lança plaisamment : « Bien le bonsoir, Maître @@Tisalver##."
+    },
+    "chunk_2": {
+        "chunk": "Et Maîtresse. » Celle-ci se tenait juste derrière son mari, le front plissé de rides perplexes. Comme hésitant sur la conduite à tenir, Tisalver hasarda : « Vous allez bien, Maîtresse Venabili et vous ? » Il hochait la tête, comme pour tenter de suggérer par la gestuelle une réponse affirmative.",
+        "ner_chunk": "Output : Et @@Maîtresse##. » Celle-ci se tenait juste derrière son mari, le front plissé de rides perplexes. Comme hésitant sur la conduite à tenir, @@Tisalver## hasarda : « Vous allez bien, @@Maîtresse Venabili## et vous ? » Il hochait la tête, comme pour tenter de suggérer par la gestuelle une réponse affirmative."
+    },
+    "chunk_3": {
+        "chunk": "« Tout à fait bien. Nous avons fait l’aller-retour à Billibotton sans aucun problème et nous nous sommes lavés et changés. Il ne reste aucune odeur. » Ce disant, Seldon haussa le — Mon amour, intervint son mari, apaisant, ne fâchons pas nos... — Et pourquoi ?",
+        "ner_chunk": "Output : « Tout à fait bien. Nous avons fait l’aller-retour à Billibotton sans aucun problème et nous nous sommes lavés et changés. Il ne reste aucune odeur. » Ce disant, @@Seldon## haussa le — Mon amour, intervint @@son mari##, apaisant, ne fâchons pas nos... — Et pourquoi ?"
+    },
+    "chunk_4": {
+        "chunk": "cracha-t-elle avec mépris. Ses couteaux te font peur ? Il ferait beau voir qu’elle s’en serve. — Je n’ai aucune intention de m’en servir ici, rétorqua Dors en reniflant aussi fort que son interlocutrice.",
+        "ner_chunk": "Output : cracha-t-elle avec mépris. Ses couteaux te font peur ? Il ferait beau voir qu’elle s’en serve. — Je n’ai aucune intention de m’en servir ici, rétorqua @@Dors## en reniflant aussi fort que son interlocutrice."
+    },
+    "chunk_5": {
+        "chunk": "De quelle racaille parlez-vous ? — Ce que veut dire mon épouse, c’est qu’un garnement de Billibotton – du moins, à en juger par son apparence – désire vous voir et que nous ne sommes pas accoutumés à ce genre de choses dans le quartier. Cela nuit à notre standing. » Cela dit sur un ton d’excuse.",
+        "ner_chunk": "Output : De quelle racaille parlez-vous ? — Ce que veut dire mon épouse, c’est qu’un garnement de Billibotton – du moins, à en juger par son apparence – désire vous voir et que nous ne sommes pas accoutumés à ce genre de choses dans le quartier. Cela nuit à notre standing. » Cela dit sur un ton d’excuse."
+    },
+    "chunk_6": {
+        "chunk": "« Eh bien, Maître Tisalver, dit Seldon, nous allons sortir, voir de quoi il retourne et renvoyer ce garçon à ses affaires dès que... — Non, attendez, coupa Dors exaspérée. Nous sommes dans nos appartements. Nous avons payé pour cela. C’est à nous de décider qui nous rend ou non visite.",
+        "ner_chunk": "Output : « Eh bien, @@Maître Tisalver##, dit @@Seldon##, nous allons sortir, voir de quoi il retourne et renvoyer ce garçon à ses affaires dès que... — Non, attendez, coupa @@Dors## exaspérée. Nous sommes dans nos appartements. Nous avons payé pour cela. C’est à nous de décider qui nous rend ou non visite."
+    },
+    "chunk_7": {
+        "chunk": "S’il y a dehors un jeune homme de Billibotton, c’est tout de même un Dahlite. Plus important, c’est un Trantorien. Plus important encore, c’est un citoyen de l’Empire et un être humain. Et surtout, en demandant à nous voir, il devient notre hôte.",
+        "ner_chunk": "Output : S’il y a dehors un jeune homme de @@Billibotton##, c’est tout de même un Dahlite. Plus important, c’est un Trantorien. Plus important encore, c’est un citoyen de l’Empire et un être humain. Et surtout, en demandant à nous voir, il devient notre hôte."
+    },
+    "chunk_8": {
+        "chunk": "Par conséquent, nous l’invitons à entrer. » Maîtresse Tisalver ne bougea pas. Son mari lui-même parut hésiter. Dors insista : « Puisque vous dites que nous avons tué une centaine de brigands à Billibotton, vous n’allez sûrement pas croire que c’est un garçon ou même deux qui me feraient peur.",
+        "ner_chunk": "Output : Par conséquent, nous l’invitons à entrer. » @@Maîtresse Tisalver## ne bougea pas. Son mari lui-même parut hésiter. @@Dors## insista : « Puisque vous dites que nous avons tué une centaine de brigands à Billibotton, vous n’allez sûrement pas croire que c’est un garçon ou même deux qui me feraient peur."
+    },
+    "chunk_9": {
+        "chunk": "» Sa main droite tomba négligemment à sa ceinture. Tisalver intervint avec une soudaine énergie : « Maîtresse Venabili, loin de nous l’intention de vous offenser. Bien entendu, ces chambres sont à vous et vous pouvez y recevoir qui bon vous semble. » Il battit en retraite, entraînant sa femme, après ce brusque éclat – une marque de résolution qu’il allait sans doute payer cher.",
+        "ner_chunk": "Output : » Sa main droite tomba négligemment à sa ceinture. @@Tisalver## intervint avec une soudaine énergie : « @@Maîtresse Venabili##, loin de nous l’intention de vous offenser. Bien entendu, ces chambres sont à vous et vous pouvez y recevoir qui bon vous semble. » Il battit en retraite, entraînant sa femme, après ce brusque éclat – une marque de résolution qu’il allait sans doute payer cher."
+    },
+    "chunk_10": {
+        "chunk": "Dors les regarda sans ciller. Seldon sourit sèchement. « Voilà qui ne vous ressemble guère, Dors. Moi qui me croyais un Don Quichotte prompt à foncer tête baissée dans les ennuis tandis que vous étiez la — Rien.",
+        "ner_chunk": "Output : @@Dors## les regarda sans ciller. @@Seldon## sourit sèchement. « Voilà qui ne vous ressemble guère, @@Dors##. Moi qui me croyais un Don Quichotte prompt à foncer tête baissée dans les ennuis tandis que vous étiez la — Rien."
+    },
+    "chunk_11": {
+        "chunk": "Suffit de les chambrer un peu. On lance : ― Hé, poulette, laisse-moi te... ‖ Il s’interrompit, se ravisa et dit : « Rien. — Eh bien, avertit Dors, n’essaie pas avec moi. — Vous blaguez ?",
+        "ner_chunk": "Output : Suffit de les chambrer un peu. On lance : ― Hé, poulette, laisse-moi te... ‖ Il s’interrompit, se ravisa et dit : « Rien. — Eh bien, avertit @@Dors##, n’essaie pas avec moi. — Vous blaguez ?"
+    },
+    "chunk_12": {
+        "chunk": "Après c’que vous avez fait à Marron ? Hé, princesse, où avez-vous appris à vous battre comme ça ? — Sur ma planète. — Vous pourriez m’apprendre ?",
+        "ner_chunk": "Output : Après c’que vous avez fait à @@Marron## ? Hé, @@princesse##, où avez-vous appris à vous battre comme ça ? — Sur ma planète. — Vous pourriez m’apprendre ?"
+    },
+    "chunk_13": {
+        "chunk": "— Tu es venu me voir pour ça ? — A vrai dire, non. J’suis venu pour porter comme qui dirait un message. — De quelqu’un qui veut se battre avec moi ?",
+        "ner_chunk": "Output : — Tu es venu me voir pour ça ? — A vrai dire, non. J’suis venu pour porter comme qui dirait un message. — De quelqu’un qui veut se battre avec moi ?"
+    },
+    "chunk_14": {
+        "chunk": "— Personne veut se battre avec vous, princesse. Écoutez, z’avez une réputation, à présent. Tout l’monde vous connaît. Z’avez qu’à vous balader dans c’te bon vieux Billibotton et tous les mecs s’écarteront pour vous laisser passer, avec un grand sourire et en faisant gaffe à pas vous loucher d’ssus.",
+        "ner_chunk": "Output : — Personne veut se battre avec vous, @@princesse##. Écoutez, z’avez une réputation, à présent. Tout l’monde vous connaît. Z’avez qu’à vous balader dans c’te bon vieux Billibotton et tous les mecs s’écarteront pour vous laisser passer, avec un grand sourire et en faisant gaffe à pas vous loucher d’ssus."
+    },
+    "chunk_15": {
+        "chunk": "Ça, princesse, vous avez réussi votre coup. C’est bien pour ça qu’y veut vous voir. — Qui donc, au juste, Raych ? demanda Seldon.",
+        "ner_chunk": "Output : Ça, @@princesse##, vous avez réussi votre coup. C’est bien pour ça qu’y veut vous voir. — Qui donc, au juste, @@Raych## ? demanda @@Seldon##."
+    },
+    "chunk_16": {
+        "chunk": "— Un mec nommé Davan. — Et qui est-ce ? — Un mec, c’est tout. Y vit à Billibotton et y porte pas de couteau.",
+        "ner_chunk": "Output : — Un mec nommé @@Davan##. — Et qui est-ce ? — Un mec, c’est tout. Y vit à Billibotton et y porte pas de couteau."
+    },
+    "chunk_17": {
+        "chunk": "— Et il reste en vie, Raych ? — Y lit vach’ment et il aide les mecs quand y z’ont des ennuis avec le gouvernement. Alors, on lui fiche plus ou moins la paix. Il a pas besoin de couteau.",
+        "ner_chunk": "Output : — Et il reste en vie, @@Raych## ? — Y lit vach’ment et il aide les mecs quand y z’ont des ennuis avec le gouvernement. Alors, on lui fiche plus ou moins la paix. Il a pas besoin de couteau."
+    },
+    "chunk_18": {
+        "chunk": "— Alors, pourquoi n’est-il pas venu lui-même ? remarqua Dors. Pourquoi t’avoir envoyé ? — L’aime pas c’coin.",
+        "ner_chunk": "Output : — Alors, pourquoi n’est-il pas venu lui-même ? remarqua @@Dors##. Pourquoi t’avoir envoyé ? — L’aime pas c’coin."
+    },
+    "chunk_19": {
+        "chunk": "Y dit qu’ça l’fait gerber. Y dit qu’tous les gens d’ici s’aplatissent devant l’gouvernement, qu’ils lui lèchent le... » Il s’interrompit, considéra les deux Exos et reprit : « Bref, il a pas voulu v’nir. Il a dit qu’on m’laisserait passer pasque j’suis qu’un mioche. » Il sourit.",
+        "ner_chunk": "Output : Y dit qu’ça l’fait gerber. Y dit qu’tous les gens d’ici s’aplatissent devant @@l’gouvernement##, qu’ils lui lèchent le... » Il s’interrompit, considéra les deux Exos et reprit : « Bref, il a pas voulu v’nir. Il a dit qu’on m’laisserait passer pasque j’suis qu’un mioche. » Il sourit."
+    },
+    "chunk_20": {
+        "chunk": "« Z’ont presque failli, non ? J’veux dire, la dame, là, qui f’sait une tête comme si elle sentait quequ’chose. » Il se tut soudain, confus, et se contempla. « D’où que j’viens, on a pas guère de chance de s’laver souvent.",
+        "ner_chunk": "Output : « Z’ont presque failli, non ? J’veux dire, la dame, là, qui f’sait une tête comme si elle sentait quequ’chose. » Il se tut soudain, confus, et se contempla. « D’où que j’viens, on a pas guère de chance de s’laver souvent."
+    },
+    "chunk_21": {
+        "chunk": "Tout le monde avait les yeux braqués sur eux. Quand il fut manifeste que les deux Exos avaient remarqué l’attention dont ils étaient l’objet, un murmure parcourut la foule, comme si un tonnerre d’applaudissements allait éclater d’une seconde à l’autre. « Maintenant, constata Dors, je vois ce que Maîtresse Tisalver trouvait gênant. J’aurais dû être plus compréhensive.",
+        "ner_chunk": "Output : Tout le monde avait les yeux braqués sur eux. Quand il fut manifeste que les deux Exos avaient remarqué l’attention dont ils étaient l’objet, un murmure parcourut la foule, comme si un tonnerre d’applaudissements allait éclater d’une seconde à l’autre. « Maintenant, constata @@Dors##, je vois ce que @@Maîtresse Tisalver## trouvait gênant. J’aurais dû être plus compréhensive."
+    },
+    "chunk_22": {
+        "chunk": "» La foule était en majorité composée de gens pauvrement vêtus, et il n’y avait pas besoin d’être grand clerc pour deviner que la plupart venaient de Billibotton. Sur une impulsion, Seldon sourit et leva la main en un timide salut qui fut accueilli par des vivats. Une voix, perdue dans l’anonymat de la foule, lança : « Est-ce que la p’tite dame peut nous faire une démonstration au couteau ? » Quand Dors répondit du tac au tac : « Non, je ne dévoile mes armes secrètes que lorsqu’on m’excite », il y eut un éclat de rire général.",
+        "ner_chunk": "» La foule était en majorité composée de gens pauvrement vêtus, et il n’y avait pas besoin d’être grand clerc pour deviner que la plupart venaient de Billibotton. Sur une impulsion, @@Seldon## sourit et leva la main en un timide salut qui fut accueilli par des vivats. Une voix, perdue dans l’anonymat de la foule, lança : « Est-ce que la p’tite dame peut nous faire une démonstration au couteau ? » Quand @@Dors## répondit du tac au tac : « Non, je ne dévoile mes armes secrètes que lorsqu’on m’excite », il y eut un éclat de rire général."
+    },
+    "chunk_23": {
+        "chunk": "Un homme s’avança. Manifestement, il n’était pas de Billibotton et rien chez lui n’évoquait le Dahlite. Déjà, il n’arborait qu’une fine moustache, et celle-ci était châtain et non brune. Il se présenta : « Marlo Tanto, de la H.V.",
+        "ner_chunk": "Output : Un homme s’avança. Manifestement, il n’était pas de Billibotton et rien chez lui n’évoquait le Dahlite. Déjà, il n’arborait qu’une fine moustache, et celle-ci était châtain et non brune. Il se présenta : « @@Marlo Tanto##, de la H.V."
+    },
+    "chunk_24": {
+        "chunk": "trantorienne. Pouvons-nous vous prendre pour notre journal du soir ? — Non, fit Dors sèchement. Pas d’interviews.",
+        "ner_chunk": "Output : trantorienne. Pouvons-nous vous prendre pour notre journal du soir ? — Non, fit @@Dors## sèchement. Pas d’interviews."
+    },
+    "chunk_25": {
+        "chunk": "» Le journaliste ne se démonta pas. « Je crois savoir que vous vous êtes battue contre un grand nombre d’individus à Billibotton – et que vous avez gagné... » Il sourit. « C’est une info, ça, non ? — Non.",
+        "ner_chunk": "Output : » Le journaliste ne se démonta pas. « Je crois savoir que vous vous êtes battue contre un grand nombre d’individus à Billibotton – et que vous avez gagné... » Il sourit. « C’est une info, ça, non ? — Non."
+    },
+    "chunk_26": {
+        "chunk": "Nous avons rencontré un petit groupe d’hommes, nous leur avons parlé, puis nous avons poursuivi notre chemin. C’est tout ce qu’il y a à dire et tout ce que vous obtiendrez. — Quel est votre nom ? Vous n’avez pas l’air d’être de Trantor.",
+        "ner_chunk": "Output : Nous avons rencontré un petit groupe d’hommes, nous leur avons parlé, puis nous avons poursuivi notre chemin. C’est tout ce qu’il y a à dire et tout ce que vous obtiendrez. — Quel est votre nom ? Vous n’avez pas l’air d’être de Trantor."
+    },
+    "chunk_27": {
+        "chunk": "— Je n’ai pas de nom. — Et votre ami ? — Il n’a pas de nom. » Le journaliste eut l’air embêté.",
+        "ner_chunk": "Output : — Je n’ai pas de nom. — Et votre ami ? — Il n’a pas de nom. » Le journaliste eut l’air embêté."
+    },
+    "chunk_28": {
+        "chunk": "« Bon, écoutez, madame. Vous êtes un scoop et moi j’essaie simplement de faire mon boulot. » Raych tira Dors par la manche. Elle se pencha pour écouter les quelques mots qu’il lui chuchota avec insistance.",
+        "ner_chunk": "Output : « Bon, écoutez, madame. Vous êtes un scoop et moi j’essaie simplement de faire mon boulot. » @@Raych## tira @@Dors## par la manche. Elle se pencha pour écouter les quelques mots qu’il lui chuchota avec insistance."
+    },
+    "chunk_29": {
+        "chunk": "« C’est comme ça qu’il aime vivre, expliqua Raych. Toujours à déménager, un jour ici, un jour là... Enfin, vous voyez, jamais au même endroit. — Pourquoi ? — Pour se protéger, princesse.",
+        "ner_chunk": "Output : « C’est comme ça qu’il aime vivre, expliqua @@Raych##. Toujours à déménager, un jour ici, un jour là... Enfin, vous voyez, jamais au même endroit. — Pourquoi ? — Pour se protéger, @@princesse##."
+    },
+    "chunk_30": {
+        "chunk": "— De quoi ? — Du gouvernement. — Pourquoi le gouvernement en voudrait-il à Davan ? — Ch’sais pas, princesse.",
+        "ner_chunk": "Output : — De quoi ? — Du gouvernement. — Pourquoi le gouvernement en voudrait-il à @@Davan## ? — Ch’sais pas, @@princesse##."
+    },
+    "chunk_31": {
+        "chunk": "Savez quoi ? J’vais vous dire où y vit et comment y aller, et vous y allez toute seule, si vous voulez pas que j’vous accompagne. » Seldon s’interposa : « Non, non, Raych. Je suis sûr qu’on se perdra, sans toi.",
+        "ner_chunk": "Output : Savez quoi ? J’vais vous dire où y vit et comment y aller, et vous y allez toute seule, si vous voulez pas que j’vous accompagne. » @@Seldon## s’interposa : « Non, non, @@Raych##. Je suis sûr qu’on se perdra, sans toi."
+    },
+    "chunk_32": {
+        "chunk": "En fait, il vaudrait même mieux que tu attendes qu’on ait fini pour nous ramener. » Aussitôt, Raych demanda : « Qu’est-ce vous m’donnez en échange ? Z’espérez p’t-être que j’vais traîner là à attraper la dalle ? — Tu traînes là à attraper la dalle, Raych, et je te paie à dîner.",
+        "ner_chunk": "Output : En fait, il vaudrait même mieux que tu attendes qu’on ait fini pour nous ramener. » Aussitôt, @@Raych## demanda : « Qu’est-ce vous m’donnez en échange ? Z’espérez p’t-être que j’vais traîner là à attraper la dalle ? — Tu traînes là à attraper la dalle, @@Raych##, et je te paie à dîner."
+    },
+    "chunk_33": {
+        "chunk": "Ce que tu voudras. — C’est c’que vous dites maintenant, m’sieur. Qu’est-ce qui me l’prouve ? » La main de Dors jaillit, révélant un couteau, lame sortie.",
+        "ner_chunk": "Output : Ce que tu voudras. — C’est c’que vous dites maintenant, m’sieur. Qu’est-ce qui me l’prouve ? » La main de @@Dors## jaillit, révélant un couteau, lame sortie."
+    },
+    "chunk_34": {
+        "chunk": "« Tu ne nous traiterais pas de menteurs, par hasard, Raych ? » L’intéressé ouvrit tout grand les yeux. La menace n’avait pas l’air de l’effrayer. « Hé, fit-il.",
+        "ner_chunk": "Output : « Tu ne nous traiterais pas de menteurs, par hasard, @@Raych## ? » L’intéressé ouvrit tout grand les yeux. La menace n’avait pas l’air de l’effrayer. « Hé, fit-il."
+    },
+    "chunk_35": {
+        "chunk": "J’vous ai même pas vu faire. Vous pouvez recommencer ? — Plus tard – si tu es toujours là. Sinon... (Dors le fusilla du regard) on ira te chercher.",
+        "ner_chunk": "Output : J’vous ai même pas vu faire. Vous pouvez recommencer ? — Plus tard – si tu es toujours là. Sinon... (@@Dors## le fusilla du regard) on ira te chercher."
+    },
+    "chunk_36": {
+        "chunk": "— Oh, princesse, allez ! Vous irez pas me chercher. C’est pas vot’genre ! Mais j’s’rai là.",
+        "ner_chunk": "Output : — Oh, @@princesse##, allez ! Vous irez pas me chercher. C’est pas vot’genre ! Mais j’s’rai là."
+    },
+    "chunk_37": {
+        "chunk": "» Il prit une pause avantageuse. « Parole. » Sur quoi, il reprit la tête du cortège en silence, tandis que le bruit de leurs semelles résonnait dans les coursives vides. Davan leva les yeux quand ils entrèrent, et son regard mauvais s’adoucit quand il vit Raych.",
+        "ner_chunk": "Output : » Il prit une pause avantageuse. « Parole. » Sur quoi, il reprit la tête du cortège en silence, tandis que le bruit de leurs semelles résonnait dans les coursives vides. @@Davan## leva les yeux quand ils entrèrent, et son regard mauvais s’adoucit quand il vit @@Raych##."
+    },
+    "chunk_38": {
+        "chunk": "D’un geste bref, il indiqua les deux autres, l’air interrogateur. « Ce sont eux », dit Raych. Et il ressortit. Seldon se présenta : « Je suis Hari Seldon.",
+        "ner_chunk": "Output : D’un geste bref, il indiqua les deux autres, l’air interrogateur. « Ce sont eux », dit @@Raych##. Et il ressortit. @@Seldon## se présenta : « Je suis @@Hari Seldon##."
+    },
+    "chunk_39": {
+        "chunk": "La jeune femme est Dors Venabili. » — Il ne peut pas vous atteindre ouvertement, mais l’Empire n’est pas obligé de travailler ouvertement. Pour ma part, je vous conseillerais de disparaître... pour de bon. — Comme vous... » Seldon regarda alentour, un peu écœuré.",
+        "ner_chunk": "Output : La jeune femme est @@Dors Venabili##. » — Il ne peut pas vous atteindre ouvertement, mais @@l’Empire## n’est pas obligé de travailler ouvertement. Pour ma part, je vous conseillerais de disparaître... pour de bon. — Comme vous... » @@Seldon## regarda alentour, un peu écœuré."
+    },
+    "chunk_40": {
+        "chunk": "La pièce était aussi désolée que les corridors qu’ils venaient d’emprunter. L’odeur de moisi était omniprésente et tout était parfaitement déprimant. « Oui, dit Davan. Vous pourriez nous être utile.",
+        "ner_chunk": "Output : La pièce était aussi désolée que les corridors qu’ils venaient d’emprunter. L’odeur de moisi était omniprésente et tout était parfaitement déprimant. « Oui, dit @@Davan##. Vous pourriez nous être utile."
+    },
+    "chunk_41": {
+        "chunk": "— Comment ça ? — Vous avez parlé à un jeune homme du nom de Yugo Amaryl. — C’est exact. — Amaryl dit que vous pouvez prédire l’avenir.",
+        "ner_chunk": "Output : — Comment ça ? — Vous avez parlé à un jeune homme du nom de @@Yugo Amaryl##. — C’est exact. — @@Amaryl## dit que vous pouvez prédire l’avenir."
+    },
+    "chunk_42": {
+        "chunk": "» Seldon poussa un gros soupir. Il en avait assez d’être planté là, debout dans cette pièce vide. Dors s’était assise sur un coussin, il y en avait bien d’autres mais ils n’avaient pas l’air trop propres. Et il n’avait pas non plus envie de s’adosser au mur couvert de moisissures.",
+        "ner_chunk": "Output : » @@Seldon## poussa un gros soupir. Il en avait assez d’être planté là, debout dans cette pièce vide. @@Dors## s’était assise sur un coussin, il y en avait bien d’autres mais ils n’avaient pas l’air trop propres. Et il n’avait pas non plus envie de s’adosser au mur couvert de moisissures."
+    },
+    "chunk_43": {
+        "chunk": "Il remarqua : « Ou vous avez mal compris Amaryl, ou c’est lui qui m’a mal compris. Tout ce que j’ai fait, c’est de démontrer qu’il est possible de choisir des conditions initiales à partir desquelles la prévision historique n’est plus condamnée à aboutir au chaos mais peut devenir opérationnelle dans certaines limites. Que pourraient être ces conditions initiales, je l’ignore pour l’instant, et je ne suis pas sûr qu’elles puissent être découvertes par un seul chercheur quelconque – ou par plusieurs – dans un laps de temps défini. Est-ce que vous me suivez ?",
+        "ner_chunk": "Il remarqua : « Ou vous avez mal compris @@Amaryl##, ou c’est lui qui m’a mal compris. Tout ce que j’ai fait, c’est de démontrer qu’il est possible de choisir des conditions initiales à partir desquelles la prévision historique n’est plus condamnée à aboutir au chaos mais peut devenir opérationnelle dans certaines limites. Que pourraient être ces conditions initiales, je l’ignore pour l’instant, et je ne suis pas sûr qu’elles puissent être découvertes par un seul chercheur quelconque – ou par plusieurs – dans un laps de temps défini. Est-ce que vous me suivez ?"
+    },
+    "chunk_44": {
+        "chunk": "— Non. » Nouveau soupir de Seldon. « Alors, laissez-moi essayer à nouveau. Il est possible de prédire l’avenir mais il n’est peut- être pas possible de trouver comment tirer parti de cette possibilité.",
+        "ner_chunk": "Output : — Non. » Nouveau soupir de @@Seldon##. « Alors, laissez-moi essayer à nouveau. Il est possible de prédire l’avenir mais il n’est peut-être pas possible de trouver comment tirer parti de cette possibilité."
+    },
+    "chunk_45": {
+        "chunk": "Là, est-ce que vous me suivez ? » Davan considéra Seldon, l’air sombre, puis Dors : « Alors, vous ne pouvez donc pas prédire le futur. — Maintenant, vous y êtes, Maître Davan. — Appelez-moi Davan, tout court.",
+        "ner_chunk": "Output : Là, est-ce que vous me suivez ? » @@Davan## considéra @@Seldon##, l’air sombre, puis @@Dors## : « Alors, vous ne pouvez donc pas prédire le futur. — Maintenant, vous y êtes, @@Maître Davan##. — Appelez-moi @@Davan##, tout court."
+    },
+    "chunk_46": {
+        "chunk": "Mais peut-être qu’un jour vous apprendrez à prédire l’avenir. — C’est concevable. — Alors, c’est pour ça que l’Empire vous recherche. cet état de fait, par principe.",
+        "ner_chunk": "Output : Mais peut-être qu’un jour vous apprendrez à prédire l’avenir. — C’est concevable. — Alors, c’est pour ça que @@l’Empire## vous recherche. cet état de fait, par principe."
+    },
+    "chunk_47": {
+        "chunk": "Dahl est capable de créer de sérieux ennuis. Que les puisatiers thermiques se mettent en grève et Trantor subira presque aussitôt une grave pénurie d’énergie... avec toutes les conséquences que ça implique. Toutefois, la bourgeoisie même de Dahl s’empressera de payer les voyous de Billibotton – et d’ailleurs – pour se battre contre les puisatiers et briser la grève. Ça s’est déjà vu.",
+        "ner_chunk": "Input : Dahl est capable de créer de sérieux ennuis. Que les puisatiers thermiques se mettent en grève et Trantor subira presque aussitôt une grave pénurie d’énergie... avec toutes les conséquences que ça implique. Toutefois, la bourgeoisie même de Dahl s’empressera de payer les voyous de Billibotton – et d’ailleurs – pour se battre contre les puisatiers et briser la grève. Ça s’est déjà vu.\n\nOutput : Dahl est capable de créer de sérieux ennuis. Que les puisatiers thermiques se mettent en grève et Trantor subira presque aussitôt une grave pénurie d’énergie... avec toutes les conséquences que ça implique. Toutefois, la bourgeoisie même de Dahl s’empressera de payer les voyous de Billibotton – et d’ailleurs – pour se battre contre les puisatiers et briser la grève. Ça s’est déjà vu."
+    },
+    "chunk_48": {
+        "chunk": "L’Empire laisse certains Dahlites prospérer – comparativement – pour mieux les convertir en laquais de l’impérialisme, tout en refusant d’appliquer les lois sur la limitation du port d’arme assez efficacement pour affaiblir la criminalité. « Le gouvernement impérial fait cela partout – et pas seulement à Dahl. Il ne peut plus imposer sa volonté par la force, comme jadis. Aujourd’hui, Trantor est devenue si complexe, son équilibre si fragile, que les forces impériales doivent éviter toute ingérence directe... — Une forme de décadence, observa Seldon qui se souvenait des plaintes de Hummin.",
+        "ner_chunk": "L’Empire laisse certains Dahlites prospérer – comparativement – pour mieux les convertir en laquais de l’impérialisme, tout en refusant d’appliquer les lois sur la limitation du port d’arme assez efficacement pour affaiblir la criminalité. « Le gouvernement impérial fait cela partout – et pas seulement à Dahl. Il ne peut plus imposer sa volonté par la force, comme jadis. Aujourd’hui, Trantor est devenue si complexe, son équilibre si fragile, que les forces impériales doivent éviter toute ingérence directe... — Une forme de décadence, observa @@Seldon## qui se souvenait des plaintes de @@Hummin##."
+    },
+    "chunk_49": {
+        "chunk": "— Quoi ? — Rien, continuez. » Davan poursuivit : « Les forces impériales doivent éviter toute ingérence directe mais, même ainsi, elles ont découvert qu’il leur reste une importante marge de manœuvre. Ainsi encourage-t-on chaque secteur à se méfier de ses voisins.",
+        "ner_chunk": "Output : — Quoi ? — Rien, continuez. » @@Davan## poursuivit : « Les forces impériales doivent éviter toute ingérence directe mais, même ainsi, elles ont découvert qu’il leur reste une importante marge de manœuvre. Ainsi encourage-t-on chaque secteur à se méfier de ses voisins."
+    },
+    "chunk_50": {
+        "chunk": "A l’intérieur de chaque secteur, on encourage une certaine forme de lutte des classes. Le résultat est que, sur l’ensemble de Trantor, toute unité d’action des forces populaires est devenue impossible. Partout, les gens préfèrent se battre contre eux plutôt que faire front commun contre la tyrannie centrale, de sorte que l’Empire peut régner sans avoir à recourir à la force. — Et selon vous, quel serait le remède ?",
+        "ner_chunk": "Input : A l’intérieur de chaque secteur, on encourage une certaine forme de lutte des classes. Le résultat est que, sur l’ensemble de Trantor, toute unité d’action des forces populaires est devenue impossible. Partout, les gens préfèrent se battre contre eux plutôt que faire front commun contre la tyrannie centrale, de sorte que l’Empire peut régner sans avoir à recourir à la force. — Et selon vous, quel serait le remède ?\n\nOutput : A l’intérieur de chaque secteur, on encourage une certaine forme de lutte des classes. Le résultat est que, sur l’ensemble de Trantor, toute unité d’action des forces populaires est devenue impossible. Partout, les gens préfèrent se battre contre eux plutôt que faire front commun contre la tyrannie centrale, de sorte que @@l’Empire## peut régner sans avoir à recourir à la force. — Et selon vous, quel serait le remède ?"
+    },
+    "chunk_51": {
+        "chunk": "demanda Dors. — Depuis des années, j’essaie d’instaurer un sentiment de solidarité parmi les peuples de Trantor. — Je peux seulement supposer, observa Seldon d’un ton neutre, que la tâche doit vous paraître presque insurmontable et particulièrement ingrate. — Vous supposez bien, reconnut Davan, mais le parti se renforce.",
+        "ner_chunk": "Output : demanda @@Dors##. — Depuis des années, j’essaie d’instaurer un sentiment de solidarité parmi les peuples de Trantor. — Je peux seulement supposer, observa @@Seldon## d’un ton neutre, que la tâche doit vous paraître presque insurmontable et particulièrement ingrate. — Vous supposez bien, reconnut @@Davan##, mais le parti se renforce."
+    },
+    "chunk_52": {
+        "chunk": "Bon nombre de nos surineurs commencent à se rendre compte qu’il y a mieux à faire avec les couteaux que de s’entretuer. Ceux qui vous ont attaqués dans les corridors de pas vraiment étudié l’histoire. Je le regrette. Cela me manque énormément.",
+        "ner_chunk": "Output : Bon nombre de nos surineurs commencent à se rendre compte qu’il y a mieux à faire avec les couteaux que de s’entretuer. Ceux qui vous ont attaqués dans les corridors de pas vraiment étudié l’histoire. Je le regrette. Cela me manque énormément."
+    },
+    "chunk_53": {
+        "chunk": "— C’est moi l’historienne, Davan, indiqua Dors d’un ton égal, et je peux dire quelques petites choses, si vous le désirez. — Je vous en prie, faites donc », répondit Davan, sur un ton situé entre la politesse et le défi. « Pour commencer, l’histoire de la Galaxie a connu bien des révolutions qui ont renversé des tyrannies, parfois sur une planète isolée, parfois sur un ensemble de planètes, voire dans l’Empire tout entier ou au sein des gouvernements régionaux de la période pré-impériale. Souvent, cela n’a signifié qu’un changement de tyrannie.",
+        "ner_chunk": "— C’est moi @@l’historienne, Davan##, indiqua @@Dors## d’un ton égal, et je peux dire quelques petites choses, si vous le désirez. — Je vous en prie, faites donc », répondit @@Davan##, sur un ton situé entre la politesse et le défi. « Pour commencer, l’histoire de la Galaxie a connu bien des révolutions qui ont renversé des tyrannies, parfois sur une planète isolée, parfois sur un ensemble de planètes, voire dans l’Empire tout entier ou au sein des gouvernements régionaux de la période pré-impériale. Souvent, cela n’a signifié qu’un changement de tyrannie."
+    },
+    "chunk_54": {
+        "chunk": "En d’autres termes, une classe dirigeante est remplacée par une autre – parfois plus efficace et par conséquent plus apte à se maintenir au pouvoir –, et les pauvres et les déshérités restent pauvres et déshérités sauf si leur situation empire. » Davan, qui avait écouté attentivement, remarqua : « J’en suis parfaitement conscient. Nous le sommes tous. Peut-être pouvons-nous tirer les leçons du passé et savoir ainsi ce qu’il faut éviter.",
+        "ner_chunk": "En d’autres termes, une classe dirigeante est remplacée par une autre – parfois plus efficace et par conséquent plus apte à se maintenir au pouvoir –, et les pauvres et les déshérités restent pauvres et déshérités sauf si leur situation empire. » @@Davan##, qui avait écouté attentivement, remarqua : « J’en suis parfaitement conscient. Nous le sommes tous. Peut-être pouvons-nous tirer les leçons du passé et savoir ainsi ce qu’il faut éviter."
+    },
+    "chunk_55": {
+        "chunk": "En outre, la tyrannie qui existe aujourd’hui est réelle. Celle qui peut exister dans l’avenir n’est jamais que potentielle. S’il faut constamment reporter le changement sous prétexte que la situation pourrait être pire, alors, il n’y a plus aucun espoir d’échapper à l’injustice. — Un second point que vous ne devez pas oublier, poursuivit Dors, c’est que, même si vous avez le droit pour vous, même si la justice cloue au pilori la tyrannie en place, l’équilibre des forces penche le plus souvent en sa faveur.",
+        "ner_chunk": "En outre, la tyrannie qui existe aujourd’hui est réelle. Celle qui peut exister dans l’avenir n’est jamais que potentielle. S’il faut constamment reporter le changement sous prétexte que la situation pourrait être pire, alors, il n’y a plus aucun espoir d’échapper à l’injustice. — Un second point que vous ne devez pas oublier, poursuivit @@Dors##, c’est que, même si vous avez le droit pour vous, même si la justice cloue au pilori la tyrannie en place, l’équilibre des forces penche le plus souvent en sa faveur."
+    },
+    "chunk_56": {
+        "chunk": "Les émeutes et les manifestations de vos combattants armés de couteaux ne pourront avoir d’effet permanent aussi longtemps qu’ils affrontent une armée équipée d’armes cinétiques, chimiques et neurologiques, et décidée à en faire usage. Vous pourrez bien avoir tous les démunis et même les gens respectables de votre côté, il vous faudra quand même vaincre les forces de sécurité et l’armée impériale, ou du moins affaiblir sérieusement leur loyauté à l’égard du pouvoir. — Trantor est un monde plurigouvernemental. Chaque secteur a ses dirigeants propres et certains sont eux-mêmes opposés à l’Empire.",
+        "ner_chunk": "Les émeutes et les manifestations de vos combattants armés de couteaux ne pourront avoir d’effet permanent aussi longtemps qu’ils affrontent une armée équipée d’armes cinétiques, chimiques et neurologiques, et décidée à en faire usage. Vous pourrez bien avoir tous les démunis et même les gens respectables de votre côté, il vous faudra quand même vaincre les forces de sécurité et @@l’armée impériale##, ou du moins affaiblir sérieusement leur loyauté à l’égard du pouvoir. — @@Trantor## est un monde plurigouvernemental. Chaque secteur a ses dirigeants propres et certains sont eux-mêmes opposés à @@l’Empire##."
+    },
+    "chunk_57": {
+        "chunk": "Si nous pouvions avoir dans notre camp un secteur fort, ça changerait la situation, non ? Nous ne serions possibles, a le plus de chances d’avoir des conséquences apparemment favorables, alors je mettrais mes talents à votre disposition – mais je n’ai rien de tel. Le meilleur moyen pour moi de vous aider, c’est d’essayer de mettre au point la psychohistoire. — Combien de temps cela vous prendra-t-il ?",
+        "ner_chunk": "Output : Si nous pouvions avoir dans notre camp un secteur fort, ça changerait la situation, non ? Nous ne serions possibles, a le plus de chances d’avoir des conséquences apparemment favorables, alors je mettrais mes talents à votre disposition – mais je n’ai rien de tel. Le meilleur moyen pour moi de vous aider, c’est d’essayer de mettre au point la psychohistoire. — Combien de temps cela vous prendra-t-il ?"
+    },
+    "chunk_58": {
+        "chunk": "» Seldon haussa les épaules. « Je n’en sais rien. — Comment pouvez-vous nous demander d’attendre indéfiniment ? — Quel est l’autre terme de l’alternative, puisque je vous suis inutile à l’heure qu’il est ?",
+        "ner_chunk": "Output : » @@Seldon## haussa les épaules. « Je n’en sais rien. — Comment pouvez-vous nous demander d’attendre indéfiniment ? — Quel est l’autre terme de l’alternative, puisque je vous suis inutile à l’heure qu’il est ?"
+    },
+    "chunk_59": {
+        "chunk": "Mais je vous dirai ceci : jusqu’à une période toute récente, j’étais entièrement convaincu de la totale impossibilité de rendre opérationnelle la psychohistoire. Aujourd’hui, je n’en suis plus aussi sûr. — Vous voulez dire que vous avez une solution en tête ? — Non, juste l’intuition qu’il pourrait exister une solution.",
+        "ner_chunk": "Output : Mais je vous dirai ceci : jusqu’à une période toute récente, j’étais entièrement convaincu de la totale impossibilité de rendre opérationnelle la psychohistoire. Aujourd’hui, je n’en suis plus aussi sûr. — Vous voulez dire que vous avez une solution en tête ? — Non, juste l’intuition qu’il pourrait exister une solution."
+    },
+    "chunk_60": {
+        "chunk": "Je n’ai pas encore réussi à localiser ce qui a pu me mettre cette idée en tête. C’est peut-être une illusion, mais j’essaie. Laissez- moi continuer. Peut-être aurons-nous l’occasion de nous revoir.",
+        "ner_chunk": "Output : Je n’ai pas encore réussi à localiser ce qui a pu me mettre cette idée en tête. C’est peut-être une illusion, mais j’essaie. Laissez- moi continuer. Peut-être aurons-nous l’occasion de nous revoir."
+    },
+    "chunk_61": {
+        "chunk": "— Ou peut-être, dit Davan, allez-vous retourner là où vous séjournez en ce moment et tomber finalement dans un piège tendu par l’Empire. Vous vous imaginez peut-être qu’il va vous laisser tranquillement vous débattre avec votre psychohistoire, mais je suis sûr que l’Empereur et son lèche-bottes de Demerzel ne sont pas plus que moi d’humeur à attendre indéfiniment. — Ça ne leur servira à rien de me presser, observa Seldon sans se démonter, puisque je ne suis pas de leur côté mais du vôtre... Allons, venez, Dors. » Ils firent demi-tour, laissant Davan seul dans sa chambre sordide, et retrouvèrent Raych qui les attendait dehors.",
+        "ner_chunk": "— Ou peut-être, dit @@Davan##, allez-vous retourner là où vous séjournez en ce moment et tomber finalement dans un piège tendu par @@l’Empire##. Vous vous imaginez peut-être qu’il va vous laisser tranquillement vous débattre avec votre psychohistoire, mais je suis sûr que @@l’Empereur## et son lèche-bottes de @@Demerzel## ne sont pas plus que moi d’humeur à attendre indéfiniment. — Ça ne leur servira à rien de me presser, observa @@Seldon## sans se démonter, puisque je ne suis pas de leur côté mais du vôtre... Allons, venez, @@Dors##. » Ils firent demi-tour, laissant @@Davan## seul dans sa chambre sordide, et retrouvèrent @@Raych## qui les attendait dehors."
+    },
+    "chunk_62": {
+        "chunk": "Raych finit de manger, se lécha les doigts et froissa le sac qui avait contenu son repas. Une forte odeur d’oignons imprégnait l’air – un rien différente, peut-être à cause des levures. Dors, légèrement incommodée par l’odeur, demanda : « Où as-tu trouvé ça, Raych ? — J’en suis certain, dit Seldon.",
+        "ner_chunk": "Output : @@Raych## finit de manger, se lécha les doigts et froissa le sac qui avait contenu son repas. Une forte odeur d’oignons imprégnait l’air – un rien différente, peut-être à cause des levures. @@Dors##, légèrement incommodée par l’odeur, demanda : « Où as-tu trouvé ça, @@Raych## ? — J’en suis certain, dit @@Seldon##."
+    },
+    "chunk_63": {
+        "chunk": "— Eh bien, nous verrons. Raych, dis-leur de se montrer à découvert, que je puisse les voir. » Elle le lâcha et s’essuya les mains. « Z’êtes un peu tordue dans votre genre, princesse », se lamenta Raych.",
+        "ner_chunk": "Output : — Eh bien, nous verrons. @@Raych##, dis-leur de se montrer à découvert, que je puisse les voir. » Elle le lâcha et s’essuya les mains. « Z’êtes un peu tordue dans votre genre, princesse », se lamenta @@Raych##."
+    },
+    "chunk_64": {
+        "chunk": "Puis il éleva la voix : « A moi, Davan ! Montrez- vous un peu, les mecs ! » Il y eut un temps d’attente puis, sortant d’un porche obscur dans le corridor, deux sombres moustachus apparurent, dont l’un avait la joue balafrée sur toute la longueur. Chacun tenait dans la main un couteau, la lame sortie.",
+        "ner_chunk": "Output : Puis il éleva la voix : « A moi, @@Davan## ! Montrez- vous un peu, les mecs ! » Il y eut un temps d’attente puis, sortant d’un porche obscur dans le corridor, deux sombres moustachus apparurent, dont l’un avait la joue balafrée sur toute la longueur. Chacun tenait dans la main un couteau, la lame sortie."
+    },
+    "chunk_65": {
+        "chunk": "« Il y en a beaucoup d’autres, avec vous ? demanda Dors, d’une voix rude. — Quelques-uns. Ce sont les ordres.",
+        "ner_chunk": "Output : « Il y en a beaucoup d’autres, avec vous ? demanda @@Dors##, d’une voix rude. — Quelques-uns. Ce sont les ordres."
+    },
+    "chunk_66": {
+        "chunk": "Pour vous protéger. Davan tient à votre vie. — Merci. Tâchez d’être encore plus silencieux.",
+        "ner_chunk": "Output : Pour vous protéger. @@Davan## tient à votre vie. — Merci. Tâchez d’être encore plus silencieux."
+    },
+    "chunk_67": {
+        "chunk": "Raych, tu peux avancer. — M’avez tapé alors que j’vous disais la vérité, maugréa Raych, boudeur. — Tu as raison, reconnut Dors. Enfin, je le crois... et je te fais mes excuses.",
+        "ner_chunk": "Output : @@Raych##, tu peux avancer. — M’avez tapé alors que j’vous disais la vérité, maugréa @@Raych##, boudeur. — Tu as raison, reconnut @@Dors##. Enfin, je le crois... et je te fais mes excuses."
+    },
+    "chunk_68": {
+        "chunk": "— J’sais pas si j’dois les accepter, fit Raych en essayant de jouer les durs. Mais d’accord, ça va pour cette fois... » Et il repartit. Quand ils eurent rejoint la galerie principale, leur escorte invisible s’évanouit. Tout du moins, l’oreille affûtée de Dors ne la détecta plus.",
+        "ner_chunk": "Output : — J’sais pas si j’dois les accepter, fit @@Raych## en essayant de jouer les durs. Mais d’accord, ça va pour cette fois... » Et il repartit. Quand ils eurent rejoint la galerie principale, leur escorte invisible s’évanouit. Tout du moins, l’oreille affûtée de @@Dors## ne la détecta plus."
+    },
+    "chunk_69": {
+        "chunk": "Ils progressaient maintenant dans la partie respectable du secteur. Dors remarqua, songeuse : « Je n’ai pas l’impression que nous aurions des vêtements qui t’iraient, Raych. — Qu’est-ce que vous voulez faire d’habits qui m’iraient, m’dame ? » La respectabilité semblait envahir Raych sitôt qu’ils avaient quitté les corridors.",
+        "ner_chunk": "Output : Ils progressaient maintenant dans la partie respectable du secteur. @@Dors## remarqua, songeuse : « Je n’ai pas l’impression que nous aurions des vêtements qui t’iraient, @@Raych##. — Qu’est-ce que vous voulez faire d’habits qui m’iraient, m’dame ? » La respectabilité semblait envahir @@Raych## sitôt qu’ils avaient quitté les corridors."
+    },
+    "chunk_70": {
+        "chunk": "« J’ai des habits. — Je m’étais dit que tu aimerais peut-être venir chez nous prendre un bain. — Pour quoi faire ? J’me laverai un d’ces quatre.",
+        "ner_chunk": "Output : « J’ai des habits. — Je m’étais dit que tu aimerais peut-être venir chez nous prendre un bain. — Pour quoi faire ? J’me laverai un d’ces quatre."
+    },
+    "chunk_71": {
+        "chunk": "Et j’mettrai mon aut’chemise. » Il lorgna Dors, l’air finaud. « Z’êtes embêtée d’m’avoir engueulé, c’est ça ? Z’essayez d’rattraper l’coup ?",
+        "ner_chunk": "Output : Et j’mettrai mon aut’chemise. » Il lorgna @@Dors##, l’air finaud. « Z’êtes embêtée d’m’avoir engueulé, c’est ça ? Z’essayez d’rattraper l’coup ?"
+    },
+    "chunk_72": {
+        "chunk": "» Dors sourit. « Oui. Si tu veux. »",
+        "ner_chunk": "Output : » @@Dors## sourit. « Oui. Si tu veux. »"
+    },
+    "gpt": {
+        "system_prompt": "\n     Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type \"Personnages\" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction \"Le cycle des Fondations\" d'Isaac Asimov. Voici quelques exemples :\n\n     Input : Dors tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n     Output : @@Dors## tendit la main pour le prendre et pianota sur les touches. Il lui fallut un moment car la disposition n’était pas tout à fait orthodoxe, mais elle parvint à allumer l’écran et à inspecter les pages.\n\n     Input : C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois.\n\n     Output : C’est vraiment enfantin, dit @@Goutte-de-Pluie Quarante- cinq##. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit @@Goutte-de-Pluie Quarante-trois##.\n\n     Input : Mathématicien CLÉON Ier— ... dernier Empereur galactique de la\n     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n     année que Hari Seldon. (On pense que la date de naissance de\n     Seldon, que certains estiment douteuse, aurait pu être\n     « ajustée » pour coïncider avec celle de Cléon que Seldon, peu\n     après son arrivée sur Trantor, est censé avoir rencontré.)\n\n     Output : Mathématicien @@CLÉON Ier##— ... dernier @@Empereur## galactique de la\n     dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même\n     année que @@Hari Seldon##. (On pense que la date de naissance de\n     @@Seldon##, que certains estiment douteuse, aurait pu être\n     « ajustée » pour coïncider avec celle de @@Cléon## que @@Seldon##, peu\n     après son arrivée sur Trantor, est censé avoir rencontré.)\n\n     Input : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n     proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n     autorisation des éditeurs.\n     semblerait malgré tout qu’il puisse encore arriver des choses\n     intéressantes. Du moins, à ce que j’ai entendu dire.\n          — Par le ministre des Sciences ?\n          — Effectivement. Il m’a appris que ce Hari Seldon a assisté\n     à un congrès de mathématiciens ici même, à Trantor – ils\n     l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n     aurait démontré qu’on peut prévoir mathématiquement\n\n     Output : Toutes les citations de l'Encyclopaedia Galactica reproduites ici\n     proviennent de la 116e édition, publiée en 1020 E.F. par la Société\n     d’édition de l'Encyclopaedia Galactica, Terminus, avec l'aimable\n     autorisation des éditeurs.\n     semblerait malgré tout qu’il puisse encore arriver des choses\n     intéressantes. Du moins, à ce que j’ai entendu dire.\n          — Par le ministre des Sciences ?\n          — Effectivement. Il m’a appris que ce @@Hari Seldon## a assisté\n     à un congrès de mathématiciens ici même, à Trantor – ils\n     l’organisent tous les dix ans, pour je ne sais quelle raison ; il\n     aurait démontré qu’on peut prévoir mathématiquement\n\n     Input : Seldon savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir l’Empereur ?\n\n     Output : @@Seldon## savait qu’il n’avait pas le choix, nonobstant les circonlocutions polies de l’autre, mais rien ne lui interdisait de chercher à en savoir plus : « Pour voir @@l’Empereur##, @@Sire## ?\n\n     Input : C’est à mi-tirade que Seldon comprit qu’il s’adressait à l’empereur Cléon, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, Cléon\n     \n     Output : C’est à mi-tirade que @@Seldon##  comprit qu’il s’adressait à @@l’empereur Cléon##, premier du nom, ce qui lui coupa la respiration. Il y avait effectivement un vague faux air de ressemblance, maintenant qu’il y regardait de plus près, avec l’hologramme officiel que l’on voyait constamment aux informations, mais sur ces portraits, @@Cléon##\n\n     Je ne dévierais pas de cette tâche et ferais exactement comme dans les exemples. Je recopierais \n     le texte en Input et en Output j'ajouterais le texte et les balises. Si je ne trouve pas de Personnage,\n     je ne mettrais pas de balise. Si je croise un personnage, avec de la ponctuation, je mettrais la balise\n     avant la ponctuation sauf si c'est un mot composé avec des tirets. Garde les determinants avec le nom d'un personnage si tu peux.\n     ",
+        "user_prompt": "\n\n          Input : » Dors sourit. « Oui. Si tu veux. »\n\n          Output : ",
+        "generated_content": "Output : » @@Dors## sourit. « Oui. Si tu veux. »",
+        "params": {
+            "temperature": 0,
+            "seed": 42,
+            "model": "gpt-4-1106-preview"
+        }
+    }
+}
