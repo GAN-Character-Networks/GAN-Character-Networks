@@ -6,11 +6,11 @@
     },
     "chunk_1": {
         "chunk": "« La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ? s’étonna Seldon. — Ouais. Elle voulait être sûre que j’étais bien installé.",
-        "ner_chunk": "Output : « La dame... commença @@Raych##, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ? s’étonna @@Seldon##. — Ouais. Elle voulait être sûre que j’étais bien installé."
+        "ner_chunk": "Output : « La dame... commença @@Raych##, euh, @@la madame Maire## a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ? s’étonna @@Seldon##. — Ouais. Elle voulait être sûre que j’étais bien installé."
     },
     "chunk_2": {
         "chunk": "Elle a dit que, quand elle aurait l’occasion, elle m’emmènerait au zoo. — Au zoo ? » Coup d’œil de Seldon à Dors. « Quel genre de pensionnaires peuvent-ils bien avoir sur Trantor ?",
-        "ner_chunk": "Output : Elle a dit que, quand elle aurait l’occasion, elle m’emmènerait au zoo. — Au zoo ? » Coup d’œil de @@Seldon## à @@Dors##. « Quel genre de pensionnaires peuvent-ils bien avoir sur Trantor ?"
+        "ner_chunk": "Elle a dit que, quand elle aurait l’occasion, elle m’emmènerait au zoo. — Au zoo ? » Coup d’œil de @@Seldon## à @@Dors##. « Quel genre de pensionnaires peuvent-ils bien avoir sur Trantor ?"
     },
     "chunk_3": {
         "chunk": "Des chiens et des chats ? — Il existe quelques espèces aborigènes, indiqua Dors, et j’imagine qu’ils en ont fait venir d’autres mondes, et puis il y a la faune commune à l’ensemble des planètes – même si bien sûr elle est mieux représentée ailleurs. D’ailleurs, Kan est réputée pour son zoo, sans doute le plus beau de la planète, juste après la ménagerie impériale. bien reçu le message mais il n’est pas venu.",
@@ -58,7 +58,7 @@
     },
     "chunk_14": {
         "chunk": "Ne va pas écouter aux portes. Si tu te fais prendre, ça ne servira personne – surtout pas toi. — Allons donc, princesse, pour qui qu’vous m’prenez ? Un mioche, ou quoi ?",
-        "ner_chunk": "Output : Ne va pas écouter aux portes. Si tu te fais prendre, ça ne servira personne – surtout pas toi. — Allons donc, @@princesse##, pour qui qu’vous m’prenez ? Un mioche, ou quoi ?"
+        "ner_chunk": "Output : Ne va pas écouter aux portes. Si tu te fais prendre, ça ne servira personne – surtout pas toi. — Allons donc, princesse, pour qui qu’vous m’prenez ? Un mioche, ou quoi ?"
     },
     "chunk_15": {
         "chunk": "— C’est toi qui viens de le dire, Raych, non ? Contente-toi d’écouter tout ce qui se dit sans en avoir l’air. Et de t’en souvenir. Pour nous le répéter.",
@@ -90,7 +90,7 @@
     },
     "chunk_22": {
         "chunk": "— Je sais. Cela excite vos instincts maternels et on vous a demandé de prendre soin de moi. Mais en quoi suis-je naïf ? — Parce que vous croyez que Rachelle veut vous faire passer pour un prophète auprès de toute la population de l’Empire.",
-        "ner_chunk": "Output : — Je sais. Cela excite vos instincts maternels et on vous a demandé de prendre soin de moi. Mais en quoi suis-je naïf ? — Parce que vous croyez que @@Rachelle## veut vous faire passer pour un prophète auprès de toute la population de @@l’Empire##."
+        "ner_chunk": "Output : — Je sais. Cela excite vos instincts maternels et on vous a demandé de prendre soin de moi. Mais en quoi suis-je naïf ? — Parce que vous croyez que @@Rachelle## veut vous faire passer pour un prophète auprès de toute la population de l’Empire."
     },
     "chunk_23": {
         "chunk": "Ce n’est certainement pas son intention. Il est difficile de faire bouger rapidement des quadrillions d’individus. Il faut compter avec l’inertie sociale et psychologique, au même titre qu’avec l’inertie physique. Et, en se démasquant, elle ne ferait qu’alerter Demerzel.",
@@ -146,7 +146,7 @@
     },
     "chunk_36": {
         "chunk": "Mannix était âgé mais sa force, même usée, était encore visible. Ses yeux refusaient de regarder l’objectif en face et il parlait apparemment sous la contrainte mais – comme on l’avait annoncé – il conseillait à ses concitoyens de garder leur calme, de n’offrir aucune résistance, d’éviter à Kan un bain de sang et de coopérer avec l’Empereur auquel on souhaitait de vivre longtemps sur le trône. « Pas la moindre mention de Rachelle, nota Seldon. C’est comme si sa fille n’existait pas.",
-        "ner_chunk": "@@Mannix## était âgé mais sa force, même usée, était encore visible. Ses yeux refusaient de regarder l’objectif en face et il parlait apparemment sous la contrainte mais – comme on l’avait annoncé – il conseillait à ses concitoyens de garder leur calme, de n’offrir aucune résistance, d’éviter à @@Kan## un bain de sang et de coopérer avec @@l’Empereur## auquel on souhaitait de vivre longtemps sur le trône. « Pas la moindre mention de @@Rachelle##, nota @@Seldon##. C’est comme si sa fille n’existait pas."
+        "ner_chunk": "@@Mannix## était âgé mais sa force, même usée, était encore visible. Ses yeux refusaient de regarder l’objectif en face et il parlait apparemment sous la contrainte mais – comme on l’avait annoncé – il conseillait à ses concitoyens de garder leur calme, de n’offrir aucune résistance, d’éviter à Kan un bain de sang et de coopérer avec @@l’Empereur## auquel on souhaitait de vivre longtemps sur le trône. « Pas la moindre mention de @@Rachelle##, nota @@Seldon##. C’est comme si sa fille n’existait pas."
     },
     "chunk_37": {
         "chunk": "— Personne n’en a parlé, confirma Dors, et cette demeure – qui est après tout sa résidence, ou du moins l’une d’entre elles – n’a pas été attaquée. Même si elle est parvenue à s’échapper et se réfugier dans un secteur voisin, je doute qu’elle soit longtemps en sécurité sur Trantor. — Peut-être pas, répondit une voix, mais ici au moins, je serai tranquille quelque temps. » Rachelle pénétra dans la pièce, normalement habillée, parfaitement calme.",
@@ -206,11 +206,11 @@
     },
     "chunk_51": {
         "chunk": "Enfin ! — Je suis désolé d’avoir tant tardé, Seldon. J’avais des tas de choses à faire. Comment allez-vous, docteur Venabili ?",
-        "ner_chunk": "Output : Enfin ! — Je suis désolé d’avoir tant tardé, @@Seldon##. J’avais des tas de choses à faire. Comment allez-vous, docteur @@Venabili## ?"
+        "ner_chunk": "Output : Enfin ! — Je suis désolé d’avoir tant tardé, @@Seldon##. J’avais des tas de choses à faire. Comment allez-vous, @@docteur Venabili## ?"
     },
     "chunk_52": {
         "chunk": "Je suppose que voici la fille de Mannix, Rachelle. Mais qui est ce garçon ? — Notre ami Raych est un jeune Dahlite que nous avons recueilli », expliqua Seldon. Des soldats entraient à présent et, sur un geste discret de Hummin, ils relevèrent respectueusement Rachelle.",
-        "ner_chunk": "Output : Je suppose que voici @@la fille de Mannix, Rachelle##. Mais qui est ce garçon ? — Notre ami @@Raych## est un jeune Dahlite que nous avons recueilli », expliqua @@Seldon##. Des soldats entraient à présent et, sur un geste discret de @@Hummin##, ils relevèrent respectueusement @@Rachelle##."
+        "ner_chunk": "Output : Je suppose que voici la fille de @@Mannix##, @@Rachelle##. Mais qui est ce garçon ? — Notre ami @@Raych## est un jeune Dahlite que nous avons recueilli », expliqua @@Seldon##. Des soldats entraient à présent et, sur un geste discret de @@Hummin##, ils relevèrent respectueusement @@Rachelle##."
     },
     "chunk_53": {
         "chunk": "Libre de relâcher sa surveillance, Dors épousseta d’une main ses vêtements et défroissa son corsage. Seldon se rendit soudain compte qu’il était toujours en robe de chambre. Se dégageant avec mépris de l’étreinte des soldats, Rachelle pointa le doigt vers Hummin : « Qui est-ce ? » demanda-t-elle à Seldon.",
@@ -258,11 +258,11 @@
     },
     "chunk_64": {
         "chunk": "C’était un empire en soi, estimait-elle, et elle écartait les mondes extérieurs comme autant de ― lointains néants ‖. « Ce fut à ce moment précis que je vis ce qui devait somnoler au tréfonds de mon esprit depuis pas mal de temps. D’un côté, Trantor possédait un système social extraordinairement complexe, en tant que planète densément peuplée composée de huit cents mondes plus petits. C’était en soi un système assez complexe pour rendre la psychohistoire significative, et en même temps il était assez simple, comparé à l’Empire dans son ensemble, pour la rendre peut-être applicable en pratique.",
-        "ner_chunk": "C’était un empire en soi, estimait-elle, et elle écartait les mondes extérieurs comme autant de ― lointains néants ‖. « Ce fut à ce moment précis que je vis ce qui devait somnoler au tréfonds de mon esprit depuis pas mal de temps. D’un côté, @@Trantor## possédait un système social extraordinairement complexe, en tant que planète densément peuplée composée de huit cents mondes plus petits. C’était en soi un système assez complexe pour rendre la psychohistoire significative, et en même temps il était assez simple, comparé à @@l’Empire## dans son ensemble, pour la rendre peut-être applicable en pratique."
+        "ner_chunk": "C’était un empire en soi, estimait-elle, et elle écartait les mondes extérieurs comme autant de ― lointains néants ‖. « Ce fut à ce moment précis que je vis ce qui devait somnoler au tréfonds de mon esprit depuis pas mal de temps. D’un côté, @@Trantor## possédait un système social extraordinairement complexe, en tant que planète densément peuplée composée de huit cents mondes plus petits. C’était en soi un système assez complexe pour rendre la psychohistoire significative, et en même temps il était assez simple, comparé à l’Empire dans son ensemble, pour la rendre peut-être applicable en pratique."
     },
     "chunk_65": {
         "chunk": "« Et les vingt-cinq millions de mondes extérieurs ? C’étaient de ― lointains néants ‖. Certes, ils affectaient Trantor et celle-ci les affectait, mais c’étaient des effets de second ordre. Si je pouvais construire en première approximation une psychohistoire opérationnelle pour Trantor seule, alors les effets mineurs des mondes extérieurs pourraient être ajoutés ultérieurement au modèle pour le perfectionner.",
-        "ner_chunk": "Output : « Et les vingt-cinq millions de mondes extérieurs ? C’étaient de ― lointains néants ‖. Certes, ils affectaient @@Trantor## et celle-ci les affectait, mais c’étaient des effets de second ordre. Si je pouvais construire en première approximation une psychohistoire opérationnelle pour @@Trantor## seule, alors les effets mineurs des mondes extérieurs pourraient être ajoutés ultérieurement au modèle pour le perfectionner."
+        "ner_chunk": "Output : « Et les vingt-cinq millions de mondes extérieurs ? C’étaient de ― lointains néants ‖. Certes, ils affectaient Trantor et celle-ci les affectait, mais c’étaient des effets de second ordre. Si je pouvais construire en première approximation une psychohistoire opérationnelle pour @@Trantor## seule, alors les effets mineurs des mondes extérieurs pourraient être ajoutés ultérieurement au modèle pour le perfectionner."
     },
     "chunk_66": {
         "chunk": "Voyez-vous ce que je veux dire ? J’étais en quête d’un monde unique pour y établir une science psychohistorique applicable et je le cherchais dans le lointain passé, alors que depuis le début il était sous mes pieds, ici et maintenant. — Splendide ! s’exclama Hummin, visiblement ravi et soulagé.",
