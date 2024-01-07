@@ -14,7 +14,7 @@ import pandas as pd
 import html
 from vroom.NER import * 
 
-def submission(name_exp: str = "GPT-3_NER_chunks_determinant", baseline = False):
+def submission(name_exp: str = "GPT-3_NER_chunks_determinant", baseline_fuzzy = False):
      """ This function aims to generate the NER chunks with GPT.
 
      Basically, we use the GPT model to generate from a given text all
@@ -55,32 +55,32 @@ def submission(name_exp: str = "GPT-3_NER_chunks_determinant", baseline = False)
                save_path = os.path.join(experiment_name, "ner", f"chapter_{chapter}.json")
                graph_manager = GraphManager()
 
-               if not baseline : 
-                    if os.path.exists(save_path):
-                         print("Already proceed NER GPT: ", path)
-                    else:
-                         print("Creating NER GPT...")
-                         logger = JSONLogger(save_path)
-                         generate_GPT_NER(path, logger)
+          
+               if os.path.exists(save_path):
+                    print("Already proceed NER GPT: ", path)
+               else:
+                    print("Creating NER GPT...")
+                    logger = JSONLogger(save_path)
+                    generate_GPT_NER(path, logger)
 
-                    output_path = os.path.join(experiment_name, "verif", f"chapter_{chapter}_verif.json")
-                    if os.path.exists(output_path):
-                         print("Already proceed self_verification: ", output_path)
-                         entities = get_data_from_json(output_path)
-                    else:
-                         print("Creating self_verification...")
-                         logger = JSONLogger(output_path)
-                         entities = self_verification(path, save_path, logger)
-
-                    output_path = os.path.join(experiment_name, "cooocurrences", f"chapter_{chapter}_coocurrences.json")
-                                   
-                    print("Creating coocurrences...")
+               output_path = os.path.join(experiment_name, "verif_reviewed", f"chapter_{chapter}_verif.json")
+               if os.path.exists(output_path):
+                    print("Already proceed self_verification: ", output_path)
+                    entities = get_data_from_json(output_path)
+               else:
+                    print("Creating self_verification...")
                     logger = JSONLogger(output_path)
+                    entities = self_verification(path, save_path, logger)
+
+               output_path = os.path.join(experiment_name, "cooocurrences", f"chapter_{chapter}_coocurrences.json")
+                              
+               print("Creating coocurrences...")
+               logger = JSONLogger(output_path)
+               
+               if baseline_fuzzy:
                     coocurrences = get_coocurrences_GPT_ner_fuzzy(path, entities, logger)
                else:
-                    output_path = os.path.join(experiment_name, f"chapter_{chapter}.json")
-                    logger = JSONLogger(output_path)
-                    coocurrences = get_cooccurences_with_aliases_and_gpt(path, logger)
+                    coocurrences = get_cooccurences_with_aliases_and_gpt(path, entities, logger)
 
                graph_manager.add_cooccurrences(coocurrences)
                df_dict["ID"].append(f"{book_code}{chapter-1}")
@@ -326,7 +326,7 @@ def self_verification_no_json(txt_path, entities, logger = None):
 
      return saves
 
-def get_cooccurences_with_aliases_and_gpt(path: str, logger: JSONLogger = None):
+def get_cooccurences_with_aliases_and_gpt(path: str, entities, logger: JSONLogger = None):
      """
      Get the aliases of the cooccurences of characters from the given text.
 
@@ -385,17 +385,15 @@ def get_cooccurences_with_aliases_and_gpt(path: str, logger: JSONLogger = None):
      Fais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupements possibles. Je compte sur toi, merci !
      """
 
-     entities, chunks = get_entities_from_file(path, device="cuda")
-     cooccurences = get_cooccurences(chunks, entities)
+     gpt_entities = entities["final_gpt_entities"]
+     print(gpt_entities)
+     
+     tagged_file = tag_text_with_entities(path, gpt_entities)
+     positions = get_positions_of_entities(tagged_file)
+     cooccurences = get_cooccurences([tagged_file], [positions])
+     word_entities = set(gpt_entities)
 
-     if os.path.exists(logger.save_path):
-          out = get_data_from_json(logger.save_path)
-          entities = [{"word": entity} for entity in out["entities"]]
-     else:
-          entities = [entity for sublist in entities for entity in sublist]
-
-     word_entities = [entity["word"] for entity in entities]
-     print("entities = ", set(word_entities))
+     print("entities = ", gpt_entities)
      user_prompt = """
 
      Input : 
@@ -430,11 +428,6 @@ def get_cooccurences_with_aliases_and_gpt(path: str, logger: JSONLogger = None):
      if logger is not None:
           saves = {}
           saves["experiment_details"] = experiment_details
-          for i, (chunk, entity) in enumerate(zip(chunks, entities)):
-               saves[f"chunk_{i}"] = {
-                    "chunk": chunk,
-                    "entities": entity,
-               }
           saves["entities"] = list(set(word_entities))
           saves["aliases"] = aliases
           saves["cooccurences"] = cooccurences
@@ -445,7 +438,6 @@ def get_cooccurences_with_aliases_and_gpt(path: str, logger: JSONLogger = None):
                "params": params,
           }
           logger(saves)
-
      return find_cooccurences_aliases(cooccurences, aliases)
 
 def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
@@ -649,6 +641,7 @@ def get_coocurrences_GPT_ner_fuzzy(input_file, entities, logger = None):
           dict: cooccurences of entities
      """
      gpt_entities = entities["final_gpt_entities"]
+     print(gpt_entities)
      tagged_file = tag_text_with_entities(input_file, gpt_entities)
      positions = get_positions_of_entities(tagged_file)
      cooccurences = get_cooccurences([tagged_file], [positions])
@@ -799,5 +792,5 @@ def get_coocurrences_GPT_ner_GPT(input_file, entities, logger = None):
      return cooccurences_aliases
 
 if __name__ == "__main__":
-    name_exp = "baseline_self_verif"
-    submission(name_exp, baseline = True)
+    name_exp = "GPT_4_NER"
+    submission(name_exp, baseline_fuzzy = False)
