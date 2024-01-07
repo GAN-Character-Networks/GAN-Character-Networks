@@ -122,11 +122,11 @@
     },
     "chunk_30": {
         "chunk": "— Oui, reprit Enderby, je suis dans une position impossible. Comme vous venez de le rappeler, Spacetown jouit de l’extra- territorialité. Ils peuvent donc insister pour mener eux-mêmes leur enquête, et faire à leur gouvernement n’importe quel rapport sur l’affaire. Les Mondes Extérieurs pourraient se baser là-dessus pour nous réclamer d’importantes indemnités.",
-        "ner_chunk": "— Oui, reprit @@Enderby##, je suis dans une position impossible. Comme vous venez de le rappeler, @@Spacetown## jouit de l’extra- territorialité. Ils peuvent donc insister pour mener eux-mêmes leur enquête, et faire à leur gouvernement n’importe quel rapport sur l’affaire. Les @@Mondes Extérieurs## pourraient se baser là-dessus pour nous réclamer d’importantes indemnités."
+        "ner_chunk": "— Oui, reprit @@Enderby##, je suis dans une position impossible. Comme vous venez de le rappeler, Spacetown jouit de l’extra- territorialité. Ils peuvent donc insister pour mener eux-mêmes leur enquête, et faire à leur gouvernement n’importe quel rapport sur l’affaire. Les Mondes Extérieurs pourraient se baser là-dessus pour nous réclamer d’importantes indemnités."
     },
     "chunk_31": {
         "chunk": "Et vous voyez d’ici comment notre population réagirait ! — Si la Maison-Blanche consentait à payer la moindre de ces indemnités, elle se suiciderait politiquement. — Elle commettrait un autre genre de suicide en ne payant pas. — Oh !",
-        "ner_chunk": "Et vous voyez d’ici comment notre population réagirait ! — Si la @@Maison-Blanche## consentait à payer la moindre de ces indemnités, elle se suiciderait politiquement. — Elle commettrait un autre genre de suicide en ne payant pas. — Oh !"
+        "ner_chunk": "Et vous voyez d’ici comment notre population réagirait ! — Si la Maison-Blanche consentait à payer la moindre de ces indemnités, elle se suiciderait politiquement. — Elle commettrait un autre genre de suicide en ne payant pas. — Oh !"
     },
     "chunk_32": {
         "chunk": "fit Baley, vous n’avez pas besoin de me faire un dessin ! — Mais voyons ! dit-il. Quand cette question de remplacement a-t-elle commencé à venir sur le tapis ?",
@@ -162,7 +162,7 @@
     },
     "chunk_40": {
         "chunk": "Je vous prie de prendre en main l’enquête, dans les conditions exigées par Spacetown. — Eh bien, c’est d’accord, monsieur le commissaire. — Merci, Lije. Il va falloir qu’il habite avec vous.",
-        "ner_chunk": "Je vous prie de prendre en main l’enquête, dans les conditions exigées par @@Spacetown##. — Eh bien, c’est d’accord, monsieur le commissaire. — Merci, @@Lije##. Il va falloir qu’il habite avec vous."
+        "ner_chunk": "Je vous prie de prendre en main l’enquête, dans les conditions exigées par Spacetown. — Eh bien, c’est d’accord, monsieur le commissaire. — Merci, @@Lije##. Il va falloir qu’il habite avec vous."
     },
     "chunk_41": {
         "chunk": "— Ah ! non, alors ! Je ne marche plus ! — Allons, allons, Lije !",
@@ -170,7 +170,7 @@
     },
     "chunk_42": {
         "chunk": "Vous avez un grand appartement, voyons : trois pièces, avec un seul enfant ! Vous pouvez donc très bien l’installer chez vous. Il ne vous dérangera pas !... Pas le moins du monde, je vous assure !",
-        "ner_chunk": "@@Vous## avez un grand appartement, voyons : trois pièces, avec un seul enfant ! Vous pouvez donc très bien l’installer chez vous. Il ne vous dérangera pas !... Pas le moins du monde, je vous assure !"
+        "ner_chunk": "Vous avez un grand appartement, voyons : trois pièces, avec un seul enfant ! Vous pouvez donc très bien l’installer chez vous. Il ne vous dérangera pas !... Pas le moins du monde, je vous assure !"
     },
     "chunk_43": {
         "chunk": "Et c’est indispensable. — Jessie va avoir horreur de ça ! J’en suis sûr. — Vous lui expliquerez !",
@@ -178,7 +178,7 @@
     },
     "chunk_44": {
         "chunk": "répliqua le commissaire avec tant d’ardeur et d’insistance que, derrière ses lunettes, ses yeux semblèrent deux cavités sombres enfoncées dans leurs orbites. Vous lui direz que vous faites cela par amitié pour moi, et que, si tout marche bien, je m’engage, aussitôt après, à user de tout mon crédit pour vous faire sauter une catégorie, et obtenir pour vous une promotion à la classe C. 7. Vous entendez, Lije, C. 7 !... — Entendu monsieur le commissaire.",
-        "ner_chunk": "répliqua le commissaire avec tant d’ardeur et d’insistance que, derrière ses lunettes, ses yeux semblèrent deux cavités sombres enfoncées dans leurs orbites. Vous lui direz que vous faites cela par amitié pour moi, et que, si tout marche bien, je m’engage, aussitôt après, à user de tout mon crédit pour vous faire sauter une catégorie, et obtenir pour vous une promotion à la classe @@C. 7##. Vous entendez, @@Lije##, @@C. 7## !... — Entendu monsieur le commissaire."
+        "ner_chunk": "répliqua le commissaire avec tant d’ardeur et d’insistance que, derrière ses lunettes, ses yeux semblèrent deux cavités sombres enfoncées dans leurs orbites. Vous lui direz que vous faites cela par amitié pour moi, et que, si tout marche bien, je m’engage, aussitôt après, à user de tout mon crédit pour vous faire sauter une catégorie, et obtenir pour vous une promotion à la classe C. 7. Vous entendez, @@Lije##, C. 7 !... — Entendu monsieur le commissaire."
     },
     "chunk_45": {
         "chunk": "J’accepte le marché. Baley se leva à moitié, mais quelque chose dans la physionomie d’Enderby lui montra que tout n’était pas dit. — Y a-t-il d’autres conditions ? demanda-t-il en se rasseyant.",
