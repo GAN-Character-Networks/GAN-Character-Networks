@@ -1,0 +1,167 @@
+{
+    "final_gpt_entities": [
+        "Dors Venabili",
+        "Seldon",
+        "Hari Seldon",
+        "Dors",
+        "DAVAN",
+        "Maîtresse",
+        "Maître Tisalver",
+        "Maîtresse Venabili",
+        "Maîtresse Tisalver",
+        "Marron",
+        "Raych",
+        "Davan",
+        "Marlo Tanto",
+        "Amaryl",
+        "Yugo Amaryl",
+        "Maître Davan",
+        "Hummin",
+        "Demerzel",
+        "l’Empereur"
+    ],
+    "init_gpt_entities": [
+        "Marlo Tanto",
+        "Maîtresse",
+        "Trantor",
+        "Dors Venabili",
+        "l’historienne, Davan",
+        "l’gouvernement",
+        "Seldon",
+        "Demerzel",
+        "Hari Seldon",
+        "Amaryl",
+        "Hummin",
+        "l’Empire",
+        "Billibotton",
+        "l’armée impériale",
+        "Yugo Amaryl",
+        "Dors",
+        "Maîtresse Venabili",
+        "son mari",
+        "Raych",
+        "Tisalver",
+        "Davan",
+        "Marron",
+        "DAVAN",
+        "princesse",
+        "Maître Tisalver",
+        "Maître Davan",
+        "l’Empereur",
+        "Maîtresse Tisalver"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra.\n\n                    Question : Le mot \"Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Clandestins DAVAN. — … Dans les temps troublés qui marquèrent les derniers siècles du Premier Empire galactique, l’agitation provenait généralement des intrigues des chefs politiques et militaires pour obtenir le pouvoir « suprême » (suprématie de moins en moins significative à mesure que passaient les décennies). Il y a peu d’exemples de ce qu’on pourrait appeler un mouvement populaire avant l’avènement de la psychohistoire. A cet égard, un épisode fascinant met en scène Davan ; on ne sait pas grand-chose de lui, à vrai dire, mais il semblerait qu’il ait rencontré Hari Seldon à l’époque où... ENCYCLOPAEDIA GALACTICA Hari Seldon et Dors Venabili avaient l’un et l’autre pris un long bain, profitant de l’installation pour le moins primitive mise à leur disposition dans l’appartement des Tisalver. Ils s’étaient changés et se trouvaient dans la chambre de Seldon quand le maître de maison rentra.\n\n                    Question : Le mot \"DAVAN\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Son signal à la porte fut (ou parut) bien timide. Le timbre ne retentit pas longtemps. Seldon ouvrit la porte et lança plaisamment : « Bien le bonsoir, Maître Tisalver. Et Maîtresse. » Celle-ci se tenait juste derrière son mari, le front plissé de rides perplexes.\n\n                    Question : Le mot \"Maîtresse\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Son signal à la porte fut (ou parut) bien timide. Le timbre ne retentit pas longtemps. Seldon ouvrit la porte et lança plaisamment : « Bien le bonsoir, Maître Tisalver. Et Maîtresse. » Celle-ci se tenait juste derrière son mari, le front plissé de rides perplexes.\n\n                    Question : Le mot \"son mari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Son signal à la porte fut (ou parut) bien timide. Le timbre ne retentit pas longtemps. Seldon ouvrit la porte et lança plaisamment : « Bien le bonsoir, Maître Tisalver. Et Maîtresse. » Celle-ci se tenait juste derrière son mari, le front plissé de rides perplexes.\n\n                    Question : Le mot \"Maître Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Comme hésitant sur la conduite à tenir, Tisalver hasarda : « Vous allez bien, Maîtresse Venabili et vous ? » Il hochait la tête, comme pour tenter de suggérer par la gestuelle une réponse affirmative. « Tout à fait bien. Nous avons fait l’aller-retour à Billibotton sans aucun problème et nous nous sommes lavés et changés. Il ne reste aucune odeur.\n\n                    Question : Le mot \"Billibotton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Comme hésitant sur la conduite à tenir, Tisalver hasarda : « Vous allez bien, Maîtresse Venabili et vous ? » Il hochait la tête, comme pour tenter de suggérer par la gestuelle une réponse affirmative. « Tout à fait bien. Nous avons fait l’aller-retour à Billibotton sans aucun problème et nous nous sommes lavés et changés. Il ne reste aucune odeur.\n\n                    Question : Le mot \"Maîtresse Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Nous sommes dans nos appartements. Nous avons payé pour cela. C’est à nous de décider qui nous rend ou non visite. S’il y a dehors un jeune homme de Billibotton, c’est tout de même un Dahlite. Plus important, c’est un Trantorien.\n\n                    Question : Le mot \"Trantor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Plus important encore, c’est un citoyen de l’Empire et un être humain. Et surtout, en demandant à nous voir, il devient notre hôte. Par conséquent, nous l’invitons à entrer. » Maîtresse Tisalver ne bougea pas. Son mari lui-même parut hésiter.\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Plus important encore, c’est un citoyen de l’Empire et un être humain. Et surtout, en demandant à nous voir, il devient notre hôte. Par conséquent, nous l’invitons à entrer. » Maîtresse Tisalver ne bougea pas. Son mari lui-même parut hésiter.\n\n                    Question : Le mot \"Maîtresse Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On lance : ― Hé, poulette, laisse-moi te... ‖ Il s’interrompit, se ravisa et dit : « Rien. — Eh bien, avertit Dors, n’essaie pas avec moi. — Vous blaguez ? Après c’que vous avez fait à Marron ? Hé, princesse, où avez-vous appris à vous battre comme ça ?\n\n                    Question : Le mot \"Marron\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On lance : ― Hé, poulette, laisse-moi te... ‖ Il s’interrompit, se ravisa et dit : « Rien. — Eh bien, avertit Dors, n’essaie pas avec moi. — Vous blaguez ? Après c’que vous avez fait à Marron ? Hé, princesse, où avez-vous appris à vous battre comme ça ?\n\n                    Question : Le mot \"princesse\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ça, princesse, vous avez réussi votre coup. C’est bien pour ça qu’y veut vous voir. — Qui donc, au juste, Raych ? demanda Seldon. — Un mec nommé Davan.\n\n                    Question : Le mot \"Raych\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ça, princesse, vous avez réussi votre coup. C’est bien pour ça qu’y veut vous voir. — Qui donc, au juste, Raych ? demanda Seldon. — Un mec nommé Davan.\n\n                    Question : Le mot \"Davan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — L’aime pas c’coin. Y dit qu’ça l’fait gerber. Y dit qu’tous les gens d’ici s’aplatissent devant l’gouvernement, qu’ils lui lèchent le... » Il s’interrompit, considéra les deux Exos et reprit : « Bref, il a pas voulu v’nir. Il a dit qu’on m’laisserait passer pasque j’suis qu’un mioche. » Il sourit.\n\n                    Question : Le mot \"l’gouvernement\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il se présenta : « Marlo Tanto, de la H.V. trantorienne. Pouvons-nous vous prendre pour notre journal du soir ? — Non, fit Dors sèchement. Pas d’interviews.\n\n                    Question : Le mot \"Marlo Tanto\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous avez parlé à un jeune homme du nom de Yugo Amaryl. — C’est exact. — Amaryl dit que vous pouvez prédire l’avenir. » Seldon poussa un gros soupir. Il en avait assez d’être planté là, debout dans cette pièce vide.\n\n                    Question : Le mot \"Amaryl\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous avez parlé à un jeune homme du nom de Yugo Amaryl. — C’est exact. — Amaryl dit que vous pouvez prédire l’avenir. » Seldon poussa un gros soupir. Il en avait assez d’être planté là, debout dans cette pièce vide.\n\n                    Question : Le mot \"Yugo Amaryl\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Là, est-ce que vous me suivez ? » Davan considéra Seldon, l’air sombre, puis Dors : « Alors, vous ne pouvez donc pas prédire le futur. — Maintenant, vous y êtes, Maître Davan. — Appelez-moi Davan, tout court. Mais peut-être qu’un jour vous apprendrez à prédire l’avenir.\n\n                    Question : Le mot \"Maître Davan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Aujourd’hui, Trantor est devenue si complexe, son équilibre si fragile, que les forces impériales doivent éviter toute ingérence directe... — Une forme de décadence, observa Seldon qui se souvenait des plaintes de Hummin. — Quoi ? — Rien, continuez. » Davan poursuivit : « Les forces impériales doivent éviter toute ingérence directe mais, même ainsi, elles ont découvert qu’il leur reste une importante marge de manœuvre. Ainsi encourage-t-on chaque secteur à se méfier de ses voisins.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je le regrette. Cela me manque énormément. — C’est moi l’historienne, Davan, indiqua Dors d’un ton égal, et je peux dire quelques petites choses, si vous le désirez. — Je vous en prie, faites donc », répondit Davan, sur un ton situé entre la politesse et le défi. « Pour commencer, l’histoire de la Galaxie a connu bien des révolutions qui ont renversé des tyrannies, parfois sur une planète isolée, parfois sur un ensemble de planètes, voire dans l’Empire tout entier ou au sein des gouvernements régionaux de la période pré-impériale.\n\n                    Question : Le mot \"l’historienne, Davan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous pourrez bien avoir tous les démunis et même les gens respectables de votre côté, il vous faudra quand même vaincre les forces de sécurité et l’armée impériale, ou du moins affaiblir sérieusement leur loyauté à l’égard du pouvoir. — Trantor est un monde plurigouvernemental. Chaque secteur a ses dirigeants propres et certains sont eux-mêmes opposés à l’Empire. Si nous pouvions avoir dans notre camp un secteur fort, ça changerait la situation, non ? Nous ne serions possibles, a le plus de chances d’avoir des conséquences apparemment favorables, alors je mettrais mes talents à votre disposition – mais je n’ai rien de tel.\n\n                    Question : Le mot \"l’armée impériale\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous vous imaginez peut-être qu’il va vous laisser tranquillement vous débattre avec votre psychohistoire, mais je suis sûr que l’Empereur et son lèche-bottes de Demerzel ne sont pas plus que moi d’humeur à attendre indéfiniment. — Ça ne leur servira à rien de me presser, observa Seldon sans se démonter, puisque je ne suis pas de leur côté mais du vôtre... Allons, venez, Dors. » Ils firent demi-tour, laissant Davan seul dans sa chambre sordide, et retrouvèrent Raych qui les attendait dehors. Raych finit de manger, se lécha les doigts et froissa le sac qui avait contenu son repas. Une forte odeur d’oignons imprégnait l’air – un rien différente, peut-être à cause des levures.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous vous imaginez peut-être qu’il va vous laisser tranquillement vous débattre avec votre psychohistoire, mais je suis sûr que l’Empereur et son lèche-bottes de Demerzel ne sont pas plus que moi d’humeur à attendre indéfiniment. — Ça ne leur servira à rien de me presser, observa Seldon sans se démonter, puisque je ne suis pas de leur côté mais du vôtre... Allons, venez, Dors. » Ils firent demi-tour, laissant Davan seul dans sa chambre sordide, et retrouvèrent Raych qui les attendait dehors. Raych finit de manger, se lécha les doigts et froissa le sac qui avait contenu son repas. Une forte odeur d’oignons imprégnait l’air – un rien différente, peut-être à cause des levures.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

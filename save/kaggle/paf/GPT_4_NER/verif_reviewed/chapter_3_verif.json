@@ -1,0 +1,80 @@
+{
+    "final_gpt_entities": [
+        "Hari Seldon",
+        "Hummin",
+        "Seldon",
+        "Chetter Hummin",
+        "l’Empereur",
+        "Demerzel",
+        "L’Empereur"
+    ],
+    "init_gpt_entities": [
+        "l’Empire Galactique",
+        "Demerzel",
+        "Trantoriens",
+        "L’Empire Galactique",
+        "Trantor",
+        "L’Empereur",
+        "Hari Seldon",
+        "Hummin",
+        "l’Empire",
+        "l’Empereur",
+        "Hélicon",
+        "Seldon",
+        "Chetter Hummin"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Université UNIVERSITÉ DE STREELING.— ... Établissement d’enseignement supérieur dans le secteur de Streeling de l’antique Trantor... Malgré sa renommée dans les domaines littéraires et scientifiques, ce n’est pas pour cette raison que le souvenir de l’Université hante encore la conscience contemporaine. Sans doute les savants qui ont fréquenté cet établissement pendant des générations auraient-ils été bien surpris si on leur avait appris que dans l’avenir, l’Université de Streeling serait connue surtout parce qu’un certain Hari Seldon, durant la période de la Fuite, y avait résidé momentanément. ENCYCLOPAEDIA GALACTICA. Hari Seldon garda quelques instants un silence gêné, après cette froide déclaration de Hummin. Il se ratatina sur lui-même, soudain conscient de ses propres déficiences.\n\n                    Question : Le mot \"Trantor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Université UNIVERSITÉ DE STREELING.— ... Établissement d’enseignement supérieur dans le secteur de Streeling de l’antique Trantor... Malgré sa renommée dans les domaines littéraires et scientifiques, ce n’est pas pour cette raison que le souvenir de l’Université hante encore la conscience contemporaine. Sans doute les savants qui ont fréquenté cet établissement pendant des générations auraient-ils été bien surpris si on leur avait appris que dans l’avenir, l’Université de Streeling serait connue surtout parce qu’un certain Hari Seldon, durant la période de la Fuite, y avait résidé momentanément. ENCYCLOPAEDIA GALACTICA. Hari Seldon garda quelques instants un silence gêné, après cette froide déclaration de Hummin. Il se ratatina sur lui-même, soudain conscient de ses propres déficiences.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Université UNIVERSITÉ DE STREELING.— ... Établissement d’enseignement supérieur dans le secteur de Streeling de l’antique Trantor... Malgré sa renommée dans les domaines littéraires et scientifiques, ce n’est pas pour cette raison que le souvenir de l’Université hante encore la conscience contemporaine. Sans doute les savants qui ont fréquenté cet établissement pendant des générations auraient-ils été bien surpris si on leur avait appris que dans l’avenir, l’Université de Streeling serait connue surtout parce qu’un certain Hari Seldon, durant la période de la Fuite, y avait résidé momentanément. ENCYCLOPAEDIA GALACTICA. Hari Seldon garda quelques instants un silence gêné, après cette froide déclaration de Hummin. Il se ratatina sur lui-même, soudain conscient de ses propres déficiences.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Université UNIVERSITÉ DE STREELING.— ... Établissement d’enseignement supérieur dans le secteur de Streeling de l’antique Trantor... Malgré sa renommée dans les domaines littéraires et scientifiques, ce n’est pas pour cette raison que le souvenir de l’Université hante encore la conscience contemporaine. Sans doute les savants qui ont fréquenté cet établissement pendant des générations auraient-ils été bien surpris si on leur avait appris que dans l’avenir, l’Université de Streeling serait connue surtout parce qu’un certain Hari Seldon, durant la période de la Fuite, y avait résidé momentanément. ENCYCLOPAEDIA GALACTICA. Hari Seldon garda quelques instants un silence gêné, après cette froide déclaration de Hummin. Il se ratatina sur lui-même, soudain conscient de ses propres déficiences.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : solennel de Hummin le retint. Et puis, ancrée en lui, cette certitude que l’Empire Galactique était une vérité, un axiome, la fondation sur laquelle reposait toute espèce de raisonnement, le retint également. Après tout, si cela aussi était faux, il n’avait pas envie de le savoir. Non, il se refusait à croire qu’il avait tort. L’Empire Galactique ne pouvait avoir de fin, pas plus que l’univers.\n\n                    Question : Le mot \"l’Empire Galactique\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : solennel de Hummin le retint. Et puis, ancrée en lui, cette certitude que l’Empire Galactique était une vérité, un axiome, la fondation sur laquelle reposait toute espèce de raisonnement, le retint également. Après tout, si cela aussi était faux, il n’avait pas envie de le savoir. Non, il se refusait à croire qu’il avait tort. L’Empire Galactique ne pouvait avoir de fin, pas plus que l’univers.\n\n                    Question : Le mot \"L’Empire Galactique\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : solennel de Hummin le retint. Et puis, ancrée en lui, cette certitude que l’Empire Galactique était une vérité, un axiome, la fondation sur laquelle reposait toute espèce de raisonnement, le retint également. Après tout, si cela aussi était faux, il n’avait pas envie de le savoir. Non, il se refusait à croire qu’il avait tort. L’Empire Galactique ne pouvait avoir de fin, pas plus que l’univers.\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Seldon se souvenait d’avoir cherché Hélicon dans l’index et n’y avoir trouvé qu’une seule et unique référence. Il avait pianoté sur son clavier pour appeler l’article correspondant et avait découvert qu’Hélicon était citée dans une liste de mondes qui, à une certaine période, avaient momentanément soutenu un anonyme prétendant au trône impérial, lequel n’était pas parvenu à faire valoir ses prérogatives. En cette occasion, Hélicon avait échappé au retour de bâton, n’étant sans doute pas jugée assez importante pour valoir un châtiment. A quoi pouvait servir l’histoire ? Sans aucun doute, la psychohistoire devait tenir compte des actions, réactions et interactions de toutes les planètes – toutes, sans en omettre une seule.\n\n                    Question : Le mot \"Hélicon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Si vous êtes capable de digérer ce sandwich, alors vous pourrez manger n’importe où sur Trantor. Et ça ne vous fera pas de mal. Cette nourriture n’est ni avariée ni toxique : elle a simplement cette forte amertume, mais qui sait, vous finirez peut-être par vous y habituer. Je connais des Trantoriens qui crachent sur la nourriture distinguée, disant qu’il lui manque cette saveur du terroir. Produit-on beaucoup de denrées alimentaires sur Trantor ?\n\n                    Question : Le mot \"Trantoriens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : De nos jours, les scientifiques sont très forts pour dire que les choses sont impossibles, irréalisables, inutiles. Ils condamnent dès l’abord toute forme de spéculation. Vous, par exemple, que — Je parle de manière générale, imagée. Ce n’est pas le sort personnel de Chetter Hummin qui me préoccupe. On pourrait très bien dire que l’Empire tiendra de mon vivant ; il se peut même qu’il montre quelques signes d’amélioration.\n\n                    Question : Le mot \"Chetter Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Des décillions d’inter-relations. Et vous voudriez que je les ramène à un ordre ! — Non, je veux que vous essayiez. Pour l’amour de ces millions de mondes, de ces milliards de cultures et de ces quadrillions d’individus. Pas pour l’Empereur.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pas pour Demerzel. Pour l’humanité. — J’échouerai. — Alors notre sort n’en sera pas pire. Allez-vous essayer ?\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Hein ? — Peut-être pas. Mais votre vie vous a échappé à l’instant où vous avez fait cette communication sur la psychohistoire. L’Empereur et Demerzel ont reconnu aussitôt votre importance. Moi de même.\n\n                    Question : Le mot \"L’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

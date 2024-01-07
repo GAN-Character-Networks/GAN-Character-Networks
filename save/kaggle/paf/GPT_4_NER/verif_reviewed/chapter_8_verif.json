@@ -1,0 +1,127 @@
+{
+    "final_gpt_entities": [
+        "Seldon",
+        "Hari Seldon",
+        "Maître-du-Soleil",
+        "Dors",
+        "Hari",
+        "MAÎTRE-DU-SOLEIL QUATORZE",
+        "Endor Levanian",
+        "Levanian",
+        "Hummin",
+        "Clowzia",
+        "Dors Venabili",
+        "Chetter Hummin",
+        "Maître-du-Soleil Quatorze",
+        "Maître-du- Soleil",
+        "Grisnuage",
+        "Goutte-de-Pluie Quarante-trois",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Goutte-de- Pluie",
+        "Goutte-de-Pluie Quarante- cinq"
+    ],
+    "init_gpt_entities": [
+        "Maître-du- Soleil",
+        "Dors Venabili",
+        "Seldon",
+        "Chetter Hummin",
+        "Maître-du-Soleil Quatorze",
+        "Goutte-de-Pluie Quarante-trois",
+        "Hari Seldon",
+        "Goutte-de-Pluie Quarante-cinq",
+        "Hummin",
+        "Goutte-de-Pluie Quarante- cinq",
+        "Maître-du-Soleil",
+        "Dors",
+        "Grisnuage",
+        "Endor Levanian",
+        "Hari",
+        "MAÎTRE-DU-SOLEIL QUATORZE",
+        "Levanian",
+        "Goutte-de- Pluie",
+        "Mycogénien",
+        "Clowzia"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement sous son poids, un filet s’avança automatiquement pour lui encercler les jambes, la taille et la poitrine, tandis qu’un casque lui descendait sur le front et les oreilles. Il se sentait emprisonné et, quand il se tourna sur la gauche (non sans mal, et sans grand succès), il vit que Dors était emmaillotée de manière identique. Le pilote s’installa à son tour et vérifia ses cadrans.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement sous son poids, un filet s’avança automatiquement pour lui encercler les jambes, la taille et la poitrine, tandis qu’un casque lui descendait sur le front et les oreilles. Il se sentait emprisonné et, quand il se tourna sur la gauche (non sans mal, et sans grand succès), il vit que Dors était emmaillotée de manière identique. Le pilote s’installa à son tour et vérifia ses cadrans.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement sous son poids, un filet s’avança automatiquement pour lui encercler les jambes, la taille et la poitrine, tandis qu’un casque lui descendait sur le front et les oreilles. Il se sentait emprisonné et, quand il se tourna sur la gauche (non sans mal, et sans grand succès), il vit que Dors était emmaillotée de manière identique. Le pilote s’installa à son tour et vérifia ses cadrans.\n\n                    Question : Le mot \"Maître-du-Soleil\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement sous son poids, un filet s’avança automatiquement pour lui encercler les jambes, la taille et la poitrine, tandis qu’un casque lui descendait sur le front et les oreilles. Il se sentait emprisonné et, quand il se tourna sur la gauche (non sans mal, et sans grand succès), il vit que Dors était emmaillotée de manière identique. Le pilote s’installa à son tour et vérifia ses cadrans.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement sous son poids, un filet s’avança automatiquement pour lui encercler les jambes, la taille et la poitrine, tandis qu’un casque lui descendait sur le front et les oreilles. Il se sentait emprisonné et, quand il se tourna sur la gauche (non sans mal, et sans grand succès), il vit que Dors était emmaillotée de manière identique. Le pilote s’installa à son tour et vérifia ses cadrans.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Maître-du-Soleil MAÎTRE-DU-SOLEIL QUATORZE. — ... L’un des chefs du Secteur de Mycogène de l’antique Trantor... Comme pour tous les autres dirigeants de ce secteur vivant en autarcie, on sait peu de choses sur lui. S’il a joué le moindre rôle dans l’histoire, c’est essentiellement à cause de ses relations avec Hari Seldon lors de la Fuite... ENCYCLOPAEDIA GALACTICA Il n’y avait que deux sièges derrière la minuscule cabine de pilotage et, lorsque Seldon s’assit sur le coussin qui céda légèrement sous son poids, un filet s’avança automatiquement pour lui encercler les jambes, la taille et la poitrine, tandis qu’un casque lui descendait sur le front et les oreilles. Il se sentait emprisonné et, quand il se tourna sur la gauche (non sans mal, et sans grand succès), il vit que Dors était emmaillotée de manière identique. Le pilote s’installa à son tour et vérifia ses cadrans.\n\n                    Question : Le mot \"MAÎTRE-DU-SOLEIL QUATORZE\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Puis il se présenta : « Endor Levanian, pour vous servir. Vous êtes sous filet parce que nous allons subir une accélération considérable au décollage. Une fois que nous serons en phase de vol, vous serez libérés. Inutile de me dire vos noms. Ça ne me regarde pas.\n\n                    Question : Le mot \"Endor Levanian\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Puis il se présenta : « Endor Levanian, pour vous servir. Vous êtes sous filet parce que nous allons subir une accélération considérable au décollage. Une fois que nous serons en phase de vol, vous serez libérés. Inutile de me dire vos noms. Ça ne me regarde pas.\n\n                    Question : Le mot \"Levanian\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il n’y aura plus de pluie et nous pourrons même voir les étoiles. » Il avait superbement calculé sa remarque, car quelques étoiles se mirent à scintiller à travers les ultimes nuées, puis toutes les autres brillèrent soudain dès qu’il eut éteint l’éclairage — Rien. Je pensais simplement à une remarque qu’avait faite Hummin, un jour. » Il contempla les étoiles et dit : « Allons-nous vers l’ouest, monsieur Levanian ? — Oui, effectivement.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dès qu’ils eurent glissé sous le plafond nuageux, la Couverture apparut aussitôt en dessous d’eux et sa surface – à cet endroit du moins – était un moutonnement de grottes boisées et de prairies. C’était le genre de paysage dont Clowzia avait mentionné l’existence. Là encore, toutefois, Seldon n’eut guère le temps de s’attarder en observations. Une ouverture apparut sous leur appareil, bordée de lettres annonçant : MYCOGÈNE. Ils plongèrent.\n\n                    Question : Le mot \"Clowzia\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ils atterrirent sur un jet-port apparemment désert au grand étonnement de Seldon. Ayant accompli sa tâche, le pilote leur serra la main à tous deux puis s’envola sans tarder et engagea son appareil dans une ouverture apparue tout exprès pour lui. Ils n’avaient, semblait-il, pas d’autre solution que d’attendre. Il y avait des bancs qui pouvaient accueillir une bonne centaine de personnes, mais Seldon et Dors Venabili étaient les seuls voyageurs présents. Le jet-port était rectangulaire, entouré de murs où de nombreux tunnels devaient s’ouvrir pour recevoir ou envoyer des jets, mais pour l’heure aucun n’était visible ; aucun non plus ne se présenta pendant leur attente.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous n’êtes guère vigilant. — Je suppose que non, en effet. Mais enfin, nous ne savions trop à quoi nous attendre. D’ailleurs nous n’en savons pas plus à présent... — Le barbare Chetter Hummin a informé la Fraternité de l’arrivée imminente de deux membres des tribus. Il a demandé qu’on s’occupe de vous.\n\n                    Question : Le mot \"Chetter Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : J’ai mission de vous protéger, de vous offrir un toit, de veiller à ce qu’on ne vous dérange pas. Ici, vous serez en sécurité. » Dors inclina la tête. « Nous vous en sommes reconnaissants, Maître-du-Soleil Quatorze. » Maître-du-Soleil se tourna pour la considérer avec un froid mépris.\n\n                    Question : Le mot \"Maître-du-Soleil Quatorze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On le supporte, mais il serait injuste de l’exiger du reste de la Fraternité. — Très bien, Maître-du-Soleil... mais, dites-moi : puisque vous êtes né doté d’une « toison céphalique », comme nous tous, et puisque vous la conservez, visible, jusqu’à la puberté, pourquoi est-il nécessaire de vous la retirer ? Est-ce un simple usage ou y a-t-il quelque motif rationnel ? » Alors, le vieux Mycogénien expliqua fièrement : « Par la dépilation, nous montrons au jeune qu’il est devenu un adulte, et, grâce à la dépilation, les adultes gardent en permanence le souvenir de ce qu’ils sont et ainsi n’oublient jamais que tous les autres ne sont que des barbares. » Sans attendre de réponse (et, à vrai dire, Seldon ne pouvait en imaginer une), il sortit d’un repli de sa toge une poignée de minces bandes de plastique de couleurs diverses, scruta attentivement ses deux interlocuteurs, en tenant d’abord une bande, puis une autre, devant le visage de chacun.\n\n                    Question : Le mot \"Mycogénien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous savez bien que je suis un Exo, dit Seldon, sèchement. Je ne suis sur Trantor que depuis deux mois. — Quand même. — Mais si vous êtes une communauté agricole, Maître-du- Soleil, comment se fait-il que nous n’ayons pas non plus dépassé de fermes ? — Aux niveaux inférieurs, répondit brièvement Maître-du- Soleil.\n\n                    Question : Le mot \"Maître-du- Soleil\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je peux le sentir, moi aussi. — Ce n’est pas aussi chaud qu’il conviendrait, s’excusa Grisnuage. Ça a refroidi durant le transport. Vous trouverez vaisselle et couverts dans la cuisine. » Dors alla chercher ce qu’il fallait et, une fois qu’ils eurent mangé – copieusement, et sans se faire prier –, Seldon se sentit de nouveau un homme civilisé.\n\n                    Question : Le mot \"Grisnuage\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Dors qui venait d’émerger de la cuisine remarqua (avant de se rappeler sa place dans cette société machiste) : « C’est très bien, Grisnuage. Nous serons ravis de faire leur connaissance. » Grisnuage la regarda, mal à l’aise et indécis, mais ne dit rien. d’autre signe de différenciation sexuelle, d’être tenues de cultiver une voix de tête et des manières affectées. « Je suis Goutte-de-Pluie Quarante-trois, pépia la première, et voici ma jeune sœur.\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-trois\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Goutte-de-Pluie Quarante-cinq, gazouilla l’autre. On est très portés sur les ― Gouttes de pluie ‖ dans notre cohorte. » Elle gloussa. « Je suis ravie de faire votre connaissance, dit Dors gravement, mais maintenant j’aimerais savoir comment m’adresser à vous. Je ne peux pas dire simplement ― Goutte-de- Pluie ‖, n’est-ce pas ?\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-cinq\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Goutte-de-Pluie Quarante-cinq, gazouilla l’autre. On est très portés sur les ― Gouttes de pluie ‖ dans notre cohorte. » Elle gloussa. « Je suis ravie de faire votre connaissance, dit Dors gravement, mais maintenant j’aimerais savoir comment m’adresser à vous. Je ne peux pas dire simplement ― Goutte-de- Pluie ‖, n’est-ce pas ?\n\n                    Question : Le mot \"Goutte-de- Pluie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « J’ai bien eu une cuisine autrefois, expliqua Dors, mais elle n’était pas du tout faite comme ça, et je ne sais pas comment reconnaître les aliments ou simplement les préparer. — C’est vraiment enfantin, dit Goutte-de-Pluie Quarante- cinq. Nous pouvons vous montrer. — Nous allons vous préparer un bon repas bien nourrissant », dit Goutte-de-Pluie Quarante-trois. « Nous allons le préparer pour... vous deux.\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante- cinq\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

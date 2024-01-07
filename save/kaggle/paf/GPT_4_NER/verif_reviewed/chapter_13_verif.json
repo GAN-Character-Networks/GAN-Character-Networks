@@ -1,0 +1,248 @@
+{
+    "final_gpt_entities": [
+        "YUGO",
+        "Seldon",
+        "Hari Seldon",
+        "Hari",
+        "AMARYL",
+        "L’Empereur",
+        "Empereur",
+        "Demerzel",
+        "l’Empereur",
+        "Cléon",
+        "Sire",
+        "Grand Ancien",
+        "Maire de Mycogène",
+        "Maître Seldon",
+        "Hummin",
+        "Maître Hummin",
+        "Dors",
+        "Venabili",
+        "Tisalver",
+        "Maître-du-Soleil Quatorze",
+        "Maîtresse",
+        "le docteur Seldon",
+        "docteur Seldon",
+        "Maîtresse Tisalver",
+        "Casilia",
+        "Jirad",
+        "Maîtresse Venabili",
+        "Lindor",
+        "Hano Lindor",
+        "Casilia Tisalver",
+        "Dors Venabili",
+        "Goutte-de-Pluie Quarante-trois",
+        "Amaryl",
+        "Anat Bigell",
+        "Mère Rittah"
+    ],
+    "init_gpt_entities": [
+        "YUGO",
+        "Maîtresse",
+        "Sire",
+        "Trantor",
+        "La Terre",
+        "Maître Seldon",
+        "Dors Venabili",
+        "Lindor",
+        "Grand Ancien",
+        "Seldon",
+        "Demerzel",
+        "Anat Bigell",
+        "Maître-du-Soleil Quatorze",
+        "Goutte-de-Pluie Quarante-trois",
+        "Hari Seldon",
+        "Dahlites",
+        "Mère Rittah",
+        "Amaryl",
+        "Hummin",
+        "Aurora",
+        "le docteur Seldon",
+        "Maire de Mycogène",
+        "Dors",
+        "Maîtresse Venabili",
+        "Hano Lindor",
+        "Casilia",
+        "Kan",
+        "la Terre",
+        "Tisalver",
+        "Hari",
+        "Cléon",
+        "Venabili",
+        "Casilia Tisalver",
+        "AMARYL",
+        "L’Empereur",
+        "docteur Seldon",
+        "Empereur",
+        "l’Empereur",
+        "Jirad",
+        "Maître Hummin",
+        "Maîtresse Tisalver"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"YUGO\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"Trantor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"AMARYL\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"L’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Puits thermique AMARYL, YUGO — ... Mathématicien que l’on peut considérer, juste après Hari Seldon lui-même, comme le principal responsable de l’élaboration des détails de la psychohistoire. Ce fut lui qui... ... Pourtant, les conditions de son entrée dans la vie sont presque plus impressionnantes que ses prouesses mathématiques. Né dans la pauvreté sans espoir du prolétariat de Dahl, un secteur de l’antique Trantor, il aurait pu vivre dans une obscurité totale si Seldon, tout à fait par accident, ne l’avait rencontré au cours de... ENCYCLOPAEDIA GALACTICA. L’Empereur de toute la Galaxie se sentait las – physiquement las. Il avait mal aux lèvres à force d’arborer un sourire obligatoirement gracieux et prudent ; le cou raidi à force d’incliner la tête ici ou là pour feindre l’intérêt ; les oreilles douloureuses à force d’écouter ; tout le corps endolori à force de se lever et de s’asseoir, de se tourner pour tendre la main et saluer.\n\n                    Question : Le mot \"Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ce n’était qu’une cérémonie officielle où il s’agissait de rencontrer maires, vice-rois et ministres avec leurs épouses ou époux, venus de telle ou telle région de Trantor ou (pire) de la Galaxie. Il y avait près de mille participants, tous en costumes tantôt fleuris, tantôt franchement exotiques, et il avait fallu prêter l’oreille à un concert d’accents variés et encore aggravés par l’effort de parler le galactique de l’Empereur tel qu’on le parle à l’université galactique. Pis que tout, l’Empereur avait dû se garder d’annoncer des engagements concrets, tout en tartinant à l’envi une épaisse pommade de mots creux. Tout cela sûr, une révolution de palais ou l’assassinat par un intime. C’était d’ailleurs surtout pour éviter cela qu’il se reposait entièrement sur Demerzel.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ce n’était qu’une cérémonie officielle où il s’agissait de rencontrer maires, vice-rois et ministres avec leurs épouses ou époux, venus de telle ou telle région de Trantor ou (pire) de la Galaxie. Il y avait près de mille participants, tous en costumes tantôt fleuris, tantôt franchement exotiques, et il avait fallu prêter l’oreille à un concert d’accents variés et encore aggravés par l’effort de parler le galactique de l’Empereur tel qu’on le parle à l’université galactique. Pis que tout, l’Empereur avait dû se garder d’annoncer des engagements concrets, tout en tartinant à l’envi une épaisse pommade de mots creux. Tout cela sûr, une révolution de palais ou l’assassinat par un intime. C’était d’ailleurs surtout pour éviter cela qu’il se reposait entièrement sur Demerzel.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cléon eut un petit frisson à l’idée de se passer de Demerzel, ou d’essayer. Certains Empereurs avaient gouverné personnellement, dotés d’une suite de chefs d’état-major sans talent, servis par des incapables qu’ils avaient maintenus dans leurs fonctions ; et malgré tout, ils avaient fait leur chemin tant bien que mal pendant quelque temps. Mais Cléon en était incapable. Il avait besoin de Demerzel. En fait, maintenant que l’idée de l’assassinat lui était venue – et, au vu de l’histoire récente de l’Empire, il ne pouvait pas la laisser échapper –, il voyait sans peine qu’il était tout à fait impossible de se passer de cet homme.\n\n                    Question : Le mot \"Cléon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tant qu’il serait dénué d’ambitions propres, Demerzel le servirait fidèlement. Et voici que l’homme se tenait devant lui, avec sa mise si simple et si sévère qu’elle rappelait douloureusement à Cléon les inutiles falbalas de sa tenue d’apparat – qu’il venait de retirer, Dieu merci, avec l’aide de deux domestiques. Bien sûr, c’était immanquablement quand il se retrouvait seul et en chemise que Demerzel choisissait de faire son apparition. « Demerzel, dit l’Empereur de toute la Galaxie, je suis las ! — Certaines fonctions sont lassantes, Sire, murmura Demerzel.\n\n                    Question : Le mot \"Sire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : L’affaire devait être menée subtilement. — J’entends bien, dit Cléon, mais elle a échoué. Est-ce que le Maire de Mycogène... — On l’appelle le Grand Ancien, Sire. — Ne chicanez pas sur les titres. Le Grand Ancien a-t-il refusé ?\n\n                    Question : Le mot \"Grand Ancien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : L’affaire devait être menée subtilement. — J’entends bien, dit Cléon, mais elle a échoué. Est-ce que le Maire de Mycogène... — On l’appelle le Grand Ancien, Sire. — Ne chicanez pas sur les titres. Le Grand Ancien a-t-il refusé ?\n\n                    Question : Le mot \"Maire de Mycogène\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je n’en suis pas certain, Sire, mais je soupçonne qu’on nous a doublés. — Qui ? Le Maire de Kan ? — C’est possible, Sire, mais j’en doute. J’ai fait placer Kan sous surveillance.\n\n                    Question : Le mot \"Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La situation n’est pas aussi mauvaise qu’il n’y paraît. — Comment cela ? — Ce n’est pas un fardeau, Maître Seldon. Maître Hummin a fait en sorte de nous payer généreusement pour l’utilisation de notre humble demeure ; ces crédits seraient les bienvenus même si vous ne l’étiez pas – et vous l’êtes. Seldon se souvint des derniers mots de Hummin en le quittant après l’arrivée à Dahl : « Seldon, avait-il dit, voici le troisième sanctuaire que je vous ai trouvé.\n\n                    Question : Le mot \"Maître Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La situation n’est pas aussi mauvaise qu’il n’y paraît. — Comment cela ? — Ce n’est pas un fardeau, Maître Seldon. Maître Hummin a fait en sorte de nous payer généreusement pour l’utilisation de notre humble demeure ; ces crédits seraient les bienvenus même si vous ne l’étiez pas – et vous l’êtes. Seldon se souvint des derniers mots de Hummin en le quittant après l’arrivée à Dahl : « Seldon, avait-il dit, voici le troisième sanctuaire que je vous ai trouvé.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La situation n’est pas aussi mauvaise qu’il n’y paraît. — Comment cela ? — Ce n’est pas un fardeau, Maître Seldon. Maître Hummin a fait en sorte de nous payer généreusement pour l’utilisation de notre humble demeure ; ces crédits seraient les bienvenus même si vous ne l’étiez pas – et vous l’êtes. Seldon se souvint des derniers mots de Hummin en le quittant après l’arrivée à Dahl : « Seldon, avait-il dit, voici le troisième sanctuaire que je vous ai trouvé.\n\n                    Question : Le mot \"Maître Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quant à vous, docteur Venabili, je sais que vous avez essayé de protéger Seldon, mais vous devez redoubler d’efforts. Mettez-vous bien dans la tête qu’il est le personnage le plus important de Trantor – sinon de la Galaxie entière – et que sa sécurité doit être assurée à tout prix. — Je continuerai à faire de mon mieux, répondit Dors, crispée. — Quant à votre famille d’accueil, ils ont leurs particularités mais ce sont essentiellement de braves gens à qui j’ai déjà eu affaire. Essayez de ne pas leur attirer d’ennuis non plus.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quant à vous, docteur Venabili, je sais que vous avez essayé de protéger Seldon, mais vous devez redoubler d’efforts. Mettez-vous bien dans la tête qu’il est le personnage le plus important de Trantor – sinon de la Galaxie entière – et que sa sécurité doit être assurée à tout prix. — Je continuerai à faire de mon mieux, répondit Dors, crispée. — Quant à votre famille d’accueil, ils ont leurs particularités mais ce sont essentiellement de braves gens à qui j’ai déjà eu affaire. Essayez de ne pas leur attirer d’ennuis non plus.\n\n                    Question : Le mot \"Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Tisalver, en tout cas, ne semblait pas s’attendre à des ennuis de la part de ses nouveaux locataires ; et le plaisir qu’il manifestait en leur compagnie – indépendamment du loyer qu’il touchait – semblait parfaitement sincère. Il n’était jamais sorti de Dahl et son appétit pour les récits sur les contrées lointaines était gigantesque. Sa femme aussi, tout en courbettes et en sourires, avait coutume de les écouter quand celui-ci remarqua négligemment que l’Empereur parlait et se comportait tout à fait comme le commun des mortels. Pour les Tisalver, la chose paraissait totalement impossible. Après trois soirées de ce régime, Seldon commença à se lasser.\n\n                    Question : Le mot \"Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Certes, mais il n’est pas parfait. Il m’a amené à l’Université et l’on m’y a attiré sur la Couverture. Il nous a conduits auprès de Maître-du-Soleil Quatorze qui nous a pris au piège. Vous le savez aussi bien que moi. Chat échaudé... Je suis las des interrogatoires.\n\n                    Question : Le mot \"Maître-du-Soleil Quatorze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Et le docteur Seldon n’est sur Trantor que depuis deux mois. — Vraiment ? » dit Maîtresse Tisalver. Elle était un peu plus petite que son mari, dodue sans être tout à fait grasse, avec des cheveux bruns tirés en chignon et de superbes yeux noirs. Comme son époux, elle avait apparemment la trentaine.\n\n                    Question : Le mot \"Maîtresse\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Et le docteur Seldon n’est sur Trantor que depuis deux mois. — Vraiment ? » dit Maîtresse Tisalver. Elle était un peu plus petite que son mari, dodue sans être tout à fait grasse, avec des cheveux bruns tirés en chignon et de superbes yeux noirs. Comme son époux, elle avait apparemment la trentaine.\n\n                    Question : Le mot \"le docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Et le docteur Seldon n’est sur Trantor que depuis deux mois. — Vraiment ? » dit Maîtresse Tisalver. Elle était un peu plus petite que son mari, dodue sans être tout à fait grasse, avec des cheveux bruns tirés en chignon et de superbes yeux noirs. Comme son époux, elle avait apparemment la trentaine.\n\n                    Question : Le mot \"docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Et le docteur Seldon n’est sur Trantor que depuis deux mois. — Vraiment ? » dit Maîtresse Tisalver. Elle était un peu plus petite que son mari, dodue sans être tout à fait grasse, avec des cheveux bruns tirés en chignon et de superbes yeux noirs. Comme son époux, elle avait apparemment la trentaine.\n\n                    Question : Le mot \"Maîtresse Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je n’ai pas l’impression que Jirad ou moi monterons jamais à bord d’une hypernef... — Un jour, Casilia, dit son mari pour la réconforter. Mais parlez-nous donc d’Hélicon, Maître Seldon. » Seldon hocha la tête. « Pour moi, c’est sans intérêt. Ce n’est jamais qu’une planète comme une autre.\n\n                    Question : Le mot \"Casilia\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je n’ai pas l’impression que Jirad ou moi monterons jamais à bord d’une hypernef... — Un jour, Casilia, dit son mari pour la réconforter. Mais parlez-nous donc d’Hélicon, Maître Seldon. » Seldon hocha la tête. « Pour moi, c’est sans intérêt. Ce n’est jamais qu’une planète comme une autre.\n\n                    Question : Le mot \"Jirad\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Un maillot à manches très courtes, un pantalon ample, un slip lâche, des socquettes, des sandales ouvertes. J’ai tout ce qu’il vous faut. — Parfait. Ça me paraît très bien. — Et pour Maîtresse Venabili, j’ai la même chose.\n\n                    Question : Le mot \"Maîtresse Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La température était douce et l’on ne voyait quasiment aucun véhicule ; tout le monde marchait. On entendait dans le lointain le grondement omniprésent du réseau express et par moments on distinguait sans peine le scintillement de ses voitures. Les Dahlites, remarqua Seldon, semblaient marcher sans but précis. On avait plutôt l’impression qu’ils flânaient pour le plaisir. Peut-être, si Dahl était aussi pauvre que l’avait laissé entendre Tisalver, les distractions peu coûteuses étaient-elles de mise, et quoi de plus agréable (et de plus économique) qu’une promenade vespérale ?\n\n                    Question : Le mot \"Dahlites\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Tisalver s’arrêta devant une porte où il s’annonça. Le battant s’ouvrit, livrant passage à un brusque courant d’air froid : « On devrait trouver ici quelqu’un pour nous guider – et surveiller les remarques dont Maîtresse Venabili risque d’être la cible... du moins de la part des hommes. — Oh, les remarques ne me gêneront pas. — Moi, si », fit Tisalver. Un jeune homme sortit du bureau et se présenta sous le nom de Hano Lindor.\n\n                    Question : Le mot \"Lindor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Tisalver s’arrêta devant une porte où il s’annonça. Le battant s’ouvrit, livrant passage à un brusque courant d’air froid : « On devrait trouver ici quelqu’un pour nous guider – et surveiller les remarques dont Maîtresse Venabili risque d’être la cible... du moins de la part des hommes. — Oh, les remarques ne me gêneront pas. — Moi, si », fit Tisalver. Un jeune homme sortit du bureau et se présenta sous le nom de Hano Lindor.\n\n                    Question : Le mot \"Hano Lindor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Elle ne le supportera pas. — Je lui parlerai, dit Seldon, résolu. Il faudra bien qu’elle le supporte. » Casilia Tisalver ouvrit tout grand les yeux : « Un puisatier thermique ? Pas dans mon appartement.\n\n                    Question : Le mot \"Casilia Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Dors Venabili leva la main. « Hari, laissez-moi m’en occuper. Maîtresse Tisalver, si le docteur Seldon doit recevoir quelqu’un dans sa chambre cet après-midi, cette personne supplémentaire signifie naturellement un complément de loyer. Nous le comprenons parfaitement. Nous dirons donc que pour aujourd’hui le loyer de la chambre du docteur Seldon sera doublé.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je ne le laisserai pas me passer la main dans les cheveux. En tout cas, nous sommes mieux préparés désormais, non ? Et je suis sûr que vous serez à mes côtés. Je veux dire, vous m’avez laissé monter sur la Couverture tout seul, vous m’avez laissé visiter les microfermes seul avec Goutte-de-Pluie Quarante-trois, et vous n’allez certainement pas recommencer, n’est-ce pas ? — Vous pouvez en être absolument certain.\n\n                    Question : Le mot \"Goutte-de-Pluie Quarante-trois\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Eh bien, dans ce cas, je m’en vais parler à ce jeune homme et vous pourrez toujours guetter les pièges éventuels. J’ai toute confiance en vous. Amaryl arriva peu avant quatorze heures, l’air méfiant. Il était bien coiffé et son épaisse moustache était peignée et légèrement retroussée aux extrémités. Son tee-shirt était d’un blanc éclatant.\n\n                    Question : Le mot \"Amaryl\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Puis il lui expliqua sa démarche. Seldon l’écouta et lui demanda s’il avait lu un ouvrage d’Anat Bigell. « Sur la théorie des nombres ? — Le titre en est Déduction mathématique. Il ne traite pas spécialement de la théorie des nombres.\n\n                    Question : Le mot \"Anat Bigell\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : On les laisse faire pour pouvoir dire que c’est possible. Et ceux-là peuvent vivre agréablement pourvu qu’ils restent à Dahl. Qu’ils sortent et ils verront comment on les — Descendants de quoi ? s’écria Seldon en tournant vers Dors un regard ahuri. — Du peuple de la Terre, cria Amaryl.\n\n                    Question : Le mot \"la Terre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La planète d’où est originaire l’espèce humaine. — Une planète ? Rien qu’une planète ? — Une seule et unique planète, bien sûr. La Terre.\n\n                    Question : Le mot \"La Terre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Quand vous dites la Terre, vous voulez parler d’Aurora, n’est-ce pas ? — Aurora ? Qu’est-ce que c’est que ça ? Je parle de la Terre. Vous n’en avez jamais entendu parler ?\n\n                    Question : Le mot \"Aurora\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Si vous voulez des histoires là- dessus, il y a toujours Mère Rittah. Elle n’est pas morte que je sache... — Votre mère ? Ne le sauriez-vous pas, si... — Ce n’est pas ma mère à moi. C’est simplement ainsi qu’on l’appelle. Mère Rittah.\n\n                    Question : Le mot \"Mère Rittah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

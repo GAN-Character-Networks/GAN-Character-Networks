@@ -1,0 +1,102 @@
+{
+    "final_gpt_entities": [
+        "Seldon",
+        "Leggen",
+        "LEGGEN, JENARR",
+        "Venabili",
+        "Dors",
+        "Jenarr",
+        "Dors Venabili",
+        "Jenarr Leggen",
+        "Hari Seldon",
+        "Hari",
+        "Clowzia",
+        "docteur Leggen",
+        "Benastra",
+        "docteur Seldon"
+    ],
+    "init_gpt_entities": [
+        "Venabili",
+        "Dors",
+        "Benastra",
+        "Jenarr",
+        "Dors Venabili",
+        "Hari Seldon",
+        "docteur Leggen",
+        "docteur Seldon",
+        "Jenarr Leggen",
+        "Hari",
+        "Seldon",
+        "Clowzia",
+        "Leggen",
+        "recteur",
+        "l’Université",
+        "LEGGEN, JENARR"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Sauvetage LEGGEN, JENARR. — ... Ses contributions à la météorologie, toutefois, bien que considérables, s’effacent devant ce que l’on a, depuis, pris coutume d’appeler la Controverse Leggen. Que ses actes aient contribué à mettre en péril la vie de Seldon est indiscutable, mais le débat fait toujours rage entre les tenants des circonstances fortuites et ceux du complot délibéré. De part et d’autre, les passions ne sont pas retombées et les recherches, même les plus poussées, n’ont pas permis d’aboutir à une conclusion définitive. Toujours est-il que les soupçons nés à cette occasion devaient contribuer à empoisonner la vie privée et la carrière de Leggen dans les années qui suivirent.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Sauvetage LEGGEN, JENARR. — ... Ses contributions à la météorologie, toutefois, bien que considérables, s’effacent devant ce que l’on a, depuis, pris coutume d’appeler la Controverse Leggen. Que ses actes aient contribué à mettre en péril la vie de Seldon est indiscutable, mais le débat fait toujours rage entre les tenants des circonstances fortuites et ceux du complot délibéré. De part et d’autre, les passions ne sont pas retombées et les recherches, même les plus poussées, n’ont pas permis d’aboutir à une conclusion définitive. Toujours est-il que les soupçons nés à cette occasion devaient contribuer à empoisonner la vie privée et la carrière de Leggen dans les années qui suivirent.\n\n                    Question : Le mot \"Leggen\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Sauvetage LEGGEN, JENARR. — ... Ses contributions à la météorologie, toutefois, bien que considérables, s’effacent devant ce que l’on a, depuis, pris coutume d’appeler la Controverse Leggen. Que ses actes aient contribué à mettre en péril la vie de Seldon est indiscutable, mais le débat fait toujours rage entre les tenants des circonstances fortuites et ceux du complot délibéré. De part et d’autre, les passions ne sont pas retombées et les recherches, même les plus poussées, n’ont pas permis d’aboutir à une conclusion définitive. Toujours est-il que les soupçons nés à cette occasion devaient contribuer à empoisonner la vie privée et la carrière de Leggen dans les années qui suivirent.\n\n                    Question : Le mot \"LEGGEN, JENARR\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ENCYCLOPAEDIA GALACTICA La nuit n’était pas tout à fait tombée quand Dors Venabili aborda Jenarr Leggen. Il répondit à son salut quelque peu anxieux par un grognement assorti d’un bref signe de tête. « Eh bien, fit-elle avec un rien d’impatience. Comment était-il ? » Leggen, qui était occupé à entrer des données dans son ordinateur, répondit : « Comment était qui ?\n\n                    Question : Le mot \"Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ENCYCLOPAEDIA GALACTICA La nuit n’était pas tout à fait tombée quand Dors Venabili aborda Jenarr Leggen. Il répondit à son salut quelque peu anxieux par un grognement assorti d’un bref signe de tête. « Eh bien, fit-elle avec un rien d’impatience. Comment était-il ? » Leggen, qui était occupé à entrer des données dans son ordinateur, répondit : « Comment était qui ?\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ENCYCLOPAEDIA GALACTICA La nuit n’était pas tout à fait tombée quand Dors Venabili aborda Jenarr Leggen. Il répondit à son salut quelque peu anxieux par un grognement assorti d’un bref signe de tête. « Eh bien, fit-elle avec un rien d’impatience. Comment était-il ? » Leggen, qui était occupé à entrer des données dans son ordinateur, répondit : « Comment était qui ?\n\n                    Question : Le mot \"Jenarr\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ENCYCLOPAEDIA GALACTICA La nuit n’était pas tout à fait tombée quand Dors Venabili aborda Jenarr Leggen. Il répondit à son salut quelque peu anxieux par un grognement assorti d’un bref signe de tête. « Eh bien, fit-elle avec un rien d’impatience. Comment était-il ? » Leggen, qui était occupé à entrer des données dans son ordinateur, répondit : « Comment était qui ?\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ENCYCLOPAEDIA GALACTICA La nuit n’était pas tout à fait tombée quand Dors Venabili aborda Jenarr Leggen. Il répondit à son salut quelque peu anxieux par un grognement assorti d’un bref signe de tête. « Eh bien, fit-elle avec un rien d’impatience. Comment était-il ? » Leggen, qui était occupé à entrer des données dans son ordinateur, répondit : « Comment était qui ?\n\n                    Question : Le mot \"Jenarr Leggen\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Mon étudiant de la bibliothèque, Hari. Le docteur Hari Seldon. Il est monté avec vous. Vous a-t-il été d’une aide quelconque ? » Leggen retira les mains du clavier et pivota sur son siège : « L’autre Héliconien, là ?\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Mon étudiant de la bibliothèque, Hari. Le docteur Hari Seldon. Il est monté avec vous. Vous a-t-il été d’une aide quelconque ? » Leggen retira les mains du clavier et pivota sur son siège : « L’autre Héliconien, là ?\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous étiez avec Hari Seldon, sur la Couverture ? demanda Dors. — Oui, répondit Clowzia en haussant les sourcils. Pendant un moment. Il avait envie de se promener un peu et de poser des questions sur la végétation là-haut.\n\n                    Question : Le mot \"Clowzia\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Allons quand même jeter un coup d’œil. — Mais c’est que je ne peux pas vous emmener là-haut. Je ne suis qu’une interne et je n’ai pas la combinaison pour ouvrir la Couverture du dôme. Il va falloir que vous demandiez au docteur Leggen. » — Il s’agit d’une urgence.\n\n                    Question : Le mot \"docteur Leggen\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je dois avoir les enregistrements sismologiques relevés sur la Couverture ces dernières heures. » Surprise de Benastra : « Pourquoi ? Il ne s’est rien passé. Je l’aurais su, autrement. Les sismographes nous l’indiqueraient.\n\n                    Question : Le mot \"Benastra\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais ce pourrait être une douzaine d’autres choses. l’Université, au recteur en personne s’il le faut. D’une manière ou d’une autre, je vais aller là-haut et, si jamais il est arrivé malheur à Hari parce que vous nous aurez retardés d’une minute, je veillerai à ce que vous soyez poursuivi pour négligence, incompétence – tout ce que je pourrai vous coller sur le dos –, et vous serez démis de vos fonctions et viré du corps enseignant. Et bien sûr, s’il est mort, inculpé d’homicide par imprudence. Ou pire, puisque je viens de vous avertir qu’il est mourant.\n\n                    Question : Le mot \"recteur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais ce pourrait être une douzaine d’autres choses. l’Université, au recteur en personne s’il le faut. D’une manière ou d’une autre, je vais aller là-haut et, si jamais il est arrivé malheur à Hari parce que vous nous aurez retardés d’une minute, je veillerai à ce que vous soyez poursuivi pour négligence, incompétence – tout ce que je pourrai vous coller sur le dos –, et vous serez démis de vos fonctions et viré du corps enseignant. Et bien sûr, s’il est mort, inculpé d’homicide par imprudence. Ou pire, puisque je viens de vous avertir qu’il est mourant.\n\n                    Question : Le mot \"l’Université\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Dans l’ascenseur, une vapeur montait de Seldon emmailloté à mesure que la température de la couverture de survie s’élevait à celle du corps. Dors reprit : « Une fois que nous l’aurons ramené dans sa chambre, docteur Leggen, vous allez me trouver un médecin – et un bon –, et tâchez qu’il vienne tout de suite. Si le docteur Seldon s’en tire sans problème, je ne dirai rien, mais uni-que- ment dans ce cas. Souvenez-vous-en. — Inutile de me faire un sermon, répondit Leggen, glacial.\n\n                    Question : Le mot \"docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

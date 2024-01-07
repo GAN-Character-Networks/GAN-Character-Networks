@@ -1,0 +1,158 @@
+{
+    "final_gpt_entities": [
+        "Seldon",
+        "Hari Seldon",
+        "Hummin",
+        "Hari",
+        "VENABILI, DORS",
+        "Demerzel",
+        "Dors Machinchose",
+        "Dors",
+        "M. Hummin",
+        "docteur Seldon",
+        "Dors Venabili",
+        "Chetter Hummin",
+        "Cléon",
+        "Sire",
+        "Empereur",
+        "l’Empereur",
+        "Maire de Kan",
+        "L’Empereur",
+        "professeur Venabili"
+    ],
+    "init_gpt_entities": [
+        "Trantor",
+        "Sire",
+        "Dors Venabili",
+        "Seldon",
+        "Jennisek",
+        "Chetter Hummin",
+        "Demerzel",
+        "Dors Machinchose",
+        "Chetter",
+        "Maire de Kan",
+        "Hari Seldon",
+        "Hummin",
+        "l’Université",
+        "Dors",
+        "Kan",
+        "Hélicon",
+        "Hari",
+        "Cléon",
+        "L’Empereur",
+        "M. Hummin",
+        "docteur Seldon",
+        "Empereur",
+        "l’Empereur",
+        "professeur Venabili",
+        "VENABILI, DORS",
+        "l’instinct formaliste",
+        "docteur Seldon‖ "
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un repas. Il n’y avait pas de fenêtre, mais, derrière une grille encastrée au plafond, un ventilateur émettait un soupir régulier.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un repas. Il n’y avait pas de fenêtre, mais, derrière une grille encastrée au plafond, un ventilateur émettait un soupir régulier.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un repas. Il n’y avait pas de fenêtre, mais, derrière une grille encastrée au plafond, un ventilateur émettait un soupir régulier.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un repas. Il n’y avait pas de fenêtre, mais, derrière une grille encastrée au plafond, un ventilateur émettait un soupir régulier.\n\n                    Question : Le mot \"l’Université\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un repas. Il n’y avait pas de fenêtre, mais, derrière une grille encastrée au plafond, un ventilateur émettait un soupir régulier.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Bibliothèque VENABILI, DORS. — ... Historienne, née à Cinna... Sa vie aurait fort bien pu se dérouler sans surprises, n’eût été le fait qu’après avoir passé deux années à l’Université de Streeling, elle se trouva entraînée avec le jeune Hari Seldon durant la Fuite. ENCYLOPEDIA GALACTICA La pièce où se retrouva Hari Seldon était plus vaste que le studio de Hummin dans le secteur impérial. C’était une chambre avec un coin toilette mais sans aucun équipement pour faire la cuisine ou prendre un repas. Il n’y avait pas de fenêtre, mais, derrière une grille encastrée au plafond, un ventilateur émettait un soupir régulier.\n\n                    Question : Le mot \"VENABILI, DORS\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quelques affaires personnelles auxquelles j’attachais valeur de souvenirs, mais enfin, si elles sont perdues, même le gouvernement, si bien qu’un équilibre fragile se maintient. En d’autres termes, Demerzel lui-même ne pourrait vous extirper de là sans un prétexte bien plus important que nul à l’Université n’a pu en fournir au gouvernement depuis un siècle et demi. D’un autre côté, si vous êtes attiré hors du campus universitaire par un agent infiltré parmi les étudiants... — Il y en a ? — Comment le saurais-je ? C’est possible.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tout individu ordinaire peut être menacé, manœuvré ou simplement acheté – et rester par la suite au service de Demerzel, ou de n’importe qui d’autre, d’ailleurs. C’est bien pourquoi j’insiste sur ce point : vous êtes raisonnablement en sûreté, mais personne ne l’est jamais absolument. Vous devrez être prudent. Je vous avertis donc, mais je ne veux pas non plus vous affoler. Dans l’ensemble, vous serez bien plus en sûreté ici que vous ne l’auriez été si vous étiez retourné sur Hélicon, ou sur n’importe quelle autre planète de la Galaxie.\n\n                    Question : Le mot \"Hélicon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il ouvrit enfin la porte. Ce faisant, il se rendit compte que la visiteuse ne s’était pas vraiment identifiée. Elle s’était contentée de donner un nom, et Hummin n’avait pas nommé ses visiteurs éventuels, cette Dors Machinchose ou quelqu’un d’autre. Il s’était senti à l’abri parce que l’hologramme représentait une jeune femme avenante mais, pour ce qu’il en savait, elle aurait aussi bien pu être accompagnée d’une demi-douzaine déjeunes gens hostiles. Il hasarda un coup d’œil prudent, ne vit que la femme, puis ouvrit suffisamment la porte pour la laisser entrer.\n\n                    Question : Le mot \"Dors Machinchose\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il ouvrit enfin la porte. Ce faisant, il se rendit compte que la visiteuse ne s’était pas vraiment identifiée. Elle s’était contentée de donner un nom, et Hummin n’avait pas nommé ses visiteurs éventuels, cette Dors Machinchose ou quelqu’un d’autre. Il s’était senti à l’abri parce que l’hologramme représentait une jeune femme avenante mais, pour ce qu’il en savait, elle aurait aussi bien pu être accompagnée d’une demi-douzaine déjeunes gens hostiles. Il hasarda un coup d’œil prudent, ne vit que la femme, puis ouvrit suffisamment la porte pour la laisser entrer.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Officiellement, Trantor s’en tenait au temps universel galactique, seule manière cohérente de faire fonctionner le commerce interstellaire et les affaires d’État. Chaque planète, en revanche, avait son temps local et Seldon n’en était pas encore au point de jongler avec les références horaires trantoriennes. « C’est le milieu de la matinée ? — Bien sûr. — Il n’y a pas de fenêtre dans cette chambre », observa-t-il, sur la défensive.\n\n                    Question : Le mot \"Trantor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je vous en prie, docteur Seldon, comptez-moi parmi vos amies. M. Hummin m’a demandé de prendre soin de vous. » Sourire gêné de Seldon. « Vous êtes peut-être un peu jeune pour la tâche. — Vous verrez que non.\n\n                    Question : Le mot \"M. Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je vous en prie, docteur Seldon, comptez-moi parmi vos amies. M. Hummin m’a demandé de prendre soin de vous. » Sourire gêné de Seldon. « Vous êtes peut-être un peu jeune pour la tâche. — Vous verrez que non.\n\n                    Question : Le mot \"docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Eh bien, je vais essayer de causer le moins de gêne possible. Pouvez-vous me rappeler votre nom, je vous prie ? — Dors Venabili. « Elle épela son nom de famille, après avoir souligné l’accent sur la seconde syllabe. « Comme je l’ai dit, appelez-moi Dors, je vous en prie, et si vous n’y voyez pas d’inconvénient, de mon côté je vous appellerai Hari.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Nous ne faisons aucune cérémonie, ici, à l’Université, et l’on fait presque un effort délibéré pour ne pas afficher sa position, familiale ou professionnelle. — Mais comment donc, appelez-moi Hari, je vous en prie. — A la bonne heure. Je ne ferai donc pas de cérémonies. Par exemple, l’instinct formaliste, si une telle chose existait, me pousserait à vous demander la permission de m’asseoir.\n\n                    Question : Le mot \"l’instinct formaliste\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Hummin m’a demandé de vous fournir une plaque de crédit à son nom, mais il va me falloir un jour ou deux pour en extorquer une à l’administration universitaire. D’ici là, c’est moi qui serai responsable de vos dépenses, vous pourrez me rembourser par la suite – et nous allons pouvoir vous utiliser. Chetter Hummin m’a dit que vous êtes mathématicien, et l’Université en manque sérieusement, surtout de bons. — Hummin vous a dit que je suis un bon mathématicien ? — En fait, oui.\n\n                    Question : Le mot \"Chetter Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Hummin m’a demandé de vous fournir une plaque de crédit à son nom, mais il va me falloir un jour ou deux pour en extorquer une à l’administration universitaire. D’ici là, c’est moi qui serai responsable de vos dépenses, vous pourrez me rembourser par la suite – et nous allons pouvoir vous utiliser. Chetter Hummin m’a dit que vous êtes mathématicien, et l’Université en manque sérieusement, surtout de bons. — Hummin vous a dit que je suis un bon mathématicien ? — En fait, oui.\n\n                    Question : Le mot \"Chetter\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais je n’aurai pas peur de rivaliser et peu m’importent les éventuelles humiliations en cours de route si je parviens à apprendre les arcanes de la recherche bibliographique en histoire. » Il était clair pour Seldon qu’il commençait à apprécier cette jeune femme et qu’il saisissait volontiers l’occasion de se faire former par elle. Il était conscient aussi d’être parvenu à un tournant intellectuel. Il avait promis à Hummin de tenter de travailler sur une application de la psychohistoire, mais ç’avait été une promesse derrière la porte, soit qu’il s’approchât parce que, quelque part, son instinct servile le prévenait de l’imminence d’un appel, le fait est qu’il apparaissait et, songea négligemment Cléon, cela seul importait. Bien sûr, il y avait des périodes où Demerzel devait s’absenter pour raison d’État.\n\n                    Question : Le mot \"Cléon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cléon détestait ces absences. Elles le mettaient mal à l’aise. « Qu’est-il arrivé à ce mathématicien... j’ai oublié son nom. » Demerzel, qui savait sûrement quel homme l’Empereur avait à l’esprit mais qui voulait peut-être tester sa mémoire, lui demanda : « A quel mathématicien songez-vous, Sire ? » Cléon agita la main avec impatience.\n\n                    Question : Le mot \"Sire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cléon détestait ces absences. Elles le mettaient mal à l’aise. « Qu’est-il arrivé à ce mathématicien... j’ai oublié son nom. » Demerzel, qui savait sûrement quel homme l’Empereur avait à l’esprit mais qui voulait peut-être tester sa mémoire, lui demanda : « A quel mathématicien songez-vous, Sire ? » Cléon agita la main avec impatience.\n\n                    Question : Le mot \"Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cléon détestait ces absences. Elles le mettaient mal à l’aise. « Qu’est-il arrivé à ce mathématicien... j’ai oublié son nom. » Demerzel, qui savait sûrement quel homme l’Empereur avait à l’esprit mais qui voulait peut-être tester sa mémoire, lui demanda : « A quel mathématicien songez-vous, Sire ? » Cléon agita la main avec impatience.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il est même possible qu’il désire nous rejoindre de lui-même, dans de telles circonstances. » L’Empereur demeura quelque temps abîmé dans ses pensées, puis : « Et si jamais quelqu’un d’autre l’y cueille avant nous ? — Qui voudrait le faire, Sire ? demanda doucement Demerzel. — Le Maire de Kan, pour commencer, s’écria soudain Cléon.\n\n                    Question : Le mot \"Maire de Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il est même possible qu’il désire nous rejoindre de lui-même, dans de telles circonstances. » L’Empereur demeura quelque temps abîmé dans ses pensées, puis : « Et si jamais quelqu’un d’autre l’y cueille avant nous ? — Qui voudrait le faire, Sire ? demanda doucement Demerzel. — Le Maire de Kan, pour commencer, s’écria soudain Cléon.\n\n                    Question : Le mot \"Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il est même possible qu’il désire nous rejoindre de lui-même, dans de telles circonstances. » L’Empereur demeura quelque temps abîmé dans ses pensées, puis : « Et si jamais quelqu’un d’autre l’y cueille avant nous ? — Qui voudrait le faire, Sire ? demanda doucement Demerzel. — Le Maire de Kan, pour commencer, s’écria soudain Cléon.\n\n                    Question : Le mot \"L’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : L’idée le conduisit naturellement à poser la question : « Jouez-vous au tennis sur le campus ? — Nous avons des courts mais je ne joue pas. — Bien. Je vous donnerai des leçons. Et pendant mon cours je vous appellerai professeur Venabili.\n\n                    Question : Le mot \"professeur Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Ce genre de connaissance est également limité, remarqua Seldon, maussade. Je connais la géographie d’Hélicon, l’histoire de sa colonisation, les faits et méfaits de la planète Jennisek – c’est notre ennemi traditionnel, bien que nos professeurs aient pris soin de nous répéter qu’il fallait dire « rival » traditionnel. Mais je n’ai jamais appris quoi que ce soit sur la contribution d’Hélicon à l’histoire générale de la Galaxie. — Peut-être n’y en a-t-il eu aucune. — Ne soyez pas stupide.\n\n                    Question : Le mot \"Jennisek\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}
