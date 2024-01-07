@@ -14,11 +14,11 @@
     },
     "chunk_3": {
         "chunk": "Il a aussitôt décidé d’utiliser ce fait pour vous attirer des ennuis, et pour vous obliger à abandonner la direction de l’enquête. Est-ce là ce que vous pensez ? — C’est presque cela. — Parfait !",
-        "ner_chunk": "Il n'y a pas de personnage dans cette phrase, donc je ne vais pas ajouter de balises."
+        "ner_chunk": "Il a aussitôt décidé d’utiliser ce fait pour vous attirer des ennuis, et pour vous obliger à abandonner la direction de l’enquête. Est-ce là ce que vous pensez ? — C’est presque cela. — Parfait !"
     },
     "chunk_4": {
         "chunk": "fit le commissaire, qui parut s’intéresser davantage à l’affaire. Il savait que votre femme faisait partie du mouvement, bien entendu, et il était convaincu que vous n’accepteriez pas que l’on fouillât dans votre vie privée, pour y trouver des charges contre vous. Il aura pensé que vous donneriez votre démission plutôt que de tenter de vous justifier. A ce propos, Lije, que diriez-vous de démissionner ?",
-        "ner_chunk": "@@commissaire##, qui parut s’intéresser davantage à l’affaire. Il savait que votre femme faisait partie du mouvement, bien entendu, et il était convaincu que vous n’accepteriez pas que l’on fouillât dans votre vie privée, pour y trouver des charges contre vous. Il aura pensé que vous donneriez votre démission plutôt que de tenter de vous justifier. A ce propos, @@Lije##, que diriez-vous de démissionner ?"
+        "ner_chunk": "fit le commissaire, qui parut s’intéresser davantage à l’affaire. Il savait que votre femme faisait partie du mouvement, bien entendu, et il était convaincu que vous n’accepteriez pas que l’on fouillât dans votre vie privée, pour y trouver des charges contre vous. Il aura pensé que vous donneriez votre démission plutôt que de tenter de vous justifier. A ce propos, @@Lije##, que diriez-vous de démissionner ?"
     },
     "chunk_5": {
         "chunk": "Je veux dire que, si ça tourne vraiment mal, nous pourrions, de cette façon, étouffer l’affaire ! — Pas pour tout l’or du monde, monsieur le commissaire ! — Comme vous voudrez ! dit Enderby en haussant les épaules.",
@@ -26,7 +26,7 @@
     },
     "chunk_6": {
         "chunk": "Où en étais-je ? Ah, oui ! Eh bien, Clousarr se sera procuré sans doute un vaporisateur, par l’intermédiaire d’un autre membre du mouvement travaillant à la centrale, et il aura chargé un second complice de détruire R. Sammy. Il tambourina légèrement de ses doigts sur sa table.",
-        "ner_chunk": "Où en étais-je ? Ah, oui ! Eh bien, @@Clousarr## se sera procuré sans doute un vaporisateur, par l’intermédiaire d’un autre membre du mouvement travaillant à la centrale, et il aura chargé un second complice de détruire R. Sammy. Il tambourina légèrement de ses doigts sur sa table."
+        "ner_chunk": "Où en étais-je ? Ah, oui ! Eh bien, @@Clousarr## se sera procuré sans doute un vaporisateur, par l’intermédiaire d’un autre membre du mouvement travaillant à la centrale, et il aura chargé un second complice de détruire @@R. Sammy##. Il tambourina légèrement de ses doigts sur sa table."
     },
     "chunk_7": {
         "chunk": "— Non, Lije ! reprit-il. Elle ne vaut rien, votre thèse. — Et pourquoi donc ?",
@@ -34,11 +34,11 @@
     },
     "chunk_8": {
         "chunk": "— Trop tirée par les cheveux ! Trop de complices ! De plus, Clousarr a un alibi à toute épreuve, pour la nuit et le matin du meurtre du Dr Sarton. Nous avons vérifié cela tout de suite, et j’étais évidemment le seul à connaitre la raison pour laquelle cette heure-là méritait un contrôle particulier.",
-        "ner_chunk": "— Trop tirée par les cheveux ! Trop de complices ! De plus, @@Clousarr## a un alibi à toute épreuve, pour la nuit et le matin du meurtre du Dr @@Sarton##. Nous avons vérifié cela tout de suite, et j’étais évidemment le seul à connaitre la raison pour laquelle cette heure-là méritait un contrôle particulier."
+        "ner_chunk": "— Trop tirée par les cheveux ! Trop de complices ! De plus, @@Clousarr## a un alibi à toute épreuve, pour la nuit et le matin du meurtre du @@Dr Sarton##. Nous avons vérifié cela tout de suite, et j’étais évidemment le seul à connaitre la raison pour laquelle cette heure-là méritait un contrôle particulier."
     },
     "chunk_9": {
         "chunk": "— Ce que je me demande maintenant, reprit Baley, c’est si, en réalité, Clousarr a fait la moindre déclaration au sujet de Jessie. Je me demande si ce n’est pas vous qui avez monté ce coup-là. Voilà vingt ans que vous connaissez Jessie, et vous êtes le seul, sans doute, à savoir qu’elle a pour prénom Jézabel. — Vous perdez la tête, mon garçon !",
-        "ner_chunk": "— Ce que je me demande maintenant, reprit @@Baley##, c’est si, en réalité, @@Clousarr## a fait la moindre déclaration au sujet de @@Jessie##. Je me demande si ce n’est pas vous qui avez monté ce coup-là. Voilà vingt ans que vous connaissez @@Jessie##, et vous êtes le seul, sans doute, à savoir qu’elle a pour prénom Jézabel. — Vous perdez la tête, mon garçon !"
+        "ner_chunk": "— Ce que je me demande maintenant, reprit @@Baley##, c’est si, en réalité, @@Clousarr## a fait la moindre déclaration au sujet de @@Jessie##. Je me demande si ce n’est pas vous qui avez monté ce coup-là. Voilà vingt ans que vous connaissez @@Jessie##, et vous êtes le seul, sans doute, à savoir qu’elle a pour prénom @@Jézabel##. — Vous perdez la tête, mon garçon !"
     },
     "chunk_10": {
         "chunk": "— Vous croyez ? Où étiez-vous donc après déjeuner ? Vous avez été absent de votre bureau pendant au moins deux heures. — Est-ce que vous prétendez m’interroger, par hasard ?",
@@ -46,15 +46,15 @@
     },
     "chunk_11": {
         "chunk": "— Je vais-même répondre à votre place : vous étiez à la centrale d’énergie de Williamsburg ! Le commissaire principal se leva d’un bond. Son front était luisant, et, au coin de ses lèvres, il y avait de petites taches blanches, comme de l’écume séchée. — Que diable êtes-vous en train de raconter ?",
-        "ner_chunk": "— Je vais-même répondre à votre place : vous étiez à la centrale d’énergie de @@Williamsburg## ! Le commissaire principal se leva d’un bond. Son front était luisant, et, au coin de ses lèvres, il y avait de petites taches blanches, comme de l’écume séchée. — Que diable êtes-vous en train de raconter ?"
+        "ner_chunk": "— Je vais-même répondre à votre place : vous étiez à la centrale d’énergie de Williamsburg ! Le commissaire principal se leva d’un bond. Son front était luisant, et, au coin de ses lèvres, il y avait de petites taches blanches, comme de l’écume séchée. — Que diable êtes-vous en train de raconter ?"
     },
     "chunk_12": {
         "chunk": "— Y étiez-vous, oui ou non ? — Baley, vous êtes suspendu ! Rendez-moi votre insigne ! — Pas encore !",
-        "ner_chunk": "@@Baley##, vous êtes suspendu ! Rendez-moi votre insigne ! — Pas encore !"
+        "ner_chunk": "— Y étiez-vous, oui ou non ? — @@Baley##, vous êtes suspendu ! Rendez-moi votre insigne ! — Pas encore !"
     },
     "chunk_13": {
         "chunk": "Vous m’entendrez d’abord, et jusqu’au bout ! — Il n’en est pas question. C’est vous le coupable, un coupable diabolique, même ! Et ce qui me dépasse, c’est que vous ayez assez d’audace et assez peu de dignité pour m’accuser, moi, moi entre tous, d’avoir comploté votre perte !",
-        "ner_chunk": "@@Vous## m’entendrez d’abord, et jusqu’au bout ! — Il n’en est pas question. C’est @@vous## le coupable, un coupable diabolique, même ! Et ce qui me dépasse, c’est que @@vous## ayez assez d’audace et assez peu de dignité pour m’accuser, @@moi##, @@moi## entre tous, d’avoir comploté votre perte !"
+        "ner_chunk": "Vous m’entendrez d’abord, et jusqu’au bout ! — Il n’en est pas question. C’est vous le coupable, un coupable diabolique, même ! Et ce qui me dépasse, c’est que vous ayez assez d’audace et assez peu de dignité pour m’accuser, moi, moi entre tous, d’avoir comploté votre perte !"
     },
     "chunk_14": {
         "chunk": "Son indignation était telle qu’il en perdit un instant la parole. Dès qu’il l’eut retrouvée, il balbutia : — B... Baley, je... je vous arrête ! — Non ! répliqua l’inspecteur, très maître de lui.",
@@ -62,7 +62,7 @@
     },
     "chunk_15": {
         "chunk": "Pas encore, monsieur le commissaire ! Je vous préviens que mon arme est dans ma poche, braquée sur vous, et qu’elle est chargée. N’essayez pas de me prendre pour un imbécile, car je n’en suis pas un ! Je suis décidé à tout, vous m’entendez bien, à tout pour pouvoir aller jusqu’au bout de ma démonstration !",
-        "ner_chunk": "Pas encore, monsieur le commissaire ! Je vous préviens que mon arme est dans ma poche, braquée sur @@vous##, et qu’elle est chargée. N’essayez pas de me prendre pour un imbécile, car je n’en suis pas un ! Je suis décidé à tout, @@vous## m’entendez bien, à tout pour pouvoir aller jusqu’au bout de ma démonstration !"
+        "ner_chunk": "Pas encore, monsieur le commissaire ! Je vous préviens que mon arme est dans ma poche, braquée sur vous, et qu’elle est chargée. N’essayez pas de me prendre pour un imbécile, car je n’en suis pas un ! Je suis décidé à tout, vous m’entendez bien, à tout pour pouvoir aller jusqu’au bout de ma démonstration !"
     },
     "chunk_16": {
         "chunk": "Quand j’aurai terminé, vous ferez ce que vous voudrez : peu m’importe ! Julius Enderby, les yeux hagards, regarda fixement la poche dans laquelle Baley tenait son arme braquée sur son chef. — Ca vous coûtera cher, Baley ! finit-il par s’écrier.",
@@ -70,11 +70,11 @@
     },
     "chunk_17": {
         "chunk": "Vous passerez vingt ans en prison, vous m’entendez ! Vingt ans dans le plus noir des cachots de la Cité ! immédiat et correct. Et maintenant, ajouta-t-il en remettant son arme dans son étui, si vous voulez m’arrêter, allez-y !",
-        "ner_chunk": "Vous passerez vingt ans en prison, vous m’entendez ! Vingt ans dans le plus noir des cachots de la Cité ! immédiat et correct. Et maintenant, ajouta-t-il en remettant son arme dans son étui, si vous voulez @@m’arrêter##, allez-y !"
+        "ner_chunk": "Vous passerez vingt ans en prison, vous m’entendez ! Vingt ans dans le plus noir des cachots de la Cité ! immédiat et correct. Et maintenant, ajouta-t-il en remettant son arme dans son étui, si vous voulez m’arrêter, allez-y !"
     },
     "chunk_18": {
         "chunk": "Mais je doute que Spacetown accepte cela comme une réponse à ce que je viens d’affirmer. — Le mobile !... balbutia Enderby, à bout de souffle. Ses lunettes étaient embuées de sueur, et il les ôta, ce qui, aussitôt, lui redonna un air désemparé et misérable : — Quel aurait été le mobile d’un tel acte, si je l’avais commis ?",
-        "ner_chunk": "Mais je doute que @@Spacetown## accepte cela comme une réponse à ce que je viens d’affirmer. — Le mobile !... balbutia @@Enderby##, à bout de souffle. Ses lunettes étaient embuées de sueur, et il les ôta, ce qui, aussitôt, lui redonna un air désemparé et misérable : — Quel aurait été le mobile d’un tel acte, si je l’avais commis ?"
+        "ner_chunk": "Mais je doute que Spacetown accepte cela comme une réponse à ce que je viens d’affirmer. — Le mobile !... balbutia @@Enderby##, à bout de souffle. Ses lunettes étaient embuées de sueur, et il les ôta, ce qui, aussitôt, lui redonna un air désemparé et misérable : — Quel aurait été le mobile d’un tel acte, si je l’avais commis ?"
     },
     "chunk_19": {
         "chunk": "— Vous m’avez fourré dans un beau pétrin, pas vrai ? Et quel bâton dans les roues de l’enquête Sarton ! En plus de tout cela, R. Sammy en savait trop. — Sur quoi, au nom du Ciel ?",
@@ -82,11 +82,11 @@
     },
     "chunk_20": {
         "chunk": "— Sur la façon dont un Spacien a été assassiné, il y a cinq jours et demi. Car, monsieur le commissaire, c’est vous-même qui, à Spacetown, avez tué le Dr Sarton ! R. Daneel jugea nécessaire d’intervenir, tandis que Enderby, la tête dans ses mains, faisait des signes de dénégation et semblait positivement s’arracher les cheveux. — Mon cher associé, dit le robot, votre théorie est insoutenable, je vous assure !",
-        "ner_chunk": "— Sur la façon dont un @@Spacien## a été assassiné, il y a cinq jours et demi. Car, monsieur le commissaire, c’est vous-même qui, à @@Spacetown##, avez tué le Dr @@Sarton## ! @@R. Daneel## jugea nécessaire d’intervenir, tandis que @@Enderby##, la tête dans ses mains, faisait des signes de dénégation et semblait positivement s’arracher les cheveux. — Mon cher associé, dit le robot, votre théorie est insoutenable, je vous assure !"
+        "ner_chunk": "— Sur la façon dont un Spacien a été assassiné, il y a cinq jours et demi. Car, monsieur le commissaire, c’est vous-même qui, à Spacetown, avez tué le @@Dr Sarton## ! @@R. Daneel## jugea nécessaire d’intervenir, tandis que @@Enderby##, la tête dans ses mains, faisait des signes de dénégation et semblait positivement s’arracher les cheveux. — Mon cher associé, dit le robot, votre théorie est insoutenable, je vous assure !"
     },
     "chunk_21": {
         "chunk": "Voyons, vous savez bien que le commissaire principal n’a pas pu assassiner le Dr Sarton ! Il en est incapable ! — Alors, écoutez-moi, Daneel ! Ecoutez-moi bien !",
-        "ner_chunk": "@@commissaire principal## n’a pas pu assassiner @@Dr Sarton## ! Il en est incapable ! — Alors, écoutez-moi, @@Daneel## ! Ecoutez-moi bien !"
+        "ner_chunk": "Voyons, vous savez bien que le commissaire principal n’a pas pu assassiner @@Dr Sarton## ! Il en est incapable ! — Alors, écoutez-moi, @@Daneel## ! Ecoutez-moi bien !"
     },
     "chunk_22": {
         "chunk": "C’est moi que Enderby a supplié de prendre en main l’enquête, moi et non pas l’un de mes supérieurs hiérarchiques. Pourquoi l’a-t-il fait ? Pour plusieurs raisons. La première, c’est que nous étions des amis d’enfance : il s’est donc dit qu’il ne me viendrait jamais à l’esprit qu’un vieux camarade de classe, devenu son chef respecté, pourrait être un criminel.",
@@ -102,7 +102,7 @@
     },
     "chunk_25": {
         "chunk": "« Ce qui, en revanche, est évident, c’est que, dès le début, les Médiévalistes ont su exactement à quoi s’en tenir sur Daneel. L’incident du magasin de chaussures a été monté de toutes pièces, pour montrer à Daneel – et par conséquent à Spacetown – l’importance de l’aversion que les Terriens éprouvent à l’égard des robots. Ce but que l’on a ainsi cherché à atteindre, c’était de brouiller les pistes, et de détourner sur la population tout entière de New York les soupçons qui auraient pu peser sur quelques personnes. Or, si, dès le premier jour, les Médiévalistes ont été renseignés sur R. Daneel, par qui l’ont-ils été ?",
-        "ner_chunk": "« Ce qui, en revanche, est évident, c’est que, dès le début, les @@Médiévalistes## ont su exactement à quoi s’en tenir sur @@Daneel##. L’incident du magasin de chaussures a été monté de toutes pièces, pour montrer à @@Daneel## – et par conséquent à @@Spacetown## – l’importance de l’aversion que les Terriens éprouvent à l’égard des robots. Ce but que l’on a ainsi cherché à atteindre, c’était de brouiller les pistes, et de détourner sur la population tout entière de New York les soupçons qui auraient pu peser sur quelques personnes. Or, si, dès le premier jour, les @@Médiévalistes## ont été renseignés sur R. @@Daneel##, par qui l’ont-ils été ?"
+        "ner_chunk": "« Ce qui, en revanche, est évident, c’est que, dès le début, les Médiévalistes ont su exactement à quoi s’en tenir sur @@Daneel##. L’incident du magasin de chaussures a été monté de toutes pièces, pour montrer à @@Daneel## – et par conséquent à Spacetown – l’importance de l’aversion que les Terriens éprouvent à l’égard des robots. Ce but que l’on a ainsi cherché à atteindre, c’était de brouiller les pistes, et de détourner sur la population tout entière de New York les soupçons qui auraient pu peser sur quelques personnes. Or, si, dès le premier jour, les Médiévalistes ont été renseignés sur @@R. Daneel##, par qui l’ont-ils été ?"
     },
     "chunk_26": {
         "chunk": "J’ai, à un moment donné, pensé que c’était par Daneel lui- même ; mais j’ai vite été détrompé. Le seul, l’unique Terrien qui fût au courant, c’était vous, monsieur le commissaire ! — Je proteste ! répliqua Enderby, retrouvant une surprenante énergie.",
@@ -110,7 +110,7 @@
     },
     "chunk_27": {
         "chunk": "Il pouvait y avoir des espions à la préfecture de police, et tout ce que nous avons fait, vous et moi, a pu être remarqué. Votre femme a pu être l’un d’eux, et si vous ne trouvez pas invraisemblable de me soupçonner moi-même, je ne vois pas pourquoi vous ne soupçonneriez pas d’autres membres de la police ! Baley fit une moue méprisante et rétorqua : — Ne nous égarons pas sur les pistes chimériques de mystérieux espions avant de voir où la solution la plus simple et la plus logique peut nous mener. J’affirme, moi, que l’informateur des agitateurs, le seul, le véritable, c’était vous, monsieur le commissaire !",
-        "ner_chunk": "Il n'y a pas de personnages dans cette phrase."
+        "ner_chunk": "Il pouvait y avoir des espions à la préfecture de police, et tout ce que nous avons fait, vous et moi, a pu être remarqué. Votre femme a pu être l’un d’eux, et si vous ne trouvez pas invraisemblable de me soupçonner moi-même, je ne vois pas pourquoi vous ne soupçonneriez pas d’autres membres de la police ! Baley fit une moue méprisante et rétorqua : — Ne nous égarons pas sur les pistes chimériques de mystérieux espions avant de voir où la solution la plus simple et la plus logique peut nous mener. J’affirme, moi, que l’informateur des agitateurs, le seul, le véritable, c’était vous, monsieur le commissaire !"
     },
     "chunk_28": {
         "chunk": "Et maintenant que je revois en nécessairement qu’il soit responsable du meurtre. Rien ne l’incrimine, et il ne peut avoir commis un tel acte ! — Vous faites complètement erreur, Daneel ! Il ne savait pas pourquoi j’avais besoin du Dr Gerrigel, mais il ne se trompait pas en étant convaincu que je désirais me renseigner plus amplement sur les robots.",
