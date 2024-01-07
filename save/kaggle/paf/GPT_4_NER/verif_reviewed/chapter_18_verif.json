@@ -18,9 +18,11 @@
         "Madame le Maire",
         "docteur Seldon",
         "Maître Seldon",
-        "la fille de Mannix, Rachelle",
+        "Mannix",
         "Chetter Hummin",
-        "Cléon"
+        "Cléon",
+        "Sergent Thalus",
+        "Rachelle"
     ],
     "init_gpt_entities": [
         "Rachelle Ire",

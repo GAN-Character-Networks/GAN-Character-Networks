@@ -10,7 +10,6 @@
         "Hari",
         "le sergent Thalus",
         "le docteur Hari Seldon",
-        "Le sergent",
         "le docteur Seldon",
         "docteur Seldon",
         "Raych",
@@ -24,8 +23,7 @@
         "Demerzel",
         "Maire",
         "Maître Seldon",
-        "l’Empereur",
-        "madame l’impératrice de Rien"
+        "l’Empereur"
     ],
     "init_gpt_entities": [
         "la femme",
