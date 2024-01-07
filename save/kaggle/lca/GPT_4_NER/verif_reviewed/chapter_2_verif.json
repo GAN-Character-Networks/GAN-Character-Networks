@@ -1,0 +1,123 @@
+{
+    "final_gpt_entities": [
+        "Baley",
+        "Julius Enderby",
+        "Enderby",
+        "Daneel",
+        "R. Daneel",
+        "Olivaw",
+        "R. Daneel Olivaw",
+        "Elijah",
+        "Elijah Baley",
+        "R. Sammy"
+    ],
+    "init_gpt_entities": [
+        "New York",
+        "Spacetown",
+        "Newark",
+        "Daneel",
+        "Baley",
+        "New York City",
+        "Julius Enderby",
+        "R. Daneel",
+        "Elijah",
+        "Olivaw",
+        "Spaciens",
+        "C",
+        "C. 5",
+        "R. Sammy",
+        "Elijah Baley",
+        "Spacien",
+        "Trenton",
+        "R. Daneel Olivaw",
+        "Police",
+        "R",
+        "Enderby"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Il sauta de tapis roulant en tapis roulant, avec l’aisance et l’adresse acquises au cours d’une vie entière passée à ce genre d’exercice. Les enfants apprenaient à sauter d’un tapis sur l’autre dès qu’ils commençaient à marcher. C’est à peine si Baley sentait l’accélération progressive du tapis, et il avait une telle habitude de ce mode de transport qu’il ne se rendait même plus compte que, instinctivement, il se penchait en avant pour compenser la force qui l’entraînait. Il ne lui fallut pas trente secondes pour atteindre le tapis roulant à cent kilomètres à l’heure, lequel lui permit de sauter sur la plate-forme à balustrades et à parois vitrées qui s’intitulait l’express. Mais il n’y avait toujours pas de poteaux indicateurs mentionnant Spacetown.\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Il sauta de tapis roulant en tapis roulant, avec l’aisance et l’adresse acquises au cours d’une vie entière passée à ce genre d’exercice. Les enfants apprenaient à sauter d’un tapis sur l’autre dès qu’ils commençaient à marcher. C’est à peine si Baley sentait l’accélération progressive du tapis, et il avait une telle habitude de ce mode de transport qu’il ne se rendait même plus compte que, instinctivement, il se penchait en avant pour compenser la force qui l’entraînait. Il ne lui fallut pas trente secondes pour atteindre le tapis roulant à cent kilomètres à l’heure, lequel lui permit de sauter sur la plate-forme à balustrades et à parois vitrées qui s’intitulait l’express. Mais il n’y avait toujours pas de poteaux indicateurs mentionnant Spacetown.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Il sauta de tapis roulant en tapis roulant, avec l’aisance et l’adresse acquises au cours d’une vie entière passée à ce genre d’exercice. Les enfants apprenaient à sauter d’un tapis sur l’autre dès qu’ils commençaient à marcher. C’est à peine si Baley sentait l’accélération progressive du tapis, et il avait une telle habitude de ce mode de transport qu’il ne se rendait même plus compte que, instinctivement, il se penchait en avant pour compenser la force qui l’entraînait. Il ne lui fallut pas trente secondes pour atteindre le tapis roulant à cent kilomètres à l’heure, lequel lui permit de sauter sur la plate-forme à balustrades et à parois vitrées qui s’intitulait l’express. Mais il n’y avait toujours pas de poteaux indicateurs mentionnant Spacetown.\n\n                    Question : Le mot \"C\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Après tout, cela s’expliquait. A quoi bon indiquer ce chemin-là ? Si l’on avait affaire à Spacetown, on savait sûrement comment y aller. Et si l’on n’en connaissait pas l’itinéraire, il était parfaitement inutile de s’y rendre. Quand Spacetown avait été fondée, quelque vingt-cinq ans auparavant, on avait d’abord incliné à en faire un centre d’attraction, et d’innombrables foules de New Yorkais s’étaient rendues là-bas.\n\n                    Question : Le mot \"New York\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais les Spaciens n’avaient pas mis longtemps à stopper cette invasion. Poliment (ils étaient toujours polis), mais fermement, ils dressèrent entre eux et la grande ville une barrière fort difficile à franchir, formée d’une combinaison des services de contrôle de l’immigration et de l’inspection des douanes. Quand donc on avait affaire à Spacetown, on était tenu de fournir toutes indications d’identité désirables ; on devait, de plus, consentir à une fouille intégrale, à un examen médical approfondi, et à une désinfection complète. Bien entendu, ces mesures suscitèrent un vif mécontentement, plus vif même qu’elles ne le justifiaient, et il en résulta un sérieux coup d’arrêt dans le programme de modernisation de New York. Baley gardait un souvenir vivace des émeutes dites de la Barrière.\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais les Spaciens n’avaient pas mis longtemps à stopper cette invasion. Poliment (ils étaient toujours polis), mais fermement, ils dressèrent entre eux et la grande ville une barrière fort difficile à franchir, formée d’une combinaison des services de contrôle de l’immigration et de l’inspection des douanes. Quand donc on avait affaire à Spacetown, on était tenu de fournir toutes indications d’identité désirables ; on devait, de plus, consentir à une fouille intégrale, à un examen médical approfondi, et à une désinfection complète. Bien entendu, ces mesures suscitèrent un vif mécontentement, plus vif même qu’elles ne le justifiaient, et il en résulta un sérieux coup d’arrêt dans le programme de modernisation de New York. Baley gardait un souvenir vivace des émeutes dites de la Barrière.\n\n                    Question : Le mot \"Spacien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais maintenant, se dit Baley, les événements pouvaient suivre un cours tout différent. Si les Spaciens croyaient sérieusement qu’un Terrien avait réussi à pénétrer dans Spacetown pour y commettre un meurtre, il n’y aurait rien d’impossible à ce qu’ils décident de rétablir la barrière : et ça, ce serait un coup dur. Il se hissa sur la plate-forme de l’express, se fraya un chemin parmi les voyageurs debout, et gagna le petit escalier en spirale qui menait à l’impériale ; là, il s’assit, mais sans mettre dans le ruban de son chapeau sa carte de circulation ; il ne l’arbora qu’après avoir dépassé le dernier quartier de l’arrondissement de l’Hudson. En effet, aucune personne appartenant à la catégorie C. 5 n’avait droit aux places assises, pour les parcours à l’intérieur d’une zone limitée à l’est par Long Island et à l’ouest par l’Hudson. Sans doute, il y avait, à cette heure-là, beaucoup de places assises disponibles, mais si un des contrôleurs l’avait vu, il l’aurait automatiquement expulsé de l’express.\n\n                    Question : Le mot \"C. 5\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Les gens deviennent de jour en jour plus agacés par le système de classement de la population en catégories distinctes, plus ou moins privilégiées. Et, en toute honnêteté, Baley devait s’avouer qu’il partageait entièrement le sentiment des masses populaires sur ce point. Il affectait d’ailleurs, non sans satisfaction, de se considérer comme un homme du peuple. être dépourvu d’imagination, comme Julius Enderby, cela signifiait la conservation d’usages archaïques, tels que des lunettes et des fenêtres ; pour Baley cela se résumait à des études historiques, et tout particulièrement à celles ayant pour objet l’évolution des coutumes populaires. Il se laissa aller à méditer sur la ville, cette cité de New York où il vivait et où il avait trouvé sa raison d’être.\n\n                    Question : Le mot \"Julius Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Les gens deviennent de jour en jour plus agacés par le système de classement de la population en catégories distinctes, plus ou moins privilégiées. Et, en toute honnêteté, Baley devait s’avouer qu’il partageait entièrement le sentiment des masses populaires sur ce point. Il affectait d’ailleurs, non sans satisfaction, de se considérer comme un homme du peuple. être dépourvu d’imagination, comme Julius Enderby, cela signifiait la conservation d’usages archaïques, tels que des lunettes et des fenêtres ; pour Baley cela se résumait à des études historiques, et tout particulièrement à celles ayant pour objet l’évolution des coutumes populaires. Il se laissa aller à méditer sur la ville, cette cité de New York où il vivait et où il avait trouvé sa raison d’être.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Elle était la plus importante de toutes les villes d’Amérique, à l’exception de Los Angeles, et sa population n’était dépassée, sur la Terre, que par celle de Shanghaï. Or, elle n’avait pas trois cents ans d’âge. Bien entendu, il y avait eu, autrefois, sur ce même territoire géographiquement délimité, une agglomération urbaine que l’on appelait New York City. Ce rassemblement primitif de population avait existé pendant trois mille, et non pas trois cents ans. Mais, en ces temps-là, on ne pouvait appeler cela une VILLE.\n\n                    Question : Le mot \"New York City\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Les régions comprises entre les villes contenaient enc ore de nombreux minerais, et on en exploitait le sol, plus intensément que la plupart des citadins ne le savaient, pour la culture et l’élevage. Le rendement en était médiocre, mais la viande de conserver leurs avantages était de maintenir à un niveau très bas le rythme des naissances, et d’empêcher toute immigration des Terriens... Spacetown en vue ! Une réaction de son subconscient avertit Baley que l’express approchait du quartier de Newark. Or, il savait que, s’il demeurait à sa place, il se trouverait bientôt emporté à toute vitesse en direction du sud-ouest, vers le quartier de Trenton, où l’express virait pour passer en plein centre de la région, fort chaude et sentant le moisi, où l’on produisait la levure. C’était une question de temps, qu’il fallait soigneusement calculer.\n\n                    Question : Le mot \"Newark\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Les régions comprises entre les villes contenaient enc ore de nombreux minerais, et on en exploitait le sol, plus intensément que la plupart des citadins ne le savaient, pour la culture et l’élevage. Le rendement en était médiocre, mais la viande de conserver leurs avantages était de maintenir à un niveau très bas le rythme des naissances, et d’empêcher toute immigration des Terriens... Spacetown en vue ! Une réaction de son subconscient avertit Baley que l’express approchait du quartier de Newark. Or, il savait que, s’il demeurait à sa place, il se trouverait bientôt emporté à toute vitesse en direction du sud-ouest, vers le quartier de Trenton, où l’express virait pour passer en plein centre de la région, fort chaude et sentant le moisi, où l’on produisait la levure. C’était une question de temps, qu’il fallait soigneusement calculer.\n\n                    Question : Le mot \"Trenton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis R. Daneel Olivaw. — Vraiment ? Est-ce que je me trompe ? Je croyais pourtant que la première initiale de votre nom... — Tout à fait exact. Je suis un robot.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis R. Daneel Olivaw. — Vraiment ? Est-ce que je me trompe ? Je croyais pourtant que la première initiale de votre nom... — Tout à fait exact. Je suis un robot.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis R. Daneel Olivaw. — Vraiment ? Est-ce que je me trompe ? Je croyais pourtant que la première initiale de votre nom... — Tout à fait exact. Je suis un robot.\n\n                    Question : Le mot \"Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis R. Daneel Olivaw. — Vraiment ? Est-ce que je me trompe ? Je croyais pourtant que la première initiale de votre nom... — Tout à fait exact. Je suis un robot.\n\n                    Question : Le mot \"R. Daneel Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis R. Daneel Olivaw. — Vraiment ? Est-ce que je me trompe ? Je croyais pourtant que la première initiale de votre nom... — Tout à fait exact. Je suis un robot.\n\n                    Question : Le mot \"R\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis donc Elijah Baley, votre associé. — Parfait ! La main du robot serra celle du détective, exerçant sur elle une douce et progressive pression, comme il est d’usage entre amis, puis se retira. — Cependant, reprit-il, il me semble déceler en vous un certain trouble. Puis-je vous demander d’être franc avec moi ?\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis donc Elijah Baley, votre associé. — Parfait ! La main du robot serra celle du détective, exerçant sur elle une douce et progressive pression, comme il est d’usage entre amis, puis se retira. — Cependant, reprit-il, il me semble déceler en vous un certain trouble. Puis-je vous demander d’être franc avec moi ?\n\n                    Question : Le mot \"Elijah Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Baley, dès lors, commença à se trouver des excuses. Il était habitué aux robots du genre de R. Sammy, celui dont on se servait au bureau. Il s’attendait à trouver une créature dont la peau était faite de matière plastique, luisante et blanchâtre, presque livide. Il pensait trouver un regard figé, exprimant en toute occasion une bonne humeur peu naturelle et sans vie. Il avait prévu que ce robot aurait des gestes saccades et légèrement hésitants... Mais rien de tout cela ne s’était produit : R. Daneel ne répondait à aucune de ces caractéristiques.\n\n                    Question : Le mot \"R. Sammy\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Laissez-moi passer ! Police ! On lui fit place, et il entendit derrière lui : — Mettez-les en morceaux ! Cassez-les comme du verre, pièce par pièce !... Quelqu’un rit, mais Baley, lui, n’en avait aucune envie.\n\n                    Question : Le mot \"Police\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

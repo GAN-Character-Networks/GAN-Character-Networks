@@ -1,0 +1,113 @@
+{
+    "final_gpt_entities": [
+        "oncle Boris",
+        "Baley",
+        "Clousarr",
+        "Francis Clousarr",
+        "R. Daneel",
+        "Daneel",
+        "Elijah",
+        "Fastolfe",
+        "Enderby",
+        "R. Sammy"
+    ],
+    "init_gpt_entities": [
+        "Francis Clousarr",
+        "Ciel",
+        "Elijah",
+        "R. Daneel",
+        "Médiévalistes",
+        "New Brunswick",
+        "Newark",
+        "Spacien",
+        "Terre",
+        "Enderby",
+        "autre",
+        "Baley",
+        "Fastolfe",
+        "Clousarr",
+        "R. Sammy",
+        "New Jersey",
+        "Daneel",
+        "oncle Boris",
+        "Trenton"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le mentionnait, et la presse ne l’utilisait pas ; mais, dans le langage courant, on désignait ainsi les arrondissements périphériques de la Cité, à savoir Newark, New Brunswick et Trenton. C’était un vaste espace qui s’étendait sur ce que, à l’Epoque Médiévale, on appelait New Jersey ; on y trouvait, surtout à Newark et à Trenton, de nombreux immeubles d’habitation, mais la majeure partie de ce quartier était occupée par des usines de levure ; à vrai dire, c’étaient plutôt des fermes, où l’on cultivait des milliers de variétés de levures, qui servaient à la fabrication d’aliments de toutes espèces. Un cinquième de la population travaillait à cultiver cette denrée, et un autre cinquième était employé dans des usines, où s’effectuait la transformation des autres matières premières nécessaires à l’alimentation de la Cité.\n\n                    Question : Le mot \"New Brunswick\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le mentionnait, et la presse ne l’utilisait pas ; mais, dans le langage courant, on désignait ainsi les arrondissements périphériques de la Cité, à savoir Newark, New Brunswick et Trenton. C’était un vaste espace qui s’étendait sur ce que, à l’Epoque Médiévale, on appelait New Jersey ; on y trouvait, surtout à Newark et à Trenton, de nombreux immeubles d’habitation, mais la majeure partie de ce quartier était occupée par des usines de levure ; à vrai dire, c’étaient plutôt des fermes, où l’on cultivait des milliers de variétés de levures, qui servaient à la fabrication d’aliments de toutes espèces. Un cinquième de la population travaillait à cultiver cette denrée, et un autre cinquième était employé dans des usines, où s’effectuait la transformation des autres matières premières nécessaires à l’alimentation de la Cité.\n\n                    Question : Le mot \"autre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le mentionnait, et la presse ne l’utilisait pas ; mais, dans le langage courant, on désignait ainsi les arrondissements périphériques de la Cité, à savoir Newark, New Brunswick et Trenton. C’était un vaste espace qui s’étendait sur ce que, à l’Epoque Médiévale, on appelait New Jersey ; on y trouvait, surtout à Newark et à Trenton, de nombreux immeubles d’habitation, mais la majeure partie de ce quartier était occupée par des usines de levure ; à vrai dire, c’étaient plutôt des fermes, où l’on cultivait des milliers de variétés de levures, qui servaient à la fabrication d’aliments de toutes espèces. Un cinquième de la population travaillait à cultiver cette denrée, et un autre cinquième était employé dans des usines, où s’effectuait la transformation des autres matières premières nécessaires à l’alimentation de la Cité.\n\n                    Question : Le mot \"New Jersey\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le mentionnait, et la presse ne l’utilisait pas ; mais, dans le langage courant, on désignait ainsi les arrondissements périphériques de la Cité, à savoir Newark, New Brunswick et Trenton. C’était un vaste espace qui s’étendait sur ce que, à l’Epoque Médiévale, on appelait New Jersey ; on y trouvait, surtout à Newark et à Trenton, de nombreux immeubles d’habitation, mais la majeure partie de ce quartier était occupée par des usines de levure ; à vrai dire, c’étaient plutôt des fermes, où l’on cultivait des milliers de variétés de levures, qui servaient à la fabrication d’aliments de toutes espèces. Un cinquième de la population travaillait à cultiver cette denrée, et un autre cinquième était employé dans des usines, où s’effectuait la transformation des autres matières premières nécessaires à l’alimentation de la Cité.\n\n                    Question : Le mot \"oncle Boris\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : soigneusement les dossiers de la Préfecture, et il avait fini par trouver la vérité : l’oncle Boris était tombé sous un camion. Cette découverte avait mis un terme assez désappointant à ce mythe romanesque ; mais, chaque fois qu’une odeur de levure flottait dans l’air, elle ne manquait pas de raviver en lui, ne fût- ce qu’un fugitif instant, le souvenir du mythe disparu. Le « quartier de la levure » n’était cependant pas le nom officiel d’un secteur de New York ; aucun plan de la ville ne le mentionnait, et la presse ne l’utilisait pas ; mais, dans le langage courant, on désignait ainsi les arrondissements périphériques de la Cité, à savoir Newark, New Brunswick et Trenton. C’était un vaste espace qui s’étendait sur ce que, à l’Epoque Médiévale, on appelait New Jersey ; on y trouvait, surtout à Newark et à Trenton, de nombreux immeubles d’habitation, mais la majeure partie de ce quartier était occupée par des usines de levure ; à vrai dire, c’étaient plutôt des fermes, où l’on cultivait des milliers de variétés de levures, qui servaient à la fabrication d’aliments de toutes espèces. Un cinquième de la population travaillait à cultiver cette denrée, et un autre cinquième était employé dans des usines, où s’effectuait la transformation des autres matières premières nécessaires à l’alimentation de la Cité.\n\n                    Question : Le mot \"Trenton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Celle-ci recevait quotidiennement, en effet, des montagnes de bois et de cellulose brute qui provenaient des monts Alleghanis ; cette cellulose était traitée dans des bassins colossaux pleins d’acide, où on l’hydrolysait en glucose ; puis on y incorporait principalement des tonnes de nitrates et de phosphates, et, en quantités moins importantes, des matières organiques issues des laboratoires de produits chimiques. Mais toutes ces opérations n’aboutissaient qu’à produire, toujours et davantage, une seule et même denrée : la levure. Sans elle, six des huit milliards d’habitants de la Terre seraient morts de faim en moins d’un an. A cette seule pensée, Baley frissonna. Trois jours plus tôt, cette éventualité n’était ni plus ni moins invraisemblable, mais elle ne lui serait jamais venue à l’esprit.\n\n                    Question : Le mot \"Terre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Celle-ci recevait quotidiennement, en effet, des montagnes de bois et de cellulose brute qui provenaient des monts Alleghanis ; cette cellulose était traitée dans des bassins colossaux pleins d’acide, où on l’hydrolysait en glucose ; puis on y incorporait principalement des tonnes de nitrates et de phosphates, et, en quantités moins importantes, des matières organiques issues des laboratoires de produits chimiques. Mais toutes ces opérations n’aboutissaient qu’à produire, toujours et davantage, une seule et même denrée : la levure. Sans elle, six des huit milliards d’habitants de la Terre seraient morts de faim en moins d’un an. A cette seule pensée, Baley frissonna. Trois jours plus tôt, cette éventualité n’était ni plus ni moins invraisemblable, mais elle ne lui serait jamais venue à l’esprit.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il quitta l’autoroute et s’engagea dans une avenue aboutissant aux faubourgs de Newark ; elle était bordée, de part — Oui. — Bon. Alors, donnez-moi un indicateur. Si je ne trouve pas Clousarr à son poste, je reviendrai vous voir. — Entendu !\n\n                    Question : Le mot \"Newark\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il quitta l’autoroute et s’engagea dans une avenue aboutissant aux faubourgs de Newark ; elle était bordée, de part — Oui. — Bon. Alors, donnez-moi un indicateur. Si je ne trouve pas Clousarr à son poste, je reviendrai vous voir. — Entendu !\n\n                    Question : Le mot \"Clousarr\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dès leur plus jeune âge, on leur donnait en effet de petits indicateurs miniatures, et ils s’amusaient follement à se cacher et à se chercher les uns les autres, dans le dédale des couloirs de la Cité, en criant : « Tu es froid, tu te réchauffes, tu brûles ! » Baley s’était bien souvent dirigé avec aisance dans des centaines d’usines et de centrales d’énergie, plus vastes les unes que les autres, en se servant de ces sortes d’indicateurs, grâce auxquels il était sûr d’atteindre par le chemin le plus court son objectif, comme si quelqu’un l’y avait véritablement conduit par la main. C’est ainsi qu’après dix minutes de marche, il pénétra dans une grande pièce brillamment éclairée, l’indicateur chauffant la main. Avisant un ouvrier qui travaillait près de l’entrée, il lui demanda : — Est-ce que Francis Clousarr est ici ? L’ouvrier se redressa brusquement, et montra d’un geste l’autre bout de la salle, vers lequel le policier se dirigea aussitôt.\n\n                    Question : Le mot \"Francis Clousarr\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Daneel, ajouta-t-il, voulez-vous faire monter un repas ici ? Et, si vous n’y voyez pas d’inconvénient, j’aimerais que vous attendiez dehors qu’on l’apporte. Il suivit des yeux le départ de R. Daneel, puis, se tournant vers Clousarr, il lui demanda : — Vous êtes chimiste ? — Zymologiste, si ça ne vous fait rien. — Quelle est la différence ?\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Daneel, ajouta-t-il, voulez-vous faire monter un repas ici ? Et, si vous n’y voyez pas d’inconvénient, j’aimerais que vous attendiez dehors qu’on l’apporte. Il suivit des yeux le départ de R. Daneel, puis, se tournant vers Clousarr, il lui demanda : — Vous êtes chimiste ? — Zymologiste, si ça ne vous fait rien. — Quelle est la différence ?\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Il n’empêche que je compte bien tirer de vous, dès maintenant, un peu de vérité, Clousarr ! Il s’en fut jusqu’à la porte, l’ouvrit, et dit à R. Daneel, qui se trouvait planté devant l’entrée : — Est-ce qu’on va bientôt apporter le diner de Clousarr, Daneel ? — Oui, dans un instant, Elijah. — Dès qu’on vous l’aura remis, vous viendrez vous-même le lui donner ! — Entendu, Elijah, fit le robot.\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Qui est-ce qui vous fait marcher, Clousarr ? demanda-t-il. — Je veux un avocat, répliqua l’autre. — D’accord, on vous en donnera un. Mais, en attendant, dites-moi donc qui vous finance, vous autres, Médiévalistes ?\n\n                    Question : Le mot \"Médiévalistes\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Baley se rendit parfaitement compte qu’il ne faisait que paraphraser la théorie du Dr Fastolfe, et cependant les arguments lui venaient à l’esprit comme si, depuis des années, telle était véritablement sa propre opinion. — Quelles balivernes ! répliqua Clousarr. Vous prétendez que nous pourrions coloniser des déserts et en faire, de nos propres mains, des mondes comme le nôtre ? Qui serait assez fou pour tenter une telle entreprise ?\n\n                    Question : Le mot \"Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Jamais ! Pas de robots ! — Et pourquoi donc, pour l’amour du Ciel ? Je ne les aime pas non plus, soyez-en sûr, mais je ne vais pas me suicider sous prétexte de respecter un préjugé stupide. En quoi les robots sont-ils à craindre ?\n\n                    Question : Le mot \"Ciel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Si vous voulez mon opinion, c’est uniquement un complexe d’infériorité qui nous incite à en avoir peur. Tous tant que nous sommes, nous nous considérons comme inférieurs aux Spaciens, et cela nous rend malades, furieux, dégoûtés. Nous avons besoin de nous sentir des êtres supérieurs, d’une manière ou d’une autre, et de travailler dans ce but. Cela nous tue de constater que nous ne sommes même pas supérieurs à des robots. Ils ont l’air de valoir mieux que nous, et en réalité c’est faux : c’est justement en cela que réside la terrible ironie de cette situation.\n\n                    Question : Le mot \"Spacien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il n’a besoin ni de manger ni de dormir. Rien ne le trouble, ni maladie, ni amour, ni sentiment de culpabilité. Mais c’est une machine. Je peux lui faire ce que bon me semble, tout comme s’il s’agissait d’une de vos micro-balances. Si je frappe un de ces — J’ai eu du mal à atteindre le commissaire Enderby, Elijah, et, en fait, il se trouvait encore dans son bureau.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Quoi ? Dieu du Ciel ! De qui s’agit-il ? — Du garçon de courses, R. Sammy ! Baley resta un moment bouche bée, puis d’une voix indignée, il répliqua : — Vous avez parlé d’un cadavre, si je ne me trompe ?\n\n                    Question : Le mot \"R. Sammy\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

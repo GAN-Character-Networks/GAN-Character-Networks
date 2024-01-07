@@ -1,0 +1,164 @@
+{
+    "final_gpt_entities": [
+        "Jessie",
+        "Jessica",
+        "Jézabel",
+        "Baley",
+        "Elie 2",
+        "Elie",
+        "Elijah",
+        "Julius Enderby",
+        "Lije Baley",
+        "Lije",
+        "Jéhoram",
+        "Jéhu",
+        "Ahab",
+        "Naboth",
+        "Bentley Baley",
+        "Daneel",
+        "Daneel Olivaw",
+        "Olivaw",
+        "monsieur Olivaw",
+        "R. Daneel",
+        "Papa"
+    ],
+    "init_gpt_entities": [
+        "Jessica",
+        "Daneel",
+        "Baley",
+        "Etats",
+        "Naboth",
+        "il",
+        "Jéhoram",
+        "Bentley",
+        "Daneel Olivaw",
+        "Jéhu",
+        "Bentley Baley",
+        "Elie 2",
+        "Jessie",
+        "Julius Enderby",
+        "R. Daneel",
+        "Elijah",
+        "Elie",
+        "Olivaw",
+        "Ahab",
+        "Ben",
+        "Lije Baley",
+        "Lije",
+        "Papa",
+        "monsieur Olivaw",
+        "Il",
+        "Junior",
+        "Jézabel"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : profita pour observer avec intérêt les assistants qui venaient se servir. — J’ai aidé à faire le punch, dit Jessie. Je peux vous certifier qu’il est bon. En voulez-vous encore ? S’apercevant que son verre était vide, il sourit et accepta.\n\n                    Question : Le mot \"il\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : profita pour observer avec intérêt les assistants qui venaient se servir. — J’ai aidé à faire le punch, dit Jessie. Je peux vous certifier qu’il est bon. En voulez-vous encore ? S’apercevant que son verre était vide, il sourit et accepta.\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’est un joli nom. Voyez-vous une objection à ce que je vous appelle ainsi ? — Sûrement pas, puisque vous me le demandez. Savez-vous de quel prénom il est le diminutif ? — De Jessica ?\n\n                    Question : Le mot \"Jessica\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous ne devinerez jamais. — J’avoue que je donne ma langue au chat. — Eh bien, fit-elle en riant d’un air espiègle, c’est Jézabel... C’est à ce moment-là que son intérêt pour elle s’était soudain accru. Il avait posé son verre, et demandé, très surpris : — Non, vraiment ? — Sérieusement.\n\n                    Question : Le mot \"Il\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous ne devinerez jamais. — J’avoue que je donne ma langue au chat. — Eh bien, fit-elle en riant d’un air espiègle, c’est Jézabel... C’est à ce moment-là que son intérêt pour elle s’était soudain accru. Il avait posé son verre, et demandé, très surpris : — Non, vraiment ? — Sérieusement.\n\n                    Question : Le mot \"Jézabel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est que, reprit Baley, fort sérieux, moi, je m’appelle Elie 2, figurez-vous. Mais elle ne vit dans ce fait rien d’étonnant. — Or, fit-il, Elie fut l’ennemi mortel de Jézabel. — Ah, oui ? — Oui, bien sûr.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est que, reprit Baley, fort sérieux, moi, je m’appelle Elie 2, figurez-vous. Mais elle ne vit dans ce fait rien d’étonnant. — Or, fit-il, Elie fut l’ennemi mortel de Jézabel. — Ah, oui ? — Oui, bien sûr.\n\n                    Question : Le mot \"Elie 2\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est que, reprit Baley, fort sérieux, moi, je m’appelle Elie 2, figurez-vous. Mais elle ne vit dans ce fait rien d’étonnant. — Or, fit-il, Elie fut l’ennemi mortel de Jézabel. — Ah, oui ? — Oui, bien sûr.\n\n                    Question : Le mot \"Elie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : 2 Elijah = Elie. (N.d.T.) — C’est gênant de dîner chaque soir toute seule au restaurant communautaire. Baley était fatigué et énervé par une dure journée de travail. — Pourquoi donc est-ce gênant ?\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : répliqua-t-il. Tu peux très bien y rencontrer quelques célibataires sympathiques. — Bien sûr ! Est-ce que tu te figures, par hasard, Lije Baley, que je ne suis pas capable de plaire aux gens ? Peut-être était-il exceptionnellement las ; ou bien ressentait-il avec une amertume particulière la promotion à une classe supérieure d’un de ses camarades d’école, Julius Enderby, alors que lui-même, Baley, marquait le pas ; peut-être aussi commençait-il à trouver agaçante la manie qu’avait Jessie de vouloir prendre des attitudes correspondant au nom qu’elle portait, attendu qu’elle n’avait pas et n’aurait jamais l’air d’une Jézabel.\n\n                    Question : Le mot \"Julius Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : répliqua-t-il. Tu peux très bien y rencontrer quelques célibataires sympathiques. — Bien sûr ! Est-ce que tu te figures, par hasard, Lije Baley, que je ne suis pas capable de plaire aux gens ? Peut-être était-il exceptionnellement las ; ou bien ressentait-il avec une amertume particulière la promotion à une classe supérieure d’un de ses camarades d’école, Julius Enderby, alors que lui-même, Baley, marquait le pas ; peut-être aussi commençait-il à trouver agaçante la manie qu’avait Jessie de vouloir prendre des attitudes correspondant au nom qu’elle portait, attendu qu’elle n’avait pas et n’aurait jamais l’air d’une Jézabel.\n\n                    Question : Le mot \"Lije Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : répliqua-t-il. Tu peux très bien y rencontrer quelques célibataires sympathiques. — Bien sûr ! Est-ce que tu te figures, par hasard, Lije Baley, que je ne suis pas capable de plaire aux gens ? Peut-être était-il exceptionnellement las ; ou bien ressentait-il avec une amertume particulière la promotion à une classe supérieure d’un de ses camarades d’école, Julius Enderby, alors que lui-même, Baley, marquait le pas ; peut-être aussi commençait-il à trouver agaçante la manie qu’avait Jessie de vouloir prendre des attitudes correspondant au nom qu’elle portait, attendu qu’elle n’avait pas et n’aurait jamais l’air d’une Jézabel.\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est possible, mais écoute-moi bien. Après la mort du roi Ahab, mari de Jézabel, son fils, Jéhoram, lui succéda. Or, l’un des généraux de son armée, nommé Jéhu, se révolta contre lui, et l’assassina. Puis Jéhu galopa d’une traite jusqu’à Jesreel où la vieille reine-mère, Jézabel, résidait. Elle l’entendit venir, et comprit qu’il avait l’intention de l’assassiner.\n\n                    Question : Le mot \"Jéhoram\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est possible, mais écoute-moi bien. Après la mort du roi Ahab, mari de Jézabel, son fils, Jéhoram, lui succéda. Or, l’un des généraux de son armée, nommé Jéhu, se révolta contre lui, et l’assassina. Puis Jéhu galopa d’une traite jusqu’à Jesreel où la vieille reine-mère, Jézabel, résidait. Elle l’entendit venir, et comprit qu’il avait l’intention de l’assassiner.\n\n                    Question : Le mot \"Jéhu\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est possible, mais écoute-moi bien. Après la mort du roi Ahab, mari de Jézabel, son fils, Jéhoram, lui succéda. Or, l’un des généraux de son armée, nommé Jéhu, se révolta contre lui, et l’assassina. Puis Jéhu galopa d’une traite jusqu’à Jesreel où la vieille reine-mère, Jézabel, résidait. Elle l’entendit venir, et comprit qu’il avait l’intention de l’assassiner.\n\n                    Question : Le mot \"Ahab\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Avec autant de fierté que de courage, elle se maquilla et revêtit ses plus beaux atours, de façon qu’il se trouvât en présence d’une reine demeurer fidèle aux croyances de ses ancêtres : c’était un esprit conservateur. Si la nouvelle foi relevait de concepts moraux plus élevés, il faut bien reconnaître que l’ancienne offrait de plus intenses émotions. Le fait que Jézabel ait mis à mort des prêtres de Jéhovah n’a rien d’extraordinaire ; en agissant ainsi, elle était bien de son époque, car, en ce temps-là, c’était la méthode de prosélytisme couramment utilisée. Si tu as lu le Premier Livre des Rois, tu dois te rappeler que le prophète Elie, dont je porte le nom, a mis un jour 850 prophètes de Baal au défi de faire descendre le feu du ciel ; ils n’y ont en effet pas réussi ; Elie a donc triomphé et, sur-le-champ, il a ordonné à la foule des assistants de mettre à mort les 850 Baalites, ce qui fut fait. Jessie se mordit les lèvres et répliqua : — Et que dis-tu de l’histoire de la vigne de Naboth, Lije ?\n\n                    Question : Le mot \"Naboth\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Bien entendu, de nos jours, on aurait trouvé très facilement une solution à l’affaire Naboth. Si la ville, ou un des Etats de l’Epoque Médiévale, avait eu besoin du domaine appartenant à Naboth, un tribunal aurait prononcé son expropriation ; il l’aurait même expulsé au besoin, en lui accordant l’indemnité qu’il aurait jugée équitable. Mais le roi Ahab ne disposait pas de solution de ce genre. Et cependant, celle que choisit Jézabel fut mauvaise. Sa seule excuse fut qu’Ahab, malade, se tourmentait beaucoup au sujet de cette propriété ; c’est pourquoi sa femme fit passer son amour conjugal avant le respect des biens de Naboth.\n\n                    Question : Le mot \"Etats\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je maintiens donc ce que je t’ai déjà dit d’elle. Elle était le modèle même de la fidèle épouse... Jessie, le visage empourpré de colère, se rejeta en arrière et s’écria : — Tu me dis ça par pure méchanceté et par rancune ! de la paie de Jessie, et peu de chances de se voir lui-même passer prochainement de la classe des employés à celle des cadres, il lui fallait exécuter chez lui du travail supplémentaire.) De quoi parles-tu ? — Je veux dire que, si c’est un garçon, que penserais-tu de Bentley comme prénom ?\n\n                    Question : Le mot \"Bentley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je maintiens donc ce que je t’ai déjà dit d’elle. Elle était le modèle même de la fidèle épouse... Jessie, le visage empourpré de colère, se rejeta en arrière et s’écria : — Tu me dis ça par pure méchanceté et par rancune ! de la paie de Jessie, et peu de chances de se voir lui-même passer prochainement de la classe des employés à celle des cadres, il lui fallait exécuter chez lui du travail supplémentaire.) De quoi parles-tu ? — Je veux dire que, si c’est un garçon, que penserais-tu de Bentley comme prénom ?\n\n                    Question : Le mot \"Ben\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Baley fit un peu la moue et dit : — Bentley Baley ?... Ne trouves-tu pas que les deux noms se ressemblent beaucoup ? — Je ne sais pas... C’est une idée que j’ai eue ! D’ailleurs le petit pourra, plus tard, se choisir lui-même un surnom si cela lui convient. — Eh bien, si cela te plaît, moi, je suis d’accord.\n\n                    Question : Le mot \"Bentley Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Tu en es bien sûr ? Peut-être préfères-tu l’appeler Elie ? — Pour qu’on y ajoute Junior ? Je ne trouve pas que ce soit une bonne solution. S’il en a envie, il pourra lui-même appeler plus tard son fils Elie.\n\n                    Question : Le mot \"Junior\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Jamais plus, depuis lors, Jessie ne fit la moindre allusion à ce genre de sujet, et, le soir où son mari ramena chez lui le robot Daneel Olivaw, il y avait plus de dix-huit ans qu’ils étaient mariés, et leur fils Bentley, dont le surnom restait encore à trouver, venait d’atteindre sa seizième année. Baley s’arrêta devant la grande porte à deux battants, sur laquelle brillaient en grosses lettres les mots : TOILETTES - HOMMES ; tandis qu’en dessous figurait, en lettres moins importantes, l’inscription : SUBDIVISIONS IA - IE. Enfin, juste au- dessous de la serrure, il était indiqué en petits caractères : « En cas de perte de la clef, prévenir aussitôt 27-101-51. » Un homme les dépassa rapidement, introduisit dans la serrure une petite clef en aluminium, et pénétra dans la salle. Il Il montra ses paumes, qu’il tendit devant lui.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Jamais plus, depuis lors, Jessie ne fit la moindre allusion à ce genre de sujet, et, le soir où son mari ramena chez lui le robot Daneel Olivaw, il y avait plus de dix-huit ans qu’ils étaient mariés, et leur fils Bentley, dont le surnom restait encore à trouver, venait d’atteindre sa seizième année. Baley s’arrêta devant la grande porte à deux battants, sur laquelle brillaient en grosses lettres les mots : TOILETTES - HOMMES ; tandis qu’en dessous figurait, en lettres moins importantes, l’inscription : SUBDIVISIONS IA - IE. Enfin, juste au- dessous de la serrure, il était indiqué en petits caractères : « En cas de perte de la clef, prévenir aussitôt 27-101-51. » Un homme les dépassa rapidement, introduisit dans la serrure une petite clef en aluminium, et pénétra dans la salle. Il Il montra ses paumes, qu’il tendit devant lui.\n\n                    Question : Le mot \"Daneel Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Jamais plus, depuis lors, Jessie ne fit la moindre allusion à ce genre de sujet, et, le soir où son mari ramena chez lui le robot Daneel Olivaw, il y avait plus de dix-huit ans qu’ils étaient mariés, et leur fils Bentley, dont le surnom restait encore à trouver, venait d’atteindre sa seizième année. Baley s’arrêta devant la grande porte à deux battants, sur laquelle brillaient en grosses lettres les mots : TOILETTES - HOMMES ; tandis qu’en dessous figurait, en lettres moins importantes, l’inscription : SUBDIVISIONS IA - IE. Enfin, juste au- dessous de la serrure, il était indiqué en petits caractères : « En cas de perte de la clef, prévenir aussitôt 27-101-51. » Un homme les dépassa rapidement, introduisit dans la serrure une petite clef en aluminium, et pénétra dans la salle. Il Il montra ses paumes, qu’il tendit devant lui.\n\n                    Question : Le mot \"Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il en résultait de temps en temps un petit vrombissement, mais cela offrait, en revanche, les immenses avantages d’une température admirablement contrôlée, et d’un air bien conditionné. De plus, ce logement se trouvait tout près des Toilettes, ce qui, bien entendu, était très pratique. Mais, en voyant assis, chez lui, cette créature provenant d’un Monde Extérieur, Baley ne fut plus aussi satisfait de sa demeure ; elle lui parut médiocre, et il lui sembla qu’ils y étaient à l’étroit. Cependant, Jessie lui demanda, en affectant une gaieté pas très naturelle : — Avez-vous dîné, monsieur Olivaw et toi, Lije ? — Ah !\n\n                    Question : Le mot \"monsieur Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’est pourquoi elle dit au nouveau venu : — J’espère, monsieur Olivaw, que vous voudrez bien nous excuser de dîner. Lije, Bentley et moi, nous prenons en général Mais là n’était pas la question, et Baley, préoccupé de la situation, songea aux femmes des Mondes Extérieurs, telles, en tout cas, que les documentaires cinématographiques les présentaient ; elles étaient, comme les hommes, grandes, minces, et élancées, et c’était certainement à ce type de femme que R. Daneel devait être habitué. Pourtant, il ne semblait aucunement déconcerté, ni par la conversation ni par l’aspect de Jessie. Continuant à discuter de leurs noms, il dit à la jeune femme : — Etes-vous bien sûre que je doive vous appeler ainsi ? Jessie me semble un diminutif familier, dont l’usage est peut- être réservé à vos intimes, et il serait sans doute plus correct de vous appeler par votre prénom ?\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Jessie, qui était en train de retirer d’un papier en cellophane la ration du dîner, affecta de s’absorber dans sa tâche, et répondit d’une voix plus dure : — Non, simplement Jessie. Tout le monde m’appelle ainsi ; je n’ai pas d’autre nom. — Eh bien, entendu, Jessie ! La porte s’ouvrit et un jeune homme pénétra avec précaution dans l’appartement. Il aperçut presque aussitôt R. Daneel, et, ne sachant que penser, il demanda : — Papa ?\n\n                    Question : Le mot \"Papa\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}
