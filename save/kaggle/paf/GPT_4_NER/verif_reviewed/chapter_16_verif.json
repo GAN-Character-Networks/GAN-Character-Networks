@@ -26,7 +26,10 @@
         "L’Empereur",
         "Hummin",
         "Maire de Dahl",
-        "docteur Seldon"
+        "docteur Seldon",
+        "Maire",
+        "l’agent de secteur Lanel Russ",
+        "l’actuel Maire de Kan"
     ],
     "init_gpt_entities": [
         "la dame",
