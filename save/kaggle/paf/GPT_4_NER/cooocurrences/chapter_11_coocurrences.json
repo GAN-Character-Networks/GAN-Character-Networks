@@ -1,16 +1,16 @@
 {
     "cooccurences": [
         [
-            "Goutte-de-Pluie",
-            "Goutte-de-Pluie Quarante-cinq"
+            "Goutte - de - Pluie",
+            "Goutte - de - Pluie Quarante - cinq"
         ],
         [
-            "Goutte-de-Pluie",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie",
+            "Goutte - de - Pluie Quarante - trois"
         ],
         [
-            "Goutte-de-Pluie Quarante-cinq",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie Quarante - cinq",
+            "Goutte - de - Pluie Quarante - trois"
         ],
         [
             "Seldon",
@@ -18,7 +18,15 @@
         ],
         [
             "Dors",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie Quarante - trois"
+        ],
+        [
+            "Goutte - de - Pluie Quarante - trois",
+            "Dors"
+        ],
+        [
+            "Goutte - de - Pluie Quarante - trois",
+            "Seldon"
         ],
         [
             "Dors",
@@ -34,7 +42,7 @@
         ],
         [
             "Dors",
-            "Goutte-de-Pluie"
+            "Goutte - de - Pluie"
         ],
         [
             "Hari Seldon",
@@ -65,28 +73,16 @@
             "Mycélium"
         ],
         [
-            "Mycélium",
-            "Seldon"
-        ],
-        [
-            "Mycélium Soixante-douze",
+            "Mycélium Soixante - douze",
             "Seldon"
         ],
         [
             "Seldon",
-            "Mycélium Soixante-douze"
+            "Mycélium Soixante - douze"
         ],
         [
             "Dors",
             "Mycélium"
-        ],
-        [
-            "Seldon",
-            "Dors"
-        ],
-        [
-            "Seldon",
-            "Dors"
         ],
         [
             "Hari Seldon",
@@ -110,19 +106,15 @@
         ],
         [
             "Dors",
-            "Sœurs Goutte-de-Pluie"
+            "Sœurs Goutte - de - Pluie"
         ],
         [
-            "Sœurs Goutte-de-Pluie",
-            "Goutte-de-Pluie"
+            "Sœurs Goutte - de - Pluie",
+            "Goutte - de - Pluie"
         ],
         [
             "Seldon",
             "Dors"
-        ],
-        [
-            "Dors",
-            "Hari"
         ],
         [
             "Hari",
@@ -134,13 +126,13 @@
             "word": "Goutte-de-Pluie"
         },
         {
-            "word": "Goutte-de-Pluie Quarante-trois"
+            "word": "Seldon"
         },
         {
             "word": "Goutte-de-Pluie Quarante-cinq"
         },
         {
-            "word": "Seldon"
+            "word": "Goutte-de-Pluie Quarante-trois"
         },
         {
             "word": "Dors"
@@ -188,10 +180,10 @@
     "aliases": [
         [
             "Goutte-de-Pluie",
-            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte-de-Pluie Quarante-trois",
             "Goutte-de-Pluie Quarante- cinq",
             "Sœurs Goutte-de-Pluie",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte-de-Pluie Quarante-cinq"
         ],
         [
             "Seldon",
@@ -241,19 +233,6 @@
                 "Dors Venabili"
             ],
             [
-                "Goutte-de-Pluie",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie Quarante- cinq",
-                "Sœurs Goutte-de-Pluie",
-                "Goutte-de-Pluie Quarante-trois"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
                 "Seldon",
                 "Hari",
                 "Hari Seldon"
@@ -268,19 +247,6 @@
                 "Seldon",
                 "Hari",
                 "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Goutte-de-Pluie",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie Quarante- cinq",
-                "Sœurs Goutte-de-Pluie",
-                "Goutte-de-Pluie Quarante-trois"
             ]
         ],
         [
@@ -347,67 +313,12 @@
         ],
         [
             [
-                "Mycélium",
-                "Mycélium Soixante-douze"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Mycélium",
-                "Mycélium Soixante-douze"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
-                "Mycélium",
-                "Mycélium Soixante-douze"
-            ]
-        ],
-        [
-            [
                 "Dors",
                 "Dors Venabili"
             ],
             [
                 "Mycélium",
                 "Mycélium Soixante-douze"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
             ]
         ],
         [
@@ -466,19 +377,6 @@
         ],
         [
             [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Goutte-de-Pluie",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie Quarante- cinq",
-                "Sœurs Goutte-de-Pluie",
-                "Goutte-de-Pluie Quarante-trois"
-            ]
-        ],
-        [
-            [
                 "Seldon",
                 "Hari",
                 "Hari Seldon"
@@ -486,17 +384,6 @@
             [
                 "Dors",
                 "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
             ]
         ],
         [

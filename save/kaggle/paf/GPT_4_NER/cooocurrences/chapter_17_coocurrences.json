@@ -1,0 +1,1700 @@
+{
+    "cooccurences": [
+        [
+            "Emmer Thalus",
+            "le docteur Hari Seldon"
+        ],
+        [
+            "le docteur Hari Seldon",
+            "Seldon"
+        ],
+        [
+            "le docteur Hari Seldon",
+            "le sergent Thalus"
+        ],
+        [
+            "Seldon",
+            "le sergent Thalus"
+        ],
+        [
+            "le sergent Thalus",
+            "Dors"
+        ],
+        [
+            "le docteur Seldon",
+            "Le sergent"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Le sergent"
+        ],
+        [
+            "Dors",
+            "Le sergent"
+        ],
+        [
+            "Le sergent",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "Seldon",
+            "Davan"
+        ],
+        [
+            "le sergent Thalus",
+            "Yugo Amaryl"
+        ],
+        [
+            "Davan",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Hari Seldon",
+            "Raych"
+        ],
+        [
+            "le sergent Thalus",
+            "Le sergent"
+        ],
+        [
+            "Chetter Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Le sergent </PER><PER> Thalus"
+        ],
+        [
+            "Le sergent </PER><PER> Thalus",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Le sergent"
+        ],
+        [
+            "Raych",
+            "Le sergent"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "le docteur Hari Seldon",
+            "le docteur Dors Venabili"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Venabili"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Rachelle"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Dors"
+        ],
+        [
+            "Demerzel",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Maire"
+        ],
+        [
+            "Raych",
+            "Maître Seldon"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître Seldon"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Maître Seldon",
+            "Venabili"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Maître Seldon",
+            "Rachelle"
+        ],
+        [
+            "Venabili",
+            "Raych"
+        ],
+        [
+            "Venabili",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Maire"
+        ],
+        [
+            "Maire",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Hari"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Maire"
+        ],
+        [
+            "Maire",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Mannix"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Mannix IV"
+        ],
+        [
+            "l ’ Empereur",
+            "Dors"
+        ],
+        [
+            "l ’ Empereur",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Dors",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "docteur Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Venabili"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Mannix IV"
+        },
+        {
+            "word": "Mannix"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Emmer Thalus"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Thalus"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "le sergent Thalus"
+        },
+        {
+            "word": "le docteur Hari Seldon"
+        },
+        {
+            "word": "Le sergent"
+        },
+        {
+            "word": "le docteur Seldon"
+        },
+        {
+            "word": "docteur Seldon"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Davan"
+        },
+        {
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "le docteur Dors Venabili"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "Rachelle"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "Maire"
+        },
+        {
+            "word": "Maître Seldon"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "madame l’impératrice de Rien"
+        }
+    ],
+    "aliases": [
+        [
+            "Mannix IV",
+            "Mannix"
+        ],
+        [
+            "Seldon",
+            "Hari",
+            "le docteur Hari Seldon",
+            "le docteur Seldon",
+            "docteur Seldon",
+            "Maître Seldon",
+            "Hari Seldon"
+        ],
+        [
+            "Emmer Thalus",
+            "le sergent Thalus",
+            "Le sergent",
+            "Thalus"
+        ],
+        [
+            "Dors",
+            "Venabili",
+            "le docteur Dors Venabili"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Davan"
+        ],
+        [
+            "Chetter Hummin",
+            "Hummin"
+        ],
+        [
+            "Rachelle"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "Maire"
+        ],
+        [
+            "l’Empereur"
+        ],
+        [
+            "madame l’impératrice de Rien"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ],
+            [
+                "Yugo Amaryl"
+            ]
+        ],
+        [
+            [
+                "Davan"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Emmer Thalus",
+                "le sergent Thalus",
+                "Le sergent",
+                "Thalus"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Chetter Hummin",
+                "Hummin"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Maire"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Maire"
+            ]
+        ],
+        [
+            [
+                "Maire"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Maire"
+            ]
+        ],
+        [
+            [
+                "Maire"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Mannix IV",
+                "Mannix"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Mannix IV",
+                "Mannix"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Rachelle"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "le docteur Hari Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Maître Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Venabili",
+                "le docteur Dors Venabili"
+            ]
+        ]
+    ]
+}

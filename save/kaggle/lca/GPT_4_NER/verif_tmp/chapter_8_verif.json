@@ -1,0 +1,143 @@
+{
+    "final_gpt_entities": [
+        "Enderby",
+        "commissaire Enderby",
+        "commissaire principal",
+        "Lije",
+        "Dr Sarton",
+        "Baley",
+        "Daneel",
+        "R. Daneel",
+        "Fastolfe",
+        "docteur Fastolfe",
+        "Jessie",
+        "Elijah",
+        "Moi",
+        "Daneel Olivaw",
+        "Dr Fastolfe"
+    ],
+    "init_gpt_entities": [
+        "Enderby",
+        "Spacetown",
+        "Daneel",
+        "Baley",
+        "Moi",
+        "commissaire Enderby",
+        "Daneel Olivaw",
+        "commissaire principal",
+        "Jessie",
+        "docteur Fastolfe",
+        "Pourquoi pas",
+        "R. Daneel",
+        "Elijah",
+        "Spaciens",
+        "New-Yorkais",
+        "Fastolfe",
+        "Lije",
+        "justice",
+        "Spacien",
+        "J’ai",
+        "Toilettes",
+        "Dr Sarton",
+        "Dr Fastolfe",
+        "Terrien"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"commissaire Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"commissaire principal\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"Spacien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"Dr Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : mûrement calculé. On aurait fait des excuses au commissaire Enderby, on lui aurait même montré sans doute le cadavre de son détective, et, en hochant la tête, on lui aurait encore parlé d’une conspiration montée par les Terriens. Le brave Julius l’aurait cru ; il était ainsi fait ; s’il haïssait les Spaciens, c’était surtout par peur, et il n’aurait jamais osé leur dire qu’il ne les croyait pas. C’était bien pour cette raison qu’il fallait absolument qu’Enderby fût témoin du déroulement de l’enquête, et surtout qu’il y assistât à distance, de façon qu’aucune « mesure de sécurité » prise par les Spaciens ne pût l’atteindre... Or, voici que le commissaire principal s’écria d’une voix rauque : — Vous vous trompez complètement, Lije ! J’ai vu moi- même le cadavre du Dr Sarton.\n\n                    Question : Le mot \"Terrien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vous avez vu les débris informes de quelque chose qu’on vous a désigné comme étant le cadavre du Dr Sarton, répliqua audacieusement Baley, en songeant aux lunettes cassées du commissaire, circonstance singulièrement propice au plan des Spaciens. — Non, non, Lije, dit Enderby. Je connaissais bien le Dr Sarton, et sa tête était intacte. C’était bien lui. Il porta la main à ses lunettes, comme pour mieux prouver que sa mémoire était fidèle, et il ajouta : — Je l’ai examiné de près, de très près !\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Et que pensez-vous de celui-ci, monsieur le commissaire ? demanda Baley en désignant R. Daneel. Ne ressemble-t-il pas à s’y méprendre au Dr Sarton ? — Oui, sans doute, comme une statue ressemble à son modèle. — Un être humain peut parfaitement se composer une attitude inexpressive, monsieur le commissaire.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Et que pensez-vous de celui-ci, monsieur le commissaire ? demanda Baley en désignant R. Daneel. Ne ressemble-t-il pas à s’y méprendre au Dr Sarton ? — Oui, sans doute, comme une statue ressemble à son modèle. — Un être humain peut parfaitement se composer une attitude inexpressive, monsieur le commissaire.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : demanda Enderby. — Je n’ai pas pu ne pas le remarquer, répliqua Baley en rougissant... dans les Toilettes... Enderby parut profondément choqué ; mais Fastolfe riposta aussitôt : — Vous devez sûrement comprendre que, si l’on désire utiliser un robot ressemblant vraiment à un homme, cette ressemblance doit être complète. Etant donné le but que nous cherchons à atteindre, mieux vaut ne rien faire du tout que prendre des demi-mesures. — Puis-je fumer ? demanda brusquement Baley.\n\n                    Question : Le mot \"Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : demanda Enderby. — Je n’ai pas pu ne pas le remarquer, répliqua Baley en rougissant... dans les Toilettes... Enderby parut profondément choqué ; mais Fastolfe riposta aussitôt : — Vous devez sûrement comprendre que, si l’on désire utiliser un robot ressemblant vraiment à un homme, cette ressemblance doit être complète. Etant donné le but que nous cherchons à atteindre, mieux vaut ne rien faire du tout que prendre des demi-mesures. — Puis-je fumer ? demanda brusquement Baley.\n\n                    Question : Le mot \"Toilettes\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Par conséquent il a obéi à la première loi, et non pas agi à l’encontre de celle-ci. Baley se crispa intérieurement, mais, n’en laissant rien paraître, il parvint à garder un calme imperturbable. La partie serait dure à jouer, mais il battrait le Spacien à son propre jeu. — Vous aurez beau tenter de contredire chacun de mes arguments, répliqua-t-il, vous n’empêcherez pas qu’ils se tiennent et s’enchaînent les uns aux autres. Hier soir, en discutant sur le prétendu meurtre avec ce soi-disant robot, je l’ai entendu me déclarer qu’on avait fait de lui un détective, en dotant ses circuits positroniques d’une aspiration nouvelle ; il s’agit, m’a-t-il dit, d’un besoin permanent et absolu de justice.\n\n                    Question : Le mot \"justice\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je m’en porte garant, dit Fastolfe. Cette opération a eu lieu il y a trois jours, et c’est moi-même qui l’ai contrôlée. — Un besoin de justice ? La justice, docteur Fastolfe, est quelque chose d’abstrait, et ce terme-là ne peut être utilisé que par un être humain. — Si vous définissez le mot justice de façon à en faire une abstraction, si vous dites qu’elle consiste à donner à chacun son dû, à faire prévaloir le droit, ou quoi que ce soit de ce genre, je suis d’accord avec vous, monsieur Baley.\n\n                    Question : Le mot \"docteur Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis certain que la réponse de Daneel n’offusquera ni votre pudeur ni celle de monsieur Baley. Qu’avez-vous à nous dire, Daneel ? — Hier soir, répondit celui-ci, quand Jessie, la femme d’Elijah, a quitté l’appartement, elle m’a témoigné beaucoup de sympathie, et il était évident qu’elle n’avait aucune raison de ne pas me croire un être humain normal. Quand elle est rentrée dans l’appartement, un peu plus tard, elle savait que j’étais un robot. J’en ai automatiquement déduit qu’elle avait appris la chose dehors, et que ma conversation avec Elijah avait été interceptée.\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis certain que la réponse de Daneel n’offusquera ni votre pudeur ni celle de monsieur Baley. Qu’avez-vous à nous dire, Daneel ? — Hier soir, répondit celui-ci, quand Jessie, la femme d’Elijah, a quitté l’appartement, elle m’a témoigné beaucoup de sympathie, et il était évident qu’elle n’avait aucune raison de ne pas me croire un être humain normal. Quand elle est rentrée dans l’appartement, un peu plus tard, elle savait que j’étais un robot. J’en ai automatiquement déduit qu’elle avait appris la chose dehors, et que ma conversation avec Elijah avait été interceptée.\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Rien que nous et le Dr Fastolfe. — Et lui, dit Baley, montrant Daneel Olivaw. — Moi ? fit celui-ci. — Pourquoi pas ?\n\n                    Question : Le mot \"Moi\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Rien que nous et le Dr Fastolfe. — Et lui, dit Baley, montrant Daneel Olivaw. — Moi ? fit celui-ci. — Pourquoi pas ?\n\n                    Question : Le mot \"Daneel Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Rien que nous et le Dr Fastolfe. — Et lui, dit Baley, montrant Daneel Olivaw. — Moi ? fit celui-ci. — Pourquoi pas ?\n\n                    Question : Le mot \"Pourquoi pas\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Rien que nous et le Dr Fastolfe. — Et lui, dit Baley, montrant Daneel Olivaw. — Moi ? fit celui-ci. — Pourquoi pas ?\n\n                    Question : Le mot \"Dr Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — J’ai été constamment avec vous. — C’est faux ! s’écria Baley, farouchement. Avant d’entrer chez moi, j’ai passé plus d’une demi-heure dans les Toilettes, et, pendant ce temps, nous n’avons plus été en contact, vous et moi. C’est à ce moment que vous vous êtes mis en communication avec vos complices en ville.\n\n                    Question : Le mot \"J’ai\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Monsieur le commissaire principal, fit-il gravement, je vous demande de m’écouter très attentivement, et de me dire si mon raisonnement ne se tient pas parfaitement. Un assassinat est commis, et, par une étrange coïncidence, il survient juste au moment où vous pénétrez dans Spacetown pour rendre visite à la victime. On vous montre les restes de quelque chose que l’on prétend être un homme, mais, depuis, le cadavre a disparu et ne peut donc faire l’objet d’une autopsie. Les Spaciens affirment que le meurtre a été commis par un Terrien ; or, cette accusation présuppose qu’un New-Yorkais a pu quitter la ville, et se rendre, seul, de nuit, à Spacetown, à travers la campagne ; et vous savez très bien que cette supposition est absolument invraisemblable. Que se passe-t-il alors ?\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Monsieur le commissaire principal, fit-il gravement, je vous demande de m’écouter très attentivement, et de me dire si mon raisonnement ne se tient pas parfaitement. Un assassinat est commis, et, par une étrange coïncidence, il survient juste au moment où vous pénétrez dans Spacetown pour rendre visite à la victime. On vous montre les restes de quelque chose que l’on prétend être un homme, mais, depuis, le cadavre a disparu et ne peut donc faire l’objet d’une autopsie. Les Spaciens affirment que le meurtre a été commis par un Terrien ; or, cette accusation présuppose qu’un New-Yorkais a pu quitter la ville, et se rendre, seul, de nuit, à Spacetown, à travers la campagne ; et vous savez très bien que cette supposition est absolument invraisemblable. Que se passe-t-il alors ?\n\n                    Question : Le mot \"New-Yorkais\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

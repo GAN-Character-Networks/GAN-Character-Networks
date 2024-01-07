@@ -1,0 +1,208 @@
+{
+    "cooccurences": [
+        [
+            "Enderby",
+            "Sarton"
+        ],
+        [
+            "Sarton",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Fastolfe"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "Bentley"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Sarton"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Julius"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Bentley"
+        }
+    ],
+    "aliases": [
+        [
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R. Daneel"
+        ],
+        [
+            "Sarton"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Julius"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Fastolfe"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Bentley"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Sarton"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Fastolfe"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Fastolfe"
+            ],
+            [
+                "Bentley"
+            ]
+        ]
+    ]
+}

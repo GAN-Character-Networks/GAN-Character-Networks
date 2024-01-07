@@ -9,16 +9,8 @@
             "Marbie"
         ],
         [
-            "Alem",
-            "Marbie"
-        ],
-        [
             "Marbie",
             "Alem"
-        ],
-        [
-            "Marbie",
-            "Hummin"
         ],
         [
             "Alem",
@@ -31,10 +23,6 @@
         [
             "Marbie",
             "Hummin"
-        ],
-        [
-            "Marbie",
-            "Alem"
         ],
         [
             "Hummin",
@@ -77,6 +65,10 @@
             "Seldon"
         ],
         [
+            "Seldon",
+            "Marbie"
+        ],
+        [
             "Marbie",
             "Alem"
         ],
@@ -101,10 +93,6 @@
             "Seldon"
         ],
         [
-            "Seldon",
-            "Hummin"
-        ],
-        [
             "Hummin",
             "Seldon"
         ],
@@ -113,11 +101,11 @@
             "Seldon"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Demerzel"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Seldon"
         ],
         [
@@ -137,6 +125,26 @@
             "Hummin"
         ],
         [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
             "Seldon",
             "Hummin"
         ],
@@ -150,31 +158,7 @@
         ],
         [
             "Hummin",
-            "Seldon"
-        ],
-        [
-            "Seldon",
-            "Hummin"
-        ],
-        [
-            "Seldon",
-            "Hummin"
-        ],
-        [
-            "Hummin",
-            "Seldon"
-        ],
-        [
-            "Hummin",
-            "Seldon"
-        ],
-        [
-            "l’Empereur",
-            "prince impérial"
-        ],
-        [
-            "Hummin",
-            "l’Empereur"
+            "l ’ Empereur"
         ]
     ],
     "entities": [
@@ -197,16 +181,10 @@
             "word": "Demerzel"
         },
         {
-            "word": "Anacréon"
-        },
-        {
             "word": "l’Empereur"
         },
         {
             "word": "Hari Seldon"
-        },
-        {
-            "word": "prince impérial"
         }
     ],
     "aliases": [
@@ -230,13 +208,7 @@
             "Demerzel"
         ],
         [
-            "Anacréon"
-        ],
-        [
             "l’Empereur"
-        ],
-        [
-            "prince impérial"
         ]
     ],
     "cooccurences_aliases": [
@@ -258,26 +230,10 @@
         ],
         [
             [
-                "Alem"
-            ],
-            [
-                "Marbie"
-            ]
-        ],
-        [
-            [
                 "Marbie"
             ],
             [
                 "Alem"
-            ]
-        ],
-        [
-            [
-                "Marbie"
-            ],
-            [
-                "Hummin"
             ]
         ],
         [
@@ -302,14 +258,6 @@
             ],
             [
                 "Hummin"
-            ]
-        ],
-        [
-            [
-                "Marbie"
-            ],
-            [
-                "Alem"
             ]
         ],
         [
@@ -399,6 +347,15 @@
         ],
         [
             [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Marbie"
+            ]
+        ],
+        [
+            [
                 "Marbie"
             ],
             [
@@ -451,15 +408,6 @@
         ],
         [
             [
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Hummin"
-            ]
-        ],
-        [
-            [
                 "Hummin"
             ],
             [
@@ -470,23 +418,6 @@
         [
             [
                 "Hummin"
-            ],
-            [
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "l’Empereur"
-            ],
-            [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "l’Empereur"
             ],
             [
                 "Seldon",
@@ -522,47 +453,11 @@
         ],
         [
             [
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Hummin"
-            ]
-        ],
-        [
-            [
                 "Hummin"
             ],
             [
                 "Seldon",
                 "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hummin"
-            ],
-            [
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hummin"
-            ],
-            [
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Hummin"
             ]
         ],
         [
@@ -594,10 +489,20 @@
         ],
         [
             [
-                "l’Empereur"
+                "Seldon",
+                "Hari Seldon"
             ],
             [
-                "prince impérial"
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
             ]
         ],
         [
@@ -605,7 +510,17 @@
                 "Hummin"
             ],
             [
-                "l’Empereur"
+                "Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari Seldon"
             ]
         ]
     ]

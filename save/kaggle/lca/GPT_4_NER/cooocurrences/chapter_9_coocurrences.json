@@ -1,0 +1,190 @@
+{
+    "cooccurences": [
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "monsieur Baley",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "monsieur Baley"
+        ],
+        [
+            "monsieur Baley",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Dr Fastolfe"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Elijah"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Dr Fastolfe"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "monsieur Baley"
+        },
+        {
+            "word": "Elijah"
+        }
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "R. Daneel"
+        ],
+        [
+            "Baley",
+            "monsieur Baley"
+        ],
+        [
+            "Fastolfe",
+            "Dr Fastolfe"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Elijah"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe"
+            ],
+            [
+                "Elijah"
+            ]
+        ]
+    ]
+}

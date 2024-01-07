@@ -1,0 +1,136 @@
+{
+    "final_gpt_entities": [
+        "Seldon",
+        "Dors",
+        "Hari",
+        "Hari Seldon",
+        "Raych",
+        "Raych Seldon",
+        "Hummin",
+        "Mère Rittah",
+        "Mannix IV de Kan",
+        "Cléon",
+        "Mannix",
+        "Rachelle",
+        "Daneel",
+        "Maître-du-Soleil Quatorze",
+        "Maître Robot",
+        "Yugo Amaryl",
+        "Demerzel"
+    ],
+    "init_gpt_entities": [
+        "Rachelle",
+        "Demerzel",
+        "Tisalver",
+        "Maître-du-Soleil Quatorze",
+        "Dors Seldon",
+        "Mannix IV de Kan",
+        "Seldon",
+        "Maître Robot",
+        "Hummin",
+        "Maire",
+        "Dors",
+        "Hari",
+        "Raych",
+        "Hari Seldon",
+        "Raych Seldon",
+        "l’Empire",
+        "Daneel",
+        "Cléon",
+        "Mère Rittah",
+        "Yugo Amaryl",
+        "Mannix",
+        "Aurora",
+        "la Terre"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Dors SELDON, HARI. — ... On a coutume d’évoquer Hari Seldon uniquement à propos de la psychohistoire, de ne voir en lui que l’incarnation des mathématiques et du changement social. Sans nul doute a-t-il lui-même encouragé cette vision des choses car nulle part, dans ses écrits officiels, il ne donne le moindre indice sur la manière dont il a résolu les divers problèmes posés par la psychohistoire. A l’en croire, l’intuition aurait aussi bien pu lui tomber du ciel. De même qu’il ne nous dit rien des impasses où il a pu se fourvoyer, des erreurs de parcours qu’il a pu commettre.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Dors SELDON, HARI. — ... On a coutume d’évoquer Hari Seldon uniquement à propos de la psychohistoire, de ne voir en lui que l’incarnation des mathématiques et du changement social. Sans nul doute a-t-il lui-même encouragé cette vision des choses car nulle part, dans ses écrits officiels, il ne donne le moindre indice sur la manière dont il a résolu les divers problèmes posés par la psychohistoire. A l’en croire, l’intuition aurait aussi bien pu lui tomber du ciel. De même qu’il ne nous dit rien des impasses où il a pu se fourvoyer, des erreurs de parcours qu’il a pu commettre.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Dors SELDON, HARI. — ... On a coutume d’évoquer Hari Seldon uniquement à propos de la psychohistoire, de ne voir en lui que l’incarnation des mathématiques et du changement social. Sans nul doute a-t-il lui-même encouragé cette vision des choses car nulle part, dans ses écrits officiels, il ne donne le moindre indice sur la manière dont il a résolu les divers problèmes posés par la psychohistoire. A l’en croire, l’intuition aurait aussi bien pu lui tomber du ciel. De même qu’il ne nous dit rien des impasses où il a pu se fourvoyer, des erreurs de parcours qu’il a pu commettre.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Dors SELDON, HARI. — ... On a coutume d’évoquer Hari Seldon uniquement à propos de la psychohistoire, de ne voir en lui que l’incarnation des mathématiques et du changement social. Sans nul doute a-t-il lui-même encouragé cette vision des choses car nulle part, dans ses écrits officiels, il ne donne le moindre indice sur la manière dont il a résolu les divers problèmes posés par la psychohistoire. A l’en croire, l’intuition aurait aussi bien pu lui tomber du ciel. De même qu’il ne nous dit rien des impasses où il a pu se fourvoyer, des erreurs de parcours qu’il a pu commettre.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ... Quant à sa vie privée, c’est le vide total. En ce qui concerne ses parents et sa famille, nous avons une poignée d’indices, sans plus. On sait que son fils unique, Raych Seldon, a été adopté, mais on ignore dans quelles circonstances. Quant à sa femme, on sait seulement qu’elle a existé. A l’évidence, Seldon désirait rester une énigme en dehors de tout ce qui avait trait à la psychohistoire.\n\n                    Question : Le mot \"Raych\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ... Quant à sa vie privée, c’est le vide total. En ce qui concerne ses parents et sa famille, nous avons une poignée d’indices, sans plus. On sait que son fils unique, Raych Seldon, a été adopté, mais on ignore dans quelles circonstances. Quant à sa femme, on sait seulement qu’elle a existé. A l’évidence, Seldon désirait rester une énigme en dehors de tout ce qui avait trait à la psychohistoire.\n\n                    Question : Le mot \"Raych Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Comme s’il avait senti – ou voulu faire sentir – qu’il n’avait pas vécu, mais simplement psychohistorifié. ENCYCLOPAEDIA GALACTICA. Assis, impassible, Hummin fixait toujours Seldon et celui- ci, pour sa part, attendait. C’était, estimait-il, à son interlocuteur de reprendre la parole. Ce que fit Hummin mais simplement pour dire : « Un robot ?\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Moi ? Par robot, je présume que vous entendez une créature artificielle, du genre de l’objet que vous avez vu dans le Sacratorium de Mycogène ? — Pas exactement. — Les deux planètes étaient ennemies. A entendre la Mère Rittah, c’était évident.\n\n                    Question : Le mot \"Mère Rittah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quand je compare les Mycogéniens, qui semblent incarner Aurora, et les Dahlites, qui semblent incarner la Terre, j’imagine qu’Aurora qu’elle ait été ou non antérieure – était la planète la plus évoluée, celle qui pouvait produire les robots les plus élaborés, des créatures apparemment impossibles à distinguer des êtres humains. Un tel robot a donc été conçu et fabriqué sur Aurora. Mais c’était un renégat qui déserta la planète. Pour les Terriens, en revanche, c’était un héros ; c’est donc qu’il a rallié la Terre. Quels furent les raisons, les motifs d’une telle créature, je l’ignore.\n\n                    Question : Le mot \"Aurora\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Un robot ne pouvait à lui seul assurer la victoire de la Terre et la défaite d’Aurora – à moins d’avoir quelque trait bien particulier. — L’idée vous est-elle venue, Hari, que vous êtes en train d’évoquer là des légendes, des légendes qui ont pu être déformées au cours des siècles et des millénaires, au point de draper d’un voile de surnaturel des événements parfaitement banals ? Pouvez-vous vous croire vraiment à l’existence d’un robot non seulement d’apparence humaine mais en outre éternel et doté de pouvoirs mentaux ? N’êtes-vous pas en train de vous mettre à croire au surnaturel ? — Je sais fort bien de quoi sont faites les légendes et je ne suis pas homme à me laisser aveugler par elles ou à croire aux contes de fées.\n\n                    Question : Le mot \"la Terre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Malgré tout, quand je les vois confortées par une Seldon poursuivit. « Plus étonnant encore, comment se fait-il que Maître-du-Soleil Quatorze, ce monstre d’arrogance, à la tête d’une population elle-même pétrie de vanité, ait été prêt à accueillir deux barbares comme Dors et moi, et à nous traiter aussi bien que pouvaient le faire – et que l’ont fait – les Mycogéniens ? Alors que nous avions enfreint toutes les règles, commis tous les sacrilèges, comment avez-vous fait pour le convaincre de nous laisser repartir ? « Comment avez-vous fait pour convaincre les Tisalver, aveuglés par leurs préjugés mesquins, de nous accueillir chez eux ? Comment faites-vous pour être à l’aise où que ce soit, vous lier d’amitié avec n’importe qui, influencer tout le monde, nonobstant les particularités individuelles ?\n\n                    Question : Le mot \"Tisalver\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pendant qu’on y est, comment êtes-vous arrivé à manipuler Cléon ? Et s’il est aussi malléable et modelable qu’on le dit, comment avez-vous fait pour manipuler son père, que tout le monde s’accorde à considérer comme un tyran arbitraire et brutal ? Comment avez-vous réalisé tout cela ? « Mais surtout, comment se fait-il que Mannix IV de Kan ait pu passer des dizaines d’années à édifier une armée incomparable, entraînée à l’efficacité dans les moindres détails, et qui pourtant se désagrège dès que sa fille s’avise de l’utiliser ? Comment avez-vous réussi à persuader ces hommes de jouer les traîtres, sans exception, comme vous l’avez fait ?\n\n                    Question : Le mot \"Mannix IV de Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pendant qu’on y est, comment êtes-vous arrivé à manipuler Cléon ? Et s’il est aussi malléable et modelable qu’on le dit, comment avez-vous fait pour manipuler son père, que tout le monde s’accorde à considérer comme un tyran arbitraire et brutal ? Comment avez-vous réalisé tout cela ? « Mais surtout, comment se fait-il que Mannix IV de Kan ait pu passer des dizaines d’années à édifier une armée incomparable, entraînée à l’efficacité dans les moindres détails, et qui pourtant se désagrège dès que sa fille s’avise de l’utiliser ? Comment avez-vous réussi à persuader ces hommes de jouer les traîtres, sans exception, comme vous l’avez fait ?\n\n                    Question : Le mot \"Cléon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pendant qu’on y est, comment êtes-vous arrivé à manipuler Cléon ? Et s’il est aussi malléable et modelable qu’on le dit, comment avez-vous fait pour manipuler son père, que tout le monde s’accorde à considérer comme un tyran arbitraire et brutal ? Comment avez-vous réalisé tout cela ? « Mais surtout, comment se fait-il que Mannix IV de Kan ait pu passer des dizaines d’années à édifier une armée incomparable, entraînée à l’efficacité dans les moindres détails, et qui pourtant se désagrège dès que sa fille s’avise de l’utiliser ? Comment avez-vous réussi à persuader ces hommes de jouer les traîtres, sans exception, comme vous l’avez fait ?\n\n                    Question : Le mot \"Mannix\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Ils devaient savoir depuis des années que le jour où Mannix renoncerait à ses pouvoirs ou disparaîtrait, Rachelle deviendrait leur Maire ; pourtant, jamais ils n’avaient montré le moindre signe de mécontentement – jusqu’à ce que vous le jugiez nécessaire. Une fois, Dors vous a décrit comme un homme très persuasif. Et certes vous l’êtes. Plus que n’importe quel homme ordinaire. Mais pas plus qu’un robot immortel doté de pouvoirs mentaux particuliers.\n\n                    Question : Le mot \"Rachelle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Ils devaient savoir depuis des années que le jour où Mannix renoncerait à ses pouvoirs ou disparaîtrait, Rachelle deviendrait leur Maire ; pourtant, jamais ils n’avaient montré le moindre signe de mécontentement – jusqu’à ce que vous le jugiez nécessaire. Une fois, Dors vous a décrit comme un homme très persuasif. Et certes vous l’êtes. Plus que n’importe quel homme ordinaire. Mais pas plus qu’un robot immortel doté de pouvoirs mentaux particuliers.\n\n                    Question : Le mot \"Maire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Eh bien, Hummin ? mon endroit redevables de services dont vous ignorez tout ; les généraux kanites rechignaient à être sous les ordres d’une femme, rien de plus. Pourquoi faudrait-il recourir au surnaturel ? — Voyons, Hummin. Croyez-vous réellement au déclin de l’Empire et jugez-vous réellement important d’éviter que la chute se produise sans que personne n’ait levé le petit doigt pour l’empêcher, ou à tout le moins en amortir les conséquences ?\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ou était-ce un troisième, entièrement différent ? Quelles étaient les relations entre ces deux planètes ? Ont-elles, l’une ou l’autre, ou l’une et l’autre, colonisé la Galaxie ? Si une seule l’a fait, pourquoi pas l’autre ? Si toutes deux l’ont fait, quelle fut l’issue « En vingt mille ans, dit Daneel, personne n’a deviné que j’étais un robot, aussi longtemps que je n’ai pas jugé bon de le faire savoir.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dans ce cas, il est rare que je fasse plus que donner un coup de pouce, le plus infime possible, à ce qui est déjà latent. Et si je peux parvenir à mes fins sans cette intervention minimale, alors je l’évite. « Je n’ai pas eu besoin de manipuler Maître-du-Soleil Quatorze pour l’amener à vous recevoir – remarquez que je parle de ― manipuler ‖ car cela n’a rien d’une tâche agréable. Je n’ai donc pas eu à le manipuler parce qu’il était en dette à mon égard et que c’est un homme d’honneur, malgré les bizarreries que vous avez pu noter chez lui. Je suis effectivement intervenu la seconde fois, quand vous aviez commis un sacrilège à ses yeux, mais je n’ai pas eu grand-chose à faire : il n’était pas pressé de vous remettre aux autorités impériales qu’il n’aime pas.\n\n                    Question : Le mot \"Maître-du-Soleil Quatorze\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous n’étiez pas gêné d’avoir à prouver que c’est une discipline applicable. Cela ne pouvait que renforcer votre orgueil. » Seldon plissa le front et remarqua : « Pardonnez-moi, Maître Robot, mais je n’ai pas conscience d’être un tel monstre d’orgueil. » Daneel sourit benoîtement : « Vous n’êtes absolument pas un monstre d’orgueil. Vous êtes parfaitement conscient qu’il d’autre que les mettre hors d’état de résister à l’arrivée de mes soldats.\n\n                    Question : Le mot \"Maître Robot\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : D’ici peu, vous allez, Dors et vous, être ramenés au secteur impérial... — Le jeune garçon, Raych, doit m’accompagner. Je ne peux pas l’abandonner. Il y a aussi un jeune Dahlite du nom de Yugo Amaryl... — Je comprends. On ramènera Raych avec vous et il en sera de même pour tout ami de votre choix. On s’occupera de vous comme il convient.\n\n                    Question : Le mot \"Yugo Amaryl\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous avez désormais la protection de Hummin, sous la forme de Demerzel et sous celle de Daneel, et il ne vous faut certainement pas plus. — Je vous prendrai comme je pourrai. Vous êtes Dors et, quoi que vous puissiez être, je ne veux rien d’autre au monde. » Doucement, Dors lui expliqua : « Hari, je veux ce qui est bon pour vous à cause de ce que je suis, mais je sens que, si je n’étais pas ce que je suis, je le voudrais quand même. Et je ne crois pas que je sois faite pour vous.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

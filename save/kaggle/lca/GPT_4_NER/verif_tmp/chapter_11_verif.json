@@ -1,0 +1,86 @@
+{
+    "final_gpt_entities": [
+        "R. Daneel",
+        "Baley",
+        "Ben",
+        "Daneel",
+        "Elijah",
+        "Elijah Baley",
+        "Jessie",
+        "Lije"
+    ],
+    "init_gpt_entities": [
+        "B. 22",
+        "Jessie",
+        "Lije",
+        "Ben",
+        "Elijah",
+        "R. Daneel",
+        "Spacetown",
+        "Daneel",
+        "Hôtel de Ville",
+        "Oh",
+        "Robot",
+        "autre",
+        "Baley",
+        "Elijah Baley"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : fixés sur les fonctions qu’exerçait Baley. Or, pour qu’un détective circulât en compagnie d’un robot humanoïde, il fallait que ce policier fût quelqu’un de très important, et Baley n’eut aucune peine à reconstituer le raisonnement de ses mystérieux adversaires. Il en déduisit qu’ils avaient dû placer des espions aux alentours de l’Hôtel de Ville, pour surveiller ses agissements et ceux de R. Daneel ; peut-être même disposaient-ils de complices au sein même des services officiels et dans l’administration de la Cité. Rien d’étonnant donc à ce que les deux policiers aient été suivis au cours des dernières vingt-quatre heures ; la seule chose qui avait dû dérouter un peu leurs poursuivants, c’était la longue durée de la visite à Spacetown, et de l’entretien que Baley avait eu avec le robot sur l’autoroute. Cependant R. Daneel, ayant achevé son repas, demeurait tranquillement assis à sa place, ses mains sans défaut placées sur le rebord de la table.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : fixés sur les fonctions qu’exerçait Baley. Or, pour qu’un détective circulât en compagnie d’un robot humanoïde, il fallait que ce policier fût quelqu’un de très important, et Baley n’eut aucune peine à reconstituer le raisonnement de ses mystérieux adversaires. Il en déduisit qu’ils avaient dû placer des espions aux alentours de l’Hôtel de Ville, pour surveiller ses agissements et ceux de R. Daneel ; peut-être même disposaient-ils de complices au sein même des services officiels et dans l’administration de la Cité. Rien d’étonnant donc à ce que les deux policiers aient été suivis au cours des dernières vingt-quatre heures ; la seule chose qui avait dû dérouter un peu leurs poursuivants, c’était la longue durée de la visite à Spacetown, et de l’entretien que Baley avait eu avec le robot sur l’autoroute. Cependant R. Daneel, ayant achevé son repas, demeurait tranquillement assis à sa place, ses mains sans défaut placées sur le rebord de la table.\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : fixés sur les fonctions qu’exerçait Baley. Or, pour qu’un détective circulât en compagnie d’un robot humanoïde, il fallait que ce policier fût quelqu’un de très important, et Baley n’eut aucune peine à reconstituer le raisonnement de ses mystérieux adversaires. Il en déduisit qu’ils avaient dû placer des espions aux alentours de l’Hôtel de Ville, pour surveiller ses agissements et ceux de R. Daneel ; peut-être même disposaient-ils de complices au sein même des services officiels et dans l’administration de la Cité. Rien d’étonnant donc à ce que les deux policiers aient été suivis au cours des dernières vingt-quatre heures ; la seule chose qui avait dû dérouter un peu leurs poursuivants, c’était la longue durée de la visite à Spacetown, et de l’entretien que Baley avait eu avec le robot sur l’autoroute. Cependant R. Daneel, ayant achevé son repas, demeurait tranquillement assis à sa place, ses mains sans défaut placées sur le rebord de la table.\n\n                    Question : Le mot \"Hôtel de Ville\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : fixés sur les fonctions qu’exerçait Baley. Or, pour qu’un détective circulât en compagnie d’un robot humanoïde, il fallait que ce policier fût quelqu’un de très important, et Baley n’eut aucune peine à reconstituer le raisonnement de ses mystérieux adversaires. Il en déduisit qu’ils avaient dû placer des espions aux alentours de l’Hôtel de Ville, pour surveiller ses agissements et ceux de R. Daneel ; peut-être même disposaient-ils de complices au sein même des services officiels et dans l’administration de la Cité. Rien d’étonnant donc à ce que les deux policiers aient été suivis au cours des dernières vingt-quatre heures ; la seule chose qui avait dû dérouter un peu leurs poursuivants, c’était la longue durée de la visite à Spacetown, et de l’entretien que Baley avait eu avec le robot sur l’autoroute. Cependant R. Daneel, ayant achevé son repas, demeurait tranquillement assis à sa place, ses mains sans défaut placées sur le rebord de la table.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Que de gens ! Des centaines, des milliers !... Il avait lu un jour, dans une étude sur les restaurants de la ville, que leur capacité moyenne était de deux mille deux cents couverts. Mais celui-ci était plus important. Si jamais quelqu’un venait à crier « Robot !\n\n                    Question : Le mot \"Robot\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » que se passerait-il ? Baley n’osa pas se le figurer, mais il se convainquit rapidement qu’une telle éventualité était invraisemblable. Sans doute, une émeute soudaine pouvait éclater n’importe où, aussi bien au restaurant que dans les avenues ou les ascenseurs de la ville ; peut-être même l’atmosphère du restaurant était-elle plus propice à des désordres, parce que les gens s’y laissaient facilement aller à leurs instincts, et s’y extériorisaient plus qu’ailleurs ; il ne fallait pas grand-chose pour qu’une discussion y dégénérât en bagarre. Mais faire éclater exprès une émeute dans un restaurant était une toute autre histoire, car les conspirateurs se dont le cliquetis incessant symbolisait l’énorme quantité de repas distribués. Baley, jetant un regard en arrière, vers la salle bruyante et légèrement enfumée, se remémora soudain, avec une précision qui l’étonna lui-même, une visite du Zoo qu’il avait faite avec son fils, huit ans auparavant (bon sang, que le temps passait vite !...).\n\n                    Question : Le mot \"autre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’était la première fois que Ben y allait, et cela l’avait impressionné, car il n’avait encore jamais vu de chat ni de chien en chair et en os. Ce qui l’avait enthousiasmé plus que tout, c’était la volière ; et Baley, qui l’avait pourtant vue une douzaine de fois déjà, n’avait pas davantage résisté à la fascination du spectacle. On ne peut nier qu’il y ait en effet quelque chose de saisissant dans le vol d’un oiseau que l’on contemple pour la première fois. Or, ce jour-là, Baley et son fils avaient assisté au repas des oiseaux ; un employé remplissait une longue auge d’avoine écrasée ; si les hommes avaient pris l’habitude de se nourrir d’aliments synthétiques à base de levure, les oiseaux, plus conservateurs, continuaient à ne vouloir manger que de vraies graines. Les oiseaux voletaient donc par centaines, et, aile contre aile, ils venaient s’aligner sur l’auge, en pépiant de façon assourdissante.\n\n                    Question : Le mot \"Ben\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Telle était l’image qui vint à l’esprit de Baley, au moment de quitter le restaurant communautaire. Oui, des oiseaux rangés sur leur auge !... C’était bien ça ! Et cette constatation le dégoûta, au point qu’il se demanda s’il n’y aurait pas moyen de vivre autrement, mieux que cela... Mais qu’y avait-il donc de défectueux dans ce mode d’existence ? Jamais encore cela ne lui était venu à l’esprit... — Prêt, Daneel ?\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : demanda-t-il brusquement. — Prêt, Elijah. — Eh bien, en route ! Ils sortirent du restaurant, et Baley se dit que, désormais, leur salut allait uniquement dépendre de son astuce et de son adresse. Il y a un jeu que les jeunes adorent pratiquer et qu’ils nomment la « course aux tapis roulants ».\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ses règles varient de ville en ville, mais le principe demeure éternellement le même, en sorte qu’un garçon de San Francisco n’aura aucune peine à participer à une partie qui se joue au Caire. Il consiste en ceci : Et cependant on n’a jamais pu trouver le moyen de supprimer ce sport, ni de mettre les équipes qui s’y livrent hors d’état de le pratiquer. Plus il devient dangereux, plus ses adeptes sont sûrs de conquérir le plus précieux des prix, à savoir la gloriole qu’ils en tirent aux yeux de leurs camarades. Tout le monde admet qu’un champion a le droit de se pavaner, et quant aux meneurs connus pour leur adresse, ils font aisément figure de coq de village. Ainsi, par exemple, Elijah Baley se rappelait avec une réelle satisfaction, même à son âge, que jadis il avait été classé parmi les meilleurs coureurs de tapis roulant.\n\n                    Question : Le mot \"Elijah Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Il est encore là, répliqua l’autre calmement. Baley pinça les lèvres. S’il en était ainsi, il fallait alors opérer sur l’express ; cela exigeait un gros entraînement, et peut-être n’en serait-il plus capable... Regardant rapidement autour de lui, pour situer sa position, il vit passer comme un éclair la rue B. 22. Il fit un petit calcul, puis d’un saut prit place sur l’express.\n\n                    Question : Le mot \"B. 22\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ecoute, papa, je suis juste venu voir comment tu allais. — Pourquoi n’irais-je pas bien ? — Oh ! zut. Tu pourrais tout de même me mettre au courant !\n\n                    Question : Le mot \"Oh\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Un petit écran situé au pied de l’appareil s’éclaira alors, et le visage de la mère de Jessie apparut. — Passez-moi Jessie, dit-il à voix basse. Sa femme devait l’attendre car, à son tour, elle apparut instantanément. Baley la regarda un instant, puis il actionna une manette pour assombrir l’écran. — Bon, Jessie.\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : répliqua sa femme. — Tu peux constater toi-même que je vais très bien, Jessie. Et maintenant, fais-moi le plaisir de cesser toutes ces histoires ! — Oh ! Lije, je me suis tellement tourmentée !\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

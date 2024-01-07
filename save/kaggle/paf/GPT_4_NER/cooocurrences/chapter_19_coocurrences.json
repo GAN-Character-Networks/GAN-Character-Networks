@@ -1,0 +1,575 @@
+{
+    "cooccurences": [
+        [
+            "Dors",
+            "Hari Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître - du - Soleil Quatorze"
+        ],
+        [
+            "Mannix",
+            "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Maître Robot"
+        ],
+        [
+            "Maître Robot",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Daneel"
+        ],
+        [
+            "Seldon",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Hari"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Yugo Amaryl",
+            "Raych"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ],
+        [
+            "Hummin",
+            "Daneel"
+        ],
+        [
+            "Demerzel",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Hari",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Hari"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Raych Seldon"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Mère Rittah"
+        },
+        {
+            "word": "Mannix IV de Kan"
+        },
+        {
+            "word": "Cléon"
+        },
+        {
+            "word": "Mannix"
+        },
+        {
+            "word": "Rachelle"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Maître-du-Soleil Quatorze"
+        },
+        {
+            "word": "Maître Robot"
+        },
+        {
+            "word": "Yugo Amaryl"
+        },
+        {
+            "word": "Demerzel"
+        }
+    ],
+    "aliases": [
+        [
+            "Seldon",
+            "Hari",
+            "Raych Seldon",
+            "Raych",
+            "Hari Seldon"
+        ],
+        [
+            "Dors"
+        ],
+        [
+            "Hummin"
+        ],
+        [
+            "Mère Rittah"
+        ],
+        [
+            "Mannix IV de Kan",
+            "Mannix"
+        ],
+        [
+            "Cléon"
+        ],
+        [
+            "Rachelle"
+        ],
+        [
+            "Daneel"
+        ],
+        [
+            "Maître-du-Soleil Quatorze"
+        ],
+        [
+            "Maître Robot"
+        ],
+        [
+            "Yugo Amaryl"
+        ],
+        [
+            "Demerzel"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Mannix IV de Kan",
+                "Mannix"
+            ],
+            [
+                "Rachelle"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Maître Robot"
+            ]
+        ],
+        [
+            [
+                "Maître Robot"
+            ],
+            [
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Daneel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Daneel"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Yugo Amaryl"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Hummin"
+            ],
+            [
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Dors"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Raych Seldon",
+                "Raych",
+                "Hari Seldon"
+            ],
+            [
+                "Dors"
+            ]
+        ]
+    ]
+}

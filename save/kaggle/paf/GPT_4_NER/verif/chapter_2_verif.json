@@ -7,22 +7,21 @@
         "Hummin",
         "Demerzel",
         "l’Empereur",
-        "Hari Seldon",
-        "prince impérial"
+        "Hari Seldon"
     ],
     "init_gpt_entities": [
-        "Alem",
-        "Hélicon",
-        "Marbie",
-        "prince impérial",
-        "Seldon",
-        "Hummin",
-        "Cléon Ier",
         "Demerzel",
+        "Marbie",
+        "Seldon",
         "Hari Seldon",
-        "l’Empire",
+        "Cléon Ier",
+        "Anacréon",
+        "Hummin",
+        "Hélicon",
         "l’Empereur",
-        "Anacréon"
+        "l’Empire",
+        "Alem",
+        "prince impérial"
     ],
     "prompts_and_responses": [
         {
@@ -46,12 +45,12 @@
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase : Le commanditaire de ces deux malfrats, quel qu’il soit (pour moi, ce doit être Demerzel), risque de nous en envoyer d’autres, et il va falloir vous débarrasser de ces vêtements. J’ai l’impression que, dans le secteur, tout Héliconien surpris en costume local risque d’avoir des ennuis tant qu’il n’aura pu prouver qu’il n’est pas vous. — Oh. Allons donc... — Je ne plaisante pas. Vous allez devoir retirer ces vêtements et il va falloir qu’on les atomise – si nous parvenons assez près d’une unité d’enlèvement sans nous faire remarquer.\n\n                    Question : Le mot \"Hélicon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
-            "response": "Non"
-        },
-        {
             "prompt": "\n\n                    Phrase : Le commanditaire de ces deux malfrats, quel qu’il soit (pour moi, ce doit être Demerzel), risque de nous en envoyer d’autres, et il va falloir vous débarrasser de ces vêtements. J’ai l’impression que, dans le secteur, tout Héliconien surpris en costume local risque d’avoir des ennuis tant qu’il n’aura pu prouver qu’il n’est pas vous. — Oh. Allons donc... — Je ne plaisante pas. Vous allez devoir retirer ces vêtements et il va falloir qu’on les atomise – si nous parvenons assez près d’une unité d’enlèvement sans nous faire remarquer.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le commanditaire de ces deux malfrats, quel qu’il soit (pour moi, ce doit être Demerzel), risque de nous en envoyer d’autres, et il va falloir vous débarrasser de ces vêtements. J’ai l’impression que, dans le secteur, tout Héliconien surpris en costume local risque d’avoir des ennuis tant qu’il n’aura pu prouver qu’il n’est pas vous. — Oh. Allons donc... — Je ne plaisante pas. Vous allez devoir retirer ces vêtements et il va falloir qu’on les atomise – si nous parvenons assez près d’une unité d’enlèvement sans nous faire remarquer.\n\n                    Question : Le mot \"Hélicon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
         },
         {
             "prompt": "\n\n                    Phrase : — Et pour aller où, sinon chez moi ? S’il peut me récupérer sur Hélicon, il pourra me récupérer n’importe où. Il pourrait me récupérer sur... Anacréon, facilement à dix mille parsecs de là – si l’envie me prenait de m’y rendre. Qu’est-ce que la distance pour un vaisseau hyperspatial ? Même si je trouvais un monde moins soumis qu’Hélicon aux forces impériales, y en a-t-il un seul en rébellion ouverte ?\n\n                    Question : Le mot \"Anacréon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",

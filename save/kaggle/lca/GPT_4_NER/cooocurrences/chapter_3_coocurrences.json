@@ -1,0 +1,68 @@
+{
+    "cooccurences": [
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Boris"
+        },
+        {
+            "word": "Elijah"
+        }
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "R. Daneel"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Boris"
+        ],
+        [
+            "Elijah"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley"
+            ]
+        ]
+    ]
+}

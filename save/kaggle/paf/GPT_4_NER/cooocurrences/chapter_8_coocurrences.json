@@ -1,10 +1,6 @@
 {
     "cooccurences": [
         [
-            "Maître-du-Soleil",
-            "MAÎTRE-DU-SOLEIL QUATORZE"
-        ],
-        [
             "Dors",
             "Seldon"
         ],
@@ -17,20 +13,12 @@
             "Seldon"
         ],
         [
-            "Dors",
-            "Hari"
-        ],
-        [
             "Seldon",
             "Hari"
         ],
         [
             "Hari",
             "Dors"
-        ],
-        [
-            "Dors",
-            "Seldon"
         ],
         [
             "Hummin",
@@ -50,22 +38,18 @@
         ],
         [
             "Dors",
-            "Maître-du-Soleil Quatorze"
+            "Maître - du - Soleil Quatorze"
+        ],
+        [
+            "Maître - du - Soleil Quatorze",
+            "Maître - du - Soleil"
         ],
         [
             "Dors",
-            "Maître-du-Soleil"
+            "Maître - du - Soleil"
         ],
         [
-            "Maître-du-Soleil Quatorze",
-            "Maître-du-Soleil"
-        ],
-        [
-            "Dors",
-            "Maître-du-Soleil"
-        ],
-        [
-            "Maître-du-Soleil",
+            "Maître - du - Soleil",
             "Seldon"
         ],
         [
@@ -73,28 +57,24 @@
             "Seldon"
         ],
         [
-            "Maître-du-Soleil",
+            "Maître - du - Soleil",
             "Seldon"
         ],
         [
             "Seldon",
-            "Maître-du-Soleil"
+            "Maître - du - Soleil"
         ],
         [
             "Seldon",
-            "Maître-du- Soleil"
+            "Maître - du - Soleil"
         ],
         [
             "Dors",
             "Seldon"
-        ],
-        [
-            "Seldon",
-            "Dors"
         ],
         [
             "Hummin",
-            "Maître-du-Soleil Quatorze"
+            "Maître - du - Soleil Quatorze"
         ],
         [
             "Seldon",
@@ -105,40 +85,32 @@
             "Dors"
         ],
         [
-            "Dors",
-            "Seldon"
-        ],
-        [
             "Grisnuage",
             "Seldon"
         ],
         [
             "Grisnuage",
-            "Maître-du-Soleil"
+            "Maître - du - Soleil"
         ],
         [
             "Seldon",
-            "Maître-du-Soleil"
+            "Maître - du - Soleil"
         ],
         [
             "Seldon",
             "Grisnuage"
         ],
         [
-            "Maître-du-Soleil",
+            "Maître - du - Soleil",
             "Grisnuage"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois",
-            "Goutte-de-Pluie Quarante-cinq"
+            "Goutte - de - Pluie Quarante - trois",
+            "Goutte - de - Pluie Quarante - cinq"
         ],
         [
-            "Dors",
-            "Goutte-de- Pluie"
-        ],
-        [
-            "Goutte-de- Pluie",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie",
+            "Goutte - de - Pluie Quarante - trois"
         ],
         [
             "Seldon",
@@ -157,32 +129,28 @@
             "Seldon"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois",
-            "Goutte-de-Pluie Quarante-cinq"
+            "Goutte - de - Pluie Quarante - trois",
+            "Goutte - de - Pluie Quarante - cinq"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois",
+            "Goutte - de - Pluie Quarante - trois",
             "Seldon"
         ],
         [
-            "Goutte-de-Pluie Quarante-cinq",
+            "Goutte - de - Pluie Quarante - cinq",
             "Seldon"
         ],
         [
-            "Seldon",
-            "Dors"
-        ],
-        [
-            "Goutte-de-Pluie Quarante- cinq",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie Quarante - cinq",
+            "Goutte - de - Pluie Quarante - trois"
         ]
     ],
     "entities": [
         {
-            "word": "Hari"
+            "word": "Seldon"
         },
         {
-            "word": "Seldon"
+            "word": "Hari Seldon"
         },
         {
             "word": "Maître-du-Soleil"
@@ -191,10 +159,10 @@
             "word": "Dors"
         },
         {
-            "word": "MAÎTRE-DU-SOLEIL QUATORZE"
+            "word": "Hari"
         },
         {
-            "word": "Hari Seldon"
+            "word": "MAÎTRE-DU-SOLEIL QUATORZE"
         },
         {
             "word": "Endor Levanian"
@@ -238,8 +206,8 @@
     ],
     "aliases": [
         [
-            "Hari",
             "Seldon",
+            "Hari",
             "Hari Seldon"
         ],
         [
@@ -287,15 +255,15 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ],
             [
@@ -309,42 +277,20 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
                 "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Hari Seldon"
             ],
             [
                 "Dors",
                 "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
             ]
         ],
         [
@@ -359,8 +305,8 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ],
             [
@@ -373,142 +319,15 @@
                 "Clowzia"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Hari",
                 "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ],
-            [
                 "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Maître-du- Soleil"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hummin",
-                "Chetter Hummin"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
                 "Hari Seldon"
             ],
             [
@@ -522,9 +341,31 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
             ]
         ],
         [
@@ -532,35 +373,15 @@
                 "Grisnuage"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Grisnuage"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
-                "Hari",
                 "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Hari Seldon"
             ],
             [
@@ -569,42 +390,8 @@
         ],
         [
             [
-                "Maître-du-Soleil",
-                "Maître-du-Soleil Quatorze"
-            ],
-            [
-                "Grisnuage"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante-trois"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-cinq"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Goutte-de- Pluie"
-            ]
-        ],
-        [
-            [
-                "Goutte-de- Pluie"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois"
-            ]
-        ],
-        [
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ],
             [
@@ -618,8 +405,8 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Hari Seldon"
             ]
         ],
@@ -629,56 +416,9 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante-trois"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-cinq"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante-trois"
-            ],
-            [
                 "Hari",
-                "Seldon",
                 "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante-cinq"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante- cinq"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois"
             ]
         ]
     ]

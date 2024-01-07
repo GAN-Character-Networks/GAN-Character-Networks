@@ -1,0 +1,138 @@
+{
+    "final_gpt_entities": [
+        "Daneel",
+        "Enderby",
+        "Baley",
+        "Lije",
+        "R. Sammy",
+        "R. Daneel",
+        "Elijah",
+        "Han Fastolfe",
+        "Fastolfe",
+        "Dr Sarton",
+        "Sarton",
+        "monsieur Baley",
+        "R. Daneel Olivaw"
+    ],
+    "init_gpt_entities": [
+        "Dr Sarton",
+        "Spacetown",
+        "New York",
+        "Han Fastolfe",
+        "Daneel",
+        "Baley",
+        "demande-t-il",
+        "Sarton",
+        "commissaire principal",
+        "R. Daneel",
+        "Elijah",
+        "Spaciens",
+        "son gout",
+        "monsieur Baley",
+        "Fastolfe",
+        "R. Sammy",
+        "Lije",
+        "Elijah Baley",
+        "Spacien",
+        "celui-ci",
+        "R. Daneel Olivaw",
+        "Toilettes",
+        "une pomme",
+        "monsieur le commissaire principal",
+        "Enderby"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  — J’espère que vous ne lui avez pas dit que Daneel était un robot ! — Bien sûr que non ! Enderby, pas du tout détendu, ne cessa de manipuler machinalement le calendrier automatique de son bureau. — Est-ce que ça marche ? demanda-t-il.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  — J’espère que vous ne lui avez pas dit que Daneel était un robot ! — Bien sûr que non ! Enderby, pas du tout détendu, ne cessa de manipuler machinalement le calendrier automatique de son bureau. — Est-ce que ça marche ? demanda-t-il.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est plutôt pénible ! — Je suis désolé, Lije... — Vous auriez tout de même pu me prévenir, dit Baley d’une voix dure, qu’il avait tout à fait l’air d’un homme. — Comment, je ne l’avais pas fait ? répliqua le commissaire en prenant l’air surpris. Mais pourtant !\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est plutôt pénible ! — Je suis désolé, Lije... — Vous auriez tout de même pu me prévenir, dit Baley d’une voix dure, qu’il avait tout à fait l’air d’un homme. — Comment, je ne l’avais pas fait ? répliqua le commissaire en prenant l’air surpris. Mais pourtant !\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : ajouta-t-il soudain véhément, vous deviez vous en douter ! Je ne vous aurais pas demandé de le loger, s’il avait ressemblé à R. Sammy, voyons ! — Je comprends votre pensée, monsieur le commissaire. Mais, moi, je n’avais encore jamais vu ces robots-là, tandis que vous, vous les connaissez depuis longtemps. Je ne savais même pas que l’on pouvait en construire de pareils.\n\n                    Question : Le mot \"R. Sammy\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est ce qu’il m’a expliqué. — Ah ! vraiment ? Baley se raidit un peu, et serrant les dents sur son tuyau de pipe, il dit, sans avoir l’air d’y attacher d’importance : — R. Daneel a organisé pour moi une visite à Spacetown. — A Spacetown !\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est ce qu’il m’a expliqué. — Ah ! vraiment ? Baley se raidit un peu, et serrant les dents sur son tuyau de pipe, il dit, sans avoir l’air d’y attacher d’importance : — R. Daneel a organisé pour moi une visite à Spacetown. — A Spacetown !\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dans un sens, Enderby ne l’avait pas surpris. Baley s’était attendu à voir son chef s’opposer à ce qu’il se rendît à Spacetown ; il l’avait en effet toujours entendu insister sur les difficultés que suscitaient les relations avec les Spaciens, et sur le danger que l’on courrait si on laissait des négociateurs non expérimentés discuter avec ces gens-là de questions importantes. Il n’avait pas pensé cependant que le commissaire principal céderait si facilement. Il s’était dit que son chef aurait au moins insisté pour l’accompagner. L’abondance du travail en retard était un prétexte sans valeur, vu l’importance du problème à résoudre.\n\n                    Question : Le mot \"commissaire principal\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dans un sens, Enderby ne l’avait pas surpris. Baley s’était attendu à voir son chef s’opposer à ce qu’il se rendît à Spacetown ; il l’avait en effet toujours entendu insister sur les difficultés que suscitaient les relations avec les Spaciens, et sur le danger que l’on courrait si on laissait des négociateurs non expérimentés discuter avec ces gens-là de questions importantes. Il n’avait pas pensé cependant que le commissaire principal céderait si facilement. Il s’était dit que son chef aurait au moins insisté pour l’accompagner. L’abondance du travail en retard était un prétexte sans valeur, vu l’importance du problème à résoudre.\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dans un sens, Enderby ne l’avait pas surpris. Baley s’était attendu à voir son chef s’opposer à ce qu’il se rendît à Spacetown ; il l’avait en effet toujours entendu insister sur les difficultés que suscitaient les relations avec les Spaciens, et sur le danger que l’on courrait si on laissait des négociateurs non expérimentés discuter avec ces gens-là de questions importantes. Il n’avait pas pensé cependant que le commissaire principal céderait si facilement. Il s’était dit que son chef aurait au moins insisté pour l’accompagner. L’abondance du travail en retard était un prétexte sans valeur, vu l’importance du problème à résoudre.\n\n                    Question : Le mot \"Spacien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais les impératives exigences de la sécurité civique demeuraient inflexibles. Il était en effet essentiel de prévoir des incendies trop importants pour qu’on pût les maîtriser par les moyens habituels, des ruptures massives de courant ou de ventilation, et surtout de graves émeutes ; et, en vue de telles éventualités, il fallait que les forces de l’ordre de la Cité pussent être dirigées en hâte vers les points névralgiques. Pour cela, il n’existait et ne pouvait exister aucun autre mode d’acheminement de troupes que les autoroutes. Baley avait déjà circulé dans ces tunnels à maintes reprises, mais, chaque fois, le vide de ces espaces lui avait paru choquant et déprimant. Ils semblaient être à des milliers de kilomètres de la vie ardente et chaude de New York.\n\n                    Question : Le mot \"New York\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je suis désolé, reprit Daneel, mais il s’agit d’un règlement qui ne comporte aucune exception. Sans répliquer un mot, Baley entra donc dans les Toilettes, et sentit, plus qu’il ne le vit, R. Daneel qui y pénétrait derrière lui. « Qu’est-ce qu’il veut ? se dit-il. Me contrôler, sans doute, et s’assurer que je me libère des microbes de la ville !\n\n                    Question : Le mot \"Toilettes\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » purent alors réprimer un léger sourire : la ressemblance de R. Daneel avec un être humain ne se limitait pas à son visage et à ses mains ; on avait pris la peine de l’étendre à toutes les parties de son corps, et cela de la façon la plus parfaite. Baley continua d’avancer de quelques pas dans la direction qu’il n’avait pas cessé de suivre depuis son entrée dans les Toilettes, et c’est ainsi qu’il retrouva un peu plus loin ses vêtements soigneusement pliés, qui l’attendaient, répandant une odeur chaude et propre. Un nouvel écran lumineux s’alluma, et l’indication suivante apparut : « Le visiteur est prié de se rhabiller, puis de placer son doigt dans l’alvéole ci-contre. » Baley, se conformant à la prescription, posa le bout de son index sur une surface laiteuse et particulièrement propre. Aussitôt, il sentit une vive piqûre à son doigt et, relevant en hâte celui-ci, il constata qu’une petite goutte de sang y perlait ; mais une seconde plus tard, elle disparut.\n\n                    Question : Le mot \"celui-ci\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : s’écria-t-il, oubliant dans sa colère qu’il se trouvait encore dans les Toilettes. Celles-ci donnaient sur un couloir, mais Baley y décela aussitôt quelque chose d’anormal. D’une part, la lumière qu’il aperçut au bout du corridor n’était pas celle à laquelle il était habitué ; d’autre part, il sentit sur son visage un souffle d’air, comme si une voiture venait de passer près de lui. R. Daneel parut se rendre compte que son compagnon n’était pas à son aise et lui dit : — A partir de maintenant, Elijah, vous serez constamment à l’air libre, et non plus dans un air conditionné. Baley éprouva un léger vertige, et il se demanda pourquoi les Spaciens, si stricts dans leur examen d’un corps humain provenant de la Cité, respiraient cependant un air nécessairement impur.\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis le Dr Han Fastolfe. Et maintenant que Baley examinait son interlocuteur, il constata que le Dr Han Fastolfe était un homme dont les traits différaient très sensiblement de ceux des Spaciens : ce fait lui plut beaucoup. — Ne voulez-vous pas vous restaurer un peu ? demanda Fastolfe. Ce disant, il montra du doigt la table qui les séparait, Daneel et lui du détective.\n\n                    Question : Le mot \"Han Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Je suis le Dr Han Fastolfe. Et maintenant que Baley examinait son interlocuteur, il constata que le Dr Han Fastolfe était un homme dont les traits différaient très sensiblement de ceux des Spaciens : ce fait lui plut beaucoup. — Ne voulez-vous pas vous restaurer un peu ? demanda Fastolfe. Ce disant, il montra du doigt la table qui les séparait, Daneel et lui du détective.\n\n                    Question : Le mot \"Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Elle ne portait qu’un récipient contenant quelques boules de couleurs variées. Baley fut un peu surpris : il avait cru que cette coupe servait d’ornement. Mais R. Daneel lui expliqua de quoi il s’agissait : — Ce sont des fruits naturels cultivés sur la planète Aurore. Je vous conseille de goûter celui-ci. Ca s’appelle une pomme, et on trouve généralement son gout agréable.\n\n                    Question : Le mot \"son gout\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Elle ne portait qu’un récipient contenant quelques boules de couleurs variées. Baley fut un peu surpris : il avait cru que cette coupe servait d’ornement. Mais R. Daneel lui expliqua de quoi il s’agissait : — Ce sont des fruits naturels cultivés sur la planète Aurore. Je vous conseille de goûter celui-ci. Ca s’appelle une pomme, et on trouve généralement son gout agréable.\n\n                    Question : Le mot \"une pomme\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ce que Baley tenait dans sa main devait provenir tout droit du sol impur d’une planète. « J’espère qu’au moins ils l’ont bien nettoyée », se dit-il. Et de nouveau il s’étonna des anomalies qui caractérisaient les notions des Spaciens en matière de propreté. Cependant, Fastolfe lui dit : — Permettez-moi de me présenter d’une façon un peu plus précise. Je suis chargé, à Spacetown, de l’enquête sur l’assassinat du Dr Sarton, tout comme le commissaire principal Enderby la dirige à New York.\n\n                    Question : Le mot \"Dr Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ce que Baley tenait dans sa main devait provenir tout droit du sol impur d’une planète. « J’espère qu’au moins ils l’ont bien nettoyée », se dit-il. Et de nouveau il s’étonna des anomalies qui caractérisaient les notions des Spaciens en matière de propreté. Cependant, Fastolfe lui dit : — Permettez-moi de me présenter d’une façon un peu plus précise. Je suis chargé, à Spacetown, de l’enquête sur l’assassinat du Dr Sarton, tout comme le commissaire principal Enderby la dirige à New York.\n\n                    Question : Le mot \"Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Un instant, je vous prie, monsieur le commissaire principal, dit Fastolfe en levant la main. Par conséquent, monsieur Baley, ajouta-t-il, en regardant le détective bien en face, vous prétendez que le Dr Sarton est toujours vivant ? — Oui, monsieur, et je crois savoir où il se trouve. — Ah ? Où ça ?\n\n                    Question : Le mot \"monsieur Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Un instant, je vous prie, monsieur le commissaire principal, dit Fastolfe en levant la main. Par conséquent, monsieur Baley, ajouta-t-il, en regardant le détective bien en face, vous prétendez que le Dr Sarton est toujours vivant ? — Oui, monsieur, et je crois savoir où il se trouve. — Ah ? Où ça ?\n\n                    Question : Le mot \"monsieur le commissaire principal\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Ici même ! déclara Baley, en tendant fermement le bras vers R. Daneel Olivaw.\n\n                    Question : Le mot \"R. Daneel Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

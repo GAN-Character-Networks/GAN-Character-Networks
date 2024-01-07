@@ -22,34 +22,62 @@
         ],
         [
             "docteur Seldon",
-            "M. Hummin"
+            "M . Hummin"
         ],
         [
-            "docteur Seldon",
+            "M . Hummin",
             "Seldon"
         ],
         [
-            "M. Hummin",
-            "Seldon"
+            "Chetter Hummin",
+            "Hummin"
         ],
         [
-            "Dors",
-            "Hari"
+            "Chetter Hummin",
+            "Seldon"
         ],
         [
             "Seldon",
             "Dors"
         ],
         [
-            "Demerzel",
-            "l’Empereur"
+            "Seldon",
+            "Dors"
         ],
         [
-            "l’Empereur",
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "l ’ Empereur"
+        ],
+        [
+            "Sire",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
             "Sire"
         ],
         [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
             "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
+        ],
+        [
+            "Cléon",
             "Sire"
         ],
         [
@@ -59,10 +87,6 @@
         [
             "Empereur",
             "Demerzel"
-        ],
-        [
-            "Empereur",
-            "Seldon"
         ],
         [
             "Demerzel",
@@ -73,28 +97,40 @@
             "Demerzel"
         ],
         [
-            "Demerzel",
-            "l’Empereur"
-        ],
-        [
             "Sire",
             "Demerzel"
         ],
         [
             "Sire",
-            "Demerzel"
+            "Maire de Kan"
         ],
         [
             "Sire",
-            "Seldon"
+            "Cléon"
         ],
         [
             "Demerzel",
-            "Seldon"
+            "Maire de Kan"
         ],
         [
             "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Maire de Kan",
+            "Cléon"
+        ],
+        [
+            "Cléon",
             "Sire"
+        ],
+        [
+            "Sire",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
         ],
         [
             "Seldon",
@@ -131,19 +167,19 @@
     ],
     "entities": [
         {
-            "word": "Hummin"
-        },
-        {
-            "word": "VENABILI, DORS"
-        },
-        {
             "word": "Seldon"
         },
         {
             "word": "Hari Seldon"
         },
         {
+            "word": "Hummin"
+        },
+        {
             "word": "Hari"
+        },
+        {
+            "word": "VENABILI, DORS"
         },
         {
             "word": "Demerzel"
@@ -164,13 +200,22 @@
             "word": "Dors Venabili"
         },
         {
-            "word": "l’Empereur"
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "Cléon"
         },
         {
             "word": "Sire"
         },
         {
             "word": "Empereur"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "Maire de Kan"
         },
         {
             "word": "L’Empereur"
@@ -181,7 +226,14 @@
     ],
     "aliases": [
         [
+            "Seldon",
+            "Hari",
+            "docteur Seldon",
+            "Hari Seldon"
+        ],
+        [
             "Hummin",
+            "Chetter Hummin",
             "M. Hummin"
         ],
         [
@@ -191,20 +243,20 @@
             "Dors"
         ],
         [
-            "Seldon",
-            "Hari",
-            "docteur Seldon",
-            "Hari Seldon"
-        ],
-        [
             "Demerzel"
         ],
         [
-            "L’Empereur",
-            "Empereur"
+            "Cléon"
         ],
         [
             "Sire"
+        ],
+        [
+            "Empereur",
+            "L’Empereur"
+        ],
+        [
+            "Maire de Kan"
         ],
         [
             "professeur Venabili"
@@ -220,6 +272,7 @@
             ],
             [
                 "Hummin",
+                "Chetter Hummin",
                 "M. Hummin"
             ]
         ],
@@ -232,6 +285,7 @@
             ],
             [
                 "Hummin",
+                "Chetter Hummin",
                 "M. Hummin"
             ]
         ],
@@ -244,12 +298,14 @@
             ],
             [
                 "Hummin",
+                "Chetter Hummin",
                 "M. Hummin"
             ]
         ],
         [
             [
                 "Hummin",
+                "Chetter Hummin",
                 "M. Hummin"
             ],
             [
@@ -261,34 +317,9 @@
         ],
         [
             [
-                "Seldon",
-                "Hari",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
                 "Hummin",
+                "Chetter Hummin",
                 "M. Hummin"
-            ]
-        ],
-        [
-            [
-                "Hummin",
-                "M. Hummin"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "VENABILI, DORS",
-                "Dors Machinchose",
-                "Dors Venabili",
-                "Dors"
             ],
             [
                 "Seldon",
@@ -313,78 +344,23 @@
         ],
         [
             [
-                "Demerzel"
-            ],
-            [
-                "L’Empereur",
-                "Empereur"
-            ]
-        ],
-        [
-            [
-                "L’Empereur",
-                "Empereur"
-            ],
-            [
-                "Sire"
-            ]
-        ],
-        [
-            [
-                "Demerzel"
-            ],
-            [
-                "Sire"
-            ]
-        ],
-        [
-            [
-                "Demerzel"
-            ],
-            [
-                "Sire"
-            ]
-        ],
-        [
-            [
-                "L’Empereur",
-                "Empereur"
-            ],
-            [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "L’Empereur",
-                "Empereur"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Demerzel"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "Seldon",
                 "Hari",
                 "docteur Seldon",
                 "Hari Seldon"
             ],
             [
+                "VENABILI, DORS",
+                "Dors Machinchose",
+                "Dors Venabili",
+                "Dors"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
                 "Demerzel"
             ]
         ],
@@ -393,24 +369,7 @@
                 "Demerzel"
             ],
             [
-                "L’Empereur",
-                "Empereur"
-            ]
-        ],
-        [
-            [
-                "Sire"
-            ],
-            [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "Sire"
-            ],
-            [
-                "Demerzel"
+                "Cléon"
             ]
         ],
         [
@@ -418,10 +377,64 @@
                 "Sire"
             ],
             [
-                "Seldon",
-                "Hari",
-                "docteur Seldon",
-                "Hari Seldon"
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Sire"
+            ]
+        ],
+        [
+            [
+                "Empereur",
+                "L’Empereur"
+            ],
+            [
+                "Demerzel"
             ]
         ],
         [
@@ -437,10 +450,88 @@
         ],
         [
             [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Maire de Kan"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
                 "Demerzel"
             ],
             [
+                "Maire de Kan"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Maire de Kan"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
                 "Sire"
+            ]
+        ],
+        [
+            [
+                "Sire"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "docteur Seldon",
+                "Hari Seldon"
             ]
         ],
         [

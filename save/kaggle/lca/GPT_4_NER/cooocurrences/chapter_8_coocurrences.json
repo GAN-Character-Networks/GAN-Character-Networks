@@ -1,0 +1,768 @@
+{
+    "cooccurences": [
+        [
+            "Lije",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "Enderby",
+            "Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Fastolfe"
+        ],
+        [
+            "Daneel",
+            "commissaire Enderby"
+        ],
+        [
+            "commissaire Enderby",
+            "docteur Fastolfe"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Jessie",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Dr Fastolfe"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Dr Fastolfe",
+            "Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Daneel Olivaw"
+        ],
+        [
+            "Dr Fastolfe",
+            "Enderby"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "commissaire Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Fastolfe"
+        ],
+        [
+            "commissaire Enderby",
+            "Fastolfe"
+        ],
+        [
+            "commissaire Enderby",
+            "R . Daneel"
+        ],
+        [
+            "commissaire Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "commissaire Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "Dr Sarton"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Fastolfe"
+        ],
+        [
+            "R . Daneel",
+            "commissaire Enderby"
+        ],
+        [
+            "commissaire Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "commissaire Enderby"
+        ],
+        [
+            "commissaire Enderby",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Dr Fastolfe"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Dr Fastolfe"
+        ],
+        [
+            "Dr Fastolfe",
+            "Baley"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "commissaire Enderby"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Dr Sarton"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "docteur Fastolfe"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Daneel Olivaw"
+        },
+        {
+            "word": "Dr Fastolfe"
+        }
+    ],
+    "aliases": [
+        [
+            "Enderby",
+            "commissaire Enderby"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Dr Sarton"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Daneel Olivaw",
+            "R. Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Dr Fastolfe",
+            "docteur Fastolfe"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Elijah"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ],
+            [
+                "Dr Sarton"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton"
+            ],
+            [
+                "Enderby",
+                "commissaire Enderby"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Fastolfe",
+                "Dr Fastolfe",
+                "docteur Fastolfe"
+            ],
+            [
+                "Baley"
+            ]
+        ]
+    ]
+}

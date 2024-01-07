@@ -1,0 +1,381 @@
+{
+    "cooccurences": [
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Francis Clousarr"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "Paul Gerhard"
+        ],
+        [
+            "Elijah",
+            "Paul Gerhard"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Paul Gerhard",
+            "Baley"
+        ],
+        [
+            "Dr Gerrigel",
+            "R . Daneel"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "Baley",
+            "Dr Gerrigel"
+        ],
+        [
+            "monsieur Baley",
+            "Frankenstein"
+        ],
+        [
+            "Dr Gerrigel",
+            "monsieur Baley"
+        ],
+        [
+            "monsieur Baley",
+            "Gerrigel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Gerrigel",
+            "Baley"
+        ],
+        [
+            "Gerrigel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Gerrigel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "R. Sammy"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Julius"
+        },
+        {
+            "word": "A. Gerrigel"
+        },
+        {
+            "word": "Gerrigel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Francis Clousarr"
+        },
+        {
+            "word": "Paul Gerhard"
+        },
+        {
+            "word": "Dr Gerrigel"
+        },
+        {
+            "word": "monsieur Baley"
+        },
+        {
+            "word": "Frankenstein"
+        }
+    ],
+    "aliases": [
+        [
+            "R. Sammy"
+        ],
+        [
+            "Baley",
+            "monsieur Baley"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "Julius"
+        ],
+        [
+            "A. Gerrigel",
+            "Dr Gerrigel",
+            "Gerrigel"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Francis Clousarr"
+        ],
+        [
+            "Paul Gerhard"
+        ],
+        [
+            "Frankenstein"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Francis Clousarr"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Paul Gerhard"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Paul Gerhard"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Paul Gerhard"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Frankenstein"
+            ]
+        ],
+        [
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "A. Gerrigel",
+                "Dr Gerrigel",
+                "Gerrigel"
+            ]
+        ]
+    ]
+}

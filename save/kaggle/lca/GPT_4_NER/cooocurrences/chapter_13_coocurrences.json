@@ -1,0 +1,406 @@
+{
+    "cooccurences": [
+        [
+            "docteur Gerrigel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Norris"
+        ],
+        [
+            "Norris",
+            "Baley"
+        ],
+        [
+            "Norris",
+            "Vince Barrett"
+        ],
+        [
+            "Vince Barrett",
+            "R . Sammy"
+        ],
+        [
+            "R . Sammy",
+            "Baley"
+        ],
+        [
+            "Barrett",
+            "Norris"
+        ],
+        [
+            "Norris",
+            "Phil"
+        ],
+        [
+            "Baley",
+            "Norris"
+        ],
+        [
+            "Norris",
+            "Baley"
+        ],
+        [
+            "Norris",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Norris"
+        ],
+        [
+            "Enderby",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Sarton"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Julius Enderby",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Gerrigel"
+        },
+        {
+            "word": "docteur Gerrigel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Dr Gerrigel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Norris"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Barrett"
+        },
+        {
+            "word": "Vince Barrett"
+        },
+        {
+            "word": "R. Sammy"
+        },
+        {
+            "word": "Phil"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Sarton"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Bentley"
+        }
+    ],
+    "aliases": [
+        [
+            "Gerrigel",
+            "Dr Gerrigel",
+            "docteur Gerrigel"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "R. Daneel"
+        ],
+        [
+            "Norris"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Barrett",
+            "Vince Barrett"
+        ],
+        [
+            "R. Sammy"
+        ],
+        [
+            "Phil"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Sarton"
+        ],
+        [
+            "Fastolfe"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Bentley"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Gerrigel",
+                "Dr Gerrigel",
+                "docteur Gerrigel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Barrett",
+                "Vince Barrett"
+            ]
+        ],
+        [
+            [
+                "Barrett",
+                "Vince Barrett"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Phil"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Norris"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Norris"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Fastolfe"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley"
+            ]
+        ]
+    ]
+}

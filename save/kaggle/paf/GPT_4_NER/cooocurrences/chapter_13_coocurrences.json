@@ -14,27 +14,15 @@
         ],
         [
             "Seldon",
-            "L’Empereur"
+            "L ’ Empereur"
         ],
         [
             "Demerzel",
             "Cléon"
         ],
         [
-            "Demerzel",
-            "Empereur"
-        ],
-        [
             "Cléon",
             "Demerzel"
-        ],
-        [
-            "Cléon",
-            "Empereur"
-        ],
-        [
-            "Demerzel",
-            "Empereur"
         ],
         [
             "Cléon",
@@ -51,6 +39,10 @@
         [
             "Cléon",
             "Empereur"
+        ],
+        [
+            "Cléon",
+            "Demerzel"
         ],
         [
             "Demerzel",
@@ -74,22 +66,22 @@
         ],
         [
             "Demerzel",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
             "Demerzel",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
             "Demerzel",
             "Sire"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Sire"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Demerzel"
         ],
         [
@@ -149,19 +141,15 @@
             "Seldon"
         ],
         [
-            "Seldon",
-            "Cléon"
-        ],
-        [
             "Cléon",
             "Sire"
         ],
         [
-            "L’Empereur",
+            "L ’ Empereur",
             "Demerzel"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Demerzel"
         ],
         [
@@ -185,7 +173,7 @@
             "Seldon"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Tisalver"
         ],
         [
@@ -197,7 +185,7 @@
             "Tisalver"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Dors"
         ],
         [
@@ -207,10 +195,6 @@
         [
             "Seldon",
             "docteur Seldon"
-        ],
-        [
-            "Seldon",
-            "Maîtresse Tisalver"
         ],
         [
             "docteur Seldon",
@@ -237,10 +221,6 @@
             "Maître Seldon"
         ],
         [
-            "Casilia",
-            "Seldon"
-        ],
-        [
             "Maître Seldon",
             "Seldon"
         ],
@@ -253,16 +233,8 @@
             "Tisalver"
         ],
         [
-            "Maîtresse Venabili",
-            "Tisalver"
-        ],
-        [
             "Tisalver",
             "Hano Lindor"
-        ],
-        [
-            "Tisalver",
-            "Seldon"
         ],
         [
             "Hano Lindor",
@@ -287,10 +259,6 @@
         [
             "Tisalver",
             "Dors"
-        ],
-        [
-            "Tisalver",
-            "Maîtresse"
         ],
         [
             "Seldon",
@@ -353,10 +321,6 @@
             "Casilia"
         ],
         [
-            "Tisalver",
-            "Seldon"
-        ],
-        [
             "Maître Seldon",
             "Casilia"
         ],
@@ -367,10 +331,6 @@
         [
             "Casilia",
             "Seldon"
-        ],
-        [
-            "Casilia",
-            "Casilia Tisalver"
         ],
         [
             "Seldon",
@@ -425,16 +385,8 @@
             "Amaryl"
         ],
         [
-            "Amaryl",
-            "Seldon"
-        ],
-        [
             "Seldon",
             "Amaryl"
-        ],
-        [
-            "Amaryl",
-            "Seldon"
         ],
         [
             "Amaryl",
@@ -451,10 +403,6 @@
         [
             "Seldon",
             "Dors"
-        ],
-        [
-            "Dors",
-            "Amaryl"
         ],
         [
             "Seldon",
@@ -479,31 +427,31 @@
     ],
     "entities": [
         {
+            "word": "YUGO"
+        },
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Hari Seldon"
+        },
+        {
             "word": "Hari"
         },
         {
             "word": "AMARYL"
         },
         {
-            "word": "Empereur"
-        },
-        {
-            "word": "Seldon"
-        },
-        {
-            "word": "YUGO"
-        },
-        {
-            "word": "Hari Seldon"
-        },
-        {
             "word": "L’Empereur"
         },
         {
-            "word": "l’Empereur"
+            "word": "Empereur"
         },
         {
             "word": "Demerzel"
+        },
+        {
+            "word": "l’Empereur"
         },
         {
             "word": "Cléon"
@@ -521,10 +469,10 @@
             "word": "Maître Seldon"
         },
         {
-            "word": "Maître Hummin"
+            "word": "Hummin"
         },
         {
-            "word": "Hummin"
+            "word": "Maître Hummin"
         },
         {
             "word": "Dors"
@@ -542,28 +490,28 @@
             "word": "Maîtresse"
         },
         {
-            "word": "docteur Seldon"
+            "word": "le docteur Seldon"
         },
         {
-            "word": "le docteur Seldon"
+            "word": "docteur Seldon"
         },
         {
             "word": "Maîtresse Tisalver"
         },
         {
-            "word": "Jirad"
+            "word": "Casilia"
         },
         {
-            "word": "Casilia"
+            "word": "Jirad"
         },
         {
             "word": "Maîtresse Venabili"
         },
         {
-            "word": "Hano Lindor"
+            "word": "Lindor"
         },
         {
-            "word": "Lindor"
+            "word": "Hano Lindor"
         },
         {
             "word": "Casilia Tisalver"
@@ -586,22 +534,22 @@
     ],
     "aliases": [
         [
-            "Hari",
+            "YUGO"
+        ],
+        [
             "Seldon",
+            "Hari",
             "Maître Seldon",
-            "docteur Seldon",
             "le docteur Seldon",
+            "docteur Seldon",
             "Hari Seldon"
         ],
         [
             "Amaryl"
         ],
         [
-            "Empereur",
-            "l’Empereur"
-        ],
-        [
-            "YUGO"
+            "l’Empereur",
+            "Empereur"
         ],
         [
             "Demerzel"
@@ -619,8 +567,8 @@
             "Maire de Mycogène"
         ],
         [
-            "Maître Hummin",
-            "Hummin"
+            "Hummin",
+            "Maître Hummin"
         ],
         [
             "Dors",
@@ -642,8 +590,8 @@
             "Jirad"
         ],
         [
-            "Hano Lindor",
-            "Lindor"
+            "Lindor",
+            "Hano Lindor"
         ],
         [
             "Goutte-de-Pluie Quarante-trois"
@@ -669,11 +617,11 @@
                 "Amaryl"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -682,69 +630,20 @@
                 "YUGO"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Empereur",
-                "l’Empereur"
-            ]
-        ],
-        [
-            [
                 "Demerzel"
             ],
             [
                 "Cléon"
-            ]
-        ],
-        [
-            [
-                "Demerzel"
-            ],
-            [
-                "Empereur",
-                "l’Empereur"
-            ]
-        ],
-        [
-            [
-                "Cléon"
-            ],
-            [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "Cléon"
-            ],
-            [
-                "Empereur",
-                "l’Empereur"
-            ]
-        ],
-        [
-            [
-                "Demerzel"
-            ],
-            [
-                "Empereur",
-                "l’Empereur"
             ]
         ],
         [
@@ -776,44 +675,16 @@
                 "Cléon"
             ],
             [
-                "Empereur",
-                "l’Empereur"
-            ]
-        ],
-        [
-            [
-                "Demerzel"
-            ],
-            [
-                "Empereur",
-                "l’Empereur"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
                 "Demerzel"
             ]
         ],
         [
             [
-                "Demerzel"
+                "Cléon"
             ],
             [
-                "Empereur",
-                "l’Empereur"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Demerzel"
+                "l’Empereur",
+                "Empereur"
             ]
         ],
         [
@@ -829,8 +700,17 @@
                 "Demerzel"
             ],
             [
-                "Empereur",
-                "l’Empereur"
+                "l’Empereur",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
             ]
         ],
         [
@@ -838,8 +718,25 @@
                 "Demerzel"
             ],
             [
-                "Empereur",
-                "l’Empereur"
+                "l’Empereur",
+                "Empereur"
+            ]
+        ],
+        [
+            [
+                "l’Empereur",
+                "Empereur"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Cléon"
+            ],
+            [
+                "Demerzel"
             ]
         ],
         [
@@ -848,24 +745,6 @@
             ],
             [
                 "Sire"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Sire"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Demerzel"
             ]
         ],
         [
@@ -969,11 +848,11 @@
                 "Grand Ancien"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -982,25 +861,12 @@
                 "Sire"
             ],
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
-            ],
-            [
-                "Cléon"
             ]
         ],
         [
@@ -1013,75 +879,57 @@
         ],
         [
             [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
-                "Maître Hummin",
-                "Hummin"
+                "Hummin",
+                "Maître Hummin"
             ]
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
-                "Maître Hummin",
-                "Hummin"
+                "Hummin",
+                "Maître Hummin"
             ]
         ],
         [
             [
-                "Maître Hummin",
-                "Hummin"
+                "Hummin",
+                "Maître Hummin"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Maître Hummin",
-                "Hummin"
+                "Hummin",
+                "Maître Hummin"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1093,29 +941,16 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ]
-        ],
-        [
-            [
                 "Tisalver",
                 "Maîtresse",
                 "Casilia Tisalver",
@@ -1123,11 +958,11 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1148,23 +983,11 @@
         ],
         [
             [
-                "Empereur",
-                "l’Empereur"
-            ],
-            [
-                "Dors",
-                "Venabili",
-                "Maîtresse Venabili",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1177,28 +1000,11 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1218,11 +1024,11 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1247,11 +1053,11 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1264,28 +1070,11 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ],
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1306,10 +1095,21 @@
         ],
         [
             [
-                "Dors",
-                "Venabili",
-                "Maîtresse Venabili",
-                "Dors Venabili"
+                "Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver",
+                "Casilia",
+                "Maîtresse Tisalver"
+            ],
+            [
+                "Lindor",
+                "Hano Lindor"
+            ]
+        ],
+        [
+            [
+                "Lindor",
+                "Hano Lindor"
             ],
             [
                 "Tisalver",
@@ -1321,58 +1121,15 @@
         ],
         [
             [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
+                "Lindor",
+                "Hano Lindor"
             ],
             [
-                "Hano Lindor",
-                "Lindor"
-            ]
-        ],
-        [
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ],
-            [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hano Lindor",
-                "Lindor"
-            ],
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ]
-        ],
-        [
-            [
-                "Hano Lindor",
-                "Lindor"
-            ],
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1385,11 +1142,11 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1402,11 +1159,11 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1419,8 +1176,8 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hano Lindor",
-                "Lindor"
+                "Lindor",
+                "Hano Lindor"
             ]
         ],
         [
@@ -1440,25 +1197,25 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
-                "Hano Lindor",
-                "Lindor"
+                "Lindor",
+                "Hano Lindor"
             ]
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1470,11 +1227,11 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1487,8 +1244,8 @@
         ],
         [
             [
-                "Hano Lindor",
-                "Lindor"
+                "Lindor",
+                "Hano Lindor"
             ],
             [
                 "Dors",
@@ -1499,8 +1256,8 @@
         ],
         [
             [
-                "Hano Lindor",
-                "Lindor"
+                "Lindor",
+                "Hano Lindor"
             ],
             [
                 "Tisalver",
@@ -1564,8 +1321,8 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hano Lindor",
-                "Lindor"
+                "Lindor",
+                "Hano Lindor"
             ]
         ],
         [
@@ -1576,27 +1333,11 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Venabili",
-                "Maîtresse Venabili",
-                "Dors Venabili"
-            ],
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1608,8 +1349,24 @@
                 "Dors Venabili"
             ],
             [
-                "Hano Lindor",
-                "Lindor"
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Venabili",
+                "Maîtresse Venabili",
+                "Dors Venabili"
+            ],
+            [
+                "Lindor",
+                "Hano Lindor"
             ]
         ],
         [
@@ -1621,72 +1378,21 @@
                 "Maîtresse Tisalver"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ],
-            [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ]
-        ],
-        [
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
                 "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1699,11 +1405,45 @@
         ],
         [
             [
-                "Hari",
+                "Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver",
+                "Casilia",
+                "Maîtresse Tisalver"
+            ],
+            [
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver",
+                "Casilia",
+                "Maîtresse Tisalver"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1746,11 +1486,11 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1777,55 +1517,21 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ]
-        ],
-        [
-            [
-                "Tisalver",
-                "Maîtresse",
-                "Casilia Tisalver",
-                "Casilia",
-                "Maîtresse Tisalver"
-            ],
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
                 "docteur Seldon",
-                "le docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1838,11 +1544,45 @@
         ],
         [
             [
-                "Hari",
+                "Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver",
+                "Casilia",
+                "Maîtresse Tisalver"
+            ],
+            [
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver",
+                "Casilia",
+                "Maîtresse Tisalver"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1854,11 +1594,24 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Amaryl"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1870,37 +1623,11 @@
                 "Amaryl"
             ],
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Amaryl"
-            ]
-        ],
-        [
-            [
-                "Amaryl"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
                 "docteur Seldon",
-                "le docteur Seldon",
                 "Hari Seldon"
             ]
         ],
@@ -1909,34 +1636,21 @@
                 "Amaryl"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ],
         [
             [
-                "Amaryl"
-            ],
-            [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "le docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1945,11 +1659,11 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1961,22 +1675,11 @@
         ],
         [
             [
-                "Dors",
-                "Venabili",
-                "Maîtresse Venabili",
-                "Dors Venabili"
-            ],
-            [
-                "Amaryl"
-            ]
-        ],
-        [
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -1988,11 +1691,11 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ],
             [
@@ -2018,11 +1721,11 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
-                "docteur Seldon",
                 "le docteur Seldon",
+                "docteur Seldon",
                 "Hari Seldon"
             ]
         ]

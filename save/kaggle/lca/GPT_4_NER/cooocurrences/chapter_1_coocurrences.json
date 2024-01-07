@@ -1,0 +1,196 @@
+{
+    "cooccurences": [
+        [
+            "Simpson",
+            "Sammy"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Vince Barrett"
+        },
+        {
+            "word": "Vince"
+        },
+        {
+            "word": "Simpson"
+        },
+        {
+            "word": "Sammy"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "JULIUS ENDERBY"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Julius"
+        },
+        {
+            "word": "Roj Nemennuh Sarton"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Robot Daneel Olivaw"
+        }
+    ],
+    "aliases": [
+        [
+            "Vince Barrett",
+            "Vince"
+        ],
+        [
+            "Simpson"
+        ],
+        [
+            "Sammy"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "JULIUS ENDERBY",
+            "Julius",
+            "Enderby"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Roj Nemennuh Sarton"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Robot Daneel Olivaw"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Simpson"
+            ],
+            [
+                "Sammy"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "JULIUS ENDERBY",
+                "Julius",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "JULIUS ENDERBY",
+                "Julius",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "JULIUS ENDERBY",
+                "Julius",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "JULIUS ENDERBY",
+                "Julius",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "JULIUS ENDERBY",
+                "Julius",
+                "Enderby"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "JULIUS ENDERBY",
+                "Julius",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley"
+            ]
+        ]
+    ]
+}

@@ -1,54 +1,41 @@
 {
     "final_gpt_entities": [
-        "Cléon",
-        "CLÉON Ier",
         "Seldon",
         "Demerzel",
         "Hari Seldon",
+        "Cléon",
+        "CLÉON Ier",
+        "Eto Demerzel",
         "Sire",
         "l’Empereur",
         "Wellis",
         "Lieutenant Alban Wellis",
-        "Cléon, premier du nom",
-        "l’empereur Cléon, premier du nom",
+        "l’empereur Cléon",
         "L’Empereur",
-        "Hummin",
-        "Eto Demerzel"
+        "Hummin"
     ],
     "init_gpt_entities": [
         "Sire",
-        "les Empereurs",
-        "l’Empire",
-        "Cléon",
-        "Empereur",
-        "Eto Demerzel",
-        "Wellis",
-        "Hélicon",
-        "Cléon, premier du nom",
-        "CLÉON Ier",
-        "Seldon",
         "Empereurs",
-        "Lieutenant Alban Wellis",
-        "l’Empereur",
-        "l’empereur Cléon, premier du nom",
-        "Hummin",
+        "Seldon",
         "Demerzel",
+        "Wellis",
+        "Cléon, premier du nom",
         "Hari Seldon",
-        "L’Empereur"
+        "Hummin",
+        "l’Empire",
+        "les Empereurs",
+        "Hélicon",
+        "Cléon",
+        "CLÉON Ier",
+        "Lieutenant Alban Wellis",
+        "L’Empereur",
+        "Eto Demerzel",
+        "Empereur",
+        "l’Empereur",
+        "l’empereur Cléon, premier du nom"
     ],
     "prompts_and_responses": [
-        {
-            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Cléon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
-            "response": "Oui"
-        },
-        {
-            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
-            "response": "Non"
-        },
-        {
-            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"CLÉON Ier\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
-            "response": "Oui"
-        },
         {
             "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
@@ -60,6 +47,22 @@
         {
             "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Cléon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"CLÉON Ier\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Eto Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Mathématicien CLÉON Ier— ... dernier Empereur galactique de la dynastie Entun. Né en l’an 11988 de l’Ère Galactique, la même année que Hari Seldon. (On pense que la date de naissance de Seldon, que certains estiment douteuse, aurait pu être « ajustée » pour coïncider avec celle de Cléon que Seldon, peu après son arrivée sur Trantor, est censé avoir rencontré.) Cléon est monté sur le trône impérial en 12010, à l’âge de vingt-deux ans, et son règne représente un étrange intervalle de calme dans ces temps troublés. Cela est dû sans aucun doute aux talents de son chef d’état-major, Eto Demerzel, qui sut si bien se dissimuler à la curiosité médiatique que l’on a fort peu de renseignements à son sujet.\n\n                    Question : Le mot \"Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
         },
         {
             "prompt": "\n\n                    Phrase : Il ne fait aucun doute que cette histoire de prédiction de l’avenir relève d’un puéril rêve de magie. — En êtes-vous sûr, Demerzel ? Les gens croient ce genre de chose. — Les gens croient bien des choses, Sire ! — Mais particulièrement celle-ci.\n\n                    Question : Le mot \"Sire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
@@ -94,11 +97,11 @@
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase : S’il y avait eu le moindre doute sur vos intentions, on ne vous aurait pas permis de m’approcher. En fait, vous ne seriez plus en vie à l’heure qu’il est. » Une vague de nausée submergea Seldon mais il poursuivit : « Les Exos ont toujours eu des difficultés à approcher les Empereurs, même lorsque la technique était moins avancée. Or, presque tous les assassinats sont liés à des révolutions de palais. Pour l’Empereur, ce sont les proches qui constituent le plus grand danger.\n\n                    Question : Le mot \"les Empereurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase : S’il y avait eu le moindre doute sur vos intentions, on ne vous aurait pas permis de m’approcher. En fait, vous ne seriez plus en vie à l’heure qu’il est. » Une vague de nausée submergea Seldon mais il poursuivit : « Les Exos ont toujours eu des difficultés à approcher les Empereurs, même lorsque la technique était moins avancée. Or, presque tous les assassinats sont liés à des révolutions de palais. Pour l’Empereur, ce sont les proches qui constituent le plus grand danger.\n\n                    Question : Le mot \"Empereurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Non"
         },
         {
-            "prompt": "\n\n                    Phrase : S’il y avait eu le moindre doute sur vos intentions, on ne vous aurait pas permis de m’approcher. En fait, vous ne seriez plus en vie à l’heure qu’il est. » Une vague de nausée submergea Seldon mais il poursuivit : « Les Exos ont toujours eu des difficultés à approcher les Empereurs, même lorsque la technique était moins avancée. Or, presque tous les assassinats sont liés à des révolutions de palais. Pour l’Empereur, ce sont les proches qui constituent le plus grand danger.\n\n                    Question : Le mot \"Empereurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase : S’il y avait eu le moindre doute sur vos intentions, on ne vous aurait pas permis de m’approcher. En fait, vous ne seriez plus en vie à l’heure qu’il est. » Une vague de nausée submergea Seldon mais il poursuivit : « Les Exos ont toujours eu des difficultés à approcher les Empereurs, même lorsque la technique était moins avancée. Or, presque tous les assassinats sont liés à des révolutions de palais. Pour l’Empereur, ce sont les proches qui constituent le plus grand danger.\n\n                    Question : Le mot \"les Empereurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Non"
         },
         {
@@ -107,10 +110,6 @@
         },
         {
             "prompt": "\n\n                    Phrase : — Oui, j’y étais, répondit Seldon, affable. Hummin acquiesça. « J’en ai ras le bol de collationner toutes les sottises émanant de toutes les planètes. Je hais cette spirale descendante. » Il jeta sur Seldon un regard spéculatif.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
-            "response": "Oui"
-        },
-        {
-            "prompt": "\n\n                    Phrase : — Rien. — Eh bien, la prédiction – une prédiction précise – intéresserait l’Empereur, ou tout homme au pouvoir ; j’en déduis donc que Cléon, premier du nom, vous a interrogé là- dessus en vous demandant si vous ne vouliez pas lui offrir quelques prédictions. — Je n’ai pas l’intention de discuter de ça », fit Seldon, crispé. Hummin esquissa un haussement d’épaules. « Eto Demerzel était là, je suppose.\n\n                    Question : Le mot \"Eto Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         }
     ]

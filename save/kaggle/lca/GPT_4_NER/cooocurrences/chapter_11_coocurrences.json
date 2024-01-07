@@ -1,0 +1,231 @@
+{
+    "cooccurences": [
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Ben",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Ben"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Ben"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Elijah Baley"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Lije"
+        }
+    ],
+    "aliases": [
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Elijah",
+            "Elijah Baley"
+        ],
+        [
+            "Ben"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Lije"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Ben"
+            ]
+        ],
+        [
+            [
+                "Ben"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Ben"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Ben"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Ben"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Lije"
+            ]
+        ]
+    ]
+}

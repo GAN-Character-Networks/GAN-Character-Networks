@@ -1,0 +1,159 @@
+{
+    "cooccurences": [
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Olivaw",
+            "Elijah Baley"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Sammy"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Olivaw"
+        },
+        {
+            "word": "R. Daneel Olivaw"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Elijah Baley"
+        },
+        {
+            "word": "R. Sammy"
+        }
+    ],
+    "aliases": [
+        [
+            "Baley",
+            "Elijah",
+            "Elijah Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Daneel",
+            "R. Daneel Olivaw",
+            "Olivaw",
+            "R. Daneel"
+        ],
+        [
+            "R. Sammy"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Julius Enderby",
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Julius Enderby",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "Olivaw",
+                "R. Daneel"
+            ]
+        ]
+    ]
+}

@@ -29,39 +29,19 @@
             "Hari"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Maire de Kan"
-        ],
-        [
-            "Maire de Kan",
-            "l’actuel Maire de Kan"
         ],
         [
             "Seldon",
             "Empereur"
         ],
         [
-            "Empereur",
-            "Tisalver"
-        ],
-        [
-            "Empereur",
-            "la dame"
-        ],
-        [
-            "Tisalver",
-            "la dame"
-        ],
-        [
             "Seldon",
-            "l’agent de secteur Lanel Russ"
+            "Lanel Russ"
         ],
         [
-            "Seldon",
-            "Gebore Astinwald"
-        ],
-        [
-            "l’agent de secteur Lanel Russ",
+            "Lanel Russ",
             "Gebore Astinwald"
         ],
         [
@@ -78,10 +58,22 @@
         ],
         [
             "Hari Seldon",
+            "Maîtresse"
+        ],
+        [
+            "Hari Seldon",
             "Dors Venabili"
         ],
         [
             "Russ",
+            "Maîtresse"
+        ],
+        [
+            "Russ",
+            "Dors Venabili"
+        ],
+        [
+            "Maîtresse",
             "Dors Venabili"
         ],
         [
@@ -90,11 +82,11 @@
         ],
         [
             "Seldon",
-            "Russ"
+            "Dors"
         ],
         [
             "Seldon",
-            "Dors"
+            "Russ"
         ],
         [
             "Dors",
@@ -109,12 +101,12 @@
             "Russ"
         ],
         [
-            "Astinwald",
-            "Russ"
-        ],
-        [
             "Elgin Marron",
             "Dors"
+        ],
+        [
+            "Dors",
+            "Davan"
         ],
         [
             "Seldon",
@@ -125,6 +117,10 @@
             "Dors"
         ],
         [
+            "Russ",
+            "Maîtresse Tisalver"
+        ],
+        [
             "Dors",
             "Maîtresse Tisalver"
         ],
@@ -133,8 +129,16 @@
             "Russ"
         ],
         [
+            "Dors",
+            "Maîtresse"
+        ],
+        [
             "Maîtresse Tisalver",
             "Russ"
+        ],
+        [
+            "Maîtresse Tisalver",
+            "Maîtresse"
         ],
         [
             "Maîtresse Tisalver",
@@ -142,6 +146,14 @@
         ],
         [
             "Russ",
+            "Maîtresse"
+        ],
+        [
+            "Russ",
+            "Dors"
+        ],
+        [
+            "Maîtresse",
             "Dors"
         ],
         [
@@ -189,10 +201,6 @@
             "Astinwald"
         ],
         [
-            "Russ",
-            "Dors"
-        ],
-        [
             "Astinwald",
             "Dors"
         ],
@@ -217,14 +225,6 @@
             "Raych"
         ],
         [
-            "Dors",
-            "Raych"
-        ],
-        [
-            "Dors",
-            "Seldon"
-        ],
-        [
             "Raych",
             "Seldon"
         ],
@@ -233,24 +233,20 @@
             "Seldon"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Dors"
         ],
         [
-            "l’Empereur",
-            "L’Empereur"
+            "l ’ Empereur",
+            "L ’ Empereur"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Raych"
         ],
         [
-            "l’Empereur",
-            "Seldon"
-        ],
-        [
             "Dors",
-            "L’Empereur"
+            "L ’ Empereur"
         ],
         [
             "Dors",
@@ -258,46 +254,46 @@
         ],
         [
             "Dors",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
             "Dors",
             "Seldon"
         ],
         [
-            "L’Empereur",
+            "L ’ Empereur",
             "Raych"
         ],
         [
-            "L’Empereur",
-            "l’Empereur"
+            "L ’ Empereur",
+            "l ’ Empereur"
         ],
         [
-            "L’Empereur",
+            "L ’ Empereur",
             "Seldon"
         ],
         [
             "Raych",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
             "Raych",
             "Seldon"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Seldon"
         ],
         [
             "Seldon",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Dors"
         ],
         [
-            "l’Empereur",
+            "l ’ Empereur",
             "Hummin"
         ],
         [
@@ -306,23 +302,23 @@
         ],
         [
             "Dors",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
             "Hummin",
-            "l’Empereur"
+            "l ’ Empereur"
         ],
         [
             "Hummin",
             "Dors"
+        ],
+        [
+            "Seldon",
+            "Raych"
         ],
         [
             "docteur Seldon",
             "Maire de Dahl"
-        ],
-        [
-            "Seldon",
-            "Davan"
         ],
         [
             "Dors",
@@ -334,12 +330,6 @@
         ]
     ],
     "entities": [
-        {
-            "word": "Hari"
-        },
-        {
-            "word": "Raych"
-        },
         {
             "word": "RAYCH"
         },
@@ -353,13 +343,16 @@
             "word": "Dors"
         },
         {
+            "word": "Raych"
+        },
+        {
+            "word": "Hari"
+        },
+        {
             "word": "Maire de Kan"
         },
         {
             "word": "Empereur"
-        },
-        {
-            "word": "l’actuel Maire de Kan"
         },
         {
             "word": "l’Empereur"
@@ -368,19 +361,16 @@
             "word": "Demerzel"
         },
         {
-            "word": "Casilia Tisalver"
-        },
-        {
-            "word": "la dame"
-        },
-        {
             "word": "Tisalver"
         },
         {
-            "word": "l’agent de secteur Lanel Russ"
+            "word": "Casilia Tisalver"
         },
         {
             "word": "Astinwald"
+        },
+        {
+            "word": "Lanel Russ"
         },
         {
             "word": "Gebore Astinwald"
@@ -389,16 +379,19 @@
             "word": "Russ"
         },
         {
+            "word": "Maîtresse"
+        },
+        {
             "word": "Dors Venabili"
         },
         {
             "word": "Maître Seldon"
         },
         {
-            "word": "Elgin Marron"
+            "word": "Marron"
         },
         {
-            "word": "Marron"
+            "word": "Elgin Marron"
         },
         {
             "word": "Davan"
@@ -407,42 +400,35 @@
             "word": "Maîtresse Tisalver"
         },
         {
-            "word": "la princesse"
-        },
-        {
-            "word": "l’agent de sécurité"
-        },
-        {
             "word": "L’Empereur"
         },
         {
             "word": "Hummin"
         },
         {
-            "word": "docteur Seldon"
+            "word": "Maire de Dahl"
         },
         {
-            "word": "Maire de Dahl"
+            "word": "docteur Seldon"
         }
     ],
     "aliases": [
         [
-            "Hari",
+            "Raych"
+        ],
+        [
             "Seldon",
+            "Hari",
             "Maître Seldon",
             "docteur Seldon",
             "Hari Seldon"
-        ],
-        [
-            "RAYCH"
         ],
         [
             "Dors",
             "Dors Venabili"
         ],
         [
-            "Maire de Kan",
-            "l’actuel Maire de Kan"
+            "Maire de Kan"
         ],
         [
             "Empereur",
@@ -452,33 +438,25 @@
             "Demerzel"
         ],
         [
-            "Casilia Tisalver",
+            "Tisalver",
             "Maîtresse Tisalver",
-            "Tisalver"
-        ],
-        [
-            "la dame"
-        ],
-        [
-            "l’agent de secteur Lanel Russ",
-            "Russ"
+            "Maîtresse",
+            "Casilia Tisalver"
         ],
         [
             "Astinwald",
             "Gebore Astinwald"
         ],
         [
-            "Elgin Marron",
-            "Marron"
+            "Lanel Russ",
+            "Russ"
+        ],
+        [
+            "Marron",
+            "Elgin Marron"
         ],
         [
             "Davan"
-        ],
-        [
-            "la princesse"
-        ],
-        [
-            "l’agent de sécurité"
         ],
         [
             "Hummin"
@@ -490,11 +468,11 @@
     "cooccurences_aliases": [
         [
             [
-                "RAYCH"
+                "Raych"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -502,33 +480,20 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
             ],
             [
-                "RAYCH"
+                "Raych"
             ]
         ],
         [
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
                 "Hari",
-                "Seldon",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -540,8 +505,21 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -557,8 +535,8 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -566,18 +544,8 @@
         ],
         [
             [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Maire de Kan",
-                "l’actuel Maire de Kan"
-            ]
-        ],
-        [
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -589,112 +557,96 @@
         ],
         [
             [
-                "Empereur",
-                "L’Empereur"
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
             ],
             [
-                "Casilia Tisalver",
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ]
+        ],
+        [
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
+                "Maîtresse",
+                "Casilia Tisalver"
             ]
         ],
         [
             [
-                "Empereur",
-                "L’Empereur"
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
             ],
             [
-                "la dame"
+                "Dors",
+                "Dors Venabili"
             ]
         ],
         [
             [
-                "Casilia Tisalver",
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
-            ],
-            [
-                "la dame"
+                "Maîtresse",
+                "Casilia Tisalver"
             ]
         ],
         [
             [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ]
-        ],
-        [
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
+                "Lanel Russ",
                 "Russ"
             ],
             [
@@ -704,131 +656,53 @@
         ],
         [
             [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Elgin Marron",
-                "Marron"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Casilia Tisalver",
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
+                "Maîtresse",
+                "Casilia Tisalver"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
             ]
         ],
         [
@@ -837,40 +711,100 @@
                 "Dors Venabili"
             ],
             [
-                "l’agent de secteur Lanel Russ",
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Lanel Russ",
                 "Russ"
             ]
         ],
         [
             [
-                "Casilia Tisalver",
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Marron",
+                "Elgin Marron"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Davan"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
+                "Maîtresse",
+                "Casilia Tisalver"
             ]
         ],
         [
             [
-                "Casilia Tisalver",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
+                "Maîtresse",
+                "Casilia Tisalver"
             ]
         ],
         [
@@ -879,177 +813,249 @@
                 "Dors Venabili"
             ],
             [
-                "Elgin Marron",
-                "Marron"
-            ]
-        ],
-        [
-            [
-                "RAYCH"
-            ],
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ]
-        ],
-        [
-            [
-                "RAYCH"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
+                "Lanel Russ",
                 "Russ"
             ]
         ],
         [
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ],
-            [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
-            [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "RAYCH"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
-            [
-                "Astinwald",
-                "Gebore Astinwald"
-            ]
-        ],
-        [
-            [
-                "l’agent de secteur Lanel Russ",
-                "Russ"
-            ],
             [
                 "Dors",
                 "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Astinwald",
-                "Gebore Astinwald"
             ],
             [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Casilia Tisalver",
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
+                "Maîtresse",
+                "Casilia Tisalver"
             ]
         ],
         [
             [
-                "RAYCH"
-            ],
-            [
-                "Casilia Tisalver",
+                "Tisalver",
                 "Maîtresse Tisalver",
-                "Tisalver"
+                "Maîtresse",
+                "Casilia Tisalver"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
             ]
         ],
         [
             [
-                "RAYCH"
+                "Tisalver",
+                "Maîtresse Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver"
             ],
             [
-                "Hari",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Tisalver",
+                "Maîtresse Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Tisalver",
+                "Maîtresse Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Marron",
+                "Elgin Marron"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
                 "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Lanel Russ",
+                "Russ"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ]
+        ],
+        [
+            [
+                "Lanel Russ",
+                "Russ"
+            ],
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ]
+        ],
+        [
+            [
+                "Astinwald",
+                "Gebore Astinwald"
+            ],
+            [
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Tisalver",
+                "Maîtresse Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Tisalver",
+                "Maîtresse Tisalver",
+                "Maîtresse",
+                "Casilia Tisalver"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -1061,26 +1067,16 @@
                 "Dors Venabili"
             ],
             [
-                "RAYCH"
+                "Raych"
             ]
         ],
         [
             [
-                "Dors",
-                "Dors Venabili"
+                "Raych"
             ],
             [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -1088,55 +1084,11 @@
         ],
         [
             [
-                "RAYCH"
+                "Raych"
             ],
             [
-                "Hari",
                 "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "RAYCH"
-            ],
-            [
                 "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Hari",
-                "Seldon",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -1148,8 +1100,7 @@
                 "Dors Venabili"
             ],
             [
-                "Empereur",
-                "L’Empereur"
+                "Raych"
             ]
         ],
         [
@@ -1158,27 +1109,8 @@
                 "Dors Venabili"
             ],
             [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Empereur",
-                "L’Empereur"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
@@ -1186,90 +1118,14 @@
         ],
         [
             [
-                "Empereur",
-                "L’Empereur"
+                "Raych"
             ],
             [
-                "RAYCH"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Hari",
                 "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "RAYCH"
-            ],
-            [
-                "Empereur",
-                "L’Empereur"
-            ]
-        ],
-        [
-            [
-                "RAYCH"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Empereur",
-                "L’Empereur"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Empereur",
-                "L’Empereur"
-            ],
-            [
-                "Hummin"
             ]
         ],
         [
@@ -1283,25 +1139,6 @@
         ],
         [
             [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Empereur",
-                "L’Empereur"
-            ]
-        ],
-        [
-            [
-                "Hummin"
-            ],
-            [
-                "Empereur",
-                "L’Empereur"
-            ]
-        ],
-        [
-            [
                 "Hummin"
             ],
             [
@@ -1311,26 +1148,26 @@
         ],
         [
             [
-                "Hari",
                 "Seldon",
+                "Hari",
+                "Maître Seldon",
+                "docteur Seldon",
+                "Hari Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
                 "Maître Seldon",
                 "docteur Seldon",
                 "Hari Seldon"
             ],
             [
                 "Maire de Dahl"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Maître Seldon",
-                "docteur Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Davan"
             ]
         ],
         [

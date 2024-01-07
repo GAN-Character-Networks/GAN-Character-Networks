@@ -1,38 +1,66 @@
 {
     "cooccurences": [
         [
-            "Seldon",
-            "Hélicon"
+            "Hari Seldon",
+            "Hummin"
         ],
         [
-            "l’Empereur",
-            "Demerzel"
-        ],
-        [
-            "l’Empereur",
+            "Hummin",
             "Seldon"
+        ],
+        [
+            "l ’ Empereur",
+            "Demerzel"
         ],
         [
             "Demerzel",
             "Seldon"
         ],
         [
-            "L’Empereur",
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "L ’ Empereur",
             "Demerzel"
         ]
     ],
     "entities": [
         {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
             "word": "Seldon"
         },
         {
-            "word": "L’Empire Galactique"
-        },
-        {
-            "word": "l’Empire Galactique"
-        },
-        {
-            "word": "Hélicon"
+            "word": "Chetter Hummin"
         },
         {
             "word": "l’Empereur"
@@ -46,13 +74,12 @@
     ],
     "aliases": [
         [
+            "Hari Seldon",
             "Seldon"
         ],
         [
-            "l’Empire Galactique"
-        ],
-        [
-            "Hélicon"
+            "Hummin",
+            "Chetter Hummin"
         ],
         [
             "L’Empereur"
@@ -64,25 +91,21 @@
     "cooccurences_aliases": [
         [
             [
+                "Hari Seldon",
                 "Seldon"
             ],
             [
-                "Hélicon"
+                "Hummin",
+                "Chetter Hummin"
             ]
         ],
         [
             [
-                "L’Empereur"
+                "Hummin",
+                "Chetter Hummin"
             ],
             [
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "L’Empereur"
-            ],
-            [
+                "Hari Seldon",
                 "Seldon"
             ]
         ],
@@ -91,15 +114,78 @@
                 "Demerzel"
             ],
             [
+                "Hari Seldon",
                 "Seldon"
             ]
         ],
         [
             [
-                "L’Empereur"
+                "Hari Seldon",
+                "Seldon"
             ],
             [
-                "Demerzel"
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
             ]
         ]
     ]

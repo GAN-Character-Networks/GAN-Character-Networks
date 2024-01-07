@@ -1,0 +1,167 @@
+{
+    "final_gpt_entities": [
+        "Enderby",
+        "Baley",
+        "Clousarr",
+        "Lije",
+        "R. Sammy",
+        "Dr Sarton",
+        "Sarton",
+        "Jessie",
+        "Julius Enderby",
+        "R. Daneel",
+        "Daneel",
+        "Dr Gerrigel",
+        "Elijah",
+        "Fastolfe"
+    ],
+    "init_gpt_entities": [
+        "Vous",
+        "Elijah",
+        "R. Daneel",
+        "Spacetown",
+        "Médiévalistes",
+        "commissaire principal",
+        "Il",
+        "m’arrêter",
+        "monsieur le commissaire principal",
+        "Spacien",
+        "Spaciens",
+        "Bentley",
+        "commissaire",
+        "Enderby",
+        "Julius Enderby",
+        "Dr Sarton",
+        "C/Fe",
+        "Baley",
+        "moi",
+        "Lije",
+        "Jessie",
+        "Dr Gerrigel",
+        "Fastolfe",
+        "Clousarr",
+        "Williamsburg",
+        "vous",
+        "R. Sammy",
+        "Daneel",
+        "Sarton"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Enderby réfléchit un instant, puis demanda : — Clousarr ? Etait-il dans ce groupe ? Baley fit un signe de tête affirmatif. — Bon, nous l’interrogerons. S’il y a quoi que ce soit à tirer de lui, nous le lui arracherons.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Enderby réfléchit un instant, puis demanda : — Clousarr ? Etait-il dans ce groupe ? Baley fit un signe de tête affirmatif. — Bon, nous l’interrogerons. S’il y a quoi que ce soit à tirer de lui, nous le lui arracherons.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Enderby réfléchit un instant, puis demanda : — Clousarr ? Etait-il dans ce groupe ? Baley fit un signe de tête affirmatif. — Bon, nous l’interrogerons. S’il y a quoi que ce soit à tirer de lui, nous le lui arracherons.\n\n                    Question : Le mot \"Clousarr\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Que puis-je faire de plus, Lije ? — Attendez, maintenant. Ne me bousculez pas. Ne voyez- vous pas ou je veux en venir ? — Eh bien, si j’essayais de vous le dire ?\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Que puis-je faire de plus, Lije ? — Attendez, maintenant. Ne me bousculez pas. Ne voyez- vous pas ou je veux en venir ? — Eh bien, si j’essayais de vous le dire ?\n\n                    Question : Le mot \"vous\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : répliqua Enderby en joignant les mains. Clousarr vous a vu entrer dans la centrale de Williamsburg, ou bien c’est un de ses complices qui, vous ayant repéré, lui aura communiqué le renseignement. Il a aussitôt décidé d’utiliser ce fait pour vous attirer des ennuis, et pour vous obliger à abandonner la direction de l’enquête. Est-ce là ce que vous pensez ? — C’est presque cela.\n\n                    Question : Le mot \"Il\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : répliqua Enderby en joignant les mains. Clousarr vous a vu entrer dans la centrale de Williamsburg, ou bien c’est un de ses complices qui, vous ayant repéré, lui aura communiqué le renseignement. Il a aussitôt décidé d’utiliser ce fait pour vous attirer des ennuis, et pour vous obliger à abandonner la direction de l’enquête. Est-ce là ce que vous pensez ? — C’est presque cela.\n\n                    Question : Le mot \"Williamsburg\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Parfait ! fit le commissaire, qui parut s’intéresser davantage à l’affaire. Il savait que votre femme faisait partie du mouvement, bien entendu, et il était convaincu que vous n’accepteriez pas que l’on fouillât dans votre vie privée, pour y trouver des charges contre vous. Il aura pensé que vous donneriez votre démission plutôt que de tenter de vous justifier. A ce propos, Lije, que diriez-vous de démissionner ?\n\n                    Question : Le mot \"commissaire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ah, oui ! Eh bien, Clousarr se sera procuré sans doute un vaporisateur, par l’intermédiaire d’un autre membre du mouvement travaillant à la centrale, et il aura chargé un second complice de détruire R. Sammy. Il tambourina légèrement de ses doigts sur sa table. — Non, Lije ! reprit-il.\n\n                    Question : Le mot \"R. Sammy\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Elle ne vaut rien, votre thèse. — Et pourquoi donc ? — Trop tirée par les cheveux ! Trop de complices ! De plus, Clousarr a un alibi à toute épreuve, pour la nuit et le matin du meurtre du Dr Sarton.\n\n                    Question : Le mot \"Dr Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Elle ne vaut rien, votre thèse. — Et pourquoi donc ? — Trop tirée par les cheveux ! Trop de complices ! De plus, Clousarr a un alibi à toute épreuve, pour la nuit et le matin du meurtre du Dr Sarton.\n\n                    Question : Le mot \"Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Nous avons vérifié cela tout de suite, et j’étais évidemment le seul à connaitre la raison pour laquelle cette heure-là méritait un contrôle particulier. — Ce que je me demande maintenant, reprit Baley, c’est si, en réalité, Clousarr a fait la moindre déclaration au sujet de Jessie. Je me demande si ce n’est pas vous qui avez monté ce coup-là. Voilà vingt ans que vous connaissez Jessie, et vous êtes le seul, sans doute, à savoir qu’elle a pour prénom Jézabel. — Vous perdez la tête, mon garçon !\n\n                    Question : Le mot \"Vous\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Nous avons vérifié cela tout de suite, et j’étais évidemment le seul à connaitre la raison pour laquelle cette heure-là méritait un contrôle particulier. — Ce que je me demande maintenant, reprit Baley, c’est si, en réalité, Clousarr a fait la moindre déclaration au sujet de Jessie. Je me demande si ce n’est pas vous qui avez monté ce coup-là. Voilà vingt ans que vous connaissez Jessie, et vous êtes le seul, sans doute, à savoir qu’elle a pour prénom Jézabel. — Vous perdez la tête, mon garçon !\n\n                    Question : Le mot \"moi\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Nous avons vérifié cela tout de suite, et j’étais évidemment le seul à connaitre la raison pour laquelle cette heure-là méritait un contrôle particulier. — Ce que je me demande maintenant, reprit Baley, c’est si, en réalité, Clousarr a fait la moindre déclaration au sujet de Jessie. Je me demande si ce n’est pas vous qui avez monté ce coup-là. Voilà vingt ans que vous connaissez Jessie, et vous êtes le seul, sans doute, à savoir qu’elle a pour prénom Jézabel. — Vous perdez la tête, mon garçon !\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le commissaire principal se leva d’un bond. Son front était luisant, et, au coin de ses lèvres, il y avait de petites taches blanches, comme de l’écume séchée. — Que diable êtes-vous en train de raconter ? — Y étiez-vous, oui ou non ? — Baley, vous êtes suspendu !\n\n                    Question : Le mot \"commissaire principal\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Julius Enderby, les yeux hagards, regarda fixement la poche dans laquelle Baley tenait son arme braquée sur son chef. — Ca vous coûtera cher, Baley ! finit-il par s’écrier. Vous passerez vingt ans en prison, vous m’entendez ! Vingt ans dans le plus noir des cachots de la Cité !\n\n                    Question : Le mot \"Julius Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : immédiat et correct. Et maintenant, ajouta-t-il en remettant son arme dans son étui, si vous voulez m’arrêter, allez-y ! Mais je doute que Spacetown accepte cela comme une réponse à ce que je viens d’affirmer. — Le mobile !... balbutia Enderby, à bout de souffle.\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : immédiat et correct. Et maintenant, ajouta-t-il en remettant son arme dans son étui, si vous voulez m’arrêter, allez-y ! Mais je doute que Spacetown accepte cela comme une réponse à ce que je viens d’affirmer. — Le mobile !... balbutia Enderby, à bout de souffle.\n\n                    Question : Le mot \"m’arrêter\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Sur la façon dont un Spacien a été assassiné, il y a cinq jours et demi. Car, monsieur le commissaire, c’est vous-même qui, à Spacetown, avez tué le Dr Sarton ! R. Daneel jugea nécessaire d’intervenir, tandis que Enderby, la tête dans ses mains, faisait des signes de dénégation et semblait positivement s’arracher les cheveux. — Mon cher associé, dit le robot, votre théorie est insoutenable, je vous assure ! Voyons, vous savez bien que le commissaire principal n’a pas pu assassiner le Dr Sarton !\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Sur la façon dont un Spacien a été assassiné, il y a cinq jours et demi. Car, monsieur le commissaire, c’est vous-même qui, à Spacetown, avez tué le Dr Sarton ! R. Daneel jugea nécessaire d’intervenir, tandis que Enderby, la tête dans ses mains, faisait des signes de dénégation et semblait positivement s’arracher les cheveux. — Mon cher associé, dit le robot, votre théorie est insoutenable, je vous assure ! Voyons, vous savez bien que le commissaire principal n’a pas pu assassiner le Dr Sarton !\n\n                    Question : Le mot \"Spacien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Sur la façon dont un Spacien a été assassiné, il y a cinq jours et demi. Car, monsieur le commissaire, c’est vous-même qui, à Spacetown, avez tué le Dr Sarton ! R. Daneel jugea nécessaire d’intervenir, tandis que Enderby, la tête dans ses mains, faisait des signes de dénégation et semblait positivement s’arracher les cheveux. — Mon cher associé, dit le robot, votre théorie est insoutenable, je vous assure ! Voyons, vous savez bien que le commissaire principal n’a pas pu assassiner le Dr Sarton !\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dès le début de l’enquête, il a fait de son mieux pour exciter en moi une grande méfiance à votre égard, Daneel, comptant bien serré la main, et nous avons eu tous trois un long entretien ; petit à petit, j’ai amené la conversation sur les robots humanoïdes, et ce fut alors, seulement, qu’il a commencé à comprendre. Or, il s’agissait du Dr Gerrigel, le plus savant expert en Robotique que nous possédions. Auriez-vous l’audace de prétendre que quelques agitateurs médiévalistes auraient pu faire mieux que lui, et cela, dans la confusion et la tension d’un début d’émeute ? Et voudriez-vous me faire croire qu’ils auraient ainsi acquis une telle certitude, concernant Daneel, qu’ils auraient alerté tous leurs adhérents, les invitant à passer à l’action contre le robot ? Allons, monsieur le commissaire, vous voyez bien que cette thèse est insoutenable !\n\n                    Question : Le mot \"Dr Gerrigel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Ce qui, en revanche, est évident, c’est que, dès le début, les Médiévalistes ont su exactement à quoi s’en tenir sur Daneel. L’incident du magasin de chaussures a été monté de toutes pièces, pour montrer à Daneel – et par conséquent à Spacetown – l’importance de l’aversion que les Terriens éprouvent à l’égard des robots. Ce but que l’on a ainsi cherché à atteindre, c’était de brouiller les pistes, et de détourner sur la population tout entière de New York les soupçons qui auraient pu peser sur quelques personnes. Or, si, dès le premier jour, les Médiévalistes ont été renseignés sur R. Daneel, par qui l’ont-ils été ? J’ai, à un moment donné, pensé que c’était par Daneel lui- même ; mais j’ai vite été détrompé.\n\n                    Question : Le mot \"Médiévalistes\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il ne savait pas pourquoi j’avais besoin du Dr Gerrigel, mais il ne se trompait pas en étant convaincu que je désirais me renseigner plus amplement sur les robots. Et cela l’a terrifié, parce que, pour commettre son plus grand crime, il s’est servi d’un robot. N’est- ce pas exact, monsieur le commissaire principal ? Enderby secoua la tête désespérément, et balbutia : — Quand tout ceci sera fini... Mais il ne put articuler un mot de plus. — Comment le Dr Sarton a-t-il été assassiné ?\n\n                    Question : Le mot \"monsieur le commissaire principal\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : s’écria alors Baley, contenant mal sa rage. Eh bien, je vais vous le dire, moi ! Par l’association C/Fe, mille tonnerres ! Oui : C/Fe ! Je me sers du propre symbole que vous m’avez appris, Daneel !\n\n                    Question : Le mot \"C/Fe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et aujourd’hui il a détruit R. Sammy, qui en savait trop, et qui constituait désormais un danger pour lui. Cette thèse-là explique tout, en particulier la présence du commissaire à Spacetown et la disparition de l’arme du crime ; de plus, elle épargne de supposer qu’un citoyen de New York a pu, de nuit, traverser la campagne à ciel ouvert. — Je regrette pour vous, répliqua R. Daneel, mais je suis heureux pour le commissaire, que votre solution n’explique rien en réalité, Elijah ! Je vous ai déjà affirmé que la cérébroanalyse plafond. Ce qui frappa le plus Baley, tout d’abord, ce fut l’étrange lumière dans laquelle baignait la pièce que le film représentait ; c’était une clarté grisâtre, comme on n’en voyait jamais dans la Cité, et Baley, partagé entre une instinctive curiosité et un certain malaise, se dit que sans doute on avait tourné le film aux premières lueurs du jour, et que ce devait donc être l’aurore qu’il voyait ainsi.\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais je ne l’ai découverte qu’il y a une heure, quand, sans y attacher d’importance, je vous ai rappelé qu’un jour vous vous êtes intéressé aux verres correcteurs de Bentley. Oui, monsieur le commissaire, c’est comme ça que je vous ai démasqué ! J’ai tout d’un coup compris que votre myopie et vos lunettes étaient la clef de l’énigme. J’ai idée qu’on ne sait pas ce que c’est que la myopie dans les Mondes Extérieurs, sans quoi ils auraient pu trouver, tout comme moi, et sur-le-champ, l’explication du meurtre. Quand, exactement, avez-vous cassé vos lunettes, monsieur le commissaire ?\n\n                    Question : Le mot \"Bentley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il a eu peur que ce but soit atteint, et que les Terriens soient un jour obligés de quitter la Terre. Alors il a décidé de vous supprimer. Vous étiez le seul robot de votre espèce qui ait encore été créé, et il avait tout lieu de croire qu’en démontrant ainsi l’importance et la résolution des Médiévalistes, il décourageait les Spaciens. Il ne connaissait pas moins la forte opposition que manifeste, dans les Mondes Extérieurs, l’opinion publique contre l’expérience de Spacetown. Le Dr Sarton avait dû lui en parler, et il s’est dit que son acte allait définitivement inciter les Spaciens à quitter la Terre.\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous voyez dans quel esprit il s’agit de faire la propagande, n’est-ce pas ? Retour à la terre, d’accord, mais à la terre d’autres planètes, etc. — Je... je ne comprends pas ! murmura le commissaire principal. — C’est ce que les Spaciens se sont donné pour but, et, si Dieu le veut, c’est également le but que je me propose, depuis un petit entretien fort instructif que j’ai eu avec le Dr Fastolfe.\n\n                    Question : Le mot \"Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

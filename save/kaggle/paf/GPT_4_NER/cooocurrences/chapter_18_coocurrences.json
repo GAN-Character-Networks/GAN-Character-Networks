@@ -1,0 +1,944 @@
+{
+    "cooccurences": [
+        [
+            "Seldon",
+            "Dors Venabili"
+        ],
+        [
+            "Dors Venabili",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Hummin",
+            "Rachelle"
+        ],
+        [
+            "Venabili",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Rachelle"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hari"
+        ],
+        [
+            "l ’ Empereur",
+            "Rachelle Ire"
+        ],
+        [
+            "Seldon",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Mannix"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Dors",
+            "le Maire Mannix IV"
+        ],
+        [
+            "Seldon",
+            "Mannix"
+        ],
+        [
+            "l ’ Empereur",
+            "Rachelle"
+        ],
+        [
+            "l ’ Empereur",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "docteur Seldon"
+        ],
+        [
+            "docteur Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Maître Seldon",
+            "Raych"
+        ],
+        [
+            "Seldon",
+            "Dors"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Venabili"
+        ],
+        [
+            "Venabili",
+            "la fille de Mannix , Rachelle"
+        ],
+        [
+            "Venabili",
+            "Raych"
+        ],
+        [
+            "la fille de Mannix , Rachelle",
+            "Raych"
+        ],
+        [
+            "Raych",
+            "Seldon"
+        ],
+        [
+            "Seldon",
+            "Hummin"
+        ],
+        [
+            "Hummin",
+            "Rachelle"
+        ],
+        [
+            "Hummin",
+            "Dors"
+        ],
+        [
+            "Rachelle",
+            "Dors"
+        ],
+        [
+            "Dors",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Hummin"
+        ],
+        [
+            "Rachelle",
+            "Seldon"
+        ],
+        [
+            "Rachelle",
+            "Chetter Hummin"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Seldon",
+            "Chetter Hummin"
+        ],
+        [
+            "Seldon",
+            "Rachelle"
+        ],
+        [
+            "Chetter Hummin",
+            "Rachelle"
+        ],
+        [
+            "Rachelle",
+            "Demerzel"
+        ],
+        [
+            "Demerzel",
+            "Venabili"
+        ],
+        [
+            "Hummin",
+            "Seldon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Demerzel",
+            "Cléon"
+        ],
+        [
+            "Hummin",
+            "Demerzel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Seldon"
+        },
+        {
+            "word": "Venabili"
+        },
+        {
+            "word": "THALUS, EMMER"
+        },
+        {
+            "word": "Dors"
+        },
+        {
+            "word": "Dors Venabili"
+        },
+        {
+            "word": "Raych"
+        },
+        {
+            "word": "Rachelle"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
+            "word": "Mannix IV"
+        },
+        {
+            "word": "Mannix"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Rachelle Ire"
+        },
+        {
+            "word": "Demerzel"
+        },
+        {
+            "word": "l’Empereur"
+        },
+        {
+            "word": "le Maire Mannix IV"
+        },
+        {
+            "word": "Madame le Maire"
+        },
+        {
+            "word": "docteur Seldon"
+        },
+        {
+            "word": "Maître Seldon"
+        },
+        {
+            "word": "la fille de Mannix, Rachelle"
+        },
+        {
+            "word": "Chetter Hummin"
+        },
+        {
+            "word": "Cléon"
+        }
+    ],
+    "aliases": [
+        [
+            "Seldon",
+            "Maître Seldon",
+            "docteur Seldon"
+        ],
+        [
+            "Venabili",
+            "Dors",
+            "Dors Venabili"
+        ],
+        [
+            "THALUS, EMMER"
+        ],
+        [
+            "Raych"
+        ],
+        [
+            "Rachelle",
+            "la fille de Mannix, Rachelle",
+            "Rachelle Ire"
+        ],
+        [
+            "Hummin",
+            "Chetter Hummin"
+        ],
+        [
+            "Mannix IV",
+            "le Maire Mannix IV",
+            "Mannix"
+        ],
+        [
+            "Hari"
+        ],
+        [
+            "Demerzel"
+        ],
+        [
+            "l’Empereur"
+        ],
+        [
+            "Madame le Maire"
+        ],
+        [
+            "Cléon"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Mannix IV",
+                "le Maire Mannix IV",
+                "Mannix"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Mannix IV",
+                "le Maire Mannix IV",
+                "Mannix"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Mannix IV",
+                "le Maire Mannix IV",
+                "Mannix"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Raych"
+            ]
+        ],
+        [
+            [
+                "Raych"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ],
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ]
+        ],
+        [
+            [
+                "Rachelle",
+                "la fille de Mannix, Rachelle",
+                "Rachelle Ire"
+            ],
+            [
+                "Demerzel"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Venabili",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Seldon",
+                "Maître Seldon",
+                "docteur Seldon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Demerzel"
+            ],
+            [
+                "Cléon"
+            ]
+        ],
+        [
+            [
+                "Hummin",
+                "Chetter Hummin"
+            ],
+            [
+                "Demerzel"
+            ]
+        ]
+    ]
+}

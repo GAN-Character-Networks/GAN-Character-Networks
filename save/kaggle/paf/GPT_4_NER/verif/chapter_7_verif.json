@@ -1,45 +1,44 @@
 {
     "final_gpt_entities": [
-        "Seldon",
         "Hummin",
+        "Seldon",
         "Dors",
-        "Eto Demerzel",
         "Demerzel",
+        "Eto Demerzel",
         "Leggen",
         "Hari",
         "Randa",
         "Cléon",
-        "l’intéressé",
-        "Dors Venabili",
-        "Hari Seldon"
+        "Hari Seldon",
+        "Dors Venabili"
     ],
     "init_gpt_entities": [
-        "Cléon",
-        "Hestelonia",
-        "Hari",
-        "Eto Demerzel",
-        "Dors Venabili",
-        "Hélicon",
-        "Dors",
-        "Seldon",
-        "Hummin",
         "Demerzel",
-        "Kan",
-        "Damiano Nord",
-        "Ziggoreth",
-        "Leggen",
-        "l’Empire",
-        "l’intéressé",
+        "Dors",
+        "Eto Demerzel",
         "Hari Seldon",
-        "Randa"
+        "Dors Venabili",
+        "Kan",
+        "Hestelonia",
+        "Hummin",
+        "Ziggoreth",
+        "Randa",
+        "l’Empire",
+        "Damiano Nord",
+        "Hari",
+        "Seldon",
+        "Hélicon",
+        "Leggen",
+        "Cléon",
+        "l’intéressé"
     ],
     "prompts_and_responses": [
         {
-            "prompt": "\n\n                    Phrase :  Mycogène MYCOGÈNE. — ... Secteur de l’antique Trantor... Enfouie dans le passé de ses propres légendes, Mycogène n’eut que peu d’impact sur la planète. Cultivant l’isolationnisme et l’autosatisfaction à un point... ENCYCLOPAEDIA GALACTICA Quand Seldon s’éveilla, ce fut pour découvrir un nouveau visage qui le fixait, solennel. Un instant, il fronça les sourcils, ahuri, puis dit : « Hummin ? » Ce dernier sourit imperceptiblement.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase :  Mycogène MYCOGÈNE. — ... Secteur de l’antique Trantor... Enfouie dans le passé de ses propres légendes, Mycogène n’eut que peu d’impact sur la planète. Cultivant l’isolationnisme et l’autosatisfaction à un point... ENCYCLOPAEDIA GALACTICA Quand Seldon s’éveilla, ce fut pour découvrir un nouveau visage qui le fixait, solennel. Un instant, il fronça les sourcils, ahuri, puis dit : « Hummin ? » Ce dernier sourit imperceptiblement.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase :  Mycogène MYCOGÈNE. — ... Secteur de l’antique Trantor... Enfouie dans le passé de ses propres légendes, Mycogène n’eut que peu d’impact sur la planète. Cultivant l’isolationnisme et l’autosatisfaction à un point... ENCYCLOPAEDIA GALACTICA Quand Seldon s’éveilla, ce fut pour découvrir un nouveau visage qui le fixait, solennel. Un instant, il fronça les sourcils, ahuri, puis dit : « Hummin ? » Ce dernier sourit imperceptiblement.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase :  Mycogène MYCOGÈNE. — ... Secteur de l’antique Trantor... Enfouie dans le passé de ses propres légendes, Mycogène n’eut que peu d’impact sur la planète. Cultivant l’isolationnisme et l’autosatisfaction à un point... ENCYCLOPAEDIA GALACTICA Quand Seldon s’éveilla, ce fut pour découvrir un nouveau visage qui le fixait, solennel. Un instant, il fronça les sourcils, ahuri, puis dit : « Hummin ? » Ce dernier sourit imperceptiblement.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         },
         {
@@ -47,11 +46,11 @@
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase : Le silence du moment était peut-être dû à quelque réserve trantorienne coutumière au chevet d’un malade. Il se — Pas par nature. Mais à vous écouter dans le parc, et par la suite... Vous êtes un individu persuasif, Hummin. Quand vous avez eu terminé, j’étais prêt à voir le redoutable Eto Demerzel derrière chaque ombre. — J’ai parfois l’impression qu’il pourrait y être, fit Hummin, sans ciller.\n\n                    Question : Le mot \"Eto Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase : Le silence du moment était peut-être dû à quelque réserve trantorienne coutumière au chevet d’un malade. Il se — Pas par nature. Mais à vous écouter dans le parc, et par la suite... Vous êtes un individu persuasif, Hummin. Quand vous avez eu terminé, j’étais prêt à voir le redoutable Eto Demerzel derrière chaque ombre. — J’ai parfois l’impression qu’il pourrait y être, fit Hummin, sans ciller.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase : Le silence du moment était peut-être dû à quelque réserve trantorienne coutumière au chevet d’un malade. Il se — Pas par nature. Mais à vous écouter dans le parc, et par la suite... Vous êtes un individu persuasif, Hummin. Quand vous avez eu terminé, j’étais prêt à voir le redoutable Eto Demerzel derrière chaque ombre. — J’ai parfois l’impression qu’il pourrait y être, fit Hummin, sans ciller.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase : Le silence du moment était peut-être dû à quelque réserve trantorienne coutumière au chevet d’un malade. Il se — Pas par nature. Mais à vous écouter dans le parc, et par la suite... Vous êtes un individu persuasif, Hummin. Quand vous avez eu terminé, j’étais prêt à voir le redoutable Eto Demerzel derrière chaque ombre. — J’ai parfois l’impression qu’il pourrait y être, fit Hummin, sans ciller.\n\n                    Question : Le mot \"Eto Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         },
         {
@@ -71,15 +70,15 @@
             "response": "Non"
         },
         {
-            "prompt": "\n\n                    Phrase : « Redites-moi quels étaient les quatre secteurs cités par le docteur Leggen comme base éventuelle d’un vaisseau météorologique ? — Hestelonia, Kan, Ziggoreth et Damiano Nord. — Et vous n’avez pas orienté votre question ? Vous n’avez pas demandé si tel secteur en particulier pouvait être à l’origine de cette visite ? — Non, absolument pas.\n\n                    Question : Le mot \"Hestelonia\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
-            "response": "Non"
-        },
-        {
             "prompt": "\n\n                    Phrase : « Redites-moi quels étaient les quatre secteurs cités par le docteur Leggen comme base éventuelle d’un vaisseau météorologique ? — Hestelonia, Kan, Ziggoreth et Damiano Nord. — Et vous n’avez pas orienté votre question ? Vous n’avez pas demandé si tel secteur en particulier pouvait être à l’origine de cette visite ? — Non, absolument pas.\n\n                    Question : Le mot \"Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Non"
         },
         {
             "prompt": "\n\n                    Phrase : « Redites-moi quels étaient les quatre secteurs cités par le docteur Leggen comme base éventuelle d’un vaisseau météorologique ? — Hestelonia, Kan, Ziggoreth et Damiano Nord. — Et vous n’avez pas orienté votre question ? Vous n’avez pas demandé si tel secteur en particulier pouvait être à l’origine de cette visite ? — Non, absolument pas.\n\n                    Question : Le mot \"Ziggoreth\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Redites-moi quels étaient les quatre secteurs cités par le docteur Leggen comme base éventuelle d’un vaisseau météorologique ? — Hestelonia, Kan, Ziggoreth et Damiano Nord. — Et vous n’avez pas orienté votre question ? Vous n’avez pas demandé si tel secteur en particulier pouvait être à l’origine de cette visite ? — Non, absolument pas.\n\n                    Question : Le mot \"Damiano Nord\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Non"
         },
         {
@@ -91,11 +90,11 @@
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase : Toujours est-il que nous serions bien cachés là- bas. Les Mycogéniens vivent très repliés sur eux-mêmes. Et maintenant, s’il vous plaît, dormez. » Et, sans trop savoir comment, c’est ce que fit Seldon en fin de compte. Hari Seldon et Dors Venabili quittèrent le campus universitaire à trois heures.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase : Toujours est-il que nous serions bien cachés là- bas. Les Mycogéniens vivent très repliés sur eux-mêmes. Et maintenant, s’il vous plaît, dormez. » Et, sans trop savoir comment, c’est ce que fit Seldon en fin de compte. Hari Seldon et Dors Venabili quittèrent le campus universitaire à trois heures.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         },
         {
-            "prompt": "\n\n                    Phrase : Toujours est-il que nous serions bien cachés là- bas. Les Mycogéniens vivent très repliés sur eux-mêmes. Et maintenant, s’il vous plaît, dormez. » Et, sans trop savoir comment, c’est ce que fit Seldon en fin de compte. Hari Seldon et Dors Venabili quittèrent le campus universitaire à trois heures.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "prompt": "\n\n                    Phrase : Toujours est-il que nous serions bien cachés là- bas. Les Mycogéniens vivent très repliés sur eux-mêmes. Et maintenant, s’il vous plaît, dormez. » Et, sans trop savoir comment, c’est ce que fit Seldon en fin de compte. Hari Seldon et Dors Venabili quittèrent le campus universitaire à trois heures.\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
             "response": "Oui"
         },
         {

@@ -1,0 +1,493 @@
+{
+    "cooccurences": [
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Jane Myers",
+            "Elisabeth"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Bentley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Jessie",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Francis Clousarr"
+        ],
+        [
+            "Francis Clousarr",
+            "Elijah"
+        ],
+        [
+            "Francis Clousarr",
+            "Daneel"
+        ],
+        [
+            "Elijah",
+            "Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Lizzy"
+        },
+        {
+            "word": "Elisabeth"
+        },
+        {
+            "word": "Jane Myers"
+        },
+        {
+            "word": "Jézabel"
+        },
+        {
+            "word": "Bentley"
+        },
+        {
+            "word": "Klemin"
+        },
+        {
+            "word": "Joseph Klemin"
+        },
+        {
+            "word": "Jésus"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Francis Clousarr"
+        }
+    ],
+    "aliases": [
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Lizzy"
+        ],
+        [
+            "Elisabeth"
+        ],
+        [
+            "Jane Myers"
+        ],
+        [
+            "Jézabel"
+        ],
+        [
+            "Bentley"
+        ],
+        [
+            "Klemin",
+            "Joseph Klemin"
+        ],
+        [
+            "Jésus"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Francis Clousarr"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Jane Myers"
+            ],
+            [
+                "Elisabeth"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Lije"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Bentley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Francis Clousarr"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "Francis Clousarr"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ]
+    ]
+}

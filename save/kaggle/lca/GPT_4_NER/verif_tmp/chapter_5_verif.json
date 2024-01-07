@@ -1,0 +1,137 @@
+{
+    "final_gpt_entities": [
+        "Jessie",
+        "Olivaw",
+        "Ben",
+        "Baley",
+        "Daneel",
+        "R. Daneel",
+        "Elijah",
+        "Sarton",
+        "Dr Sarton",
+        "commissaire principal",
+        "Enderby",
+        "Julius",
+        "Lije"
+    ],
+    "init_gpt_entities": [
+        "Enderby",
+        "la barbe",
+        "Spacetown",
+        "New York",
+        "C-Fe",
+        "Daneel",
+        "Baley",
+        "Sarton",
+        "commissaire principal",
+        "Jessie",
+        "robots",
+        "Julius",
+        "R. Daneel",
+        "C/Fe",
+        "Elijah",
+        "Olivaw",
+        "Spaciens",
+        "Ben",
+        "Lije",
+        "Elijah Baley",
+        "Spacien",
+        "Mais",
+        "l’homme",
+        "Dr Sarton"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  — Je suis désolé de vous faire partir, Jessie. — Oh ! ne vous tracassez pas pour ça, monsieur Olivaw ! répliqua-t-elle. Ce n’est pas à cause de vous que je sors ; j’ai toutes les semaines une réunion de jeunes filles dont je m’occupe, et elle a justement lieu ce soir.\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  — Je suis désolé de vous faire partir, Jessie. — Oh ! ne vous tracassez pas pour ça, monsieur Olivaw ! répliqua-t-elle. Ce n’est pas à cause de vous que je sors ; j’ai toutes les semaines une réunion de jeunes filles dont je m’occupe, et elle a justement lieu ce soir.\n\n                    Question : Le mot \"Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Allons, viens, Ben ! Mais le garçon ne voulait rien entendre, et il maugréa : — Je voudrais bien savoir pourquoi il faut que j’y aille ! Je ne les dérangerai pas si je reste ! Ah, la barbe ! — Allons, ça suffit maintenant !\n\n                    Question : Le mot \"la barbe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Allons, viens, Ben ! Mais le garçon ne voulait rien entendre, et il maugréa : — Je voudrais bien savoir pourquoi il faut que j’y aille ! Je ne les dérangerai pas si je reste ! Ah, la barbe ! — Allons, ça suffit maintenant !\n\n                    Question : Le mot \"Ben\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Allons, viens, Ben ! Mais le garçon ne voulait rien entendre, et il maugréa : — Je voudrais bien savoir pourquoi il faut que j’y aille ! Je ne les dérangerai pas si je reste ! Ah, la barbe ! — Allons, ça suffit maintenant !\n\n                    Question : Le mot \"Mais\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Fais ce que je te dis ! — Alors, emmène-moi au moins avec toi ! — Non. Moi, je vais avec des amies, et toi, tu vas retrouver... La porte se referma sur eux. Le moment fatidique était enfin venu, ce moment que Baley n’avait cessé de retarder ; il avait commencé par vouloir examiner le robot et se rendre compte de ce qu’il était ; puis il y avait eu le retour à l’appartement, et enfin le dîner.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : dit R. Daneel. Baley le regarda, très surpris, et répliqua : — Personne ne se permettrait de chercher à voir ou à entendre ce qui se passe dans l’appartement d’autrui ! — Ah ! On n’a donc pas l’habitude d’écouter aux portes ? — Non, Daneel.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : dit R. Daneel. Baley le regarda, très surpris, et répliqua : — Personne ne se permettrait de chercher à voir ou à entendre ce qui se passe dans l’appartement d’autrui ! — Ah ! On n’a donc pas l’habitude d’écouter aux portes ? — Non, Daneel.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cela ne se fait pas... pas plus qu’on ne regarde dans l’assiette des gens quand ils mangent... — Pas plus qu’on ne commet d’assassinats ? — Comment ? — Oui. C’est contraire à vos usages de tuer, n’est-ce pas, Elijah ? Baley sentit la colère le gagner.\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : tendance anti-robot, mais vous ne trouverez pas de partis organisés qui préconisent de tels actes de violence. — Pas ouvertement, sans doute. — Si même il existe une organisation secrète dont le but est de détruire les robots et les ateliers qui les construisent, ces gens ne seraient pas assez stupides pour ne pas comprendre que la pire des erreurs à commettre serait d’assassiner un Spacien. Pour moi, il semble beaucoup plus vraisemblable de penser que c’est un déséquilibré qui a fait le coup. Après avoir écouté soigneusement, R. Daneel, répliqua : — A mon avis, il y a un fort pourcentage de probabilités contre la thèse du criminel isolé et fanatique.\n\n                    Question : Le mot \"robots\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : tendance anti-robot, mais vous ne trouverez pas de partis organisés qui préconisent de tels actes de violence. — Pas ouvertement, sans doute. — Si même il existe une organisation secrète dont le but est de détruire les robots et les ateliers qui les construisent, ces gens ne seraient pas assez stupides pour ne pas comprendre que la pire des erreurs à commettre serait d’assassiner un Spacien. Pour moi, il semble beaucoup plus vraisemblable de penser que c’est un déséquilibré qui a fait le coup. Après avoir écouté soigneusement, R. Daneel, répliqua : — A mon avis, il y a un fort pourcentage de probabilités contre la thèse du criminel isolé et fanatique.\n\n                    Question : Le mot \"Spacien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tout d’abord, je dois vous dire que, vu de Spacetown, l’état des relations avec la Terre est fort peu satisfaisant. — Je dirai qu’elles sont tendues, murmura Baley. — Je crois savoir qu’au moment de la fondation de Spacetown, mes compatriotes ont, pour la plupart, tenu pour assuré que les Terriens étaient décidés à adopter le principe des sociétés intégrées, dont l’application a donné de si bons résultats dans les Mondes Extérieurs. Même après les premières émeutes, nous avons pensé qu’il s’agissait seulement d’une réaction provisoire des Terriens, surpris et choqués par la nouveauté de cette conception. Mais la suite des événements a prouvé que tel n’était pas le cas.\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Malgré la coopération effective du gouvernement de la Terre et de ceux de vos villes, la résistance aux idées nouvelles n’a jamais cessé, et les progrès réalisés ont été très lents. Naturellement, cet état de choses a causé de graves soucis à notre peuple. — Par pur altruisme, j’imagine, dit Baley. que celle des cinquante Mondes Extérieurs réunis excède à peine cinq milliards et demi. Nos compatriotes, en particulier le Dr Sarton... — C’était un savant ?\n\n                    Question : Le mot \"Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Malgré la coopération effective du gouvernement de la Terre et de ceux de vos villes, la résistance aux idées nouvelles n’a jamais cessé, et les progrès réalisés ont été très lents. Naturellement, cet état de choses a causé de graves soucis à notre peuple. — Par pur altruisme, j’imagine, dit Baley. que celle des cinquante Mondes Extérieurs réunis excède à peine cinq milliards et demi. Nos compatriotes, en particulier le Dr Sarton... — C’était un savant ?\n\n                    Question : Le mot \"Dr Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il est facile de dire que les peuples de la Terre sont par nature conservateurs, et de parler en termes méprisants des « indécrottables Terriens », ou de la « mentalité insondable des populations terrestres » ; mais cela ne résout pas le problème. Le Dr Sarton déclara que de tels propos ne prouvaient qu’une chose, l’ignorance de leurs auteurs, et qu’il est impossible d’éliminer le Terrien au moyen d’un slogan ou avec du bromure. Il affirma que les Spaciens désireux de réformer la Terre devaient renoncer à la politique isolationniste de Spacetown et se mêler beaucoup plus aux Terriens ; ils devraient vivre comme eux, penser comme eux, concevoir l’existence comme eux. — Les Spaciens ? répliqua Baley.\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Vous en désapprouvez l’emploi ? — Bien entendu. Comment faire admettre qu’une aussi grossière parodie de l’être humain puisse prétendre à quelque égalité intellectuelle avec l’homme ? Vos usines ne peuvent-elles rien construire de mieux ? — Je suis convaincu que si, Daneel.\n\n                    Question : Le mot \"l’homme\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais je crois que nous préférons savoir si nous avons ou non affaire à un robot. Ce disant, il regarda son interlocuteur droit dans les yeux ; ils étaient brillants et humides, comme ceux d’un homme, mais Baley eut l’impression que leur regard était fixe, et n’avait pas cette mobilité que l’on trouve chez l’homme. — J’espère qu’avec le temps, dit R. Daneel, je parviendrai à comprendre ce point de vue. Pendant un court instant, Baley eut l’impression que cette réponse n’était pas dénuée de sarcasme ; mais il chassa vite cette pensée. — De toutes manières, reprit R. Daneel, le Dr Sarton avait clairement compris que tout le problème consistait à trouver la formule adéquate combinant C/Fe.\n\n                    Question : Le mot \"C/Fe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Ah ! fit Baley. Mais, dites-moi, comment écrivez-vous ce symbole C-Fe ? Avec un trait d’union ? — Non, Elijah, avec une barre en diagonale.\n\n                    Question : Le mot \"C-Fe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — En effet, dit R. Daneel. Je crois pouvoir affirmer qu’aucun Terrien ne peut franchir subrepticement l’entrée du territoire. — Alors, vous voilà bien avancé ! — Nous serions certainement dans une troublante impasse, Elijah, s’il n’y avait, pour venir de New York à Spacetown, que le chemin de l’express. Baley, songeur, observa attentivement son associé.\n\n                    Question : Le mot \"New York\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Mais ce n’est pas cela que j’avais commencé à vous raconter. Quand le commissaire principal est arrivé, nous lui avons dit : « L’assassin a dû venir en traversant la campagne. » Et, tout comme vous, il nous a répondu : « Impossible ! » ou peut-être : « Impensable ! » Comme vous pouvez l’imaginer, il était bouleversé, et peut-être son émotion l’a-t-elle empêché de saisir le point essentiel.\n\n                    Question : Le mot \"commissaire principal\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quoi qu’il en soit, nous avons exigé qu’il procède, presque sur-le-champ, à toutes les vérifications susceptibles de nous éclairer sur la valeur de cette hypothèse. Baley songea aux lunettes cassées du commissaire, et, au milieu même de ses sombres pensées, il ne put se défendre d’un léger sourire. Pauvre Julius ! Oui, cela ne pouvait faire de doute, il devait être bouleversé ! Bien entendu, Enderby n’avait pas trouvé le moindre moyen d’expliquer la situation aux orgueilleux Spaciens, car ceux-ci considéraient toute défectuosité physique comme une tare particulièrement choquante, inhérente à la race des Terriens, et due au fait que celle-ci n’était pas génétiquement sélectionnée.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quoi qu’il en soit, nous avons exigé qu’il procède, presque sur-le-champ, à toutes les vérifications susceptibles de nous éclairer sur la valeur de cette hypothèse. Baley songea aux lunettes cassées du commissaire, et, au milieu même de ses sombres pensées, il ne put se défendre d’un léger sourire. Pauvre Julius ! Oui, cela ne pouvait faire de doute, il devait être bouleversé ! Bien entendu, Enderby n’avait pas trouvé le moindre moyen d’expliquer la situation aux orgueilleux Spaciens, car ceux-ci considéraient toute défectuosité physique comme une tare particulièrement choquante, inhérente à la race des Terriens, et due au fait que celle-ci n’était pas génétiquement sélectionnée.\n\n                    Question : Le mot \"Julius\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Il est vraiment trop bon ! répliqua Lije ironiquement, tout en se disant : « Pauvre Julius ! Il a du remords à mon égard, et il se donne du mal... » — Nous ne nous en sommes pas rapportés entièrement à lui, reprit le robot. Nous avons examiné votre dossier. Vous vous êtes ouvertement opposé à l’usage des robots dans votre service.\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

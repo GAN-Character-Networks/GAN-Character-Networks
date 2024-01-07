@@ -74,10 +74,6 @@
         ],
         [
             "Clowzia",
-            "Seldon"
-        ],
-        [
-            "Clowzia",
             "docteur Leggen"
         ],
         [
@@ -95,22 +91,22 @@
     ],
     "entities": [
         {
+            "word": "Hari Seldon"
+        },
+        {
+            "word": "Hummin"
+        },
+        {
             "word": "Hari"
         },
         {
             "word": "Seldon"
         },
         {
-            "word": "Hummin"
-        },
-        {
-            "word": "Hari Seldon"
+            "word": "Randa"
         },
         {
             "word": "Lisung"
-        },
-        {
-            "word": "Randa"
         },
         {
             "word": "Lisung Randa"
@@ -139,16 +135,16 @@
     ],
     "aliases": [
         [
-            "Hari",
+            "Hari Seldon",
             "Seldon",
-            "Hari Seldon"
+            "Hari"
         ],
         [
             "Hummin"
         ],
         [
-            "Lisung",
             "Randa",
+            "Lisung",
             "Kiangtow Randa",
             "Lisung Randa"
         ],
@@ -168,9 +164,9 @@
     "cooccurences_aliases": [
         [
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ],
             [
                 "Hummin"
@@ -178,70 +174,34 @@
         ],
         [
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ],
             [
-                "Lisung",
                 "Randa",
+                "Lisung",
                 "Kiangtow Randa",
                 "Lisung Randa"
             ]
         ],
         [
             [
-                "Lisung",
                 "Randa",
+                "Lisung",
                 "Kiangtow Randa",
                 "Lisung Randa"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ],
         [
             [
-                "Lisung",
                 "Randa",
-                "Kiangtow Randa",
-                "Lisung Randa"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
                 "Lisung",
-                "Randa",
-                "Kiangtow Randa",
-                "Lisung Randa"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Lisung",
-                "Randa",
                 "Kiangtow Randa",
                 "Lisung Randa"
             ],
@@ -252,60 +212,96 @@
         ],
         [
             [
-                "Lisung",
-                "Randa",
-                "Kiangtow Randa",
-                "Lisung Randa"
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
             ],
             [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Lisung",
                 "Randa",
+                "Lisung",
                 "Kiangtow Randa",
                 "Lisung Randa"
             ]
         ],
         [
             [
-                "Jenarr Leggen",
-                "docteur Leggen",
-                "Leggen"
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
             ],
             [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
+                "Dors",
+                "Dors Venabili"
             ]
         ],
         [
             [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
+                "Randa",
+                "Lisung",
+                "Kiangtow Randa",
+                "Lisung Randa"
             ],
             [
-                "Lisung",
+                "Dors",
+                "Dors Venabili"
+            ]
+        ],
+        [
+            [
                 "Randa",
+                "Lisung",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ],
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Randa",
+                "Lisung",
                 "Kiangtow Randa",
                 "Lisung Randa"
             ]
         ],
         [
             [
-                "Hari",
+                "Jenarr Leggen",
+                "docteur Leggen",
+                "Leggen"
+            ],
+            [
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
+            ],
+            [
+                "Randa",
+                "Lisung",
+                "Kiangtow Randa",
+                "Lisung Randa"
+            ]
+        ],
+        [
+            [
+                "Hari Seldon",
+                "Seldon",
+                "Hari"
             ],
             [
                 "Jenarr Leggen",
@@ -320,9 +316,9 @@
                 "Leggen"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ],
         [
@@ -330,29 +326,19 @@
                 "Clowzia"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ],
         [
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ],
             [
                 "Clowzia"
-            ]
-        ],
-        [
-            [
-                "Clowzia"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
             ]
         ],
         [
@@ -367,9 +353,9 @@
         ],
         [
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ],
             [
                 "Clowzia"
@@ -382,9 +368,9 @@
                 "Leggen"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ],
         [
@@ -392,9 +378,9 @@
                 "Clowzia"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ]
     ]

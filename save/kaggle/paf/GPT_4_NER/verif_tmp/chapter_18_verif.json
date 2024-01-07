@@ -1,0 +1,161 @@
+{
+    "final_gpt_entities": [
+        "Seldon",
+        "Venabili",
+        "THALUS, EMMER",
+        "Dors",
+        "Dors Venabili",
+        "Raych",
+        "Rachelle",
+        "Hummin",
+        "Mannix IV",
+        "Mannix",
+        "princesse",
+        "Hari",
+        "Rachelle Ire",
+        "Demerzel",
+        "l’Empereur",
+        "le Maire Mannix IV",
+        "Madame le Maire",
+        "docteur Seldon",
+        "Maître Seldon",
+        "la fille de Mannix, Rachelle",
+        "Chetter Hummin",
+        "Cléon"
+    ],
+    "init_gpt_entities": [
+        "Rachelle Ire",
+        "princesse",
+        "Rachelle",
+        "Demerzel",
+        "Chetter Hummin",
+        "docteur Seldon",
+        "Seldon",
+        "Hummin",
+        "l’Empereur",
+        "Mannix IV",
+        "le Maire Mannix IV",
+        "Venabili",
+        "THALUS, EMMER",
+        "Dors",
+        "Dors Venabili",
+        "Hari",
+        "Trantor",
+        "Kan",
+        "Madame le Maire",
+        "Maître Seldon",
+        "Raych",
+        "L’Empire",
+        "l’Empire",
+        "la fille de Mannix, Rachelle",
+        "Cléon",
+        "Sergent Thalus",
+        "Mannix"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"THALUS, EMMER\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"Trantor\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Renversement THALUS, EMMER. — ... Sergent dans les forces armées de sécurité du secteur de Kan de l’antique Trantor... ... En dehors de ces éléments biographiques parfaitement anodins, on ne sait rien de cet homme, sinon qu’en une occasion il a tenu le destin de la Galaxie entre ses mains. ENCYCLOPAEDIA GALACTICA Le petit déjeuner du lendemain fut servi dans une alcôve proche des chambres des trois captifs et de fait il était somptueux : non seulement le choix était extraordinairement varié mais il y avait de tout à profusion. Seldon s’attabla devant un monceau de saucisses épicées, ignorant les funestes prédictions de Dors Venabili quant aux maux d’estomac et autres coliques. « La dame... commença Raych, euh, la madame Maire a dit, quand elle est venue me voir hier soir... — Elle est venue te voir ?\n\n                    Question : Le mot \"Raych\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Coup d’œil de Seldon à Dors. « Quel genre de pensionnaires peuvent-ils bien avoir sur Trantor ? Des chiens et des chats ? — Il existe quelques espèces aborigènes, indiqua Dors, et j’imagine qu’ils en ont fait venir d’autres mondes, et puis il y a la faune commune à l’ensemble des planètes – même si bien sûr elle est mieux représentée ailleurs. D’ailleurs, Kan est réputée pour son zoo, sans doute le plus beau de la planète, juste après la ménagerie impériale.\n\n                    Question : Le mot \"Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : En fait, je ne suis sûr de rien. Même si Hummin arrive, que pourra-t-il faire ? Si le secteur de Kan, comme le prétend Rachelle, a l’armée la mieux organisée de Trantor, que pourra-t- il faire contre elle ? — Ne perdons pas notre temps à discuter de ça. Vous croyez-vous capable de convaincre Rachelle – de réussir à lui faire entrer dans la tête – que vous n’avez pas de psychohistoire ?\n\n                    Question : Le mot \"Rachelle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : En fait, je ne suis sûr de rien. Même si Hummin arrive, que pourra-t-il faire ? Si le secteur de Kan, comme le prétend Rachelle, a l’armée la mieux organisée de Trantor, que pourra-t- il faire contre elle ? — Ne perdons pas notre temps à discuter de ça. Vous croyez-vous capable de convaincre Rachelle – de réussir à lui faire entrer dans la tête – que vous n’avez pas de psychohistoire ?\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et son vieux père, Mannix IV, doit être plus impatient encore. Il doit sentir l’approche de la mort et, s’il a ouvré toute sa vie dans ce but, il aimerait sans doute mieux le voir réalisé cette semaine que la semaine prochaine. Par ailleurs... » Il s’interrompit pour examiner la chambre. « Par ailleurs, quoi ? — Eh bien, il faut que nous retrouvions la liberté.\n\n                    Question : Le mot \"Mannix IV\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et son vieux père, Mannix IV, doit être plus impatient encore. Il doit sentir l’approche de la mort et, s’il a ouvré toute sa vie dans ce but, il aimerait sans doute mieux le voir réalisé cette semaine que la semaine prochaine. Par ailleurs... » Il s’interrompit pour examiner la chambre. « Par ailleurs, quoi ? — Eh bien, il faut que nous retrouvions la liberté.\n\n                    Question : Le mot \"Mannix\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ne prends pas de risques. Ne va pas écouter aux portes. Si tu te fais prendre, ça ne servira personne – surtout pas toi. — Allons donc, princesse, pour qui qu’vous m’prenez ? Un mioche, ou quoi ?\n\n                    Question : Le mot \"princesse\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : De plus, Rachelle l’adore et elle risque de lui passer tous ses caprices, pauvre femme. — Vous la plaignez vraiment, Dors ? — Insinuez-vous qu’elle n’est pas digne de compassion sous prétexte qu’elle est la fille d’un Maire, qu’elle se considère comme Maire de plein droit, et qu’elle envisage de détruire l’Empire ? Peut-être avez-vous raison mais, même ainsi, certains aspects de sa personnalité peuvent attirer la sympathie. Par exemple, elle a connu un chagrin d’amour.\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » protesta Seldon en levant la tête pour la regarder de haut. « Ne soyez pas vexé, Hari. La naïveté fait une partie de votre séduction. — Je sais. Cela excite vos instincts maternels et on vous a demandé de prendre soin de moi.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et, en se démasquant, elle ne ferait qu’alerter Demerzel. — Alors, qu’est-elle en train de concocter ? — Je crois plutôt que les informations vous concernant – convenablement grossies et enjolivées – parviennent à un nombre restreint d’élus. A ces vice-rois de secteurs, à ces amiraux de la flotte, à tous ces personnages influents dont elle sent qu’ils la considèrent d’un bon œil – et qu’ils lorgnent l’Empereur d’un sale œil. Qu’une petite centaine d’entre eux rallient son camp et Rachelle Ire pourrait déstabiliser les loyalistes juste assez longtemps pour instaurer son ordre nouveau et l’assurer assez pour neutraliser toute résistance.\n\n                    Question : Le mot \"Rachelle Ire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et, en se démasquant, elle ne ferait qu’alerter Demerzel. — Alors, qu’est-elle en train de concocter ? — Je crois plutôt que les informations vous concernant – convenablement grossies et enjolivées – parviennent à un nombre restreint d’élus. A ces vice-rois de secteurs, à ces amiraux de la flotte, à tous ces personnages influents dont elle sent qu’ils la considèrent d’un bon œil – et qu’ils lorgnent l’Empereur d’un sale œil. Qu’une petite centaine d’entre eux rallient son camp et Rachelle Ire pourrait déstabiliser les loyalistes juste assez longtemps pour instaurer son ordre nouveau et l’assurer assez pour neutraliser toute résistance.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et, en se démasquant, elle ne ferait qu’alerter Demerzel. — Alors, qu’est-elle en train de concocter ? — Je crois plutôt que les informations vous concernant – convenablement grossies et enjolivées – parviennent à un nombre restreint d’élus. A ces vice-rois de secteurs, à ces amiraux de la flotte, à tous ces personnages influents dont elle sent qu’ils la considèrent d’un bon œil – et qu’ils lorgnent l’Empereur d’un sale œil. Qu’une petite centaine d’entre eux rallient son camp et Rachelle Ire pourrait déstabiliser les loyalistes juste assez longtemps pour instaurer son ordre nouveau et l’assurer assez pour neutraliser toute résistance.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La surprise a été totale. Toute résistance était impossible et il n’y en a eu pratiquement aucune. » Puis le Maire Mannix IV apparut, comme promis. Il était debout et, peut-être pour sauver les apparences, aucun uniforme impérial n’était visible alentour, mais Seldon était convaincu qu’il devait y en avoir beaucoup hors du champ de la caméra. Mannix était âgé mais sa force, même usée, était encore visible.\n\n                    Question : Le mot \"le Maire Mannix IV\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Son uniforme était impeccable, sa moustache fièrement ourlée. « Madame le Maire », dit-il en se mettant au garde-à-vous. Apparemment, c’était toujours le même superbe quartier de viande, pour reprendre l’expression de Seldon – un homme qui suivait toujours aveuglément les ordres, sans se préoccuper le moins du monde du total bouleversement de la situation. Rachelle sourit tristement à Raych. « Et comment vas-tu, toi, mon petit Raych ?\n\n                    Question : Le mot \"Madame le Maire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : J’avais l’intention de faire quelque chose de toi. Mais je n’en aurai pas eu le temps... — Bonjour, m’d... madame, dit Raych, gêné. — Comme je voulais faire quelque chose de vous, docteur Seldon, et là aussi je dois implorer votre pardon. Je ne le pourrai pas. — En ce qui me concerne, madame, vous n’avez pas de regrets à avoir.\n\n                    Question : Le mot \"docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Vous hésitez, sergent, parce que vous savez que vous ne pouvez tirer. J’aurais pu vous tuer, il Mais le garçon recula. « Z’allez pas la tuer, hein, Maître Seldon ! Elle a été sympa avec moi. — Je ne vais tuer personne, Raych.\n\n                    Question : Le mot \"Maître Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je suis désolé d’avoir tant tardé, Seldon. J’avais des tas de choses à faire. Comment allez-vous, docteur Venabili ? Je suppose que voici la fille de Mannix, Rachelle. Mais qui est ce garçon ?\n\n                    Question : Le mot \"la fille de Mannix, Rachelle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » demanda-t-elle à Seldon. « Chetter Hummin, un ami, et mon protecteur sur cette planète. — Votre protecteur ? » Rachelle fut prise d’un rire dément. « Espèce de crétin !\n\n                    Question : Le mot \"Chetter Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Hummin hocha la tête. « Et nous aurions pu également vous perdre sur la Couverture – encore un accident que je n’avais su prévoir. — Mais vous n’avez pas vraiment répondu à ma question. Pourquoi m’avoir expédié par toute la planète pour échapper à Demerzel quand vous étiez vous-même Demerzel ? — Vous avez dit à Cléon que la psychohistoire était un concept purement théorique, une sorte de jeu mathématique sans application pratique.\n\n                    Question : Le mot \"Cléon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Concevoir les outils mathématiques pour traiter le problème. Avec un peu de chance, et si je vis assez longtemps, j’aurai peut-être les réponses avant ma mort. Sinon, ce sera à mes successeurs de poursuivre la tâche. L’Empire se sera sans doute effondré et brisé depuis longtemps quand la psychohistoire deviendra une technique opérationnelle. — Je ferai tout ce qui est en mon pouvoir pour vous aider.\n\n                    Question : Le mot \"L’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

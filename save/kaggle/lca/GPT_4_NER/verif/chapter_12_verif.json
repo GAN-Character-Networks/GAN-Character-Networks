@@ -1,0 +1,144 @@
+{
+    "final_gpt_entities": [
+        "R. Sammy",
+        "Baley",
+        "Lije",
+        "Enderby",
+        "Julius",
+        "A. Gerrigel",
+        "Gerrigel",
+        "Elijah",
+        "R. Daneel",
+        "Daneel",
+        "Francis Clousarr",
+        "Paul Gerhard",
+        "Dr Gerrigel",
+        "monsieur Baley",
+        "Frankenstein"
+    ],
+    "init_gpt_entities": [
+        "Loi",
+        "Francis Clousarr",
+        "Garçon de courses automatique",
+        "Elijah",
+        "R. Daneel",
+        "Première Loi",
+        "détective",
+        "Frankenstein",
+        "A. Gerrigel",
+        "Terre",
+        "Gerrigel",
+        "Paul Gerhard",
+        "Robotique",
+        "Enderby",
+        "Lije Baley",
+        "Chester",
+        "Baley",
+        "Lije",
+        "Dr Gerrigel",
+        "R. Sammy",
+        "monsieur Baley",
+        "Daneel",
+        "Julius",
+        "docteur",
+        "Mondes Extérieurs"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : pas à se concentrer sur ce travail. Soudain, il se rendit compte que quelqu’un se tenait près de sa table. — Qu’est-ce que tu veux ? demanda-t-il en levant la tête vers R. Sammy. « Garçon de courses automatique !\n\n                    Question : Le mot \"Garçon de courses automatique\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : pas à se concentrer sur ce travail. Soudain, il se rendit compte que quelqu’un se tenait près de sa table. — Qu’est-ce que tu veux ? demanda-t-il en levant la tête vers R. Sammy. « Garçon de courses automatique !\n\n                    Question : Le mot \"R. Sammy\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : songea-t-il. Ca rapporte d’être commissaire principal ! » — Le commissaire vous demande, Lije, fit le robot, toujours souriant. Il a dit : tout de suite ! — Je viens de le voir, fit Baley en faisant signe au messager de s’en aller.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : songea-t-il. Ca rapporte d’être commissaire principal ! » — Le commissaire vous demande, Lije, fit le robot, toujours souriant. Il a dit : tout de suite ! — Je viens de le voir, fit Baley en faisant signe au messager de s’en aller.\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Se levant brusquement, il gagna à grandes enjambées le bureau de son chef, suivi du robot silencieux, et, dès qu’il fut entré, il déclara : — Il faut donc, monsieur le commissaire, que je vous le demande une fois de plus : ne m’envoyez plus chercher par cette machine ! Mais Enderby se borna à répondre : — Asseyez-vous, Lije. Asseyez-vous ! Baley s’exécuta et regarda droit devant lui, fixement. Après tout, peut-être avait-il mal jugé le pauvre vieux Julius, car celui- ci pouvait fort bien ne pas avoir dormi non plus : il avait en effet l’air très contrarié.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Se levant brusquement, il gagna à grandes enjambées le bureau de son chef, suivi du robot silencieux, et, dès qu’il fut entré, il déclara : — Il faut donc, monsieur le commissaire, que je vous le demande une fois de plus : ne m’envoyez plus chercher par cette machine ! Mais Enderby se borna à répondre : — Asseyez-vous, Lije. Asseyez-vous ! Baley s’exécuta et regarda droit devant lui, fixement. Après tout, peut-être avait-il mal jugé le pauvre vieux Julius, car celui- ci pouvait fort bien ne pas avoir dormi non plus : il avait en effet l’air très contrarié.\n\n                    Question : Le mot \"Julius\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il tapota un papier qui se trouvait sur son bureau. — J’ai là, dit-il, un rapport concernant une communication confidentielle que vous avez eue hier avec un certain A. Gerrigel, à Washington. — C’est exact, monsieur le commissaire. — On ne m’a naturellement pas rendu compte de votre entretien, puisqu’il n’a pu être contrôlé. De quoi s’agissait-il ?\n\n                    Question : Le mot \"A. Gerrigel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il tapota un papier qui se trouvait sur son bureau. — J’ai là, dit-il, un rapport concernant une communication confidentielle que vous avez eue hier avec un certain A. Gerrigel, à Washington. — C’est exact, monsieur le commissaire. — On ne m’a naturellement pas rendu compte de votre entretien, puisqu’il n’a pu être contrôlé. De quoi s’agissait-il ?\n\n                    Question : Le mot \"Gerrigel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — De renseignements dont j’ai besoin. — C’est un spécialiste en Robotique, n’est-ce pas ? — Eh bien, demanda-t-il rudement au robot, qu’est-ce que vous avez trouvé, vous ? — J’ai complété mes premières recherches, un peu trop hâtives, Elijah ; grâce à votre fichier, j’ai pu identifier deux des gens qui nous ont poursuivis hier soir, et qui, par surcroît, se trouvaient l’autre jour dans le magasin de chaussures. — Voyons cela !\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — De renseignements dont j’ai besoin. — C’est un spécialiste en Robotique, n’est-ce pas ? — Eh bien, demanda-t-il rudement au robot, qu’est-ce que vous avez trouvé, vous ? — J’ai complété mes premières recherches, un peu trop hâtives, Elijah ; grâce à votre fichier, j’ai pu identifier deux des gens qui nous ont poursuivis hier soir, et qui, par surcroît, se trouvaient l’autre jour dans le magasin de chaussures. — Voyons cela !\n\n                    Question : Le mot \"Robotique\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : R. Daneel posa devant Baley deux petites cartes, pas plus grandes que des timbres-poste ; elles étaient couvertes de minuscules points correspondant à un code. Puis le robot sortit de sa poche un petit appareil portatif à décoder, et il plaça l’une des cartes dans un logement approprié. Les points possédaient des propriétés électriques particulières, au point de vue de leur conductibilité ; quand on faisait passer un champ magnétique à travers la carte, celui-ci se trouvait considérablement troublé ; les perturbations ainsi obtenues avaient pour résultat de faire apparaître une série de mots sur un petit écran lumineux situé à la base de l’appareil ; ces mots, une fois décodés, représentaient un long rapport. Mais nul ne pouvait en comprendre le sens s’il n’était pas en possession du code officiel de la police. Baley, rompu à ce genre de documents, les parcourut rapidement.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : R. Daneel posa devant Baley deux petites cartes, pas plus grandes que des timbres-poste ; elles étaient couvertes de minuscules points correspondant à un code. Puis le robot sortit de sa poche un petit appareil portatif à décoder, et il plaça l’une des cartes dans un logement approprié. Les points possédaient des propriétés électriques particulières, au point de vue de leur conductibilité ; quand on faisait passer un champ magnétique à travers la carte, celui-ci se trouvait considérablement troublé ; les perturbations ainsi obtenues avaient pour résultat de faire apparaître une série de mots sur un petit écran lumineux situé à la base de l’appareil ; ces mots, une fois décodés, représentaient un long rapport. Mais nul ne pouvait en comprendre le sens s’il n’était pas en possession du code officiel de la police. Baley, rompu à ce genre de documents, les parcourut rapidement.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : La première fiche concernait un certain Francis Clousarr. Deux ans plus tôt, alors âgé de trente-trois ans, il avait été arrêté pour incitation à l’émeute ; il travaillait dans les usines de levure ; on possédait son adresse et ses antécédents familiaux ; quant à son signalement, rien n’y manquait : cheveux, yeux, signes distinctifs, degré d’instruction, profil psycho-analytique, aspect physique, emplois occupés et références des photos enregistrées au fichier des malfaiteurs. — Vous avez vérifié les photos ? demanda Baley. — Oui, Elijah.\n\n                    Question : Le mot \"Francis Clousarr\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Le second suspect se nommait Paul Gerhard. Baley jeta un coup d’œil à la fiche le concernant et dit : — Tout cela ne vaut rien du tout ! — Je suis certain du contraire, répliqua R. Daneel. S’il existe réellement, parmi les Terriens, une organisation subversive capable d’avoir préparé et exécuté le crime au sujet duquel nous cacha mal son mécontentement, et répondit aux excuses par un haussement d’épaules bourru. Il confirma aussitôt des ordres précédemment donnés, pour que l’on mît à sa disposition la salle D, réservée aux entretiens secrets, et répéta que, sous aucun prétexte, on ne devait les déranger pendant une heure.\n\n                    Question : Le mot \"Paul Gerhard\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Puis il conduisit le Dr Gerrigel et R. Daneel, par un long corridor suivi d’une rampe assez raide, jusqu’à une pièce qu’il avait choisie pour recevoir son visiteur ; c’était un vaste bureau spécialement insonorisé, et à l’abri de toute détection radio- électrique. Dès qu’il y eut pénétré, il vérifia avec le plus grand soin la parfaite étanchéité des murs, du plancher et du plafond, écoutant d’un air grave le très faible bruissement d’un petit pulsomètre qu’il tenait dans sa main ; le moindre arrêt de ces pulsations aurait en effet signifié un défaut dans l’isolement absolu de la pièce ; il vérifia avec une attention particulière la porte, et fut satisfait de ne trouver aucune défectuosité dans l’installation. Le Dr Gerrigel sourit légèrement, ce qui ne devait pas lui arriver souvent, semblait-il. Il était vêtu avec tant de correction que cela devait répondre à une manie. Il avait des cheveux grisonnants et plaqués en arrière, un visage rose et rasé de près, et il se tenait assis si droit sur sa chaise qu’il évoquait ainsi l’attitude d’un enfant chapitré pendant des années par une mère intraitable ; sa colonne vertébrale semblait bloquée pour toujours.\n\n                    Question : Le mot \"Dr Gerrigel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vos précautions font de notre entretien quelque chose de singulièrement impressionnant, monsieur Baley ! dit-il. — Il s’agit en effet d’une conversation très importante, docteur, répliqua le détective. J’ai besoin de renseignements sur les robots, et je crois que vous êtes seul, sans doute, capable de me les fournir. Tout ce que nous allons dire ici est naturellement ultra-confidentiel, et la Cité vous demande de l’oublier dès que nous nous séparerons.\n\n                    Question : Le mot \"détective\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vos précautions font de notre entretien quelque chose de singulièrement impressionnant, monsieur Baley ! dit-il. — Il s’agit en effet d’une conversation très importante, docteur, répliqua le détective. J’ai besoin de renseignements sur les robots, et je crois que vous êtes seul, sans doute, capable de me les fournir. Tout ce que nous allons dire ici est naturellement ultra-confidentiel, et la Cité vous demande de l’oublier dès que nous nous séparerons.\n\n                    Question : Le mot \"monsieur Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Vos précautions font de notre entretien quelque chose de singulièrement impressionnant, monsieur Baley ! dit-il. — Il s’agit en effet d’une conversation très importante, docteur, répliqua le détective. J’ai besoin de renseignements sur les robots, et je crois que vous êtes seul, sans doute, capable de me les fournir. Tout ce que nous allons dire ici est naturellement ultra-confidentiel, et la Cité vous demande de l’oublier dès que nous nous séparerons.\n\n                    Question : Le mot \"docteur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il jeta un coup d’œil à sa montre et Gerrigel cessa de sourire : il était visiblement ennuyé de n’avoir pas été exact au rendez-vous. gérée que par un gouvernement centralisé. Une agglomération encore bien plus colossale, comprenant plus de cinquante millions d’âmes, s’effondrerait sous son propre poids. — L’ennui, reprit le savant, c’est que j’ai raté la correspondance de Chester à Philadelphie, ce qui m’a fait perdre du temps. Et puis, en arrivant, j’ai eu un peu de mal à obtenir une chambre, ce qui a achevé de me mettre en retard.\n\n                    Question : Le mot \"Chester\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Toutefois, certaines personnes prétendent que l’assassin, pour exécuter son coup, a fait exactement ce que nous venons de dire : il aurait traversé seul, à pied, et de nuit, la campagne. C’est pourquoi je vous demande quelle sorte d’homme pourrait accomplir un tel acte. — Je peux même vous la citer : « Un robot ne peut porter atteinte à un être humain ni, restant passif, laisser cet être humain exposé au danger. » Mais, voulez-vous me dire, ajouta- t-il aussitôt, en tendant vers le savant un impérieux index, qu’est-ce qui empêche la construction de robots non conformes à la Première Loi ? En quoi celle-ci serait-elle inviolable et sacrée ?\n\n                    Question : Le mot \"Loi\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Toutefois, certaines personnes prétendent que l’assassin, pour exécuter son coup, a fait exactement ce que nous venons de dire : il aurait traversé seul, à pied, et de nuit, la campagne. C’est pourquoi je vous demande quelle sorte d’homme pourrait accomplir un tel acte. — Je peux même vous la citer : « Un robot ne peut porter atteinte à un être humain ni, restant passif, laisser cet être humain exposé au danger. » Mais, voulez-vous me dire, ajouta- t-il aussitôt, en tendant vers le savant un impérieux index, qu’est-ce qui empêche la construction de robots non conformes à la Première Loi ? En quoi celle-ci serait-elle inviolable et sacrée ?\n\n                    Question : Le mot \"Première Loi\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — J’ai peine à le croire, car la curiosité humaine est sans limite. — Elle ne va pas jusque-là, monsieur Baley. La race humaine, croyez-moi, garde un très puissant complexe : celui de Frankenstein. — Qu’est-ce que c’est que ça ? — C’est le nom du héros d’un roman de l’Epoque Médiévale, qui construisit un robot, lequel se retourna contre son créateur.\n\n                    Question : Le mot \"Frankenstein\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est entendu, dit Baley. Tout ce que vous venez de m’expliquer représente la situation sur Terre, n’est-ce pas ? — Oui, bien sûr. — Et dans les Mondes Extérieurs, en est-il de même ? Le Dr Gerrigel sembla perdre un peu de son assurance.\n\n                    Question : Le mot \"Terre\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — C’est entendu, dit Baley. Tout ce que vous venez de m’expliquer représente la situation sur Terre, n’est-ce pas ? — Oui, bien sûr. — Et dans les Mondes Extérieurs, en est-il de même ? Le Dr Gerrigel sembla perdre un peu de son assurance.\n\n                    Question : Le mot \"Mondes Extérieurs\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

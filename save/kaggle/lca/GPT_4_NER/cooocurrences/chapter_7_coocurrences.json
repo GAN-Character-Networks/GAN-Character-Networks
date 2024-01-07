@@ -1,0 +1,366 @@
+{
+    "cooccurences": [
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "Han Fastolfe"
+        ],
+        [
+            "Han Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Han Fastolfe"
+        ],
+        [
+            "Fastolfe",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Fastolfe",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Fastolfe"
+        ],
+        [
+            "Fastolfe",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Fastolfe"
+        ],
+        [
+            "Fastolfe",
+            "monsieur Baley"
+        ],
+        [
+            "Baley",
+            "R . Daneel Olivaw"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "R. Sammy"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Han Fastolfe"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Dr Sarton"
+        },
+        {
+            "word": "Sarton"
+        },
+        {
+            "word": "monsieur Baley"
+        },
+        {
+            "word": "R. Daneel Olivaw"
+        }
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "R. Daneel Olivaw",
+            "R. Daneel"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "monsieur Baley"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "R. Sammy"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Han Fastolfe",
+            "Fastolfe"
+        ],
+        [
+            "Dr Sarton",
+            "Sarton"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ],
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "R. Daneel"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "R. Daneel Olivaw",
+                "R. Daneel"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "monsieur Baley"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ]
+        ],
+        [
+            [
+                "Han Fastolfe",
+                "Fastolfe"
+            ],
+            [
+                "Baley",
+                "monsieur Baley"
+            ]
+        ]
+    ]
+}

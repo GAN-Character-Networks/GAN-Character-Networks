@@ -53,8 +53,8 @@
             "Hummin"
         ],
         [
-            "Hari",
-            "Hummin"
+            "Hummin",
+            "Randa"
         ],
         [
             "Seldon",
@@ -69,12 +69,16 @@
             "Hummin"
         ],
         [
-            "Seldon",
-            "Dors"
+            "Demerzel",
+            "Seldon"
+        ],
+        [
+            "Hummin",
+            "Seldon"
         ],
         [
             "Seldon",
-            "Leggen"
+            "Dors"
         ],
         [
             "Dors",
@@ -94,14 +98,6 @@
         ],
         [
             "Seldon",
-            "l’intéressé"
-        ],
-        [
-            "l’intéressé",
-            "Seldon"
-        ],
-        [
-            "Seldon",
             "Hummin"
         ],
         [
@@ -117,20 +113,16 @@
             "Dors"
         ],
         [
-            "Hari",
-            "Seldon"
-        ],
-        [
-            "Dors",
-            "Seldon"
-        ],
-        [
             "Hummin",
             "Seldon"
         ],
         [
             "Seldon",
             "Hummin"
+        ],
+        [
+            "Dors",
+            "Seldon"
         ],
         [
             "Dors",
@@ -191,19 +183,19 @@
     ],
     "entities": [
         {
-            "word": "Seldon"
+            "word": "Hummin"
         },
         {
-            "word": "Hummin"
+            "word": "Seldon"
         },
         {
             "word": "Dors"
         },
         {
-            "word": "Eto Demerzel"
+            "word": "Demerzel"
         },
         {
-            "word": "Demerzel"
+            "word": "Eto Demerzel"
         },
         {
             "word": "Leggen"
@@ -218,31 +210,28 @@
             "word": "Cléon"
         },
         {
-            "word": "l’intéressé"
+            "word": "Hari Seldon"
         },
         {
             "word": "Dors Venabili"
-        },
-        {
-            "word": "Hari Seldon"
         }
     ],
     "aliases": [
+        [
+            "Hummin"
+        ],
         [
             "Seldon",
             "Hari",
             "Hari Seldon"
         ],
         [
-            "Hummin"
-        ],
-        [
             "Dors",
             "Dors Venabili"
         ],
         [
-            "Eto Demerzel",
-            "Demerzel"
+            "Demerzel",
+            "Eto Demerzel"
         ],
         [
             "Leggen"
@@ -252,9 +241,6 @@
         ],
         [
             "Cléon"
-        ],
-        [
-            "l’intéressé"
         ]
     ],
     "cooccurences_aliases": [
@@ -290,14 +276,14 @@
                 "Hummin"
             ],
             [
-                "Eto Demerzel",
-                "Demerzel"
+                "Demerzel",
+                "Eto Demerzel"
             ]
         ],
         [
             [
-                "Eto Demerzel",
-                "Demerzel"
+                "Demerzel",
+                "Eto Demerzel"
             ],
             [
                 "Hummin"
@@ -308,8 +294,8 @@
                 "Hummin"
             ],
             [
-                "Eto Demerzel",
-                "Demerzel"
+                "Demerzel",
+                "Eto Demerzel"
             ]
         ],
         [
@@ -383,6 +369,25 @@
         ],
         [
             [
+                "Hummin"
+            ],
+            [
+                "Randa"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Demerzel",
+                "Eto Demerzel"
+            ]
+        ],
+        [
+            [
                 "Seldon",
                 "Hari",
                 "Hari Seldon"
@@ -393,20 +398,8 @@
         ],
         [
             [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
-                "Eto Demerzel",
-                "Demerzel"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
+                "Demerzel",
+                "Eto Demerzel"
             ],
             [
                 "Hummin"
@@ -414,11 +407,23 @@
         ],
         [
             [
-                "Eto Demerzel",
-                "Demerzel"
+                "Demerzel",
+                "Eto Demerzel"
             ],
             [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
                 "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
             ]
         ],
         [
@@ -430,16 +435,6 @@
             [
                 "Dors",
                 "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
-                "Leggen"
             ]
         ],
         [
@@ -487,26 +482,6 @@
                 "Hari Seldon"
             ],
             [
-                "l’intéressé"
-            ]
-        ],
-        [
-            [
-                "l’intéressé"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
                 "Hummin"
             ]
         ],
@@ -534,6 +509,26 @@
         ],
         [
             [
+                "Hummin"
+            ],
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ]
+        ],
+        [
+            [
+                "Seldon",
+                "Hari",
+                "Hari Seldon"
+            ],
+            [
+                "Hummin"
+            ]
+        ],
+        [
+            [
                 "Dors",
                 "Dors Venabili"
             ],
@@ -541,26 +536,6 @@
                 "Seldon",
                 "Hari",
                 "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hummin"
-            ],
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Seldon",
-                "Hari",
-                "Hari Seldon"
-            ],
-            [
-                "Hummin"
             ]
         ],
         [

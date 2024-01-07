@@ -1,0 +1,99 @@
+{
+    "final_gpt_entities": [
+        "Baley",
+        "Daneel",
+        "R. Daneel",
+        "Sarton",
+        "Enderby",
+        "Elijah",
+        "Julius",
+        "Lije",
+        "Fastolfe",
+        "Jessie",
+        "Bentley"
+    ],
+    "init_gpt_entities": [
+        "Spacetown",
+        "Bentley",
+        "Sarton",
+        "Elle",
+        "New-Yorkais",
+        "Fastolfe",
+        "Don Quichotte",
+        "Baley",
+        "Daneel",
+        "Lije",
+        "Julius",
+        "Jessie",
+        "Enderby",
+        "R. Daneel",
+        "Elijah",
+        "Spaciens"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Un long moment s’écoula sans que R. Daneel dît un mot. Un bruit léger se fit entendre, au loin, s’enfla pendant quelques secondes, puis disparut. Ce devait être une autre voiture de police qui passait à plus d’un kilomètre de là, ou encore des pompiers se hâtant vers quelque incendie. Et Baley se demanda s’il y avait encore à New York un homme connaissant à fond toutes les autoroutes qui serpentaient au sein de la Cité. A aucun moment du jour ou de la nuit, le réseau de ces voies de communication ne pouvait être complètement vide, et cependant il devait y avoir des sections que personne n’avait utilisées depuis des années.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Un long moment s’écoula sans que R. Daneel dît un mot. Un bruit léger se fit entendre, au loin, s’enfla pendant quelques secondes, puis disparut. Ce devait être une autre voiture de police qui passait à plus d’un kilomètre de là, ou encore des pompiers se hâtant vers quelque incendie. Et Baley se demanda s’il y avait encore à New York un homme connaissant à fond toutes les autoroutes qui serpentaient au sein de la Cité. A aucun moment du jour ou de la nuit, le réseau de ces voies de communication ne pouvait être complètement vide, et cependant il devait y avoir des sections que personne n’avait utilisées depuis des années.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Un long moment s’écoula sans que R. Daneel dît un mot. Un bruit léger se fit entendre, au loin, s’enfla pendant quelques secondes, puis disparut. Ce devait être une autre voiture de police qui passait à plus d’un kilomètre de là, ou encore des pompiers se hâtant vers quelque incendie. Et Baley se demanda s’il y avait encore à New York un homme connaissant à fond toutes les autoroutes qui serpentaient au sein de la Cité. A aucun moment du jour ou de la nuit, le réseau de ces voies de communication ne pouvait être complètement vide, et cependant il devait y avoir des sections que personne n’avait utilisées depuis des années.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — La cérébroanalyse est un procédé grâce auquel on interprète les champs électromagnétiques des cellules cérébrales humaines. — Ah, vraiment ? fit Baley, peu enthousiaste. Et qu’en avez- vous tiré ? — Elle nous a renseignés sur le tempérament et les sentiments du commissaire Enderby, et nous en avons conclu qu’il est incapable d’avoir tué le Dr Sarton.\n\n                    Question : Le mot \"Sarton\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — La cérébroanalyse est un procédé grâce auquel on interprète les champs électromagnétiques des cellules cérébrales humaines. — Ah, vraiment ? fit Baley, peu enthousiaste. Et qu’en avez- vous tiré ? — Elle nous a renseignés sur le tempérament et les sentiments du commissaire Enderby, et nous en avons conclu qu’il est incapable d’avoir tué le Dr Sarton.\n\n                    Question : Le mot \"Elle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — La cérébroanalyse est un procédé grâce auquel on interprète les champs électromagnétiques des cellules cérébrales humaines. — Ah, vraiment ? fit Baley, peu enthousiaste. Et qu’en avez- vous tiré ? — Elle nous a renseignés sur le tempérament et les sentiments du commissaire Enderby, et nous en avons conclu qu’il est incapable d’avoir tué le Dr Sarton.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il va sans dire que tous les Spaciens ont consenti à se faire cérébroanalyser. — Ce qui a, j’imagine, montré qu’ils sont tous incapables de commettre un meurtre. — Cela ne peut faire de doute, et c’est pourquoi nous savons que l’assassin est un New-Yorkais. — Dans ces conditions, nous n’avons qu’à soumettre tous mes compatriotes à ce charmant petit examen. — Cela ne nous servirait à rien, Elijah.\n\n                    Question : Le mot \"New-Yorkais\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il va sans dire que tous les Spaciens ont consenti à se faire cérébroanalyser. — Ce qui a, j’imagine, montré qu’ils sont tous incapables de commettre un meurtre. — Cela ne peut faire de doute, et c’est pourquoi nous savons que l’assassin est un New-Yorkais. — Dans ces conditions, nous n’avons qu’à soumettre tous mes compatriotes à ce charmant petit examen. — Cela ne nous servirait à rien, Elijah.\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il va sans dire que tous les Spaciens ont consenti à se faire cérébroanalyser. — Ce qui a, j’imagine, montré qu’ils sont tous incapables de commettre un meurtre. — Cela ne peut faire de doute, et c’est pourquoi nous savons que l’assassin est un New-Yorkais. — Dans ces conditions, nous n’avons qu’à soumettre tous mes compatriotes à ce charmant petit examen. — Cela ne nous servirait à rien, Elijah.\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Car nous pourrions trouver des millions de gens capables, par tempérament, de commettre le crime. — Des millions !... grommela Baley. Ce disant, il revit en pensée la foule qui, en ce jour tragique de sa jeunesse, avait hurlé pendant des heures sa haine contre les « sales Spaciens », et il se remémora également la scène qui, la veille au soir, l’avait tellement impressionné dans le magasin de chaussures. « Pauvre Julius !\n\n                    Question : Le mot \"Julius\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : se dit-il. Lui, un suspect ! » Il entendait encore le commissaire principal lui décrivant ce qui s’était passé après la découverte du cadavre : comment les choses se passeraient, si des hommes et des robots entreprenaient ensemble d’édifier une nouvelle civilisation dans une nouvelle planète ; et il envisagea cette éventualité sans aucune passion. Quand Baley pénétra dans le bureau de son chef, celui-ci examinait quelques documents, sur lesquels il inscrivait, par moments, quelques annotations. — Vous avez vraiment fait une gaffe gigantesque à Spacetown, Lije !\n\n                    Question : Le mot \"Spacetown\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : se dit-il. Lui, un suspect ! » Il entendait encore le commissaire principal lui décrivant ce qui s’était passé après la découverte du cadavre : comment les choses se passeraient, si des hommes et des robots entreprenaient ensemble d’édifier une nouvelle civilisation dans une nouvelle planète ; et il envisagea cette éventualité sans aucune passion. Quand Baley pénétra dans le bureau de son chef, celui-ci examinait quelques documents, sur lesquels il inscrivait, par moments, quelques annotations. — Vous avez vraiment fait une gaffe gigantesque à Spacetown, Lije !\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : dit le commissaire. Tout le duel verbal qu’il avait soutenu contre Fastolfe revint à l’esprit de Baley, et son long visage prit une expression particulièrement lugubre. — Je le reconnais, monsieur le commissaire, dit-il, et j’en suis désolé. Enderby leva les yeux vers son subordonné ; à travers ses lunettes, son regard semblait étonnamment clair ; à n’en pas douter, le commissaire paraissait beaucoup plus sûr de lui qu’à aucun moment des trente dernières heures. — Oh !\n\n                    Question : Le mot \"Fastolfe\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : cela n’a pas grande importance, répliqua-t-il. Comme Fastolfe n’a pas paru en être offusqué, nous n’en parlerons plus. Ces Spaciens sont vraiment des gens déconcertants, et vous ne méritez pas votre veine, Lije ! Mais la prochaine fois que vous voudrez jouer les Don Quichotte, vous commencerez par m’en parler ! Baley acquiesça de la tête.\n\n                    Question : Le mot \"Don Quichotte\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Comptez-vous les contrôler tous, Daneel ? — Ce serait évidemment impossible, Elijah. — Voyez-vous, Daneel, presque tous les Terriens sont, d’une façon ou d’une autre, des Médiévalistes : ainsi, le commissaire, Jessie, ou moi-même. Prenez, par exemple, le commissaire... Il fut sur le point de parler des lunettes de son chef, mais il se rappela que les Terriens devaient se tenir les coudes, et qu’il ne fallait surtout pas qu’Enderby perdît la face, tant au sens propre qu’au sens figuré. Aussi reprit-il, après avoir marqué un temps : — Regardez ce qu’il met sur son nez... devant ses yeux... — Oui, répliqua R. Daneel.\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Si vraiment certains New-Yorkais partaient pour de nouveaux mondes afin d’y édifier une nouvelle civilisation, si Bentley, par exemple, son propre fils, quittait ainsi la Terre un jour, arriverait-il à travailler et à vivre en compagnie de robots sans en être gêné ? Pourquoi pas, puisque les Spaciens vivaient eux- mêmes de cette façon-là ?... — Elijah ! murmura R. Daneel. Est-ce mal élevé d’observer son voisin de table pendant qu’il mange ?\n\n                    Question : Le mot \"Bentley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

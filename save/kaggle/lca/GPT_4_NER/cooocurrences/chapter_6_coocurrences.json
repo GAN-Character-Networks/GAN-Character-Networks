@@ -1,0 +1,242 @@
+{
+    "cooccurences": [
+        [
+            "R . Daneel Olivaw",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Baley",
+            "Julius Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Baley"
+        ],
+        [
+            "Jessie",
+            "Daneel"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Jessie"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Elijah Baley"
+        },
+        {
+            "word": "R. Daneel Olivaw"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Bentley"
+        }
+    ],
+    "aliases": [
+        [
+            "Daneel",
+            "R. Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Elijah Baley"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Julius Enderby",
+            "Enderby"
+        ],
+        [
+            "Bentley"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "Julius Enderby",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Julius Enderby",
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Julius Enderby",
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Julius Enderby",
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah Baley"
+            ],
+            [
+                "Julius Enderby",
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Julius Enderby",
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Daneel",
+                "R. Daneel Olivaw"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Jessie"
+            ]
+        ]
+    ]
+}

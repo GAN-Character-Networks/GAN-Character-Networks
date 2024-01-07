@@ -1,0 +1,599 @@
+{
+    "cooccurences": [
+        [
+            "Jézabel",
+            "Baley"
+        ],
+        [
+            "Jézabel",
+            "Elie 2"
+        ],
+        [
+            "Baley",
+            "Elie 2"
+        ],
+        [
+            "Elie 2",
+            "Elie"
+        ],
+        [
+            "Elie",
+            "Jézabel"
+        ],
+        [
+            "Elijah",
+            "Elie"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Ahab",
+            "Jézabel"
+        ],
+        [
+            "Ahab",
+            "Jéhoram"
+        ],
+        [
+            "Jézabel",
+            "Jéhoram"
+        ],
+        [
+            "Jézabel",
+            "Jéhu"
+        ],
+        [
+            "Jéhoram",
+            "Jéhu"
+        ],
+        [
+            "Jéhu",
+            "Jézabel"
+        ],
+        [
+            "Jessie",
+            "Naboth"
+        ],
+        [
+            "Jessie",
+            "Lije"
+        ],
+        [
+            "Naboth",
+            "Lije"
+        ],
+        [
+            "Naboth",
+            "Jézabel"
+        ],
+        [
+            "Lije",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Naboth"
+        ],
+        [
+            "Ahab",
+            "Jézabel"
+        ],
+        [
+            "Jézabel",
+            "Ahab"
+        ],
+        [
+            "Baley",
+            "Bentley Baley"
+        ],
+        [
+            "Jessie",
+            "Daneel Olivaw"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Jessie",
+            "monsieur Olivaw"
+        ],
+        [
+            "monsieur Olivaw",
+            "Lije"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "monsieur Olivaw",
+            "Lije"
+        ],
+        [
+            "monsieur Olivaw",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Papa"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "Papa",
+            "Lije"
+        ],
+        [
+            "Lije",
+            "Daneel Olivaw"
+        ],
+        [
+            "Daneel Olivaw",
+            "monsieur Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "monsieur Olivaw"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "monsieur Olivaw",
+            "Baley"
+        ],
+        [
+            "monsieur Olivaw",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Jessica"
+        },
+        {
+            "word": "Jézabel"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Elie 2"
+        },
+        {
+            "word": "Elie"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "Lije Baley"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Jéhoram"
+        },
+        {
+            "word": "Jéhu"
+        },
+        {
+            "word": "Ahab"
+        },
+        {
+            "word": "Naboth"
+        },
+        {
+            "word": "Bentley Baley"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Daneel Olivaw"
+        },
+        {
+            "word": "Olivaw"
+        },
+        {
+            "word": "monsieur Olivaw"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Papa"
+        }
+    ],
+    "aliases": [
+        [
+            "Jessie"
+        ],
+        [
+            "Jessica"
+        ],
+        [
+            "Jézabel"
+        ],
+        [
+            "Baley",
+            "Lije",
+            "Bentley Baley",
+            "Lije Baley"
+        ],
+        [
+            "Elie 2",
+            "Elie"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Julius Enderby"
+        ],
+        [
+            "Jéhoram"
+        ],
+        [
+            "Jéhu"
+        ],
+        [
+            "Ahab"
+        ],
+        [
+            "Naboth"
+        ],
+        [
+            "Daneel",
+            "Olivaw",
+            "monsieur Olivaw",
+            "R. Daneel",
+            "Daneel Olivaw"
+        ],
+        [
+            "Papa"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Jézabel"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Jézabel"
+            ],
+            [
+                "Elie 2",
+                "Elie"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ],
+            [
+                "Elie 2",
+                "Elie"
+            ]
+        ],
+        [
+            [
+                "Elie 2",
+                "Elie"
+            ],
+            [
+                "Jézabel"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Elie 2",
+                "Elie"
+            ]
+        ],
+        [
+            [
+                "Julius Enderby"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Ahab"
+            ],
+            [
+                "Jézabel"
+            ]
+        ],
+        [
+            [
+                "Ahab"
+            ],
+            [
+                "Jéhoram"
+            ]
+        ],
+        [
+            [
+                "Jézabel"
+            ],
+            [
+                "Jéhoram"
+            ]
+        ],
+        [
+            [
+                "Jézabel"
+            ],
+            [
+                "Jéhu"
+            ]
+        ],
+        [
+            [
+                "Jéhoram"
+            ],
+            [
+                "Jéhu"
+            ]
+        ],
+        [
+            [
+                "Jéhu"
+            ],
+            [
+                "Jézabel"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Naboth"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Naboth"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Naboth"
+            ],
+            [
+                "Jézabel"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ],
+            [
+                "Jézabel"
+            ]
+        ],
+        [
+            [
+                "Jézabel"
+            ],
+            [
+                "Naboth"
+            ]
+        ],
+        [
+            [
+                "Ahab"
+            ],
+            [
+                "Jézabel"
+            ]
+        ],
+        [
+            [
+                "Jézabel"
+            ],
+            [
+                "Ahab"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ],
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Papa"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ],
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ]
+        ],
+        [
+            [
+                "Daneel",
+                "Olivaw",
+                "monsieur Olivaw",
+                "R. Daneel",
+                "Daneel Olivaw"
+            ],
+            [
+                "Baley",
+                "Lije",
+                "Bentley Baley",
+                "Lije Baley"
+            ]
+        ]
+    ]
+}

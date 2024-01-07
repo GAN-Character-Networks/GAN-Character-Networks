@@ -1,0 +1,124 @@
+{
+    "final_gpt_entities": [
+        "R. Daneel",
+        "Baley",
+        "Jessie",
+        "Daneel",
+        "Lije",
+        "Lizzy",
+        "Elisabeth",
+        "Jane Myers",
+        "Jézabel",
+        "Bentley",
+        "Klemin",
+        "Joseph Klemin",
+        "Jésus",
+        "Elijah",
+        "Francis Clousarr"
+    ],
+    "init_gpt_entities": [
+        "Klemin",
+        "Francis Clousarr",
+        "Elijah",
+        "R. Daneel",
+        "Ils",
+        "Elisabeth",
+        "Jésus",
+        "Bible",
+        "Spaciens",
+        "Joseph Klemin",
+        "Jézabel",
+        "Bentley",
+        "Ici",
+        "ici",
+        "Baley",
+        "Hier",
+        "Jane Myers",
+        "Jessie",
+        "Lije",
+        "Daneel",
+        "Lizzy"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  — Est-ce que... est-ce que c’est le robot ?... Elle leva une main devant ses yeux et s’arracha des bras de Baley, puis, respirant profondément, elle finit par répéter, en s’efforçant de sourire : — C’est bien vous n’est-ce pas ? — Oui, Jessie, fit R. Daneel. — Ca ne vous fait rien que je vous traite de robot ? — Mais non, Jessie, puisque c’est ce que je suis !\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  — Est-ce que... est-ce que c’est le robot ?... Elle leva une main devant ses yeux et s’arracha des bras de Baley, puis, respirant profondément, elle finit par répéter, en s’efforçant de sourire : — C’est bien vous n’est-ce pas ? — Oui, Jessie, fit R. Daneel. — Ca ne vous fait rien que je vous traite de robot ? — Mais non, Jessie, puisque c’est ce que je suis !\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  — Est-ce que... est-ce que c’est le robot ?... Elle leva une main devant ses yeux et s’arracha des bras de Baley, puis, respirant profondément, elle finit par répéter, en s’efforçant de sourire : — C’est bien vous n’est-ce pas ? — Oui, Jessie, fit R. Daneel. — Ca ne vous fait rien que je vous traite de robot ? — Mais non, Jessie, puisque c’est ce que je suis !\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  — Est-ce que... est-ce que c’est le robot ?... Elle leva une main devant ses yeux et s’arracha des bras de Baley, puis, respirant profondément, elle finit par répéter, en s’efforçant de sourire : — C’est bien vous n’est-ce pas ? — Oui, Jessie, fit R. Daneel. — Ca ne vous fait rien que je vous traite de robot ? — Mais non, Jessie, puisque c’est ce que je suis !\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Et moi, ça ne me fait rien qu’on me traite d’imbécile, d’idiote et de complice d’agitateurs, parce que c’est ce que je suis. — Jessie ! gémit Baley. — A quoi bon me taire, Lije ? reprit-elle.\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Nous ne pouvons la garder ici. Quelle heure est-il ? — 14 h 45, répliqua le robot automatiquement, sans même consulter de montre. — Le commissaire principal peut rentrer d’un moment à l’autre. Commandez une voiture, Daneel, et nous parlerons de tout cela sur l’autoroute.\n\n                    Question : Le mot \"ici\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ecoute, Lije, fit-elle en regardant autour d’elle, est-il bien nécessaire de rester ici ? — Oui, jusqu’à ce que tu nous aies répondu. Alors, commence par le commencement. Qu’est-ce que tu es venue me dire ? — Quoi qu’il en soit, reprit-elle, Lizzy parlait tout le temps d’un certain jour qui ne manquerait pas d’arriver.\n\n                    Question : Le mot \"Lizzy\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : En prévision de ce jour, il fallait se tenir les coudes. Elle disait que c’était la faute des Spaciens, qui tenaient à maintenir la Terre dans un état de faiblesse et de décadence. La décadence, c’était un de ses grands mots. Elle examinait les menus que je préparais pour la semaine suivante, et déclarait avec mépris : « Décadent ! Décadent !\n\n                    Question : Le mot \"Spaciens\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Jane Myers l’imitait à la perfection et nous faisait mourir de rire à la cuisine. Quant à Elisabeth, elle répétait sans se lasser qu’un jour viendrait où nous détruirions les Cités, où nous retournerions à la terre, et où nous réglerions leur compte à ces Spaciens, qui essaient de nous enchaîner pour toujours aux Cités en nous imposant leurs robots. Mais elle n’appelait jamais ceux-ci des robots : elle disait que c’était des monstres mécaniques sans âme. Pardonnez-moi de répéter le terme, Daneel. — Je ne connais pas la signification de cette expression, Jessie ; mais, de toute façon, soyez sûre que vous êtes excusée.\n\n                    Question : Le mot \"Elisabeth\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Jane Myers l’imitait à la perfection et nous faisait mourir de rire à la cuisine. Quant à Elisabeth, elle répétait sans se lasser qu’un jour viendrait où nous détruirions les Cités, où nous retournerions à la terre, et où nous réglerions leur compte à ces Spaciens, qui essaient de nous enchaîner pour toujours aux Cités en nous imposant leurs robots. Mais elle n’appelait jamais ceux-ci des robots : elle disait que c’était des monstres mécaniques sans âme. Pardonnez-moi de répéter le terme, Daneel. — Je ne connais pas la signification de cette expression, Jessie ; mais, de toute façon, soyez sûre que vous êtes excusée.\n\n                    Question : Le mot \"Jane Myers\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Est-ce que tu te rappelles, Lije, reprit-elle, la discussion que nous avons eue autrefois, à propos... à propos de Jézabel ? métier et mes opinions personnelles étaient deux choses complètement distinctes. Alors elle a fini par me répondre : « Bon ! Eh bien, j’en parlerai à quelqu’un. » Un mois plus tard, elle est venue me voir, et elle m’a dit : « C’est d’accord, vous pouvez venir.\n\n                    Question : Le mot \"Jézabel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Dans un sens, il éprouva un soulagement à voir se dissiper ses incertitudes. — Justement ici, répondit-elle. Ici même ! — Qu’est-ce que tu dis ? Là où nous sommes ?\n\n                    Question : Le mot \"Ici\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Si on tue quelqu’un, si on détruit quelque chose, Lije va se faire tuer, Bentley aussi peut- être, et ce sera ma faute, et il faudra que j’aille en prison !... » Elle s’effondra en sanglotant sur l’épaule de Baley, qui la maintint serrée contre lui, et, pinçant les lèvres, regarda longuement R. Daneel ; celui-ci, ne manifestant pas la moindre émotion, observait calmement la scène. — Et maintenant, Jessie, dit son mari, je voudrais que tu réfléchisses un peu. Qui était le chef de ton groupe ? Elle se calma petit à petit, et tamponna ses yeux avec son mouchoir.\n\n                    Question : Le mot \"Bentley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Il y avait un nommé Joseph Klemin, mais, en réalité, il n’avait aucune autorité : il était petit, un mètre soixante-cinq environ, et je crois que, dans sa famille, on lui menait la vie dure. Je ne pense pas qu’il soit dangereux. Tu ne vas pas l’arrêter, Lije, sur mon témoignage ? s’écria-t-elle, confuse et tourmentée. — Pour l’instant, je n’ai pas l’intention d’arrêter qui que ce soit.\n\n                    Question : Le mot \"Klemin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Il y avait un nommé Joseph Klemin, mais, en réalité, il n’avait aucune autorité : il était petit, un mètre soixante-cinq environ, et je crois que, dans sa famille, on lui menait la vie dure. Je ne pense pas qu’il soit dangereux. Tu ne vas pas l’arrêter, Lije, sur mon témoignage ? s’écria-t-elle, confuse et tourmentée. — Pour l’instant, je n’ai pas l’intention d’arrêter qui que ce soit.\n\n                    Question : Le mot \"Joseph Klemin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Il faut vous dire, de plus, que la Bible joue un grand rôle dans la vie intellectuelle et dans les émotions des hommes, Daneel. — Qu’est-ce que la Bible ? Sur le moment, la question surprit Baley ; mais aussitôt il s’étonna lui-même d’en avoir été décontenancé. Il savait fort bien que la société spacienne était régie par une philosophie essentiellement matérialiste, en sorte que R. Daneel ne pouvait pas avoir plus de connaissances religieuses que les Spaciens eux-mêmes. — La Bible, répliqua-t-il sèchement, est un livre sacré : la moitié de la population terrestre la vénère.\n\n                    Question : Le mot \"Bible\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Oui. — Alors, pourquoi n’a-t-elle pas été lapidée ? — Aucun de ses accusateurs ne s’en est senti le droit, après ce que Jésus leur avait déclaré. Cette histoire sert à démontrer qu’il y a quelque chose de plus fort que le sens et le goût de la justice, tels qu’on vous les a inculqués, Daneel. L’homme est capable de grands élans de charité, et il peut aussi pardonner.\n\n                    Question : Le mot \"Jésus\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Ce sont là deux choses que vous ne connaissez pas. — Non, Elijah. On ne m’a pas appris ces mots-là. — Je le sais, murmura Baley. Je le sais bien !\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il démarra brusquement et fonça à toute vitesse sur l’autoroute, si vite qu’il se sentit pressé contre le dossier de son siège. — Où allons-nous ? demanda R. Daneel. — A l’usine de levure, pour obtenir la vérité du dénommé Francis Clousarr, conspirateur. — Avez-vous une méthode particulière pour cela, Elijah ?\n\n                    Question : Le mot \"Francis Clousarr\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Non, pas moi, Daneel ! Pas précisément ! Mais vous, vous en avez une, et elle est très pratique ! Ils se hâtèrent vers le but de leur enquête.\n\n                    Question : Le mot \"Ils\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

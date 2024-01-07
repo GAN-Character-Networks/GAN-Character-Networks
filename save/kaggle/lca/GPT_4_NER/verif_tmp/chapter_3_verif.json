@@ -1,0 +1,88 @@
+{
+    "final_gpt_entities": [
+        "Daneel",
+        "Baley",
+        "R. Daneel",
+        "Lije",
+        "Boris",
+        "l’homme",
+        "Elle",
+        "celle",
+        "un robot",
+        "Elijah"
+    ],
+    "init_gpt_entities": [
+        "Elijah",
+        "RO-BOTS",
+        "celle",
+        "un robot",
+        "Son chapeau",
+        "un statut",
+        "Daneel",
+        "Baley",
+        "l’homme",
+        "Lije",
+        "Boris",
+        "R. Daneel",
+        "Elle",
+        "un"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : avaient créé l’incident de s’en aller ; mais c’était là un inconvénient moins grave... Baley ouvrit la porte en se servant de son passe-partout de policier. A sa vive surprise, il constata que R. Daneel était toujours sur ses talons, et qu’il remettait en poche un autre passe-partout qu’il possédait ; or, Baley dut convenir que cet objet-là était plus petit, mieux fait et plus pratique que celui en usage dans les services de la police new-yorkaise. Le bottier vint à eux, fort agité, et leur dit d’une voix forte : — Messieurs, c’est la Ville qui m’a imposé ces employés. Je suis absolument dans mon droit. Trois robots se tenaient, raides comme des piquets, au fond du magasin.\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : avaient créé l’incident de s’en aller ; mais c’était là un inconvénient moins grave... Baley ouvrit la porte en se servant de son passe-partout de policier. A sa vive surprise, il constata que R. Daneel était toujours sur ses talons, et qu’il remettait en poche un autre passe-partout qu’il possédait ; or, Baley dut convenir que cet objet-là était plus petit, mieux fait et plus pratique que celui en usage dans les services de la police new-yorkaise. Le bottier vint à eux, fort agité, et leur dit d’une voix forte : — Messieurs, c’est la Ville qui m’a imposé ces employés. Je suis absolument dans mon droit. Trois robots se tenaient, raides comme des piquets, au fond du magasin.\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : avaient créé l’incident de s’en aller ; mais c’était là un inconvénient moins grave... Baley ouvrit la porte en se servant de son passe-partout de policier. A sa vive surprise, il constata que R. Daneel était toujours sur ses talons, et qu’il remettait en poche un autre passe-partout qu’il possédait ; or, Baley dut convenir que cet objet-là était plus petit, mieux fait et plus pratique que celui en usage dans les services de la police new-yorkaise. Le bottier vint à eux, fort agité, et leur dit d’une voix forte : — Messieurs, c’est la Ville qui m’a imposé ces employés. Je suis absolument dans mon droit. Trois robots se tenaient, raides comme des piquets, au fond du magasin.\n\n                    Question : Le mot \"R. Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : avaient créé l’incident de s’en aller ; mais c’était là un inconvénient moins grave... Baley ouvrit la porte en se servant de son passe-partout de policier. A sa vive surprise, il constata que R. Daneel était toujours sur ses talons, et qu’il remettait en poche un autre passe-partout qu’il possédait ; or, Baley dut convenir que cet objet-là était plus petit, mieux fait et plus pratique que celui en usage dans les services de la police new-yorkaise. Le bottier vint à eux, fort agité, et leur dit d’une voix forte : — Messieurs, c’est la Ville qui m’a imposé ces employés. Je suis absolument dans mon droit. Trois robots se tenaient, raides comme des piquets, au fond du magasin.\n\n                    Question : Le mot \"un\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Qu’est-ce que vous en dites ? Vous êtes fou, ma parole ! Ce ne sont pas des hommes que vous employez. Ce sont des RO-BOTS, hurla-t-elle en détachant avec soin les dernières syllabes. Et, pour le cas où vous ne le sauriez pas, je vais vous dire ce qu’ils font : ils volent aux hommes leur place.\n\n                    Question : Le mot \"RO-BOTS\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’est pour ça que le gouvernement les protège. Ils travaillent pour rien, et à cause de et de cette existence communautaire dans des conditions tout juste supportables. Il n’avait aucun souvenir de sa mère, car elle n’avait pas survécu longtemps à cette ruine ; mais il se rappelait bien son père, un homme au visage bouffi et morose, qui parfois parlait du passé d’une voix rauque et saccadée. Lije avait sept ans quand son père, toujours déclassé, était mort à son tour. Le jeune Baley et ses deux sœurs aînées furent admis à l’orphelinat de la ville, car le frère de leur mère, l’oncle Boris, était trop pauvre pour les prendre à sa charge.\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : C’est pour ça que le gouvernement les protège. Ils travaillent pour rien, et à cause de et de cette existence communautaire dans des conditions tout juste supportables. Il n’avait aucun souvenir de sa mère, car elle n’avait pas survécu longtemps à cette ruine ; mais il se rappelait bien son père, un homme au visage bouffi et morose, qui parfois parlait du passé d’une voix rauque et saccadée. Lije avait sept ans quand son père, toujours déclassé, était mort à son tour. Le jeune Baley et ses deux sœurs aînées furent admis à l’orphelinat de la ville, car le frère de leur mère, l’oncle Boris, était trop pauvre pour les prendre à sa charge.\n\n                    Question : Le mot \"Boris\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : cria la femme, indignée. Vous vous figurez peut-être que vous pouvez me parler comme si j’étais une traînée ? Mais il est peut-être temps, aussi, que le gouvernement comprenne que les robots ne sont pas les seuls — Au nom de la loi monsieur, répéta alors R. Daneel, imperturbable, je vous ordonne d’ouvrir cette porte. — C’est bien, rétorqua l’homme, furieux. Mais je vous préviens que je tiendrai la ville pour responsable de tous les dommages qui pourraient survenir.\n\n                    Question : Le mot \"l’homme\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Allons ! » inintelligible. Son chapeau bascula sur son visage et ses cris se perdirent dans la cohue, cependant que le bottier hurlait : — Arrêtez-les, inspecteur ! Arrêtez-les ! Ce fut alors que R. Daneel parla.\n\n                    Question : Le mot \"Son chapeau\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Sans effort apparent, il éleva la voix sensiblement plus haut qu’une voix humaine : — Il va nous tuer ! Moi, je n’ai rien fait ! Oh ! laissez-moi sortir ! Elle fit demi-tour, mais se trouva nez à nez avec un mur vivant.\n\n                    Question : Le mot \"Elle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Quant à cette femme... — Non, non ! hurla celle qui avait causé tout ce désordre. Je viens de vous dire que je n’ai rien fait ! Je n’avais aucune mauvaise intention. Je ne veux même pas de chaussures !\n\n                    Question : Le mot \"celle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il va y avoir un ou même plusieurs meurtres, et ce sera la pire des histoires. Mais voilà ce que c’est de m’avoir imposé un robot comme associé, et de lui avoir donné un statut légal, équivalent au mien ! » Mais cela ne lui servit de rien, car il ne parvint pas à se convaincre lui-même. Il aurait fort bien pu arrêter R. Daneel dès que celui-ci avait commencé à intervenir, et appeler du renfort par téléphone. Au lieu de cela, il avait laissé le robot prendre la responsabilité d’agir, et il en avait lâchement ressenti un soulagement.\n\n                    Question : Le mot \"un robot\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il va y avoir un ou même plusieurs meurtres, et ce sera la pire des histoires. Mais voilà ce que c’est de m’avoir imposé un robot comme associé, et de lui avoir donné un statut légal, équivalent au mien ! » Mais cela ne lui servit de rien, car il ne parvint pas à se convaincre lui-même. Il aurait fort bien pu arrêter R. Daneel dès que celui-ci avait commencé à intervenir, et appeler du renfort par téléphone. Au lieu de cela, il avait laissé le robot prendre la responsabilité d’agir, et il en avait lâchement ressenti un soulagement.\n\n                    Question : Le mot \"un statut\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Je ne m’en serais servi sous aucun prétexte, Elijah, et vous le savez fort bien. Je suis incapable de faire du mal à un être humain. Mais, comme vous l’avez vu, je n’ai pas eu à tirer ; je n’ai jamais pensé que j’y serais contraint. — Que vous n’ayez pas eu à tirer, c’est une pure question de chance ! Eh bien, ne courez pas cette chance une autre fois !\n\n                    Question : Le mot \"Elijah\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}

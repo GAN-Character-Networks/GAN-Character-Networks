@@ -2,14 +2,14 @@
     "cooccurences": [
         [
             "Seldon",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie Quarante - trois"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois",
+            "Goutte - de - Pluie Quarante - trois",
             "Seldon"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois",
+            "Goutte - de - Pluie Quarante - trois",
             "Seldon"
         ],
         [
@@ -21,12 +21,12 @@
             "La Sœur"
         ],
         [
-            "Goutte-de-Pluie Quarante-trois",
+            "Goutte - de - Pluie Quarante - trois",
             "Seldon"
         ],
         [
             "Seldon",
-            "Goutte-de-Pluie Quarante-trois"
+            "Goutte - de - Pluie Quarante - trois"
         ],
         [
             "Dors Venabili",
@@ -41,42 +41,34 @@
             "Seldon"
         ],
         [
-            "Seldon",
-            "Hari"
-        ],
-        [
-            "Seldon",
-            "Dors"
-        ],
-        [
             "Hari",
             "Dors"
         ],
         [
             "Hari",
-            "Goutte-de-Pluie"
+            "Goutte - de - Pluie"
         ],
         [
             "Dors",
-            "Goutte-de-Pluie"
+            "Goutte - de - Pluie"
         ],
         [
             "Dors",
-            "Goutte-de-Pluie Quarante-cinq"
+            "Goutte - de - Pluie Quarante - cinq"
         ]
     ],
     "entities": [
-        {
-            "word": "Hari"
-        },
-        {
-            "word": "Seldon"
-        },
         {
             "word": "Goutte-de-Pluie Quarante-trois"
         },
         {
             "word": "Hari Seldon"
+        },
+        {
+            "word": "Hari"
+        },
+        {
+            "word": "Seldon"
         },
         {
             "word": "Goutte-de-Pluie"
@@ -96,14 +88,14 @@
     ],
     "aliases": [
         [
-            "Hari",
-            "Seldon",
-            "Hari Seldon"
-        ],
-        [
             "Goutte-de-Pluie Quarante-trois",
             "Goutte-de-Pluie Quarante-cinq",
             "Goutte-de-Pluie"
+        ],
+        [
+            "Hari Seldon",
+            "Seldon",
+            "Hari"
         ],
         [
             "Dors",
@@ -116,55 +108,19 @@
     "cooccurences_aliases": [
         [
             [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
-            ],
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
                 "La Sœur"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ],
         [
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ],
             [
                 "La Sœur"
@@ -172,26 +128,13 @@
         ],
         [
             [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
+                "Dors",
+                "Dors Venabili"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
+                "Hari"
             ]
         ],
         [
@@ -200,76 +143,20 @@
                 "Dors Venabili"
             ],
             [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
+                "Hari"
             ]
         ],
         [
             [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Hari",
+                "Hari Seldon",
                 "Seldon",
-                "Hari Seldon"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
+                "Hari"
             ],
             [
                 "Dors",
                 "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Dors",
-                "Dors Venabili"
-            ]
-        ],
-        [
-            [
-                "Hari",
-                "Seldon",
-                "Hari Seldon"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
-            ]
-        ],
-        [
-            [
-                "Dors",
-                "Dors Venabili"
-            ],
-            [
-                "Goutte-de-Pluie Quarante-trois",
-                "Goutte-de-Pluie Quarante-cinq",
-                "Goutte-de-Pluie"
             ]
         ]
     ]

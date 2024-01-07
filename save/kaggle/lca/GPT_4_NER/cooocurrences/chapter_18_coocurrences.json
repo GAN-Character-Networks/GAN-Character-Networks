@@ -1,0 +1,538 @@
+{
+    "cooccurences": [
+        [
+            "Enderby",
+            "Clousarr"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Clousarr",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Clousarr"
+        ],
+        [
+            "Enderby",
+            "Clousarr"
+        ],
+        [
+            "R . Sammy",
+            "Lije"
+        ],
+        [
+            "Clousarr",
+            "Dr Sarton"
+        ],
+        [
+            "Baley",
+            "Clousarr"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Clousarr",
+            "Jessie"
+        ],
+        [
+            "Julius Enderby",
+            "Baley"
+        ],
+        [
+            "Sarton",
+            "R . Sammy"
+        ],
+        [
+            "Dr Sarton",
+            "R . Daneel"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "Dr Sarton",
+            "Daneel"
+        ],
+        [
+            "Dr Sarton",
+            "Enderby"
+        ],
+        [
+            "Daneel",
+            "Enderby"
+        ],
+        [
+            "Daneel",
+            "Jessie"
+        ],
+        [
+            "R . Daneel",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Dr Gerrigel"
+        ],
+        [
+            "Dr Sarton",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "Enderby"
+        ],
+        [
+            "R . Sammy",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "Dr Sarton"
+        ],
+        [
+            "Enderby",
+            "R . Sammy"
+        ],
+        [
+            "Dr Sarton",
+            "R . Sammy"
+        ],
+        [
+            "R . Daneel",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Baley",
+            "Daneel"
+        ],
+        [
+            "Enderby",
+            "Sarton"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "R . Sammy"
+        ],
+        [
+            "Dr Sarton",
+            "Daneel"
+        ],
+        [
+            "Daneel",
+            "Elijah"
+        ],
+        [
+            "R . Sammy",
+            "Dr Sarton"
+        ],
+        [
+            "Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Dr Sarton"
+        ],
+        [
+            "Dr Sarton",
+            "Elijah"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Clousarr"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "R. Sammy"
+        },
+        {
+            "word": "Dr Sarton"
+        },
+        {
+            "word": "Sarton"
+        },
+        {
+            "word": "Jessie"
+        },
+        {
+            "word": "Julius Enderby"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Dr Gerrigel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Fastolfe"
+        }
+    ],
+    "aliases": [
+        [
+            "Enderby",
+            "Julius Enderby"
+        ],
+        [
+            "Baley"
+        ],
+        [
+            "Clousarr"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "R. Sammy"
+        ],
+        [
+            "Dr Sarton",
+            "Sarton"
+        ],
+        [
+            "Jessie"
+        ],
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Dr Gerrigel"
+        ],
+        [
+            "Elijah"
+        ],
+        [
+            "Fastolfe"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Dr Sarton",
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Clousarr"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Clousarr"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Dr Gerrigel"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Dr Sarton",
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Elijah"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Baley"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Enderby",
+                "Julius Enderby"
+            ],
+            [
+                "Dr Sarton",
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Elijah"
+            ]
+        ],
+        [
+            [
+                "R. Daneel",
+                "Daneel"
+            ],
+            [
+                "Dr Sarton",
+                "Sarton"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Baley"
+            ],
+            [
+                "Enderby",
+                "Julius Enderby"
+            ]
+        ],
+        [
+            [
+                "Dr Sarton",
+                "Sarton"
+            ],
+            [
+                "Elijah"
+            ]
+        ]
+    ]
+}

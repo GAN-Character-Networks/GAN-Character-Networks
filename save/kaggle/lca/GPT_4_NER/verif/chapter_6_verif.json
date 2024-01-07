@@ -1,0 +1,67 @@
+{
+    "final_gpt_entities": [
+        "Daneel",
+        "Baley",
+        "Jessie",
+        "Elijah Baley",
+        "R. Daneel Olivaw",
+        "Lije",
+        "Julius Enderby",
+        "Enderby",
+        "Bentley"
+    ],
+    "init_gpt_entities": [
+        "Bentley",
+        "Daneel",
+        "Baley",
+        "Jessie",
+        "Lije",
+        "Elijah Baley",
+        "Julius Enderby",
+        "Plastofilm",
+        "Enderby",
+        "R. Daneel Olivaw"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase : Cependant Elijah Baley ne dormait pas. Il était sans doute couché dans son lit, et aucune lumière ne brillait dans son appartement, mais cela ne suffisait pas à faire venir le sommeil. Jessie était étendue près de lui, immobile dans l’ombre. Il ne l’avait ni entendue ni sentie faire le moindre mouvement. Enfin, de l’autre côté du mur, R. Daneel Olivaw se tenait...\n\n                    Question : Le mot \"Daneel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cependant Elijah Baley ne dormait pas. Il était sans doute couché dans son lit, et aucune lumière ne brillait dans son appartement, mais cela ne suffisait pas à faire venir le sommeil. Jessie était étendue près de lui, immobile dans l’ombre. Il ne l’avait ni entendue ni sentie faire le moindre mouvement. Enfin, de l’autre côté du mur, R. Daneel Olivaw se tenait...\n\n                    Question : Le mot \"Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cependant Elijah Baley ne dormait pas. Il était sans doute couché dans son lit, et aucune lumière ne brillait dans son appartement, mais cela ne suffisait pas à faire venir le sommeil. Jessie était étendue près de lui, immobile dans l’ombre. Il ne l’avait ni entendue ni sentie faire le moindre mouvement. Enfin, de l’autre côté du mur, R. Daneel Olivaw se tenait...\n\n                    Question : Le mot \"Jessie\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cependant Elijah Baley ne dormait pas. Il était sans doute couché dans son lit, et aucune lumière ne brillait dans son appartement, mais cela ne suffisait pas à faire venir le sommeil. Jessie était étendue près de lui, immobile dans l’ombre. Il ne l’avait ni entendue ni sentie faire le moindre mouvement. Enfin, de l’autre côté du mur, R. Daneel Olivaw se tenait...\n\n                    Question : Le mot \"Elijah Baley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Cependant Elijah Baley ne dormait pas. Il était sans doute couché dans son lit, et aucune lumière ne brillait dans son appartement, mais cela ne suffisait pas à faire venir le sommeil. Jessie était étendue près de lui, immobile dans l’ombre. Il ne l’avait ni entendue ni sentie faire le moindre mouvement. Enfin, de l’autre côté du mur, R. Daneel Olivaw se tenait...\n\n                    Question : Le mot \"R. Daneel Olivaw\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Baley baissa de nouveau la voix : — Comment as-tu découvert la vérité ? Ne veux-tu pas le dire ? Elle se tourna vers lui. Malgré l’obscurité, il sentit le regard de sa femme posé sur lui. — Lije, fit-elle d’une voix à peine plus audible qu’un souffle d’air, peut-elle nous entendre ?...\n\n                    Question : Le mot \"Lije\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Dis-leur, à ton service, qu’ils désignent quelqu’un d’autre pour cette affaire, quelle qu’elle soit. Je t’en prie, Lije ! — Jessie, répliqua-t-il plus rudement, tu es la femme d’un policier depuis trop longtemps pour ne pas savoir qu’une mission est une mission... — Et pourquoi est-ce à toi qu’on l’a confiée ? — C’est Julius Enderby... — Ah ! fit-elle en se raidissant dans ses bras.\n\n                    Question : Le mot \"Julius Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Dis-leur, à ton service, qu’ils désignent quelqu’un d’autre pour cette affaire, quelle qu’elle soit. Je t’en prie, Lije ! — Jessie, répliqua-t-il plus rudement, tu es la femme d’un policier depuis trop longtemps pour ne pas savoir qu’une mission est une mission... — Et pourquoi est-ce à toi qu’on l’a confiée ? — C’est Julius Enderby... — Ah ! fit-elle en se raidissant dans ses bras.\n\n                    Question : Le mot \"Enderby\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — L’administration ne reprend jamais des gens que l’on a déclassés pour motif grave. Je serais irrémédiablement réduit à faire un travail manuel, et toi aussi, ne l’oublie pas. Bentley perdrait tous les avantages que ma fonction lui vaut actuellement, et ceux dont il bénéficiera plus tard comme fils de fonctionnaire. Jessie, tu ne sais pas ce que cela signifie ! — J’ai lu certains articles sur ce sujet : mais je ne crains pas les conséquences d’une telle décision.\n\n                    Question : Le mot \"Bentley\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : J’écoutais. Il se leva, et passa des pantoufles chaudes en Plastofilm. — Où vas-tu, Lije ? Ne me quitte pas ! — Reste tranquille !\n\n                    Question : Le mot \"Plastofilm\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        }
+    ]
+}

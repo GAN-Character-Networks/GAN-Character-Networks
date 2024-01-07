@@ -1,0 +1,224 @@
+{
+    "cooccurences": [
+        [
+            "Elijah",
+            "Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "R . Daneel"
+        ],
+        [
+            "Elijah",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Baley"
+        ],
+        [
+            "R . Daneel",
+            "Lije"
+        ],
+        [
+            "Baley",
+            "R . Daneel"
+        ],
+        [
+            "R . Daneel",
+            "Enderby"
+        ],
+        [
+            "Enderby",
+            "Baley"
+        ],
+        [
+            "Lije",
+            "Baley"
+        ],
+        [
+            "R . Sammy",
+            "Daneel"
+        ],
+        [
+            "Lije",
+            "R . Sammy"
+        ],
+        [
+            "Baley",
+            "Jessie"
+        ],
+        [
+            "Jessie",
+            "Francis Clousarr"
+        ],
+        [
+            "Francis Clousarr",
+            "R . Sammy"
+        ],
+        [
+            "R . Sammy",
+            "Jessie"
+        ],
+        [
+            "Lije",
+            "Enderby"
+        ],
+        [
+            "Sarton",
+            "Baley"
+        ]
+    ],
+    "entities": [
+        {
+            "word": "Baley"
+        },
+        {
+            "word": "Sarton"
+        },
+        {
+            "word": "R. Daneel"
+        },
+        {
+            "word": "Daneel"
+        },
+        {
+            "word": "Elijah"
+        },
+        {
+            "word": "Fastolfe"
+        },
+        {
+            "word": "Clousarr"
+        },
+        {
+            "word": "Elijah Baley"
+        },
+        {
+            "word": "Lije"
+        },
+        {
+            "word": "Enderby"
+        },
+        {
+            "word": "R. Sammy"
+        },
+        {
+            "word": "Francis Clousarr"
+        },
+        {
+            "word": "Jessie"
+        }
+    ],
+    "aliases": [
+        [
+            "Baley",
+            "Elijah",
+            "Elijah Baley"
+        ],
+        [
+            "Sarton"
+        ],
+        [
+            "R. Daneel",
+            "Daneel"
+        ],
+        [
+            "Fastolfe"
+        ],
+        [
+            "Clousarr",
+            "Francis Clousarr"
+        ],
+        [
+            "Lije"
+        ],
+        [
+            "Enderby"
+        ],
+        [
+            "R. Sammy"
+        ],
+        [
+            "Jessie"
+        ]
+    ],
+    "cooccurences_aliases": [
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "R. Daneel",
+                "Daneel"
+            ]
+        ],
+        [
+            [
+                "Enderby"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ],
+        [
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ],
+            [
+                "Jessie"
+            ]
+        ],
+        [
+            [
+                "Jessie"
+            ],
+            [
+                "Clousarr",
+                "Francis Clousarr"
+            ]
+        ],
+        [
+            [
+                "Lije"
+            ],
+            [
+                "Enderby"
+            ]
+        ],
+        [
+            [
+                "Sarton"
+            ],
+            [
+                "Baley",
+                "Elijah",
+                "Elijah Baley"
+            ]
+        ]
+    ]
+}

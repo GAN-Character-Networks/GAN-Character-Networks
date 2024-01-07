@@ -1,0 +1,224 @@
+{
+    "final_gpt_entities": [
+        "Mannix IV",
+        "Mannix",
+        "Seldon",
+        "Emmer Thalus",
+        "Hari Seldon",
+        "Thalus",
+        "Dors",
+        "Hari",
+        "le sergent Thalus",
+        "le docteur Hari Seldon",
+        "Le sergent",
+        "le docteur Seldon",
+        "docteur Seldon",
+        "Raych",
+        "Yugo Amaryl",
+        "Davan",
+        "Chetter Hummin",
+        "Hummin",
+        "le docteur Dors Venabili",
+        "Venabili",
+        "Rachelle",
+        "Demerzel",
+        "Maire",
+        "Maître Seldon",
+        "l’Empereur",
+        "madame l’impératrice de Rien"
+    ],
+    "init_gpt_entities": [
+        "la femme",
+        "Rachelle",
+        "Maître Seldon",
+        "Emmer Thalus",
+        "le docteur Dors Venabili",
+        "Seldon",
+        "Chetter Hummin",
+        "impératrice",
+        "Demerzel",
+        "Le sergent",
+        "madame l’impératrice de Rien",
+        "Hari Seldon",
+        "sergent",
+        "Hummin",
+        "KAN",
+        "Maire",
+        "le docteur Seldon",
+        "Dahl",
+        "l’Empire",
+        "Yugo Amaryl",
+        "Thalus",
+        "le sergent",
+        "Dors",
+        "Mannix IV",
+        "Kan",
+        "madame",
+        "Raych",
+        "Mannix",
+        "Hari",
+        "Davan",
+        "le sergent Thalus",
+        "Venabili",
+        "le docteur Hari Seldon",
+        "docteur Seldon",
+        "Mycogène",
+        "Empereur",
+        "l’Empereur",
+        "Sergent"
+    ],
+    "prompts_and_responses": [
+        {
+            "prompt": "\n\n                    Phrase :  Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites.\n\n                    Question : Le mot \"KAN\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites.\n\n                    Question : Le mot \"l’Empire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites.\n\n                    Question : Le mot \"Mannix IV\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites.\n\n                    Question : Le mot \"Kan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites.\n\n                    Question : Le mot \"Mannix\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase :  Kan KAN. — ... secteur de la cité-monde de Trantor... dans les derniers siècles de l’Empire Galactique, Kan en était la partie la plus puissante, la plus stable. Depuis longtemps, ses dirigeants aspiraient au trône impérial, justifiant cette revendication par leur filiation avec les premiers Empereurs. Sous le règne de Mannix IV, Kan se remilitarisa et (à ce que prétendirent par la suite les autorités impériales) s’apprêtait à fomenter un coup d’État à l’échelle planétaire... ENCYCLOPAEDIA GALACTICA. L’homme qui entra était grand et musclé. Il avait une longue moustache blonde retroussée aux extrémités et son visage était encadré d’un collier de barbe, laissant la pointe du menton et la lèvre inférieure imberbes et apparemment moites.\n\n                    Question : Le mot \"Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il avait les cheveux si blonds et taillés si court qu’un bref instant, le désagréable souvenir de Mycogène revint hanter Seldon. Le nouveau venu portait indubitablement un uniforme. Rouge et blanc, avec un large ceinturon clouté d’argent. Lorsqu’il parla, ce fut d’une voix basse résonnante dont l’accent différait de tout ce qu’avait entendu Seldon. Il trouvait les accents exotiques souvent grossiers mais celui-là semblait mélodieux, peut-être à cause de sa richesse en intonations graves.\n\n                    Question : Le mot \"Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il avait les cheveux si blonds et taillés si court qu’un bref instant, le désagréable souvenir de Mycogène revint hanter Seldon. Le nouveau venu portait indubitablement un uniforme. Rouge et blanc, avec un large ceinturon clouté d’argent. Lorsqu’il parla, ce fut d’une voix basse résonnante dont l’accent différait de tout ce qu’avait entendu Seldon. Il trouvait les accents exotiques souvent grossiers mais celui-là semblait mélodieux, peut-être à cause de sa richesse en intonations graves.\n\n                    Question : Le mot \"Mycogène\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"Emmer Thalus\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"sergent\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"Thalus\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"le sergent\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"Dors\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"Hari\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"le sergent Thalus\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"le docteur Hari Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : « Je suis le sergent Emmer Thalus », se présenta l’homme dans une lente succession de syllabes grondantes. « Je suis venu chercher le docteur Hari Seldon. Seldon réitéra son coup, une deuxième, puis une troisième fois, mais cette fois le sergent Thalus, anticipant l’attaque, abaissa l’épaule pour l’encaisser dans le gras du muscle. Dors avait sorti ses couteaux. « Sergent, lança-t-elle d’une voix forte.\n\n                    Question : Le mot \"Sergent\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tournez-vous dans cette direction. Comprenez bien que je serai peut-être obligée de vous blesser sérieusement si vous persistez à emmener le docteur Seldon contre son gré. » Le sergent s’immobilisa, considéra avec gravité les lames qui décrivaient de lents cercles devant lui, puis répondit : « Mes ordres ne m’interdisent pas de malmener d’autres personnes que le docteur Seldon. » Et, avec une vivacité surprenante, sa main droite se porta vers l’étui du fouet neuronique pendu à sa ceinture. Tout aussi vive, Dors brandit ses lames.\n\n                    Question : Le mot \"Le sergent\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tournez-vous dans cette direction. Comprenez bien que je serai peut-être obligée de vous blesser sérieusement si vous persistez à emmener le docteur Seldon contre son gré. » Le sergent s’immobilisa, considéra avec gravité les lames qui décrivaient de lents cercles devant lui, puis répondit : « Mes ordres ne m’interdisent pas de malmener d’autres personnes que le docteur Seldon. » Et, avec une vivacité surprenante, sa main droite se porta vers l’étui du fouet neuronique pendu à sa ceinture. Tout aussi vive, Dors brandit ses lames.\n\n                    Question : Le mot \"le docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Tournez-vous dans cette direction. Comprenez bien que je serai peut-être obligée de vous blesser sérieusement si vous persistez à emmener le docteur Seldon contre son gré. » Le sergent s’immobilisa, considéra avec gravité les lames qui décrivaient de lents cercles devant lui, puis répondit : « Mes ordres ne m’interdisent pas de malmener d’autres personnes que le docteur Seldon. » Et, avec une vivacité surprenante, sa main droite se porta vers l’étui du fouet neuronique pendu à sa ceinture. Tout aussi vive, Dors brandit ses lames.\n\n                    Question : Le mot \"docteur Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Aucun des deux n’acheva son mouvement. Se ruant en avant, Raych avait poussé le sergent dans le dos, de la main gauche, tandis que la droite le délestait de son arme. Il s’écarta rapidement, tenant à deux mains le fouet neuronique et lança : « Les mains en l’air, sergent, ou vous allez y avoir droit ! » Le sous-officier pivota et un rictus nerveux traversa son visage cramoisi. Ce fut le seul instant où son impassibilité devait être prise en défaut.\n\n                    Question : Le mot \"Raych\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Là-dessus, claquant les talons, il rengaina son fouet neuronique. Seldon se tourna vers Davan : « Davan, oubliez, je vous prie, ce dont vous venez d’être le témoin. C’est de plein gré que tous trois nous allons accompagner le sergent Thalus. Dites à Yugo Amaryl, quand vous le verrez, que je ne l’oublierai pas et que, dès que cette affaire sera réglée et que j’aurai retrouvé ma liberté d’action, je veillerai à son admission dans une Université. S’il m’est possible de faire quelque chose pour votre cause, Davan, je le ferai aussi.\n\n                    Question : Le mot \"Yugo Amaryl\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : » Là-dessus, claquant les talons, il rengaina son fouet neuronique. Seldon se tourna vers Davan : « Davan, oubliez, je vous prie, ce dont vous venez d’être le témoin. C’est de plein gré que tous trois nous allons accompagner le sergent Thalus. Dites à Yugo Amaryl, quand vous le verrez, que je ne l’oublierai pas et que, dès que cette affaire sera réglée et que j’aurai retrouvé ma liberté d’action, je veillerai à son admission dans une Université. S’il m’est possible de faire quelque chose pour votre cause, Davan, je le ferai aussi.\n\n                    Question : Le mot \"Davan\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pourquoi n’a-t-il pas reçu les instructions convenables ? Je ne peux imaginer que Chetter Hummin lui ait dit de vous faire sortir de Dahl sans parler de moi. Je ne peux pas. » Seldon n’avait rien à répondre et son moral s’en ressentit. Une heure s’écoula encore avant que Dors ne remarque : « On dirait que ça se rafraîchit dehors, le vert de la Couverture tourne au brun et j’ai l’impression qu’ils ont mis le chauffage.\n\n                    Question : Le mot \"Chetter Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pourquoi n’a-t-il pas reçu les instructions convenables ? Je ne peux imaginer que Chetter Hummin lui ait dit de vous faire sortir de Dahl sans parler de moi. Je ne peux pas. » Seldon n’avait rien à répondre et son moral s’en ressentit. Une heure s’écoula encore avant que Dors ne remarque : « On dirait que ça se rafraîchit dehors, le vert de la Couverture tourne au brun et j’ai l’impression qu’ils ont mis le chauffage.\n\n                    Question : Le mot \"Hummin\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Pourquoi n’a-t-il pas reçu les instructions convenables ? Je ne peux imaginer que Chetter Hummin lui ait dit de vous faire sortir de Dahl sans parler de moi. Je ne peux pas. » Seldon n’avait rien à répondre et son moral s’en ressentit. Une heure s’écoula encore avant que Dors ne remarque : « On dirait que ça se rafraîchit dehors, le vert de la Couverture tourne au brun et j’ai l’impression qu’ils ont mis le chauffage.\n\n                    Question : Le mot \"Dahl\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et vous devez être, je suppose, le docteur Dors Venabili, car on a signalé votre présence à ses côtés. Je crains, en revanche, de ne pas connaître l’identité du jeune homme, mais je suis ravie de faire sa connaissance. Maintenant ne perdons pas notre temps en palabres car je suis sûre que vous aimeriez d’abord vous délasser. — Et prendre un bain, madame, dit Dors avec une certaine insistance. Nous aurions tous besoin d’une bonne douche.\n\n                    Question : Le mot \"le docteur Dors Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et vous devez être, je suppose, le docteur Dors Venabili, car on a signalé votre présence à ses côtés. Je crains, en revanche, de ne pas connaître l’identité du jeune homme, mais je suis ravie de faire sa connaissance. Maintenant ne perdons pas notre temps en palabres car je suis sûre que vous aimeriez d’abord vous délasser. — Et prendre un bain, madame, dit Dors avec une certaine insistance. Nous aurions tous besoin d’une bonne douche.\n\n                    Question : Le mot \"madame\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Et vous devez être, je suppose, le docteur Dors Venabili, car on a signalé votre présence à ses côtés. Je crains, en revanche, de ne pas connaître l’identité du jeune homme, mais je suis ravie de faire sa connaissance. Maintenant ne perdons pas notre temps en palabres car je suis sûre que vous aimeriez d’abord vous délasser. — Et prendre un bain, madame, dit Dors avec une certaine insistance. Nous aurions tous besoin d’une bonne douche.\n\n                    Question : Le mot \"Venabili\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Oui, sans aucun doute, dit la femme. Et aussi de vous changer. Surtout le jeune homme. » Elle examina Raych sans la moindre trace du mépris ou de la désapprobation qu’avaient manifestés les deux jeunes femmes. « Comment vous appelez-vous, jeune homme ?\n\n                    Question : Le mot \"la femme\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Raych », répondit l’intéressé d’une voix légèrement étranglée. Puis il s’empressa d’ajouter, à tout hasard : « M’dame. — Quelle étrange coïncidence, dit la femme, l’œil pétillant. Un présage, peut-être. Moi-même, je me prénomme Rachelle.\n\n                    Question : Le mot \"Rachelle\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Sinon, nous vous aurions récupérés sans coup férir, comme ce fut le cas au bout du compte à Dahl ; là, nous étions bel et bien à vos trousses. En revanche, lorsqu’une poursuite échoue, lorsqu’une main manque sa proie, vous pouvez être certain que c’est Demerzel qui est derrière. — Le tenez-vous en si piètre estime ? s’étonna Dors. — Eh oui.\n\n                    Question : Le mot \"Demerzel\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Comme c’est étrange, remarqua Dors. L’opinion semble prévaloir dans tout Trantor que les habitants de Kan ne se préoccupent guère de victoire, de défaite ou de quoi que ce soit. On a le sentiment qu’il n’y a qu’une seule volonté, une seule poigne qui compte à Kan, celle du Maire. Vous, ou n’importe quel autre Kanite, ne devez pas peser lourd en comparaison. » Large sourire de Rachelle.\n\n                    Question : Le mot \"Maire\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Maître Seldon l’a dit. — Alors, s’il l’a dit, je suis sûre que tu sauras. » Une jeune femme s’approcha de Raych, après une révérence respectueuse à l’adresse de Rachelle. Seldon n’avait pas remarqué qu’on l’avait appelée. « J’peux pas rester avec Maître Seldon et m’dame Venabili ?\n\n                    Question : Le mot \"Maître Seldon\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Il a toujours été loyal envers l’occupant du Palais impérial et il a tout fait pour que Kan reste un pilier, solide et prospère, de l’économie trantorienne, pour le bien de l’Empire tout entier. — Que je sache, l’Empereur ne lui a pas pour autant témoigné plus de confiance, remarqua Dors. — J’en suis certaine, dit Rachelle sans se départir de son calme, car les Empereurs du temps de mon père se savaient des usurpateurs issus d’une lignée usurpatrice. Des usurpateurs ne peuvent se fier aux prétendants légitimes. Pourtant mon père a maintenu la paix.\n\n                    Question : Le mot \"l’Empereur\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        },
+        {
+            "prompt": "\n\n                    Phrase : Avant qu’on ait pu seulement parler de « guerre civile », nous aurons un véritable Empereur – ou une impératrice, si vous préférez – et Trantor se retrouvera tout aussi paisible qu’auparavant. » Dors hocha la tête. « Puis-je vous éclairer de mes lumières d’historienne ? qu’ils ne sont que des néants lointains en ce qui nous concerne ? Notre propre monde surpeuplé – notre cité planétaire – est assez galactique pour nous.\n\n                    Question : Le mot \"impératrice\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Non"
+        },
+        {
+            "prompt": "\n\n                    Phrase : — Mais ils se battront tout de même, objecta Dors. Chacun refusera de se contenter de sa province. Chacun craindra que son voisin ne se contente pas de la sienne. Chacun se sentira en danger et rêvera d’une autorité galactique comme du seul moyen de garantir la sécurité. Voilà ce qui est certain, madame l’impératrice de Rien.\n\n                    Question : Le mot \"madame l’impératrice de Rien\" dans la phrase d'entrée est-il une entité de personnage ? Veuillez répondre par Oui ou par Non.\n\n                    Réponse :\n                    ",
+            "response": "Oui"
+        }
+    ]
+}
