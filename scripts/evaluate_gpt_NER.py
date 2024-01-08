@@ -4,12 +4,8 @@ import re
 
 from openai import OpenAI
 
-from vroom.NER import (
-    chunk_text_by_sentence,
-    get_positions_of_entities,
-    read_file,
-    tag_text_with_entities,
-)
+from vroom.NER import (chunk_text_by_sentence, get_positions_of_entities,
+                       read_file, tag_text_with_entities)
 
 unlabeled_chapter = os.path.join(
     "data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled"

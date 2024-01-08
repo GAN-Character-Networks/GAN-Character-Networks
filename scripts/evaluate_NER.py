@@ -2,12 +2,8 @@
 import os
 import re
 
-from vroom.NER import (
-    get_entities_from_file,
-    read_file,
-    search_names_with_determinants,
-    tag_text_with_entities,
-)
+from vroom.NER import (get_entities_from_file, read_file,
+                       search_names_with_determinants, tag_text_with_entities)
 
 unlabeled_chapter = os.path.join(
     "../data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled"
