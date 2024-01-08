@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Francis Clousarr;Clousarr">
+  <data key="d0">Francis Clousarr;Clousarr</data>
+</node>
+<node id="Baley;Elijah">
+  <data key="d0">Baley;Elijah</data>
+</node>
+<node id="Daneel;R. Daneel">
+  <data key="d0">Daneel;R. Daneel</data>
+</node>
+<node id="Dr Fastolfe">
+  <data key="d0">Dr Fastolfe</data>
+</node>
+<node id="Enderby">
+  <data key="d0">Enderby</data>
+</node>
+<node id="R. Sammy">
+  <data key="d0">R. Sammy</data>
+</node>
+<edge source="Francis Clousarr;Clousarr" target="Baley;Elijah"/>
+<edge source="Francis Clousarr;Clousarr" target="Daneel;R. Daneel"/>
+<edge source="Francis Clousarr;Clousarr" target="Dr Fastolfe"/>
+<edge source="Francis Clousarr;Clousarr" target="Enderby"/>
+<edge source="Francis Clousarr;Clousarr" target="R. Sammy"/>
+<edge source="Baley;Elijah" target="Daneel;R. Daneel"/>
+<edge source="Baley;Elijah" target="Dr Fastolfe"/>
+<edge source="Baley;Elijah" target="Enderby"/>
+<edge source="Baley;Elijah" target="R. Sammy"/>
+<edge source="Daneel;R. Daneel" target="Dr Fastolfe"/>
+<edge source="Daneel;R. Daneel" target="Enderby"/>
+<edge source="Daneel;R. Daneel" target="R. Sammy"/>
+<edge source="Dr Fastolfe" target="Enderby"/>
+<edge source="Dr Fastolfe" target="R. Sammy"/>
+<edge source="Enderby" target="R. Sammy"/>
+</graph></graphml>

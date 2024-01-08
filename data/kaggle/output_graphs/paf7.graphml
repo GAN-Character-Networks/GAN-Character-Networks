@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Mycogénien;Mycogène">
+  <data key="d0">Mycogénien;Mycogène</data>
+</node>
+<node id="Trantor">
+  <data key="d0">Trantor</data>
+</node>
+<node id="Dors Venabili;Dors">
+  <data key="d0">Dors Venabili;Dors</data>
+</node>
+<node id="Endor Levanian;Levanian">
+  <data key="d0">Endor Levanian;Levanian</data>
+</node>
+<node id="Hari Seldon;Hari;Seldon">
+  <data key="d0">Hari Seldon;Hari;Seldon</data>
+</node>
+<node id="tter Hummin;Hummin">
+  <data key="d0">tter Hummin;Hummin</data>
+</node>
+<node id="Clowzia">
+  <data key="d0">Clowzia</data>
+</node>
+<node id="Maître-du-Soleil Quatorze">
+  <data key="d0">Maître-du-Soleil Quatorze</data>
+</node>
+<node id="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil">
+  <data key="d0">Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil</data>
+</node>
+<node id="Frère">
+  <data key="d0">Frère</data>
+</node>
+<node id="Grisnuage">
+  <data key="d0">Grisnuage</data>
+</node>
+<node id="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq">
+  <data key="d0">Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq</data>
+</node>
+<edge source="Mycogénien;Mycogène" target="Trantor"/>
+<edge source="Mycogénien;Mycogène" target="Dors Venabili;Dors"/>
+<edge source="Mycogénien;Mycogène" target="Endor Levanian;Levanian"/>
+<edge source="Mycogénien;Mycogène" target="Hari Seldon;Hari;Seldon"/>
+<edge source="Mycogénien;Mycogène" target="tter Hummin;Hummin"/>
+<edge source="Mycogénien;Mycogène" target="Clowzia"/>
+<edge source="Mycogénien;Mycogène" target="Maître-du-Soleil Quatorze"/>
+<edge source="Mycogénien;Mycogène" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Mycogénien;Mycogène" target="Frère"/>
+<edge source="Mycogénien;Mycogène" target="Grisnuage"/>
+<edge source="Mycogénien;Mycogène" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Trantor" target="Dors Venabili;Dors"/>
+<edge source="Trantor" target="Endor Levanian;Levanian"/>
+<edge source="Trantor" target="Hari Seldon;Hari;Seldon"/>
+<edge source="Trantor" target="tter Hummin;Hummin"/>
+<edge source="Trantor" target="Clowzia"/>
+<edge source="Trantor" target="Maître-du-Soleil Quatorze"/>
+<edge source="Trantor" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Trantor" target="Frère"/>
+<edge source="Trantor" target="Grisnuage"/>
+<edge source="Trantor" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Dors Venabili;Dors" target="Endor Levanian;Levanian"/>
+<edge source="Dors Venabili;Dors" target="Hari Seldon;Hari;Seldon"/>
+<edge source="Dors Venabili;Dors" target="tter Hummin;Hummin"/>
+<edge source="Dors Venabili;Dors" target="Clowzia"/>
+<edge source="Dors Venabili;Dors" target="Maître-du-Soleil Quatorze"/>
+<edge source="Dors Venabili;Dors" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Dors Venabili;Dors" target="Frère"/>
+<edge source="Dors Venabili;Dors" target="Grisnuage"/>
+<edge source="Dors Venabili;Dors" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Endor Levanian;Levanian" target="Hari Seldon;Hari;Seldon"/>
+<edge source="Endor Levanian;Levanian" target="tter Hummin;Hummin"/>
+<edge source="Endor Levanian;Levanian" target="Clowzia"/>
+<edge source="Endor Levanian;Levanian" target="Maître-du-Soleil Quatorze"/>
+<edge source="Endor Levanian;Levanian" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Endor Levanian;Levanian" target="Frère"/>
+<edge source="Endor Levanian;Levanian" target="Grisnuage"/>
+<edge source="Endor Levanian;Levanian" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Hari Seldon;Hari;Seldon" target="tter Hummin;Hummin"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Clowzia"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Maître-du-Soleil Quatorze"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Frère"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Grisnuage"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="tter Hummin;Hummin" target="Clowzia"/>
+<edge source="tter Hummin;Hummin" target="Maître-du-Soleil Quatorze"/>
+<edge source="tter Hummin;Hummin" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="tter Hummin;Hummin" target="Frère"/>
+<edge source="tter Hummin;Hummin" target="Grisnuage"/>
+<edge source="tter Hummin;Hummin" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Clowzia" target="Maître-du-Soleil Quatorze"/>
+<edge source="Clowzia" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Clowzia" target="Frère"/>
+<edge source="Clowzia" target="Grisnuage"/>
+<edge source="Clowzia" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Maître-du-Soleil Quatorze" target="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil"/>
+<edge source="Maître-du-Soleil Quatorze" target="Frère"/>
+<edge source="Maître-du-Soleil Quatorze" target="Grisnuage"/>
+<edge source="Maître-du-Soleil Quatorze" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil" target="Frère"/>
+<edge source="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil" target="Grisnuage"/>
+<edge source="Maître-du-Soleil;Maître-du- Soleil;Maître- du-Soleil" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Frère" target="Grisnuage"/>
+<edge source="Frère" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Grisnuage" target="Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de- Pluie;Goutte-de-Pluie Quarante-cinq"/>
+</graph></graphml>

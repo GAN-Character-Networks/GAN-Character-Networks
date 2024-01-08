@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Jessie">
+  <data key="d0">Jessie</data>
+</node>
+<node id="Daneel;R. Daneel;Olivaw">
+  <data key="d0">Daneel;R. Daneel;Olivaw</data>
+</node>
+<node id="Elijah;Baley;Lije">
+  <data key="d0">Elijah;Baley;Lije</data>
+</node>
+<node id="Sarton;Dr Sarton">
+  <data key="d0">Sarton;Dr Sarton</data>
+</node>
+<node id="Julius;Enderby;Julius Enderby">
+  <data key="d0">Julius;Enderby;Julius Enderby</data>
+</node>
+<edge source="Jessie" target="Daneel;R. Daneel;Olivaw"/>
+<edge source="Jessie" target="Elijah;Baley;Lije"/>
+<edge source="Jessie" target="Sarton;Dr Sarton"/>
+<edge source="Jessie" target="Julius;Enderby;Julius Enderby"/>
+<edge source="Daneel;R. Daneel;Olivaw" target="Elijah;Baley;Lije"/>
+<edge source="Daneel;R. Daneel;Olivaw" target="Sarton;Dr Sarton"/>
+<edge source="Daneel;R. Daneel;Olivaw" target="Julius;Enderby;Julius Enderby"/>
+<edge source="Elijah;Baley;Lije" target="Sarton;Dr Sarton"/>
+<edge source="Elijah;Baley;Lije" target="Julius;Enderby;Julius Enderby"/>
+<edge source="Sarton;Dr Sarton" target="Julius;Enderby;Julius Enderby"/>
+</graph></graphml>

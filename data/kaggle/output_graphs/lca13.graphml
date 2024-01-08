@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Jessie">
+  <data key="d0">Jessie</data>
+</node>
+<node id="Elijah;Lije;Baley">
+  <data key="d0">Elijah;Lije;Baley</data>
+</node>
+<node id="R. Daneel;Daneel">
+  <data key="d0">R. Daneel;Daneel</data>
+</node>
+<node id="Jane Myers">
+  <data key="d0">Jane Myers</data>
+</node>
+<node id="Lizzy;Elisabeth">
+  <data key="d0">Lizzy;Elisabeth</data>
+</node>
+<node id="Bentley">
+  <data key="d0">Bentley</data>
+</node>
+<node id="Francis Clousarr">
+  <data key="d0">Francis Clousarr</data>
+</node>
+<edge source="Jessie" target="Elijah;Lije;Baley"/>
+<edge source="Jessie" target="R. Daneel;Daneel"/>
+<edge source="Jessie" target="Jane Myers"/>
+<edge source="Jessie" target="Lizzy;Elisabeth"/>
+<edge source="Jessie" target="Bentley"/>
+<edge source="Jessie" target="Francis Clousarr"/>
+<edge source="Elijah;Lije;Baley" target="R. Daneel;Daneel"/>
+<edge source="Elijah;Lije;Baley" target="Jane Myers"/>
+<edge source="Elijah;Lije;Baley" target="Lizzy;Elisabeth"/>
+<edge source="Elijah;Lije;Baley" target="Bentley"/>
+<edge source="Elijah;Lije;Baley" target="Francis Clousarr"/>
+<edge source="R. Daneel;Daneel" target="Jane Myers"/>
+<edge source="R. Daneel;Daneel" target="Lizzy;Elisabeth"/>
+<edge source="R. Daneel;Daneel" target="Bentley"/>
+<edge source="R. Daneel;Daneel" target="Francis Clousarr"/>
+<edge source="Jane Myers" target="Lizzy;Elisabeth"/>
+<edge source="Jane Myers" target="Bentley"/>
+<edge source="Jane Myers" target="Francis Clousarr"/>
+<edge source="Lizzy;Elisabeth" target="Bentley"/>
+<edge source="Lizzy;Elisabeth" target="Francis Clousarr"/>
+<edge source="Bentley" target="Francis Clousarr"/>
+</graph></graphml>

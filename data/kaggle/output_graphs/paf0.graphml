@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari Seldon;Seldon">
+  <data key="d0">Hari Seldon;Seldon</data>
+</node>
+<node id="Cléon;l’empereur Cléon;l’Empereur;L’Empereur;Sire;CLÉON Ier">
+  <data key="d0">Cléon;l’empereur Cléon;l’Empereur;L’Empereur;Sire;CLÉON Ier</data>
+</node>
+<node id="Eto Demerzel;Demerzel">
+  <data key="d0">Eto Demerzel;Demerzel</data>
+</node>
+<node id="Lieutenant Alban Wellis;Wellis">
+  <data key="d0">Lieutenant Alban Wellis;Wellis</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<edge source="Hari Seldon;Seldon" target="Cléon;l’empereur Cléon;l’Empereur;L’Empereur;Sire;CLÉON Ier"/>
+<edge source="Hari Seldon;Seldon" target="Eto Demerzel;Demerzel"/>
+<edge source="Hari Seldon;Seldon" target="Lieutenant Alban Wellis;Wellis"/>
+<edge source="Hari Seldon;Seldon" target="Hummin"/>
+<edge source="Cléon;l’empereur Cléon;l’Empereur;L’Empereur;Sire;CLÉON Ier" target="Eto Demerzel;Demerzel"/>
+<edge source="Cléon;l’empereur Cléon;l’Empereur;L’Empereur;Sire;CLÉON Ier" target="Lieutenant Alban Wellis;Wellis"/>
+<edge source="Cléon;l’empereur Cléon;l’Empereur;L’Empereur;Sire;CLÉON Ier" target="Hummin"/>
+<edge source="Eto Demerzel;Demerzel" target="Lieutenant Alban Wellis;Wellis"/>
+<edge source="Eto Demerzel;Demerzel" target="Hummin"/>
+<edge source="Lieutenant Alban Wellis;Wellis" target="Hummin"/>
+</graph></graphml>

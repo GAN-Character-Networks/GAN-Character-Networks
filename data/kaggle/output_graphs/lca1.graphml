@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Enderby;Julius Enderby">
+  <data key="d0">Enderby;Julius Enderby</data>
+</node>
+<node id="Elijah;Baley;Elijah Baley">
+  <data key="d0">Elijah;Baley;Elijah Baley</data>
+</node>
+<node id="R. Daneel;Daneel;Olivaw;R. Daneel Olivaw">
+  <data key="d0">R. Daneel;Daneel;Olivaw;R. Daneel Olivaw</data>
+</node>
+<edge source="Enderby;Julius Enderby" target="Elijah;Baley;Elijah Baley"/>
+<edge source="Enderby;Julius Enderby" target="R. Daneel;Daneel;Olivaw;R. Daneel Olivaw"/>
+<edge source="Elijah;Baley;Elijah Baley" target="R. Daneel;Daneel;Olivaw;R. Daneel Olivaw"/>
+</graph></graphml>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="AMARYL;Amaryl">
+  <data key="d0">AMARYL;Amaryl</data>
+</node>
+<node id="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon">
+  <data key="d0">Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<node id="Cléon;L’Empereur;Sire;Empereur;l’Empereur">
+  <data key="d0">Cléon;L’Empereur;Sire;Empereur;l’Empereur</data>
+</node>
+<node id="Maire de Mycogène">
+  <data key="d0">Maire de Mycogène</data>
+</node>
+<node id="Grand Ancien">
+  <data key="d0">Grand Ancien</data>
+</node>
+<node id="Hummin;Maître Hummin">
+  <data key="d0">Hummin;Maître Hummin</data>
+</node>
+<node id="Dors;Dors Venabili;Maîtresse Venabili;Venabili">
+  <data key="d0">Dors;Dors Venabili;Maîtresse Venabili;Venabili</data>
+</node>
+<node id="Tisalver;Casilia Tisalver">
+  <data key="d0">Tisalver;Casilia Tisalver</data>
+</node>
+<node id="Maîtresse;Maîtresse Tisalver">
+  <data key="d0">Maîtresse;Maîtresse Tisalver</data>
+</node>
+<node id="Jirad">
+  <data key="d0">Jirad</data>
+</node>
+<node id="Casilia">
+  <data key="d0">Casilia</data>
+</node>
+<node id="Lindor;Hano Lindor">
+  <data key="d0">Lindor;Hano Lindor</data>
+</node>
+<node id="Anat Bigell">
+  <data key="d0">Anat Bigell</data>
+</node>
+<edge source="AMARYL;Amaryl" target="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon"/>
+<edge source="AMARYL;Amaryl" target="Demerzel"/>
+<edge source="AMARYL;Amaryl" target="Cléon;L’Empereur;Sire;Empereur;l’Empereur"/>
+<edge source="AMARYL;Amaryl" target="Maire de Mycogène"/>
+<edge source="AMARYL;Amaryl" target="Grand Ancien"/>
+<edge source="AMARYL;Amaryl" target="Hummin;Maître Hummin"/>
+<edge source="AMARYL;Amaryl" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="AMARYL;Amaryl" target="Tisalver;Casilia Tisalver"/>
+<edge source="AMARYL;Amaryl" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="AMARYL;Amaryl" target="Jirad"/>
+<edge source="AMARYL;Amaryl" target="Casilia"/>
+<edge source="AMARYL;Amaryl" target="Lindor;Hano Lindor"/>
+<edge source="AMARYL;Amaryl" target="Anat Bigell"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Demerzel"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Cléon;L’Empereur;Sire;Empereur;l’Empereur"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Maire de Mycogène"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Grand Ancien"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Hummin;Maître Hummin"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Tisalver;Casilia Tisalver"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Jirad"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Casilia"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Lindor;Hano Lindor"/>
+<edge source="Maître Seldon;Hari Seldon;Hari;le docteur Seldon;Seldon;docteur Seldon" target="Anat Bigell"/>
+<edge source="Demerzel" target="Cléon;L’Empereur;Sire;Empereur;l’Empereur"/>
+<edge source="Demerzel" target="Maire de Mycogène"/>
+<edge source="Demerzel" target="Grand Ancien"/>
+<edge source="Demerzel" target="Hummin;Maître Hummin"/>
+<edge source="Demerzel" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="Demerzel" target="Tisalver;Casilia Tisalver"/>
+<edge source="Demerzel" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Demerzel" target="Jirad"/>
+<edge source="Demerzel" target="Casilia"/>
+<edge source="Demerzel" target="Lindor;Hano Lindor"/>
+<edge source="Demerzel" target="Anat Bigell"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Maire de Mycogène"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Grand Ancien"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Hummin;Maître Hummin"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Tisalver;Casilia Tisalver"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Jirad"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Casilia"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Lindor;Hano Lindor"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Anat Bigell"/>
+<edge source="Maire de Mycogène" target="Grand Ancien"/>
+<edge source="Maire de Mycogène" target="Hummin;Maître Hummin"/>
+<edge source="Maire de Mycogène" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="Maire de Mycogène" target="Tisalver;Casilia Tisalver"/>
+<edge source="Maire de Mycogène" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Maire de Mycogène" target="Jirad"/>
+<edge source="Maire de Mycogène" target="Casilia"/>
+<edge source="Maire de Mycogène" target="Lindor;Hano Lindor"/>
+<edge source="Maire de Mycogène" target="Anat Bigell"/>
+<edge source="Grand Ancien" target="Hummin;Maître Hummin"/>
+<edge source="Grand Ancien" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="Grand Ancien" target="Tisalver;Casilia Tisalver"/>
+<edge source="Grand Ancien" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Grand Ancien" target="Jirad"/>
+<edge source="Grand Ancien" target="Casilia"/>
+<edge source="Grand Ancien" target="Lindor;Hano Lindor"/>
+<edge source="Grand Ancien" target="Anat Bigell"/>
+<edge source="Hummin;Maître Hummin" target="Dors;Dors Venabili;Maîtresse Venabili;Venabili"/>
+<edge source="Hummin;Maître Hummin" target="Tisalver;Casilia Tisalver"/>
+<edge source="Hummin;Maître Hummin" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Hummin;Maître Hummin" target="Jirad"/>
+<edge source="Hummin;Maître Hummin" target="Casilia"/>
+<edge source="Hummin;Maître Hummin" target="Lindor;Hano Lindor"/>
+<edge source="Hummin;Maître Hummin" target="Anat Bigell"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili;Venabili" target="Tisalver;Casilia Tisalver"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili;Venabili" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili;Venabili" target="Jirad"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili;Venabili" target="Casilia"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili;Venabili" target="Lindor;Hano Lindor"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili;Venabili" target="Anat Bigell"/>
+<edge source="Tisalver;Casilia Tisalver" target="Maîtresse;Maîtresse Tisalver"/>
+<edge source="Tisalver;Casilia Tisalver" target="Jirad"/>
+<edge source="Tisalver;Casilia Tisalver" target="Casilia"/>
+<edge source="Tisalver;Casilia Tisalver" target="Lindor;Hano Lindor"/>
+<edge source="Tisalver;Casilia Tisalver" target="Anat Bigell"/>
+<edge source="Maîtresse;Maîtresse Tisalver" target="Jirad"/>
+<edge source="Maîtresse;Maîtresse Tisalver" target="Casilia"/>
+<edge source="Maîtresse;Maîtresse Tisalver" target="Lindor;Hano Lindor"/>
+<edge source="Maîtresse;Maîtresse Tisalver" target="Anat Bigell"/>
+<edge source="Jirad" target="Casilia"/>
+<edge source="Jirad" target="Lindor;Hano Lindor"/>
+<edge source="Jirad" target="Anat Bigell"/>
+<edge source="Casilia" target="Lindor;Hano Lindor"/>
+<edge source="Casilia" target="Anat Bigell"/>
+<edge source="Lindor;Hano Lindor" target="Anat Bigell"/>
+</graph></graphml>

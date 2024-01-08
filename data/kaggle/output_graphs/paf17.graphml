@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari;Maître Seldon;Seldon;docteur Seldon">
+  <data key="d0">Hari;Maître Seldon;Seldon;docteur Seldon</data>
+</node>
+<node id="Dors;Dors Venabili;Venabili">
+  <data key="d0">Dors;Dors Venabili;Venabili</data>
+</node>
+<node id="Raych">
+  <data key="d0">Raych</data>
+</node>
+<node id="Chetter Hummin;Hummin">
+  <data key="d0">Chetter Hummin;Hummin</data>
+</node>
+<node id="Rachelle Ire;Rachelle">
+  <data key="d0">Rachelle Ire;Rachelle</data>
+</node>
+<node id="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire">
+  <data key="d0">Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<node id="Cléon;l’Empereur">
+  <data key="d0">Cléon;l’Empereur</data>
+</node>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Dors;Dors Venabili;Venabili"/>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Raych"/>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Chetter Hummin;Hummin"/>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Rachelle Ire;Rachelle"/>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire"/>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Demerzel"/>
+<edge source="Hari;Maître Seldon;Seldon;docteur Seldon" target="Cléon;l’Empereur"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Raych"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Chetter Hummin;Hummin"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Rachelle Ire;Rachelle"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Demerzel"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Cléon;l’Empereur"/>
+<edge source="Raych" target="Chetter Hummin;Hummin"/>
+<edge source="Raych" target="Rachelle Ire;Rachelle"/>
+<edge source="Raych" target="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire"/>
+<edge source="Raych" target="Demerzel"/>
+<edge source="Raych" target="Cléon;l’Empereur"/>
+<edge source="Chetter Hummin;Hummin" target="Rachelle Ire;Rachelle"/>
+<edge source="Chetter Hummin;Hummin" target="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire"/>
+<edge source="Chetter Hummin;Hummin" target="Demerzel"/>
+<edge source="Chetter Hummin;Hummin" target="Cléon;l’Empereur"/>
+<edge source="Rachelle Ire;Rachelle" target="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire"/>
+<edge source="Rachelle Ire;Rachelle" target="Demerzel"/>
+<edge source="Rachelle Ire;Rachelle" target="Cléon;l’Empereur"/>
+<edge source="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire" target="Demerzel"/>
+<edge source="Mannix IV;Mannix;le Maire Mannix IV;Madame le Maire" target="Cléon;l’Empereur"/>
+<edge source="Demerzel" target="Cléon;l’Empereur"/>
+</graph></graphml>

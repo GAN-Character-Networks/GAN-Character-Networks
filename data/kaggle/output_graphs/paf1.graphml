@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Marbie">
+  <data key="d0">Marbie</data>
+</node>
+<node id="Alem">
+  <data key="d0">Alem</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Hari Seldon;Seldon">
+  <data key="d0">Hari Seldon;Seldon</data>
+</node>
+<node id="Empereur;Cléon Ier">
+  <data key="d0">Empereur;Cléon Ier</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<edge source="Marbie" target="Alem"/>
+<edge source="Marbie" target="Hummin"/>
+<edge source="Marbie" target="Hari Seldon;Seldon"/>
+<edge source="Marbie" target="Empereur;Cléon Ier"/>
+<edge source="Marbie" target="Demerzel"/>
+<edge source="Alem" target="Hummin"/>
+<edge source="Alem" target="Hari Seldon;Seldon"/>
+<edge source="Alem" target="Empereur;Cléon Ier"/>
+<edge source="Alem" target="Demerzel"/>
+<edge source="Hummin" target="Hari Seldon;Seldon"/>
+<edge source="Hummin" target="Empereur;Cléon Ier"/>
+<edge source="Hummin" target="Demerzel"/>
+<edge source="Hari Seldon;Seldon" target="Empereur;Cléon Ier"/>
+<edge source="Hari Seldon;Seldon" target="Demerzel"/>
+<edge source="Empereur;Cléon Ier" target="Demerzel"/>
+</graph></graphml>

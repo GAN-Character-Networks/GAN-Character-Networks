@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Jézabel">
+  <data key="d0">Jézabel</data>
+</node>
+<node id="Baley;Lije Baley;Lije">
+  <data key="d0">Baley;Lije Baley;Lije</data>
+</node>
+<node id="Eli;Elie">
+  <data key="d0">Eli;Elie</data>
+</node>
+<node id="Elijah">
+  <data key="d0">Elijah</data>
+</node>
+<node id="Julius Enderby">
+  <data key="d0">Julius Enderby</data>
+</node>
+<node id="Jessie">
+  <data key="d0">Jessie</data>
+</node>
+<node id="Ahab">
+  <data key="d0">Ahab</data>
+</node>
+<node id="Jéhoram">
+  <data key="d0">Jéhoram</data>
+</node>
+<node id="Jéhu">
+  <data key="d0">Jéhu</data>
+</node>
+<node id="Naboth">
+  <data key="d0">Naboth</data>
+</node>
+<node id="Bentley;Bentley Baley">
+  <data key="d0">Bentley;Bentley Baley</data>
+</node>
+<node id="Junior">
+  <data key="d0">Junior</data>
+</node>
+<node id="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel">
+  <data key="d0">Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel</data>
+</node>
+<node id="Daneel">
+  <data key="d0">Daneel</data>
+</node>
+<node id="Ben">
+  <data key="d0">Ben</data>
+</node>
+<edge source="Jézabel" target="Baley;Lije Baley;Lije"/>
+<edge source="Jézabel" target="Eli;Elie"/>
+<edge source="Jézabel" target="Elijah"/>
+<edge source="Jézabel" target="Julius Enderby"/>
+<edge source="Jézabel" target="Jessie"/>
+<edge source="Jézabel" target="Ahab"/>
+<edge source="Jézabel" target="Jéhoram"/>
+<edge source="Jézabel" target="Jéhu"/>
+<edge source="Jézabel" target="Naboth"/>
+<edge source="Jézabel" target="Bentley;Bentley Baley"/>
+<edge source="Jézabel" target="Junior"/>
+<edge source="Jézabel" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Jézabel" target="Daneel"/>
+<edge source="Jézabel" target="Ben"/>
+<edge source="Baley;Lije Baley;Lije" target="Eli;Elie"/>
+<edge source="Baley;Lije Baley;Lije" target="Elijah"/>
+<edge source="Baley;Lije Baley;Lije" target="Julius Enderby"/>
+<edge source="Baley;Lije Baley;Lije" target="Jessie"/>
+<edge source="Baley;Lije Baley;Lije" target="Ahab"/>
+<edge source="Baley;Lije Baley;Lije" target="Jéhoram"/>
+<edge source="Baley;Lije Baley;Lije" target="Jéhu"/>
+<edge source="Baley;Lije Baley;Lije" target="Naboth"/>
+<edge source="Baley;Lije Baley;Lije" target="Bentley;Bentley Baley"/>
+<edge source="Baley;Lije Baley;Lije" target="Junior"/>
+<edge source="Baley;Lije Baley;Lije" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Baley;Lije Baley;Lije" target="Daneel"/>
+<edge source="Baley;Lije Baley;Lije" target="Ben"/>
+<edge source="Eli;Elie" target="Elijah"/>
+<edge source="Eli;Elie" target="Julius Enderby"/>
+<edge source="Eli;Elie" target="Jessie"/>
+<edge source="Eli;Elie" target="Ahab"/>
+<edge source="Eli;Elie" target="Jéhoram"/>
+<edge source="Eli;Elie" target="Jéhu"/>
+<edge source="Eli;Elie" target="Naboth"/>
+<edge source="Eli;Elie" target="Bentley;Bentley Baley"/>
+<edge source="Eli;Elie" target="Junior"/>
+<edge source="Eli;Elie" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Eli;Elie" target="Daneel"/>
+<edge source="Eli;Elie" target="Ben"/>
+<edge source="Elijah" target="Julius Enderby"/>
+<edge source="Elijah" target="Jessie"/>
+<edge source="Elijah" target="Ahab"/>
+<edge source="Elijah" target="Jéhoram"/>
+<edge source="Elijah" target="Jéhu"/>
+<edge source="Elijah" target="Naboth"/>
+<edge source="Elijah" target="Bentley;Bentley Baley"/>
+<edge source="Elijah" target="Junior"/>
+<edge source="Elijah" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Elijah" target="Daneel"/>
+<edge source="Elijah" target="Ben"/>
+<edge source="Julius Enderby" target="Jessie"/>
+<edge source="Julius Enderby" target="Ahab"/>
+<edge source="Julius Enderby" target="Jéhoram"/>
+<edge source="Julius Enderby" target="Jéhu"/>
+<edge source="Julius Enderby" target="Naboth"/>
+<edge source="Julius Enderby" target="Bentley;Bentley Baley"/>
+<edge source="Julius Enderby" target="Junior"/>
+<edge source="Julius Enderby" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Julius Enderby" target="Daneel"/>
+<edge source="Julius Enderby" target="Ben"/>
+<edge source="Jessie" target="Ahab"/>
+<edge source="Jessie" target="Jéhoram"/>
+<edge source="Jessie" target="Jéhu"/>
+<edge source="Jessie" target="Naboth"/>
+<edge source="Jessie" target="Bentley;Bentley Baley"/>
+<edge source="Jessie" target="Junior"/>
+<edge source="Jessie" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Jessie" target="Daneel"/>
+<edge source="Jessie" target="Ben"/>
+<edge source="Ahab" target="Jéhoram"/>
+<edge source="Ahab" target="Jéhu"/>
+<edge source="Ahab" target="Naboth"/>
+<edge source="Ahab" target="Bentley;Bentley Baley"/>
+<edge source="Ahab" target="Junior"/>
+<edge source="Ahab" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Ahab" target="Daneel"/>
+<edge source="Ahab" target="Ben"/>
+<edge source="Jéhoram" target="Jéhu"/>
+<edge source="Jéhoram" target="Naboth"/>
+<edge source="Jéhoram" target="Bentley;Bentley Baley"/>
+<edge source="Jéhoram" target="Junior"/>
+<edge source="Jéhoram" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Jéhoram" target="Daneel"/>
+<edge source="Jéhoram" target="Ben"/>
+<edge source="Jéhu" target="Naboth"/>
+<edge source="Jéhu" target="Bentley;Bentley Baley"/>
+<edge source="Jéhu" target="Junior"/>
+<edge source="Jéhu" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Jéhu" target="Daneel"/>
+<edge source="Jéhu" target="Ben"/>
+<edge source="Naboth" target="Bentley;Bentley Baley"/>
+<edge source="Naboth" target="Junior"/>
+<edge source="Naboth" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Naboth" target="Daneel"/>
+<edge source="Naboth" target="Ben"/>
+<edge source="Bentley;Bentley Baley" target="Junior"/>
+<edge source="Bentley;Bentley Baley" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Bentley;Bentley Baley" target="Daneel"/>
+<edge source="Bentley;Bentley Baley" target="Ben"/>
+<edge source="Junior" target="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel"/>
+<edge source="Junior" target="Daneel"/>
+<edge source="Junior" target="Ben"/>
+<edge source="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel" target="Daneel"/>
+<edge source="Olivaw;Daneel Olivaw;M. Olivaw;R. Daneel" target="Ben"/>
+<edge source="Daneel" target="Ben"/>
+</graph></graphml>

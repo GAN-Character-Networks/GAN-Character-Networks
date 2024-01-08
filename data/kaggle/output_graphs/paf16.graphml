@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="le sergent Thalus;Thalus;Emmer Thalus">
+  <data key="d0">le sergent Thalus;Thalus;Emmer Thalus</data>
+</node>
+<node id="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon">
+  <data key="d0">Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon</data>
+</node>
+<node id="Dors;le docteur Dors Venabili;Venabili">
+  <data key="d0">Dors;le docteur Dors Venabili;Venabili</data>
+</node>
+<node id="Raych">
+  <data key="d0">Raych</data>
+</node>
+<node id="Davan">
+  <data key="d0">Davan</data>
+</node>
+<node id="Yugo Amaryl">
+  <data key="d0">Yugo Amaryl</data>
+</node>
+<node id="Chetter Hummin;Hummin">
+  <data key="d0">Chetter Hummin;Hummin</data>
+</node>
+<node id="Rachelle">
+  <data key="d0">Rachelle</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<node id="Maire">
+  <data key="d0">Maire</data>
+</node>
+<node id="Mannix IV;Mannix">
+  <data key="d0">Mannix IV;Mannix</data>
+</node>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Dors;le docteur Dors Venabili;Venabili"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Raych"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Davan"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Yugo Amaryl"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Chetter Hummin;Hummin"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Rachelle"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Demerzel"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Maire"/>
+<edge source="le sergent Thalus;Thalus;Emmer Thalus" target="Mannix IV;Mannix"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Dors;le docteur Dors Venabili;Venabili"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Raych"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Davan"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Yugo Amaryl"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Chetter Hummin;Hummin"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Rachelle"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Demerzel"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Maire"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;le docteur Seldon;Seldon;docteur Seldon;le docteur Hari Seldon" target="Mannix IV;Mannix"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Raych"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Davan"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Yugo Amaryl"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Chetter Hummin;Hummin"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Rachelle"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Demerzel"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Maire"/>
+<edge source="Dors;le docteur Dors Venabili;Venabili" target="Mannix IV;Mannix"/>
+<edge source="Raych" target="Davan"/>
+<edge source="Raych" target="Yugo Amaryl"/>
+<edge source="Raych" target="Chetter Hummin;Hummin"/>
+<edge source="Raych" target="Rachelle"/>
+<edge source="Raych" target="Demerzel"/>
+<edge source="Raych" target="Maire"/>
+<edge source="Raych" target="Mannix IV;Mannix"/>
+<edge source="Davan" target="Yugo Amaryl"/>
+<edge source="Davan" target="Chetter Hummin;Hummin"/>
+<edge source="Davan" target="Rachelle"/>
+<edge source="Davan" target="Demerzel"/>
+<edge source="Davan" target="Maire"/>
+<edge source="Davan" target="Mannix IV;Mannix"/>
+<edge source="Yugo Amaryl" target="Chetter Hummin;Hummin"/>
+<edge source="Yugo Amaryl" target="Rachelle"/>
+<edge source="Yugo Amaryl" target="Demerzel"/>
+<edge source="Yugo Amaryl" target="Maire"/>
+<edge source="Yugo Amaryl" target="Mannix IV;Mannix"/>
+<edge source="Chetter Hummin;Hummin" target="Rachelle"/>
+<edge source="Chetter Hummin;Hummin" target="Demerzel"/>
+<edge source="Chetter Hummin;Hummin" target="Maire"/>
+<edge source="Chetter Hummin;Hummin" target="Mannix IV;Mannix"/>
+<edge source="Rachelle" target="Demerzel"/>
+<edge source="Rachelle" target="Maire"/>
+<edge source="Rachelle" target="Mannix IV;Mannix"/>
+<edge source="Demerzel" target="Maire"/>
+<edge source="Demerzel" target="Mannix IV;Mannix"/>
+<edge source="Maire" target="Mannix IV;Mannix"/>
+</graph></graphml>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Dors Venabili;Dors">
+  <data key="d0">Dors Venabili;Dors</data>
+</node>
+<node id="Eto Demerzel;Demerzel">
+  <data key="d0">Eto Demerzel;Demerzel</data>
+</node>
+<node id="Leggen;docteur Leggen">
+  <data key="d0">Leggen;docteur Leggen</data>
+</node>
+<node id="Hari;Hari Seldon;Seldon">
+  <data key="d0">Hari;Hari Seldon;Seldon</data>
+</node>
+<node id="Randa">
+  <data key="d0">Randa</data>
+</node>
+<node id="Cléon">
+  <data key="d0">Cléon</data>
+</node>
+<edge source="Hummin" target="Dors Venabili;Dors"/>
+<edge source="Hummin" target="Eto Demerzel;Demerzel"/>
+<edge source="Hummin" target="Leggen;docteur Leggen"/>
+<edge source="Hummin" target="Hari;Hari Seldon;Seldon"/>
+<edge source="Hummin" target="Randa"/>
+<edge source="Hummin" target="Cléon"/>
+<edge source="Dors Venabili;Dors" target="Eto Demerzel;Demerzel"/>
+<edge source="Dors Venabili;Dors" target="Leggen;docteur Leggen"/>
+<edge source="Dors Venabili;Dors" target="Hari;Hari Seldon;Seldon"/>
+<edge source="Dors Venabili;Dors" target="Randa"/>
+<edge source="Dors Venabili;Dors" target="Cléon"/>
+<edge source="Eto Demerzel;Demerzel" target="Leggen;docteur Leggen"/>
+<edge source="Eto Demerzel;Demerzel" target="Hari;Hari Seldon;Seldon"/>
+<edge source="Eto Demerzel;Demerzel" target="Randa"/>
+<edge source="Eto Demerzel;Demerzel" target="Cléon"/>
+<edge source="Leggen;docteur Leggen" target="Hari;Hari Seldon;Seldon"/>
+<edge source="Leggen;docteur Leggen" target="Randa"/>
+<edge source="Leggen;docteur Leggen" target="Cléon"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Randa"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Cléon"/>
+<edge source="Randa" target="Cléon"/>
+</graph></graphml>

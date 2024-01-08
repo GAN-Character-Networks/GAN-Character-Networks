@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari Seldon;Hari;Seldon">
+  <data key="d0">Hari Seldon;Hari;Seldon</data>
+</node>
+<node id="Dors Venabili;Dors">
+  <data key="d0">Dors Venabili;Dors</data>
+</node>
+<node id="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq">
+  <data key="d0">Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq</data>
+</node>
+<node id="Aurora">
+  <data key="d0">Aurora</data>
+</node>
+<node id="Mycogénien;Mycogène">
+  <data key="d0">Mycogénien;Mycogène</data>
+</node>
+<node id="Frère;Ancien;Grand Ancien">
+  <data key="d0">Frère;Ancien;Grand Ancien</data>
+</node>
+<node id="Mycélium;Mycélium Soixante-douze">
+  <data key="d0">Mycélium;Mycélium Soixante-douze</data>
+</node>
+<node id="Lissauer">
+  <data key="d0">Lissauer</data>
+</node>
+<node id="Mentone">
+  <data key="d0">Mentone</data>
+</node>
+<node id="Novigor">
+  <data key="d0">Novigor</data>
+</node>
+<edge source="Hari Seldon;Hari;Seldon" target="Dors Venabili;Dors"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Aurora"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Mycogénien;Mycogène"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Frère;Ancien;Grand Ancien"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Mycélium;Mycélium Soixante-douze"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Lissauer"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Mentone"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Novigor"/>
+<edge source="Dors Venabili;Dors" target="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq"/>
+<edge source="Dors Venabili;Dors" target="Aurora"/>
+<edge source="Dors Venabili;Dors" target="Mycogénien;Mycogène"/>
+<edge source="Dors Venabili;Dors" target="Frère;Ancien;Grand Ancien"/>
+<edge source="Dors Venabili;Dors" target="Mycélium;Mycélium Soixante-douze"/>
+<edge source="Dors Venabili;Dors" target="Lissauer"/>
+<edge source="Dors Venabili;Dors" target="Mentone"/>
+<edge source="Dors Venabili;Dors" target="Novigor"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Aurora"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Mycogénien;Mycogène"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Frère;Ancien;Grand Ancien"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Mycélium;Mycélium Soixante-douze"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Lissauer"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Mentone"/>
+<edge source="Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois;Goutte-de-Pluie Quarante- cinq;Goutte-de-Pluie Quarante-cinq" target="Novigor"/>
+<edge source="Aurora" target="Mycogénien;Mycogène"/>
+<edge source="Aurora" target="Frère;Ancien;Grand Ancien"/>
+<edge source="Aurora" target="Mycélium;Mycélium Soixante-douze"/>
+<edge source="Aurora" target="Lissauer"/>
+<edge source="Aurora" target="Mentone"/>
+<edge source="Aurora" target="Novigor"/>
+<edge source="Mycogénien;Mycogène" target="Frère;Ancien;Grand Ancien"/>
+<edge source="Mycogénien;Mycogène" target="Mycélium;Mycélium Soixante-douze"/>
+<edge source="Mycogénien;Mycogène" target="Lissauer"/>
+<edge source="Mycogénien;Mycogène" target="Mentone"/>
+<edge source="Mycogénien;Mycogène" target="Novigor"/>
+<edge source="Frère;Ancien;Grand Ancien" target="Mycélium;Mycélium Soixante-douze"/>
+<edge source="Frère;Ancien;Grand Ancien" target="Lissauer"/>
+<edge source="Frère;Ancien;Grand Ancien" target="Mentone"/>
+<edge source="Frère;Ancien;Grand Ancien" target="Novigor"/>
+<edge source="Mycélium;Mycélium Soixante-douze" target="Lissauer"/>
+<edge source="Mycélium;Mycélium Soixante-douze" target="Mentone"/>
+<edge source="Mycélium;Mycélium Soixante-douze" target="Novigor"/>
+<edge source="Lissauer" target="Mentone"/>
+<edge source="Lissauer" target="Novigor"/>
+<edge source="Mentone" target="Novigor"/>
+</graph></graphml>

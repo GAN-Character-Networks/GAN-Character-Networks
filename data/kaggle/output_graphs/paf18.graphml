@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Dors">
+  <data key="d0">Dors</data>
+</node>
+<node id="Hari Seldon;Hari;Seldon">
+  <data key="d0">Hari Seldon;Hari;Seldon</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Mannix;Mannix IV de Kan">
+  <data key="d0">Mannix;Mannix IV de Kan</data>
+</node>
+<node id="Rachelle">
+  <data key="d0">Rachelle</data>
+</node>
+<node id="Daneel;Maître Robot;Demerzel">
+  <data key="d0">Daneel;Maître Robot;Demerzel</data>
+</node>
+<node id="Raych Seldon;Raych">
+  <data key="d0">Raych Seldon;Raych</data>
+</node>
+<node id="Yugo Amaryl">
+  <data key="d0">Yugo Amaryl</data>
+</node>
+<edge source="Dors" target="Hari Seldon;Hari;Seldon"/>
+<edge source="Dors" target="Hummin"/>
+<edge source="Dors" target="Mannix;Mannix IV de Kan"/>
+<edge source="Dors" target="Rachelle"/>
+<edge source="Dors" target="Daneel;Maître Robot;Demerzel"/>
+<edge source="Dors" target="Raych Seldon;Raych"/>
+<edge source="Dors" target="Yugo Amaryl"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Hummin"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Mannix;Mannix IV de Kan"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Rachelle"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Daneel;Maître Robot;Demerzel"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Raych Seldon;Raych"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Yugo Amaryl"/>
+<edge source="Hummin" target="Mannix;Mannix IV de Kan"/>
+<edge source="Hummin" target="Rachelle"/>
+<edge source="Hummin" target="Daneel;Maître Robot;Demerzel"/>
+<edge source="Hummin" target="Raych Seldon;Raych"/>
+<edge source="Hummin" target="Yugo Amaryl"/>
+<edge source="Mannix;Mannix IV de Kan" target="Rachelle"/>
+<edge source="Mannix;Mannix IV de Kan" target="Daneel;Maître Robot;Demerzel"/>
+<edge source="Mannix;Mannix IV de Kan" target="Raych Seldon;Raych"/>
+<edge source="Mannix;Mannix IV de Kan" target="Yugo Amaryl"/>
+<edge source="Rachelle" target="Daneel;Maître Robot;Demerzel"/>
+<edge source="Rachelle" target="Raych Seldon;Raych"/>
+<edge source="Rachelle" target="Yugo Amaryl"/>
+<edge source="Daneel;Maître Robot;Demerzel" target="Raych Seldon;Raych"/>
+<edge source="Daneel;Maître Robot;Demerzel" target="Yugo Amaryl"/>
+<edge source="Raych Seldon;Raych" target="Yugo Amaryl"/>
+</graph></graphml>

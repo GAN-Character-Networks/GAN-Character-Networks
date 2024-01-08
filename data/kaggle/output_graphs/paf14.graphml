@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Maître Davan;DAVAN;Davan">
+  <data key="d0">Maître Davan;DAVAN;Davan</data>
+</node>
+<node id="Hari Seldon;Seldon">
+  <data key="d0">Hari Seldon;Seldon</data>
+</node>
+<node id="Dors;Dors Venabili;Maîtresse Venabili">
+  <data key="d0">Dors;Dors Venabili;Maîtresse Venabili</data>
+</node>
+<node id="Maître Tisalver;Maîtresse Tisalver;Tisalver">
+  <data key="d0">Maître Tisalver;Maîtresse Tisalver;Tisalver</data>
+</node>
+<node id="Raych">
+  <data key="d0">Raych</data>
+</node>
+<node id="Marlo Tanto">
+  <data key="d0">Marlo Tanto</data>
+</node>
+<node id="Yugo Amaryl;Amaryl">
+  <data key="d0">Yugo Amaryl;Amaryl</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<edge source="Maître Davan;DAVAN;Davan" target="Hari Seldon;Seldon"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Dors;Dors Venabili;Maîtresse Venabili"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Maître Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Raych"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Marlo Tanto"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Yugo Amaryl;Amaryl"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Hummin"/>
+<edge source="Maître Davan;DAVAN;Davan" target="Demerzel"/>
+<edge source="Hari Seldon;Seldon" target="Dors;Dors Venabili;Maîtresse Venabili"/>
+<edge source="Hari Seldon;Seldon" target="Maître Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Hari Seldon;Seldon" target="Raych"/>
+<edge source="Hari Seldon;Seldon" target="Marlo Tanto"/>
+<edge source="Hari Seldon;Seldon" target="Yugo Amaryl;Amaryl"/>
+<edge source="Hari Seldon;Seldon" target="Hummin"/>
+<edge source="Hari Seldon;Seldon" target="Demerzel"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili" target="Maître Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili" target="Raych"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili" target="Marlo Tanto"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili" target="Yugo Amaryl;Amaryl"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili" target="Hummin"/>
+<edge source="Dors;Dors Venabili;Maîtresse Venabili" target="Demerzel"/>
+<edge source="Maître Tisalver;Maîtresse Tisalver;Tisalver" target="Raych"/>
+<edge source="Maître Tisalver;Maîtresse Tisalver;Tisalver" target="Marlo Tanto"/>
+<edge source="Maître Tisalver;Maîtresse Tisalver;Tisalver" target="Yugo Amaryl;Amaryl"/>
+<edge source="Maître Tisalver;Maîtresse Tisalver;Tisalver" target="Hummin"/>
+<edge source="Maître Tisalver;Maîtresse Tisalver;Tisalver" target="Demerzel"/>
+<edge source="Raych" target="Marlo Tanto"/>
+<edge source="Raych" target="Yugo Amaryl;Amaryl"/>
+<edge source="Raych" target="Hummin"/>
+<edge source="Raych" target="Demerzel"/>
+<edge source="Marlo Tanto" target="Yugo Amaryl;Amaryl"/>
+<edge source="Marlo Tanto" target="Hummin"/>
+<edge source="Marlo Tanto" target="Demerzel"/>
+<edge source="Yugo Amaryl;Amaryl" target="Hummin"/>
+<edge source="Yugo Amaryl;Amaryl" target="Demerzel"/>
+<edge source="Hummin" target="Demerzel"/>
+</graph></graphml>

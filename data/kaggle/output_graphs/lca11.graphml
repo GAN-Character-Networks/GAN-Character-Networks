@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Enderby">
+  <data key="d0">Enderby</data>
+</node>
+<node id="Elijah;Baley;Lije Baley;monsieur Baley;Lije">
+  <data key="d0">Elijah;Baley;Lije Baley;monsieur Baley;Lije</data>
+</node>
+<node id="Francis Clousarr">
+  <data key="d0">Francis Clousarr</data>
+</node>
+<node id="Paul Gerhard">
+  <data key="d0">Paul Gerhard</data>
+</node>
+<node id="Gerrigel;A. Gerrigel;Dr Gerrigel">
+  <data key="d0">Gerrigel;A. Gerrigel;Dr Gerrigel</data>
+</node>
+<node id="R. Daneel;Daneel">
+  <data key="d0">R. Daneel;Daneel</data>
+</node>
+<edge source="Enderby" target="Elijah;Baley;Lije Baley;monsieur Baley;Lije"/>
+<edge source="Enderby" target="Francis Clousarr"/>
+<edge source="Enderby" target="Paul Gerhard"/>
+<edge source="Enderby" target="Gerrigel;A. Gerrigel;Dr Gerrigel"/>
+<edge source="Enderby" target="R. Daneel;Daneel"/>
+<edge source="Elijah;Baley;Lije Baley;monsieur Baley;Lije" target="Francis Clousarr"/>
+<edge source="Elijah;Baley;Lije Baley;monsieur Baley;Lije" target="Paul Gerhard"/>
+<edge source="Elijah;Baley;Lije Baley;monsieur Baley;Lije" target="Gerrigel;A. Gerrigel;Dr Gerrigel"/>
+<edge source="Elijah;Baley;Lije Baley;monsieur Baley;Lije" target="R. Daneel;Daneel"/>
+<edge source="Francis Clousarr" target="Paul Gerhard"/>
+<edge source="Francis Clousarr" target="Gerrigel;A. Gerrigel;Dr Gerrigel"/>
+<edge source="Francis Clousarr" target="R. Daneel;Daneel"/>
+<edge source="Paul Gerhard" target="Gerrigel;A. Gerrigel;Dr Gerrigel"/>
+<edge source="Paul Gerhard" target="R. Daneel;Daneel"/>
+<edge source="Gerrigel;A. Gerrigel;Dr Gerrigel" target="R. Daneel;Daneel"/>
+</graph></graphml>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari Seldon;Hari;Seldon">
+  <data key="d0">Hari Seldon;Hari;Seldon</data>
+</node>
+<node id="Venabili;Dors Venabili;Dors">
+  <data key="d0">Venabili;Dors Venabili;Dors</data>
+</node>
+<node id="Mycélium Soixante-douze">
+  <data key="d0">Mycélium Soixante-douze</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Maître-du-Soleil;Maître-du-Soleil Quatorze">
+  <data key="d0">Maître-du-Soleil;Maître-du-Soleil Quatorze</data>
+</node>
+<node id="Mycogénien;Mycogène">
+  <data key="d0">Mycogénien;Mycogène</data>
+</node>
+<node id="Bande">
+  <data key="d0">Bande</data>
+</node>
+<node id="Deux">
+  <data key="d0">Deux</data>
+</node>
+<node id="Le Grand Ancien;Ancien;Grand Ancien">
+  <data key="d0">Le Grand Ancien;Ancien;Grand Ancien</data>
+</node>
+<node id="Frère">
+  <data key="d0">Frère</data>
+</node>
+<node id="Empereur">
+  <data key="d0">Empereur</data>
+</node>
+<node id="Eto Demerzel;Demerzel">
+  <data key="d0">Eto Demerzel;Demerzel</data>
+</node>
+<node id="Chetter">
+  <data key="d0">Chetter</data>
+</node>
+<node id="Renégat">
+  <data key="d0">Renégat</data>
+</node>
+<edge source="Hari Seldon;Hari;Seldon" target="Venabili;Dors Venabili;Dors"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Mycélium Soixante-douze"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Hummin"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Maître-du-Soleil;Maître-du-Soleil Quatorze"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Mycogénien;Mycogène"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Bande"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Deux"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Frère"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Empereur"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Eto Demerzel;Demerzel"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Chetter"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Renégat"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Mycélium Soixante-douze"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Hummin"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Maître-du-Soleil;Maître-du-Soleil Quatorze"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Mycogénien;Mycogène"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Bande"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Deux"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Frère"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Empereur"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Eto Demerzel;Demerzel"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Chetter"/>
+<edge source="Venabili;Dors Venabili;Dors" target="Renégat"/>
+<edge source="Mycélium Soixante-douze" target="Hummin"/>
+<edge source="Mycélium Soixante-douze" target="Maître-du-Soleil;Maître-du-Soleil Quatorze"/>
+<edge source="Mycélium Soixante-douze" target="Mycogénien;Mycogène"/>
+<edge source="Mycélium Soixante-douze" target="Bande"/>
+<edge source="Mycélium Soixante-douze" target="Deux"/>
+<edge source="Mycélium Soixante-douze" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Mycélium Soixante-douze" target="Frère"/>
+<edge source="Mycélium Soixante-douze" target="Empereur"/>
+<edge source="Mycélium Soixante-douze" target="Eto Demerzel;Demerzel"/>
+<edge source="Mycélium Soixante-douze" target="Chetter"/>
+<edge source="Mycélium Soixante-douze" target="Renégat"/>
+<edge source="Hummin" target="Maître-du-Soleil;Maître-du-Soleil Quatorze"/>
+<edge source="Hummin" target="Mycogénien;Mycogène"/>
+<edge source="Hummin" target="Bande"/>
+<edge source="Hummin" target="Deux"/>
+<edge source="Hummin" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Hummin" target="Frère"/>
+<edge source="Hummin" target="Empereur"/>
+<edge source="Hummin" target="Eto Demerzel;Demerzel"/>
+<edge source="Hummin" target="Chetter"/>
+<edge source="Hummin" target="Renégat"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Mycogénien;Mycogène"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Bande"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Deux"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Frère"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Empereur"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Eto Demerzel;Demerzel"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Chetter"/>
+<edge source="Maître-du-Soleil;Maître-du-Soleil Quatorze" target="Renégat"/>
+<edge source="Mycogénien;Mycogène" target="Bande"/>
+<edge source="Mycogénien;Mycogène" target="Deux"/>
+<edge source="Mycogénien;Mycogène" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Mycogénien;Mycogène" target="Frère"/>
+<edge source="Mycogénien;Mycogène" target="Empereur"/>
+<edge source="Mycogénien;Mycogène" target="Eto Demerzel;Demerzel"/>
+<edge source="Mycogénien;Mycogène" target="Chetter"/>
+<edge source="Mycogénien;Mycogène" target="Renégat"/>
+<edge source="Bande" target="Deux"/>
+<edge source="Bande" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Bande" target="Frère"/>
+<edge source="Bande" target="Empereur"/>
+<edge source="Bande" target="Eto Demerzel;Demerzel"/>
+<edge source="Bande" target="Chetter"/>
+<edge source="Bande" target="Renégat"/>
+<edge source="Deux" target="Le Grand Ancien;Ancien;Grand Ancien"/>
+<edge source="Deux" target="Frère"/>
+<edge source="Deux" target="Empereur"/>
+<edge source="Deux" target="Eto Demerzel;Demerzel"/>
+<edge source="Deux" target="Chetter"/>
+<edge source="Deux" target="Renégat"/>
+<edge source="Le Grand Ancien;Ancien;Grand Ancien" target="Frère"/>
+<edge source="Le Grand Ancien;Ancien;Grand Ancien" target="Empereur"/>
+<edge source="Le Grand Ancien;Ancien;Grand Ancien" target="Eto Demerzel;Demerzel"/>
+<edge source="Le Grand Ancien;Ancien;Grand Ancien" target="Chetter"/>
+<edge source="Le Grand Ancien;Ancien;Grand Ancien" target="Renégat"/>
+<edge source="Frère" target="Empereur"/>
+<edge source="Frère" target="Eto Demerzel;Demerzel"/>
+<edge source="Frère" target="Chetter"/>
+<edge source="Frère" target="Renégat"/>
+<edge source="Empereur" target="Eto Demerzel;Demerzel"/>
+<edge source="Empereur" target="Chetter"/>
+<edge source="Empereur" target="Renégat"/>
+<edge source="Eto Demerzel;Demerzel" target="Chetter"/>
+<edge source="Eto Demerzel;Demerzel" target="Renégat"/>
+<edge source="Chetter" target="Renégat"/>
+</graph></graphml>

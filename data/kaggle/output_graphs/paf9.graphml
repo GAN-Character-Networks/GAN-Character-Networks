@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari;Hari Seldon;Seldon">
+  <data key="d0">Hari;Hari Seldon;Seldon</data>
+</node>
+<node id="Frère">
+  <data key="d0">Frère</data>
+</node>
+<node id="Dors Venabili;la Sœur;Dors;Sœur">
+  <data key="d0">Dors Venabili;la Sœur;Dors;Sœur</data>
+</node>
+<node id="Goutte-de-Pluie Quarante-cinq;Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois">
+  <data key="d0">Goutte-de-Pluie Quarante-cinq;Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois</data>
+</node>
+<node id="Mycogène">
+  <data key="d0">Mycogène</data>
+</node>
+<edge source="Hari;Hari Seldon;Seldon" target="Frère"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Dors Venabili;la Sœur;Dors;Sœur"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Goutte-de-Pluie Quarante-cinq;Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Mycogène"/>
+<edge source="Frère" target="Dors Venabili;la Sœur;Dors;Sœur"/>
+<edge source="Frère" target="Goutte-de-Pluie Quarante-cinq;Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Frère" target="Mycogène"/>
+<edge source="Dors Venabili;la Sœur;Dors;Sœur" target="Goutte-de-Pluie Quarante-cinq;Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Dors Venabili;la Sœur;Dors;Sœur" target="Mycogène"/>
+<edge source="Goutte-de-Pluie Quarante-cinq;Goutte-de-Pluie;Goutte-de-Pluie Quarante-trois" target="Mycogène"/>
+</graph></graphml>

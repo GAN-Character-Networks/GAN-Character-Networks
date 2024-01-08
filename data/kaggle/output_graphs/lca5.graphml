@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="R. Daneel Olivaw;Daneel">
+  <data key="d0">R. Daneel Olivaw;Daneel</data>
+</node>
+<node id="Baley;Elijah Baley">
+  <data key="d0">Baley;Elijah Baley</data>
+</node>
+<node id="Jessie">
+  <data key="d0">Jessie</data>
+</node>
+<node id="Lije">
+  <data key="d0">Lije</data>
+</node>
+<node id="Julius Enderby;Enderby">
+  <data key="d0">Julius Enderby;Enderby</data>
+</node>
+<node id="Bentley">
+  <data key="d0">Bentley</data>
+</node>
+<edge source="R. Daneel Olivaw;Daneel" target="Baley;Elijah Baley"/>
+<edge source="R. Daneel Olivaw;Daneel" target="Jessie"/>
+<edge source="R. Daneel Olivaw;Daneel" target="Lije"/>
+<edge source="R. Daneel Olivaw;Daneel" target="Julius Enderby;Enderby"/>
+<edge source="R. Daneel Olivaw;Daneel" target="Bentley"/>
+<edge source="Baley;Elijah Baley" target="Jessie"/>
+<edge source="Baley;Elijah Baley" target="Lije"/>
+<edge source="Baley;Elijah Baley" target="Julius Enderby;Enderby"/>
+<edge source="Baley;Elijah Baley" target="Bentley"/>
+<edge source="Jessie" target="Lije"/>
+<edge source="Jessie" target="Julius Enderby;Enderby"/>
+<edge source="Jessie" target="Bentley"/>
+<edge source="Lije" target="Julius Enderby;Enderby"/>
+<edge source="Lije" target="Bentley"/>
+<edge source="Julius Enderby;Enderby" target="Bentley"/>
+</graph></graphml>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Maître Seldon;Hari;Seldon;Hari Seldon">
+  <data key="d0">Maître Seldon;Hari;Seldon;Hari Seldon</data>
+</node>
+<node id="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili">
+  <data key="d0">Dors;Dors Venabili;Maîtresse;Maîtresse Venabili</data>
+</node>
+<node id="Chetter Hummin;Hummin">
+  <data key="d0">Chetter Hummin;Hummin</data>
+</node>
+<node id="Maître-du-Soleil Quatorze">
+  <data key="d0">Maître-du-Soleil Quatorze</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<node id="l’Empereur">
+  <data key="d0">l’Empereur</data>
+</node>
+<node id="Casilia">
+  <data key="d0">Casilia</data>
+</node>
+<node id="Tisalver">
+  <data key="d0">Tisalver</data>
+</node>
+<node id="la Mère Rittah;La Mère Rittah;Mère Rittah">
+  <data key="d0">la Mère Rittah;La Mère Rittah;Mère Rittah</data>
+</node>
+<node id="Raych">
+  <data key="d0">Raych</data>
+</node>
+<node id="Da-Nee">
+  <data key="d0">Da-Nee</data>
+</node>
+<node id="Ba-Lee">
+  <data key="d0">Ba-Lee</data>
+</node>
+<node id="Marron">
+  <data key="d0">Marron</data>
+</node>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Chetter Hummin;Hummin"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Maître-du-Soleil Quatorze"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Demerzel"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="l’Empereur"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Casilia"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Tisalver"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Raych"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Da-Nee"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Ba-Lee"/>
+<edge source="Maître Seldon;Hari;Seldon;Hari Seldon" target="Marron"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Chetter Hummin;Hummin"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Maître-du-Soleil Quatorze"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Demerzel"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="l’Empereur"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Casilia"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Tisalver"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Raych"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Da-Nee"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Ba-Lee"/>
+<edge source="Dors;Dors Venabili;Maîtresse;Maîtresse Venabili" target="Marron"/>
+<edge source="Chetter Hummin;Hummin" target="Maître-du-Soleil Quatorze"/>
+<edge source="Chetter Hummin;Hummin" target="Demerzel"/>
+<edge source="Chetter Hummin;Hummin" target="l’Empereur"/>
+<edge source="Chetter Hummin;Hummin" target="Casilia"/>
+<edge source="Chetter Hummin;Hummin" target="Tisalver"/>
+<edge source="Chetter Hummin;Hummin" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Chetter Hummin;Hummin" target="Raych"/>
+<edge source="Chetter Hummin;Hummin" target="Da-Nee"/>
+<edge source="Chetter Hummin;Hummin" target="Ba-Lee"/>
+<edge source="Chetter Hummin;Hummin" target="Marron"/>
+<edge source="Maître-du-Soleil Quatorze" target="Demerzel"/>
+<edge source="Maître-du-Soleil Quatorze" target="l’Empereur"/>
+<edge source="Maître-du-Soleil Quatorze" target="Casilia"/>
+<edge source="Maître-du-Soleil Quatorze" target="Tisalver"/>
+<edge source="Maître-du-Soleil Quatorze" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Maître-du-Soleil Quatorze" target="Raych"/>
+<edge source="Maître-du-Soleil Quatorze" target="Da-Nee"/>
+<edge source="Maître-du-Soleil Quatorze" target="Ba-Lee"/>
+<edge source="Maître-du-Soleil Quatorze" target="Marron"/>
+<edge source="Demerzel" target="l’Empereur"/>
+<edge source="Demerzel" target="Casilia"/>
+<edge source="Demerzel" target="Tisalver"/>
+<edge source="Demerzel" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Demerzel" target="Raych"/>
+<edge source="Demerzel" target="Da-Nee"/>
+<edge source="Demerzel" target="Ba-Lee"/>
+<edge source="Demerzel" target="Marron"/>
+<edge source="l’Empereur" target="Casilia"/>
+<edge source="l’Empereur" target="Tisalver"/>
+<edge source="l’Empereur" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="l’Empereur" target="Raych"/>
+<edge source="l’Empereur" target="Da-Nee"/>
+<edge source="l’Empereur" target="Ba-Lee"/>
+<edge source="l’Empereur" target="Marron"/>
+<edge source="Casilia" target="Tisalver"/>
+<edge source="Casilia" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Casilia" target="Raych"/>
+<edge source="Casilia" target="Da-Nee"/>
+<edge source="Casilia" target="Ba-Lee"/>
+<edge source="Casilia" target="Marron"/>
+<edge source="Tisalver" target="la Mère Rittah;La Mère Rittah;Mère Rittah"/>
+<edge source="Tisalver" target="Raych"/>
+<edge source="Tisalver" target="Da-Nee"/>
+<edge source="Tisalver" target="Ba-Lee"/>
+<edge source="Tisalver" target="Marron"/>
+<edge source="la Mère Rittah;La Mère Rittah;Mère Rittah" target="Raych"/>
+<edge source="la Mère Rittah;La Mère Rittah;Mère Rittah" target="Da-Nee"/>
+<edge source="la Mère Rittah;La Mère Rittah;Mère Rittah" target="Ba-Lee"/>
+<edge source="la Mère Rittah;La Mère Rittah;Mère Rittah" target="Marron"/>
+<edge source="Raych" target="Da-Nee"/>
+<edge source="Raych" target="Ba-Lee"/>
+<edge source="Raych" target="Marron"/>
+<edge source="Da-Nee" target="Ba-Lee"/>
+<edge source="Da-Nee" target="Marron"/>
+<edge source="Ba-Lee" target="Marron"/>
+</graph></graphml>

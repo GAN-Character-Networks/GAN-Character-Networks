@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari Seldon;Hari;Seldon">
+  <data key="d0">Hari Seldon;Hari;Seldon</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Lisung;Lisung Randa;Randa">
+  <data key="d0">Lisung;Lisung Randa;Randa</data>
+</node>
+<node id="Dors;Dors Venabili">
+  <data key="d0">Dors;Dors Venabili</data>
+</node>
+<node id="Kiangtow Randa">
+  <data key="d0">Kiangtow Randa</data>
+</node>
+<node id="Jenarr Leggen;Leggen;docteur Leggen">
+  <data key="d0">Jenarr Leggen;Leggen;docteur Leggen</data>
+</node>
+<node id="Clowzia">
+  <data key="d0">Clowzia</data>
+</node>
+<edge source="Hari Seldon;Hari;Seldon" target="Hummin"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Lisung;Lisung Randa;Randa"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Dors;Dors Venabili"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Kiangtow Randa"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Jenarr Leggen;Leggen;docteur Leggen"/>
+<edge source="Hari Seldon;Hari;Seldon" target="Clowzia"/>
+<edge source="Hummin" target="Lisung;Lisung Randa;Randa"/>
+<edge source="Hummin" target="Dors;Dors Venabili"/>
+<edge source="Hummin" target="Kiangtow Randa"/>
+<edge source="Hummin" target="Jenarr Leggen;Leggen;docteur Leggen"/>
+<edge source="Hummin" target="Clowzia"/>
+<edge source="Lisung;Lisung Randa;Randa" target="Dors;Dors Venabili"/>
+<edge source="Lisung;Lisung Randa;Randa" target="Kiangtow Randa"/>
+<edge source="Lisung;Lisung Randa;Randa" target="Jenarr Leggen;Leggen;docteur Leggen"/>
+<edge source="Lisung;Lisung Randa;Randa" target="Clowzia"/>
+<edge source="Dors;Dors Venabili" target="Kiangtow Randa"/>
+<edge source="Dors;Dors Venabili" target="Jenarr Leggen;Leggen;docteur Leggen"/>
+<edge source="Dors;Dors Venabili" target="Clowzia"/>
+<edge source="Kiangtow Randa" target="Jenarr Leggen;Leggen;docteur Leggen"/>
+<edge source="Kiangtow Randa" target="Clowzia"/>
+<edge source="Jenarr Leggen;Leggen;docteur Leggen" target="Clowzia"/>
+</graph></graphml>

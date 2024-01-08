@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari Seldon;Hari;Seldon;docteur Seldon">
+  <data key="d0">Hari Seldon;Hari;Seldon;docteur Seldon</data>
+</node>
+<node id="Chetter Hummin;M. Hummin;Hummin;Chetter">
+  <data key="d0">Chetter Hummin;M. Hummin;Hummin;Chetter</data>
+</node>
+<node id="Dors;Dors Venabili;professeur Venabili;Dors Machinchose">
+  <data key="d0">Dors;Dors Venabili;professeur Venabili;Dors Machinchose</data>
+</node>
+<node id="Cléon;L’Empereur;Sire;Empereur;l’Empereur">
+  <data key="d0">Cléon;L’Empereur;Sire;Empereur;l’Empereur</data>
+</node>
+<node id="Demerzel">
+  <data key="d0">Demerzel</data>
+</node>
+<node id="Maire de Kan">
+  <data key="d0">Maire de Kan</data>
+</node>
+<edge source="Hari Seldon;Hari;Seldon;docteur Seldon" target="Chetter Hummin;M. Hummin;Hummin;Chetter"/>
+<edge source="Hari Seldon;Hari;Seldon;docteur Seldon" target="Dors;Dors Venabili;professeur Venabili;Dors Machinchose"/>
+<edge source="Hari Seldon;Hari;Seldon;docteur Seldon" target="Cléon;L’Empereur;Sire;Empereur;l’Empereur"/>
+<edge source="Hari Seldon;Hari;Seldon;docteur Seldon" target="Demerzel"/>
+<edge source="Hari Seldon;Hari;Seldon;docteur Seldon" target="Maire de Kan"/>
+<edge source="Chetter Hummin;M. Hummin;Hummin;Chetter" target="Dors;Dors Venabili;professeur Venabili;Dors Machinchose"/>
+<edge source="Chetter Hummin;M. Hummin;Hummin;Chetter" target="Cléon;L’Empereur;Sire;Empereur;l’Empereur"/>
+<edge source="Chetter Hummin;M. Hummin;Hummin;Chetter" target="Demerzel"/>
+<edge source="Chetter Hummin;M. Hummin;Hummin;Chetter" target="Maire de Kan"/>
+<edge source="Dors;Dors Venabili;professeur Venabili;Dors Machinchose" target="Cléon;L’Empereur;Sire;Empereur;l’Empereur"/>
+<edge source="Dors;Dors Venabili;professeur Venabili;Dors Machinchose" target="Demerzel"/>
+<edge source="Dors;Dors Venabili;professeur Venabili;Dors Machinchose" target="Maire de Kan"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Demerzel"/>
+<edge source="Cléon;L’Empereur;Sire;Empereur;l’Empereur" target="Maire de Kan"/>
+<edge source="Demerzel" target="Maire de Kan"/>
+</graph></graphml>

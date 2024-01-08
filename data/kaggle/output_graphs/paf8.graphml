@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Hari;Hari Seldon;Seldon">
+  <data key="d0">Hari;Hari Seldon;Seldon</data>
+</node>
+<node id="Grisnuage">
+  <data key="d0">Grisnuage</data>
+</node>
+<node id="Dors">
+  <data key="d0">Dors</data>
+</node>
+<node id="Mycogène">
+  <data key="d0">Mycogène</data>
+</node>
+<node id="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois">
+  <data key="d0">Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois</data>
+</node>
+<node id="Chetter Hummin;Hummin">
+  <data key="d0">Chetter Hummin;Hummin</data>
+</node>
+<node id="Maître-du-Soleil Quatorze">
+  <data key="d0">Maître-du-Soleil Quatorze</data>
+</node>
+<node id="Sœur;La Sœur">
+  <data key="d0">Sœur;La Sœur</data>
+</node>
+<node id="Frère">
+  <data key="d0">Frère</data>
+</node>
+<edge source="Hari;Hari Seldon;Seldon" target="Grisnuage"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Dors"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Mycogène"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Chetter Hummin;Hummin"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Maître-du-Soleil Quatorze"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Sœur;La Sœur"/>
+<edge source="Hari;Hari Seldon;Seldon" target="Frère"/>
+<edge source="Grisnuage" target="Dors"/>
+<edge source="Grisnuage" target="Mycogène"/>
+<edge source="Grisnuage" target="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Grisnuage" target="Chetter Hummin;Hummin"/>
+<edge source="Grisnuage" target="Maître-du-Soleil Quatorze"/>
+<edge source="Grisnuage" target="Sœur;La Sœur"/>
+<edge source="Grisnuage" target="Frère"/>
+<edge source="Dors" target="Mycogène"/>
+<edge source="Dors" target="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Dors" target="Chetter Hummin;Hummin"/>
+<edge source="Dors" target="Maître-du-Soleil Quatorze"/>
+<edge source="Dors" target="Sœur;La Sœur"/>
+<edge source="Dors" target="Frère"/>
+<edge source="Mycogène" target="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois"/>
+<edge source="Mycogène" target="Chetter Hummin;Hummin"/>
+<edge source="Mycogène" target="Maître-du-Soleil Quatorze"/>
+<edge source="Mycogène" target="Sœur;La Sœur"/>
+<edge source="Mycogène" target="Frère"/>
+<edge source="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois" target="Chetter Hummin;Hummin"/>
+<edge source="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois" target="Maître-du-Soleil Quatorze"/>
+<edge source="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois" target="Sœur;La Sœur"/>
+<edge source="Goutte-de-Pluie Qu;Goutte-de-Pluie Quarante-cinq;Goutte- de-Pluie Quarante-trois;Goutte-de-Pluie Quarante-trois" target="Frère"/>
+<edge source="Chetter Hummin;Hummin" target="Maître-du-Soleil Quatorze"/>
+<edge source="Chetter Hummin;Hummin" target="Sœur;La Sœur"/>
+<edge source="Chetter Hummin;Hummin" target="Frère"/>
+<edge source="Maître-du-Soleil Quatorze" target="Sœur;La Sœur"/>
+<edge source="Maître-du-Soleil Quatorze" target="Frère"/>
+<edge source="Sœur;La Sœur" target="Frère"/>
+</graph></graphml>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="docteur Leggen;Leggen;Jenarr Leggen">
+  <data key="d0">docteur Leggen;Leggen;Jenarr Leggen</data>
+</node>
+<node id="Seldon;Hari Seldon;docteur Seldon;Hari">
+  <data key="d0">Seldon;Hari Seldon;docteur Seldon;Hari</data>
+</node>
+<node id="Dors;Dors Venabili;Venabili">
+  <data key="d0">Dors;Dors Venabili;Venabili</data>
+</node>
+<node id="Jenarr">
+  <data key="d0">Jenarr</data>
+</node>
+<node id="Clowzia">
+  <data key="d0">Clowzia</data>
+</node>
+<node id="Benastra">
+  <data key="d0">Benastra</data>
+</node>
+<edge source="docteur Leggen;Leggen;Jenarr Leggen" target="Seldon;Hari Seldon;docteur Seldon;Hari"/>
+<edge source="docteur Leggen;Leggen;Jenarr Leggen" target="Dors;Dors Venabili;Venabili"/>
+<edge source="docteur Leggen;Leggen;Jenarr Leggen" target="Jenarr"/>
+<edge source="docteur Leggen;Leggen;Jenarr Leggen" target="Clowzia"/>
+<edge source="docteur Leggen;Leggen;Jenarr Leggen" target="Benastra"/>
+<edge source="Seldon;Hari Seldon;docteur Seldon;Hari" target="Dors;Dors Venabili;Venabili"/>
+<edge source="Seldon;Hari Seldon;docteur Seldon;Hari" target="Jenarr"/>
+<edge source="Seldon;Hari Seldon;docteur Seldon;Hari" target="Clowzia"/>
+<edge source="Seldon;Hari Seldon;docteur Seldon;Hari" target="Benastra"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Jenarr"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Clowzia"/>
+<edge source="Dors;Dors Venabili;Venabili" target="Benastra"/>
+<edge source="Jenarr" target="Clowzia"/>
+<edge source="Jenarr" target="Benastra"/>
+<edge source="Clowzia" target="Benastra"/>
+</graph></graphml>

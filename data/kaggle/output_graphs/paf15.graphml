@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Raych;RAYCH">
+  <data key="d0">Raych;RAYCH</data>
+</node>
+<node id="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon">
+  <data key="d0">Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon</data>
+</node>
+<node id="Dors;Dors Venabili">
+  <data key="d0">Dors;Dors Venabili</data>
+</node>
+<node id="L’Empereur;Empereur;l’Empereur">
+  <data key="d0">L’Empereur;Empereur;l’Empereur</data>
+</node>
+<node id="Gebore Astinwald;Astinwald">
+  <data key="d0">Gebore Astinwald;Astinwald</data>
+</node>
+<node id="Russ;l’agent de secteur Lanel Russ;Lanel Russ">
+  <data key="d0">Russ;l’agent de secteur Lanel Russ;Lanel Russ</data>
+</node>
+<node id="Maîtresse">
+  <data key="d0">Maîtresse</data>
+</node>
+<node id="Marron;Elgin Marron">
+  <data key="d0">Marron;Elgin Marron</data>
+</node>
+<node id="Davan">
+  <data key="d0">Davan</data>
+</node>
+<node id="Casilia Tisalver;Maîtresse Tisalver;Tisalver">
+  <data key="d0">Casilia Tisalver;Maîtresse Tisalver;Tisalver</data>
+</node>
+<node id="Hummin">
+  <data key="d0">Hummin</data>
+</node>
+<node id="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan">
+  <data key="d0">Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan</data>
+</node>
+<edge source="Raych;RAYCH" target="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon"/>
+<edge source="Raych;RAYCH" target="Dors;Dors Venabili"/>
+<edge source="Raych;RAYCH" target="L’Empereur;Empereur;l’Empereur"/>
+<edge source="Raych;RAYCH" target="Gebore Astinwald;Astinwald"/>
+<edge source="Raych;RAYCH" target="Russ;l’agent de secteur Lanel Russ;Lanel Russ"/>
+<edge source="Raych;RAYCH" target="Maîtresse"/>
+<edge source="Raych;RAYCH" target="Marron;Elgin Marron"/>
+<edge source="Raych;RAYCH" target="Davan"/>
+<edge source="Raych;RAYCH" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Raych;RAYCH" target="Hummin"/>
+<edge source="Raych;RAYCH" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Dors;Dors Venabili"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="L’Empereur;Empereur;l’Empereur"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Gebore Astinwald;Astinwald"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Russ;l’agent de secteur Lanel Russ;Lanel Russ"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Maîtresse"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Marron;Elgin Marron"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Davan"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Hummin"/>
+<edge source="Hari Seldon;Hari;Maître Seldon;Seldon;docteur Seldon" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Dors;Dors Venabili" target="L’Empereur;Empereur;l’Empereur"/>
+<edge source="Dors;Dors Venabili" target="Gebore Astinwald;Astinwald"/>
+<edge source="Dors;Dors Venabili" target="Russ;l’agent de secteur Lanel Russ;Lanel Russ"/>
+<edge source="Dors;Dors Venabili" target="Maîtresse"/>
+<edge source="Dors;Dors Venabili" target="Marron;Elgin Marron"/>
+<edge source="Dors;Dors Venabili" target="Davan"/>
+<edge source="Dors;Dors Venabili" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Dors;Dors Venabili" target="Hummin"/>
+<edge source="Dors;Dors Venabili" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Gebore Astinwald;Astinwald"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Russ;l’agent de secteur Lanel Russ;Lanel Russ"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Maîtresse"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Marron;Elgin Marron"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Davan"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Hummin"/>
+<edge source="L’Empereur;Empereur;l’Empereur" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Gebore Astinwald;Astinwald" target="Russ;l’agent de secteur Lanel Russ;Lanel Russ"/>
+<edge source="Gebore Astinwald;Astinwald" target="Maîtresse"/>
+<edge source="Gebore Astinwald;Astinwald" target="Marron;Elgin Marron"/>
+<edge source="Gebore Astinwald;Astinwald" target="Davan"/>
+<edge source="Gebore Astinwald;Astinwald" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Gebore Astinwald;Astinwald" target="Hummin"/>
+<edge source="Gebore Astinwald;Astinwald" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Russ;l’agent de secteur Lanel Russ;Lanel Russ" target="Maîtresse"/>
+<edge source="Russ;l’agent de secteur Lanel Russ;Lanel Russ" target="Marron;Elgin Marron"/>
+<edge source="Russ;l’agent de secteur Lanel Russ;Lanel Russ" target="Davan"/>
+<edge source="Russ;l’agent de secteur Lanel Russ;Lanel Russ" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Russ;l’agent de secteur Lanel Russ;Lanel Russ" target="Hummin"/>
+<edge source="Russ;l’agent de secteur Lanel Russ;Lanel Russ" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Maîtresse" target="Marron;Elgin Marron"/>
+<edge source="Maîtresse" target="Davan"/>
+<edge source="Maîtresse" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Maîtresse" target="Hummin"/>
+<edge source="Maîtresse" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Marron;Elgin Marron" target="Davan"/>
+<edge source="Marron;Elgin Marron" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Marron;Elgin Marron" target="Hummin"/>
+<edge source="Marron;Elgin Marron" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Davan" target="Casilia Tisalver;Maîtresse Tisalver;Tisalver"/>
+<edge source="Davan" target="Hummin"/>
+<edge source="Davan" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Casilia Tisalver;Maîtresse Tisalver;Tisalver" target="Hummin"/>
+<edge source="Casilia Tisalver;Maîtresse Tisalver;Tisalver" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+<edge source="Hummin" target="Maire;Maire de Dahl;l’actuel Maire de Kan;Maire de Kan"/>
+</graph></graphml>

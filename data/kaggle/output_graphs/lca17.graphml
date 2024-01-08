@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="names" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Enderby;Julius Enderby">
+  <data key="d0">Enderby;Julius Enderby</data>
+</node>
+<node id="Clousarr">
+  <data key="d0">Clousarr</data>
+</node>
+<node id="Elijah;Baley;Lije">
+  <data key="d0">Elijah;Baley;Lije</data>
+</node>
+<node id="Sarton;Dr Sarton">
+  <data key="d0">Sarton;Dr Sarton</data>
+</node>
+<node id="Jessie">
+  <data key="d0">Jessie</data>
+</node>
+<node id="R. Daneel;Daneel">
+  <data key="d0">R. Daneel;Daneel</data>
+</node>
+<node id="Dr Gerrigel">
+  <data key="d0">Dr Gerrigel</data>
+</node>
+<edge source="Enderby;Julius Enderby" target="Clousarr"/>
+<edge source="Enderby;Julius Enderby" target="Elijah;Baley;Lije"/>
+<edge source="Enderby;Julius Enderby" target="Sarton;Dr Sarton"/>
+<edge source="Enderby;Julius Enderby" target="Jessie"/>
+<edge source="Enderby;Julius Enderby" target="R. Daneel;Daneel"/>
+<edge source="Enderby;Julius Enderby" target="Dr Gerrigel"/>
+<edge source="Clousarr" target="Elijah;Baley;Lije"/>
+<edge source="Clousarr" target="Sarton;Dr Sarton"/>
+<edge source="Clousarr" target="Jessie"/>
+<edge source="Clousarr" target="R. Daneel;Daneel"/>
+<edge source="Clousarr" target="Dr Gerrigel"/>
+<edge source="Elijah;Baley;Lije" target="Sarton;Dr Sarton"/>
+<edge source="Elijah;Baley;Lije" target="Jessie"/>
+<edge source="Elijah;Baley;Lije" target="R. Daneel;Daneel"/>
+<edge source="Elijah;Baley;Lije" target="Dr Gerrigel"/>
+<edge source="Sarton;Dr Sarton" target="Jessie"/>
+<edge source="Sarton;Dr Sarton" target="R. Daneel;Daneel"/>
+<edge source="Sarton;Dr Sarton" target="Dr Gerrigel"/>
+<edge source="Jessie" target="R. Daneel;Daneel"/>
+<edge source="Jessie" target="Dr Gerrigel"/>
+<edge source="R. Daneel;Daneel" target="Dr Gerrigel"/>
+</graph></graphml>
