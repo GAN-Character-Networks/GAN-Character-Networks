@@ -2,7 +2,7 @@ r""" Submission file for using GPT to generate the NER chunks + GPT self_verific
 
 Authors
 --------
- * Adel Moumen 2023
+ * Adel Moumen 2023, 2024
 """
 
 from vroom.baseline import *
@@ -54,7 +54,6 @@ def submission(name_exp: str = "GPT-3_NER_chunks_determinant", baseline_fuzzy = 
                experiment_name = os.path.join("save", "kaggle", book_code, name_exp)
                save_path = os.path.join(experiment_name, "ner", f"chapter_{chapter}.json")
                graph_manager = GraphManager()
-
           
                if os.path.exists(save_path):
                     print("Already proceed NER GPT: ", path)
@@ -326,6 +325,21 @@ def self_verification_no_json(txt_path, entities, logger = None):
 
      return saves
 
+def find_word_positions(word_list, input_text):
+    positions = []
+
+    for word in word_list:
+        start = input_text.find(word)
+        while start != -1:
+            end = start + len(word)
+            positions.append({"word": word, "start": start, "end": end})
+            start = input_text.find(word, start + 1)
+
+    # Sort the list of dictionaries based on the "start" key
+    sorted_positions = sorted(positions, key=lambda x: x["start"])
+
+    return sorted_positions
+
 def get_cooccurences_with_aliases_and_gpt(path: str, entities, logger: JSONLogger = None):
      """
      Get the aliases of the cooccurences of characters from the given text.
@@ -374,9 +388,10 @@ def get_cooccurences_with_aliases_and_gpt(path: str, entities, logger: JSONLogge
      Output:
      {
      '0' : ['CLÉON Ier', 'Empereur', 'Cléon', 'Sire', 'l'Empereur', 'l'empereur Cléon'],
-     '1' : ['Hari Seldon', 'Seldon', 'Eto Demerzel', 'Demerzel'],
+     '1' : ['Hari Seldon', 'Seldon'],
      '2' : ['Lieutenant Alban Wellis', 'Wellis'],
      '3' : ['Hummin'],
+     '4' : ['Eto Demerzel', 'Demerzel']
      }
 
      Tu vas desormais recevoir une liste de personnes en input, et tu dois les regrouper s'ils se réfèrent à la même personne. Tu n'as pas le droit d'inventer de nouveaux personnages et tu dois uniquement utiliser cette liste. Les noms ne doivent pas être modifiés, y compris les espaces, apostrophes, etc. Si tu ne respectes pas ces règles, tu seras fortement pénalisé. 
@@ -386,14 +401,11 @@ def get_cooccurences_with_aliases_and_gpt(path: str, entities, logger: JSONLogge
      """
 
      gpt_entities = entities["final_gpt_entities"]
-     print(gpt_entities)
-     
-     tagged_file = tag_text_with_entities(path, gpt_entities)
-     positions = get_positions_of_entities(tagged_file)
-     cooccurences = get_cooccurences([tagged_file], [positions])
-     word_entities = set(gpt_entities)
-
      print("entities = ", gpt_entities)
+     input_text = read_file(path)
+     positions = find_word_positions(gpt_entities, input_text)
+     cooccurences = get_cooccurences([input_text], [positions])
+     word_entities = set(gpt_entities)
      user_prompt = """
 
      Input : 
@@ -438,7 +450,10 @@ def get_cooccurences_with_aliases_and_gpt(path: str, entities, logger: JSONLogge
                "params": params,
           }
           logger(saves)
-     return find_cooccurences_aliases(cooccurences, aliases)
+
+     print("aliases = ", aliases)
+     cooc = find_cooccurences_aliases(cooccurences, aliases)
+     return cooc
 
 def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
      """
@@ -453,18 +468,16 @@ def get_cooccurences_with_aliases(path: str, logger: JSONLogger = None):
      """
 
      entities, chunks = get_entities_from_file(path)
+     
+     entities_unfold = [entity for sublist in entities for entity in sublist]
+     entities_for_verif = list(set([entity["word"] for entity in entities_unfold]))
+     entities_from_verif = self_verification_no_json(path, entities_for_verif)
+
      cooccurences = get_cooccurences(chunks, entities)
-     if os.path.exists(logger.save_path):
-          out = get_data_from_json(logger.save_path)
-          entities = out["entities"]
-          aliases = out["aliases"]
-     else:
-          entities_unfold = [entity for sublist in entities for entity in sublist]
-          entities_for_verif = list(set([entity["word"] for entity in entities_unfold]))
-          entities = self_verification_no_json(path, entities_for_verif)
-          # remove entities in entities_unfold that are not in entities
-          entities_unfold = [entity for entity in entities_unfold if entity["word"] in entities['final_gpt_entities']]
-          aliases = get_aliases_fuzzy_partial_token(entities_unfold, 99)
+
+     # remove entities in entities_unfold that are not in entities
+     entities_unfold = [entity for entity in entities_unfold if entity["word"] in entities['final_gpt_entities']]
+     aliases = get_aliases_fuzzy_partial_token(entities_unfold, 99)
 
      if logger is not None: 
           saves = {}
@@ -641,13 +654,14 @@ def get_coocurrences_GPT_ner_fuzzy(input_file, entities, logger = None):
           dict: cooccurences of entities
      """
      gpt_entities = entities["final_gpt_entities"]
-     print(gpt_entities)
-     tagged_file = tag_text_with_entities(input_file, gpt_entities)
-     positions = get_positions_of_entities(tagged_file)
-     cooccurences = get_cooccurences([tagged_file], [positions])
+     print("entities = ", gpt_entities)
+     input_text = read_file(input_file)
+     positions = find_word_positions(gpt_entities, input_text)
+     cooccurences = get_cooccurences([input_text], [positions])
      gpt_entities = [{"word": entity} for entity in gpt_entities]
      aliases = get_aliases_fuzzy_partial_token(gpt_entities, 99)
      cooccurences_aliases = find_cooccurences_aliases(cooccurences, aliases)
+     print("cooccurences_aliases = ", cooccurences_aliases)
      
      save = {
           "cooccurences": cooccurences,
@@ -659,7 +673,6 @@ def get_coocurrences_GPT_ner_fuzzy(input_file, entities, logger = None):
           logger(save)
      return cooccurences_aliases
      
-
 def get_coocurrences_GPT_ner_GPT(input_file, entities, logger = None):
      """ Get cooccurences of entities in a text
 
