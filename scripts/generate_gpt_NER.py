@@ -125,6 +125,18 @@ def submission(
 
 
 def generate_GPT_NER(txt_path, logger=None):
+    """ This function aims to generate the NER chunks with GPT.
+
+        Basically, we use the GPT model to generate from a given text all
+        the person entities.
+
+        Args:
+            txt_path (str): path to the text file
+            logger (Logger): logger to save the data
+
+        Returns:
+            None
+    """
     system_prompt = """
      Je suis un excellent linguiste. La tâche consiste à étiqueter les entités de type "Personnages" dans la phrase donnée. Ces phrases sont issus des livres de science-fiction "Le cycle des Fondations" d'Isaac Asimov. Voici quelques exemples :
 
@@ -360,6 +372,17 @@ def self_verification_no_json(txt_path, entities, logger=None):
 
 
 def find_word_positions(word_list, input_text):
+    """
+        Find the positions of the words in the given text.
+
+    Args:
+        word_list (list): list of words to find
+        input_text (str): text to search in
+
+    Returns:
+        list: list of dictionaries with the following structure:
+            {"word": word, "start": start, "end": end}
+    """
     positions = []
 
     for word in word_list:

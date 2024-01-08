@@ -1,3 +1,9 @@
+r""" Count the number of tokens in the texts of the Kaggle dataset.
+
+Authors
+-------
+  * Gabriel Desbouis 2023"""
+
 from tqdm import tqdm
 
 from vroom.GPTTokenizer import GPTTokenizer

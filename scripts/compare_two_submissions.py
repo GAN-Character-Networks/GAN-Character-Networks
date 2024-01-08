@@ -1,9 +1,39 @@
+r""" Compare two submissions and ask the user to choose the best one for each chapter.
+
+Usage:
+    python compare_two_submissions.py
+    
+    This script will display the nodes and edges of the graph for each chapter of the two submissions.
+    Then, it will ask the user to choose the best submission for each chapter.
+    Finally, it will save the user choices in a JSON file.
+    
+    The two submissions must be in CSV format and have the following structure:
+    chapter_id,graphml
+    paf0,"<graphml>...</graphml>"
+    paf1,"<graphml>...</graphml>"
+    ...
+    
+Authors
+-------
+ * Gabriel Desbouis 2024
+"""
+
 import csv
 import json
 import xml.etree.ElementTree as ET
 
 
 def parse_graphml(data):
+    """
+    Parse a graphml file and return the nodes and edges.
+    
+    Args:
+        data (str): The content of the graphml file.
+        
+    Returns:
+            nodes (dict): A dictionary of nodes with the following structure: {id: name}
+            edges (list): A list of edges with the following structure: [(source, target)]
+    """
     root = ET.fromstring(data)
     nodes = {}
     edges = []
@@ -19,6 +49,15 @@ def parse_graphml(data):
 
 
 def display_graph_info(filename, chapter, nodes, edges):
+    """
+    Display the nodes and edges of a graph.
+
+    Args:
+        filename (str): The name of the file.
+        chapter (str): The chapter of the graph.
+        nodes (dict): The nodes of the graph.
+        edges (list): The edges of the graph.
+    """
     print(f"Fichier {filename}, Chapitre: {chapter}")
     for id, name in nodes.items():
         print(f"{id}: {name}")
@@ -29,6 +68,13 @@ def display_graph_info(filename, chapter, nodes, edges):
 
 
 def read_csv_and_display_info(filename, chapter):
+    """
+    Read a CSV file and display the nodes and edges of the graph for a given chapter.
+
+    Args:
+        filename (str): The name of the file.
+        chapter (str): The chapter of the graph.
+    """
     with open(filename, newline="") as csvfile:
         reader = csv.reader(csvfile, delimiter=",", quotechar='"')
         for row in reader:

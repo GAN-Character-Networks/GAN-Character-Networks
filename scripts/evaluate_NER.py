@@ -1,4 +1,16 @@
-# from vroom.metrics import evaluate
+r""" Evaluate the NER model on the Kaggle dataset.
+
+Usage:
+    python evaluate_NER.py
+
+    This script will evaluate the NER model on the Kaggle dataset.
+    It will compute the precision, recall, f1_score and accuracy of the model.
+    
+Authors
+-------
+ * Adel MOUMEN 2023
+ """
+
 import os
 import re
 
