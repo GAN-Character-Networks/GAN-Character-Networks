@@ -1,6 +1,5 @@
 # Continuous integration
 name: CI
-
 # Runs on pushes to main and develop branches and on pull requests
 on:  # yamllint disable-line rule:truthy
   push:
@@ -8,7 +7,6 @@ on:  # yamllint disable-line rule:truthy
       - main
       - develop
   pull_request:
-
 jobs:
   tests:
     name: Tests
@@ -22,9 +20,9 @@ jobs:
 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
+
         with:
           python-version: ${{ matrix.python-version }}
-
       - name: Display Python version
         run: python -c "import sys; print(sys.version)"
 

@@ -16,7 +16,6 @@ repos:
             pass_filenames: False
             always_run: True
             require_serial: False
-
           - id: doctests
             name: doctests
             entry: tests/.run-doctests.sh
