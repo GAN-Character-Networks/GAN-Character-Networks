@@ -6,13 +6,15 @@ Authors
 """
 
 
-from vroom.baseline import get_cooccurences_with_aliases_and_gpt
-from vroom.GraphManager import GraphManager
-import pandas as pd
-from tqdm import tqdm
-from vroom.loggers import JSONLogger
 import html
 import os
+
+import pandas as pd
+from tqdm import tqdm
+
+from vroom.baseline import get_cooccurences_with_aliases_and_gpt
+from vroom.GraphManager import GraphManager
+from vroom.loggers import JSONLogger
 
 
 def generate_submission():

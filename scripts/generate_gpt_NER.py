@@ -5,27 +5,29 @@ Authors
  * Adel Moumen 2023, 2024
 """
 
-from vroom.baseline import (
-    get_aliases_fuzzy_partial_token,
-    find_cooccurences_aliases,
-    get_cooccurences,
-)
-from vroom.loggers import JSONLogger
-from vroom.GraphManager import GraphManager
+import html
+import json
+import os
+import re
+
+import pandas as pd
 from openai import OpenAI
 from tqdm import tqdm
-import os
-import pandas as pd
-import html
+
+from vroom.baseline import (
+    find_cooccurences_aliases,
+    get_aliases_fuzzy_partial_token,
+    get_cooccurences,
+)
+from vroom.GraphManager import GraphManager
+from vroom.loggers import JSONLogger
 from vroom.NER import (
-    read_file,
     chunk_text_by_sentence,
     get_entities_from_file,
     get_positions_of_entities,
+    read_file,
     tag_text_with_entities,
 )
-import json
-import re
 
 
 def submission(

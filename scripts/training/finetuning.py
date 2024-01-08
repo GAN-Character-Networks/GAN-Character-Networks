@@ -1,17 +1,16 @@
-import pandas as pd
-from transformers import (
-    CamembertForTokenClassification,
-    AutoTokenizer,
-)
-import tqdm
-import torch
 import ast
+
+import pandas as pd
+import torch
+import tqdm
 from torch.nn.utils.rnn import pad_sequence
+from transformers import AutoTokenizer, CamembertForTokenClassification
 
 
 def seed_everything(seed: int) -> None:
-    import random
     import os
+    import random
+
     import numpy as np
     import torch
 

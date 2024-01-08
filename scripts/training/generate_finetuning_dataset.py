@@ -5,10 +5,12 @@ Authors
  * Adel Moumen 2024
 """
 import csv
+import re
+
 from nltk.tokenize import sent_tokenize
 from transformers import AutoTokenizer
+
 from vroom.NER import read_file
-import re
 
 
 def reconstruct_sentence_from_list(tokens):

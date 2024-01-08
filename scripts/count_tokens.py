@@ -1,4 +1,5 @@
 from tqdm import tqdm
+
 from vroom.GPTTokenizer import GPTTokenizer
 from vroom.NER import read_file
 

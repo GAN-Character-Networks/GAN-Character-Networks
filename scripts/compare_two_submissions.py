@@ -1,6 +1,6 @@
 import csv
-import xml.etree.ElementTree as ET
 import json
+import xml.etree.ElementTree as ET
 
 
 def parse_graphml(data):

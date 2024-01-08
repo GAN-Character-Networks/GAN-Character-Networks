@@ -1,13 +1,15 @@
-from openai import OpenAI
-from vroom.NER import chunk_text
-from vroom.GPTTokenizer import GPTTokenizer
-import json
-from vroom.GraphManager import GraphManager
-import nltk
 import html
-import pandas as pd
-from tqdm import tqdm
+import json
 import re
+
+import nltk
+import pandas as pd
+from openai import OpenAI
+from tqdm import tqdm
+
+from vroom.GPTTokenizer import GPTTokenizer
+from vroom.GraphManager import GraphManager
+from vroom.NER import chunk_text
 
 OPENAI_API_KEY = "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"
 total_tokens_sent = 0

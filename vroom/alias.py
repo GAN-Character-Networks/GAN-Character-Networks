@@ -5,10 +5,11 @@ Authors
  * Nicolas Bataille 2023
 """
 
+from rapidfuzz import fuzz
+
 # import numpy as np
 # from sklearn.cluster import DBSCAN
 from textdistance import jaro_winkler
-from rapidfuzz import fuzz
 
 
 def remove_duplicates_by_word(data):

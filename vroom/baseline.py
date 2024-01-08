@@ -6,17 +6,19 @@ Authors
  * Adel Moumen 2023, 2024
  * Gabriel Desbouis 2023
 """
+import json
+
+from openai import OpenAI
+
 from vroom.alias import get_aliases_fuzzy_partial_token
 from vroom.cooccurences import get_cooccurences
 from vroom.loggers import JSONLogger
-from openai import OpenAI
 from vroom.NER import (
+    chunk_text_by_sentence,
     get_entities_from_file,
     get_positions_of_entities,
     tag_text_with_entities,
-    chunk_text_by_sentence,
 )
-import json
 
 
 def get_cooccurences_from_text(path: str):
@@ -333,9 +335,9 @@ def get_cooccurences_with_aliases_and_gpt_NER(
     Texte :
     <start>
     """
-    from vroom.NER import read_file
     from vroom.alias import get_aliases_fuzzy
     from vroom.cooccurences import get_cooccurences
+    from vroom.NER import read_file
 
     content = read_file(path)
     chunks = chunk_text_by_sentence(content, batch_size=5)

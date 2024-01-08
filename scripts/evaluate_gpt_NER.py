@@ -1,12 +1,14 @@
 import json
 import os
-from openai import OpenAI
 import re
+
+from openai import OpenAI
+
 from vroom.NER import (
-    read_file,
     chunk_text_by_sentence,
-    tag_text_with_entities,
     get_positions_of_entities,
+    read_file,
+    tag_text_with_entities,
 )
 
 unlabeled_chapter = os.path.join(

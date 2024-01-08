@@ -1,4 +1,5 @@
 import os
+
 import vroom.GPTTokenizer
 
 cavernes_files = os.listdir("data/kaggle/les_cavernes_d_acier")

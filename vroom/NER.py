@@ -7,17 +7,18 @@ Authors
  * Gabriel DESBOUIS 2023
 """
 
-from transformers import (
-    AutoTokenizer,
-    AutoModelForTokenClassification,
-    pipeline,
-)
 import json
-from flair.data import Sentence
-from flair.models import SequenceTagger
 import os
 import re
+
 import nltk
+from flair.data import Sentence
+from flair.models import SequenceTagger
+from transformers import (
+    AutoModelForTokenClassification,
+    AutoTokenizer,
+    pipeline,
+)
 
 
 def read_file(file_path: str):

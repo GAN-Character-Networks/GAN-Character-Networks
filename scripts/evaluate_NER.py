@@ -1,13 +1,13 @@
-from vroom.NER import (
-    get_entities_from_file,
-    tag_text_with_entities,
-    search_names_with_determinants,
-    read_file,
-)
-
 # from vroom.metrics import evaluate
 import os
 import re
+
+from vroom.NER import (
+    get_entities_from_file,
+    read_file,
+    search_names_with_determinants,
+    tag_text_with_entities,
+)
 
 unlabeled_chapter = os.path.join(
     "../data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled"
