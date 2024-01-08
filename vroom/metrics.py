@@ -1,4 +1,4 @@
-"""This file contains the metrics used to evaluate the performance of the
+r"""This file contains the metrics used to evaluate the performance of the
 system.
 
 It includes various metrics to evaluate the NER to the coocurrences algorithm.

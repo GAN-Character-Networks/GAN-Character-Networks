@@ -1,3 +1,12 @@
+r"""
+Package for graph tasks.
+
+Authors
+-------
+ * Gabriel DESBOUIS 2023
+ 
+"""
+
 import networkx as nx
 
 

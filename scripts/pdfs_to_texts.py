@@ -1,4 +1,4 @@
-r"""
+r""" This script allows to convert all the PDFs in the data/pdfs folder to text files.
 
 Authors
 -------

@@ -1,3 +1,10 @@
+r"""This package contains the classes and function to test the GraphManager class.
+
+Authors
+-------
+ * Gabriel DESBOUIS 2023
+"""
+
 import os
 import networkx as nx
 from vroom.GraphManager import GraphManager

@@ -4,6 +4,7 @@ Authors
 --------
  * Nicolas Bataille 2023
  * Adel Moumen 2023
+ * Gabriel DESBOUIS 2023
 """
 
 from transformers import (
@@ -247,6 +248,14 @@ def get_entities_from_file(
 
 
 def tag_named_entities(text, named_entities):
+    """
+    Tags the named entities in the text.
+    Args:
+        text (str): The input text.
+        named_entities (list): A list of named entities.
+    Returns:
+        str: The tagged text.
+    """
     # Sort named entities by length in descending order
     sorted_entities = sorted(named_entities, key=len, reverse=True)
 
@@ -269,7 +278,13 @@ def tag_named_entities(text, named_entities):
 
 
 def remove_nested_tags(text):
-
+    """
+    Removes nested tags in the text.
+    Args:
+        text (str): The input text.    
+    Returns:
+        str: The text without nested tags.
+    """
     words = text.split(" ")
     is_PER_main_context = False
     is_PER_second_context = False
