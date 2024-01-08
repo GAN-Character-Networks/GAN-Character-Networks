@@ -4,6 +4,12 @@
 
 Ce projet fournit des outils pour générer un graphe de liens entre personnages à partir d'un texte. Il utilise un modèle de reconnaissance d'entités nommées (NER) pour identifier les personnages dans un texte et résoudre leurs alias à l'aide de règles et de fuzzy matching. Une classe GraphManager est également fournie pour créer des graphes à partir de listes de cooccurrences.
 
+Il est possible d'utiliser les modèle proposés par OpenAI. Il vous faudra renseigner votre clé dans une variable d'environnement comme suit : 
+
+```bash
+export OPENAI_API_KEY='Votre clé'
+```
+
 ## Installation
 ```bash
 pip install -r requirements.txt
@@ -35,6 +41,10 @@ Le code est disponible dans le fichier `examples/baseline.py`
 - Génération de graphes de liens entre personnages à partir de textes.
 - Résolution d'alias de personnages utilisant un modèle de NER et des techniques de fuzzy matching.
 - Création et gestion de graphes avec la classe `GraphManager`.
+- Extraction de cooccurrences de personnages à partir de textes.
+- Extraction de personnage à partir de texte avec un modèle de *NER*, *ChatGPT*.
+- Fine-tuning du modèle de *NER* avec des données annotées par *GPT3.5-1106*.
+...
 
 ## Structure du projet
 
