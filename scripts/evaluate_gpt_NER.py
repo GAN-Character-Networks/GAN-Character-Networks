@@ -1,17 +1,25 @@
-from vroom.NER import *
 import json
-import os 
-from openai import OpenAI
 import os
-import glob
-from vroom.NER import chunk_text, read_file
-import json 
+from openai import OpenAI
+import re
+from vroom.NER import (
+    read_file,
+    chunk_text_by_sentence,
+    tag_text_with_entities,
+    get_positions_of_entities,
+)
 
-unlabeled_chapter = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled")
-labeled_chapter = os.path.join("data", "test_set", "prelude_a_fondation", "chapter_1.labeled")
-gpt_output_json = os.path.join("save", "kaggle", "paf", "GPT-3_NER_chunks_determinant", "chapter_1.json")
+unlabeled_chapter = os.path.join(
+    "data", "test_set", "prelude_a_fondation", "chapter_1.unlabeled"
+)
+labeled_chapter = os.path.join(
+    "data", "test_set", "prelude_a_fondation", "chapter_1.labeled"
+)
+gpt_output_json = os.path.join(
+    "save", "kaggle", "paf", "GPT-3_NER_chunks_determinant", "chapter_1.json"
+)
 content = read_file(unlabeled_chapter)
-chunks = chunk_text_by_sentence(content, batch_size = 5) 
+chunks = chunk_text_by_sentence(content, batch_size=5)
 do_self_verification = True
 
 with open(gpt_output_json, "r") as f:
@@ -27,10 +35,12 @@ for key in gpt_output:
 labeled_gpt_entities = []
 for chunk in tagged_text_gpt:
     # extract all entities between @@ and ##
-    entities = re.findall(r'@@(.*?)##', chunk)
+    entities = re.findall(r"@@(.*?)##", chunk)
     labeled_gpt_entities.append(entities)
 
-labeled_gpt_entities = [item for sublist in labeled_gpt_entities for item in sublist]
+labeled_gpt_entities = [
+    item for sublist in labeled_gpt_entities for item in sublist
+]
 labeled_gpt_entities = list(set(labeled_gpt_entities))
 print(labeled_gpt_entities)
 
@@ -40,7 +50,7 @@ if do_self_verification:
     params = {
         "temperature": 0,
         "seed": 42,
-        "model": "gpt-3.5-turbo-1106", # gpt-4-1106-preview
+        "model": "gpt-3.5-turbo-1106",  # gpt-4-1106-preview
     }
 
     system_prompt = r"""
@@ -101,10 +111,10 @@ if do_self_verification:
                 print(user_prompt)
 
                 response = client.chat.completions.create(
-                **params,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt},
+                    **params,
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_prompt},
                     ],
                 )
 
@@ -112,23 +122,26 @@ if do_self_verification:
                 print()
                 print(generated_content)
                 print("--------------------------------------------------")
-                
+
                 if generated_content == "Oui":
                     checked_entities.append(entity)
                 else:
                     labeled_gpt_entities.remove(entity)
-#else:
+# else:
 #    labeled_gpt_entities = ['Eto Demerzel', 'Demerzel', 'CLÉON Ier', 'Empereurs', 'Lieutenant Alban Wellis', 'empereur Cléon', 'Seldon', 'Empereur', 'Hummin', 'Sire', 'Hari Seldon', 'Wellis', 'Cléon']
 
 print(labeled_gpt_entities)
 
 labeled_gpt_entities += ["l’Empereur"]
 
-unlabeled_text_tagged = tag_text_with_entities(unlabeled_chapter, labeled_gpt_entities)
+unlabeled_text_tagged = tag_text_with_entities(
+    unlabeled_chapter, labeled_gpt_entities
+)
 labeled_text_tagged = read_file(labeled_chapter)
 
 positions_ner = get_positions_of_entities(unlabeled_text_tagged)
 true_position = get_positions_of_entities(labeled_text_tagged)
+
 
 def evaluate_ner(positions_ner, true_position):
     true_positives = 0
@@ -141,7 +154,7 @@ def evaluate_ner(positions_ner, true_position):
             true_positives += 1
         else:
             false_positives += 1
-        
+
     # check if the entity is missing
     for entity in true_position:
         if entity not in positions_ner:
@@ -154,14 +167,14 @@ def evaluate_ner(positions_ner, true_position):
     precision = true_positives / (true_positives + false_positives)
     recall = true_positives / (true_positives + false_negatives)
     f1_score = 2 * (precision * recall) / (precision + recall)
-    accuracy = true_positives / (true_positives + false_positives + false_negatives)
+    accuracy = true_positives / (
+        true_positives + false_positives + false_negatives
+    )
 
     print("precision", precision)
     print("recall", recall)
     print("f1_score", f1_score)
     print("accuracy", accuracy)
 
+
 evaluate_ner(positions_ner, true_position)
-
-
-

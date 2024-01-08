@@ -8,7 +8,8 @@ import csv
 from nltk.tokenize import sent_tokenize
 from transformers import AutoTokenizer
 from vroom.NER import read_file
-import re 
+import re
+
 
 def reconstruct_sentence_from_list(tokens):
     """Reconstructs a sentence from a list of tokens.
@@ -21,7 +22,7 @@ def reconstruct_sentence_from_list(tokens):
     """
     reconstructed_sentence = ""
     for token in tokens:
-        if token.startswith('▁'):
+        if token.startswith("▁"):
             token = " " + token[1:]  # Remove the leading ▁ if present
         reconstructed_sentence += token
     return reconstructed_sentence.strip()
@@ -36,7 +37,7 @@ def extract_entities_from_sentence(input_sentence):
     Returns:
         list: List of entities.
     """
-    return re.findall(r'@@(.*?)##', input_sentence)
+    return re.findall(r"@@(.*?)##", input_sentence)
 
 
 def tokenize(input, tokenizer):
@@ -53,18 +54,18 @@ def tokenize(input, tokenizer):
     """
     entities = extract_entities_from_sentence(input)
     entity_lists = [tokenizer.tokenize(entity) for entity in entities]
-    input_sentence_normalized = input.replace('@@', '').replace('##', '')    
+    input_sentence_normalized = input.replace("@@", "").replace("##", "")
     input_tokens = tokenizer.tokenize(input_sentence_normalized)
-    
 
     labels = [0] * len(input_tokens)
     for entity_list in entity_lists:
         entity_len = len(entity_list)
         for i in range(len(input_tokens) - entity_len + 1):
-            if input_tokens[i:i + entity_len] == entity_list:
-                labels[i:i + entity_len] = [2] * entity_len
+            if input_tokens[i : i + entity_len] == entity_list:
+                labels[i : i + entity_len] = [2] * entity_len
 
     return input_sentence_normalized, input_tokens, labels
+
 
 def write_results(output_file, data):
     """Writes the tokenized and labeled data to a CSV file.
@@ -79,16 +80,20 @@ def write_results(output_file, data):
         for idx, (sentence, tokens, labels) in enumerate(data):
             writer.writerow([idx, sentence, tokens, labels])
 
+
 if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
 
-    files = ["data/test_set/chapter_1.labeled.@@", "data/test_set/chapter_2.labeled.@@"]
+    files = [
+        "data/test_set/chapter_1.labeled.@@",
+        "data/test_set/chapter_2.labeled.@@",
+    ]
     all_data = []
     for input_file in files:
         content = read_file(input_file)
         sentences = sent_tokenize(content)
         data = [tokenize(sentence, tokenizer) for sentence in sentences]
         all_data.extend(data)
-    
+
     output_file = "data/finetuning_data/train_data.csv"
     write_results(output_file, all_data)

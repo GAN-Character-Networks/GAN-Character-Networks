@@ -2,19 +2,21 @@ import csv
 import xml.etree.ElementTree as ET
 import json
 
+
 def parse_graphml(data):
     root = ET.fromstring(data)
     nodes = {}
     edges = []
     for node in root.findall(".//{http://graphml.graphdrawing.org/xmlns}node"):
-        id = node.get('id')
+        id = node.get("id")
         name = node.find(".//{http://graphml.graphdrawing.org/xmlns}data").text
         nodes[id] = name
     for edge in root.findall(".//{http://graphml.graphdrawing.org/xmlns}edge"):
-        source = edge.get('source')
-        target = edge.get('target')
+        source = edge.get("source")
+        target = edge.get("target")
         edges.append((source, target))
     return nodes, edges
+
 
 def display_graph_info(filename, chapter, nodes, edges):
     print(f"Fichier {filename}, Chapitre: {chapter}")
@@ -25,13 +27,15 @@ def display_graph_info(filename, chapter, nodes, edges):
         print(f"{edge[0]} -> {edge[1]}")
     print("\n")
 
+
 def read_csv_and_display_info(filename, chapter):
-    with open(filename, newline='') as csvfile:
-        reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+    with open(filename, newline="") as csvfile:
+        reader = csv.reader(csvfile, delimiter=",", quotechar='"')
         for row in reader:
             if row[0] == chapter:
                 nodes, edges = parse_graphml(row[1])
                 display_graph_info(filename, chapter, nodes, edges)
+
 
 def main():
     books = [
@@ -50,12 +54,15 @@ def main():
             read_csv_and_display_info(file1, chapter)
             read_csv_and_display_info(file2, chapter)
 
-            choice = input(f"Préférez-vous les données du fichier 1 ou du fichier 2 pour le chapitre {chapter}? ")
+            choice = input(
+                f"Préférez-vous les données du fichier 1 ou du fichier 2 pour le chapitre {chapter}? "
+            )
             user_choices[chapter] = choice
 
     # Sauvegarde des choix dans un fichier JSON
-    with open('user_choices.json', 'w') as json_file:
+    with open("user_choices.json", "w") as json_file:
         json.dump(user_choices, json_file)
+
 
 if __name__ == "__main__":
     main()

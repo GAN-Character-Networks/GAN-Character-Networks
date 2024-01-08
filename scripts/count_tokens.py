@@ -1,6 +1,7 @@
 from tqdm import tqdm
 from vroom.GPTTokenizer import GPTTokenizer
-from vroom.NER import *
+from vroom.NER import read_file
+
 
 def count_tokens():
     """
@@ -28,5 +29,6 @@ def count_tokens():
             print("count_tokens : ", count_tokens)
             total += count_tokens
     print("total : ", total)
+
 
 count_tokens()

@@ -19,7 +19,8 @@ import os
 import re
 import nltk
 
-def read_file(file_path: str): 
+
+def read_file(file_path: str):
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read().rstrip()
 
@@ -281,7 +282,7 @@ def remove_nested_tags(text):
     """
     Removes nested tags in the text.
     Args:
-        text (str): The input text.    
+        text (str): The input text.
     Returns:
         str: The text without nested tags.
     """
@@ -315,6 +316,7 @@ def remove_nested_tags(text):
 
     return " ".join(text)
 
+
 def chunk_text_by_sentence(text, batch_size=5):
     # Download the punkt tokenizer if not already present
     nltk.download("punkt")
@@ -330,6 +332,7 @@ def chunk_text_by_sentence(text, batch_size=5):
 
     # Return the list of batches of sentences
     return batched_sentences
+
 
 def merge_special_words(word_list):
     merged_list = []

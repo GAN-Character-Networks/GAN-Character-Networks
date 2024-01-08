@@ -14,6 +14,7 @@ from vroom.loggers import JSONLogger
 import html
 import os
 
+
 def generate_submission():
     """
     Generates a submission file from the texts in the data/kaggle directory.
@@ -34,14 +35,21 @@ def generate_submission():
                 path = f"data/kaggle/les_cavernes_d_acier/chapter_{chapter}.txt.preprocessed"
             print("Processing : ", path)
             graph_manager = GraphManager()
-            experiment_name = os.path.join("save", "kaggle", book_code, "baseline")
+            experiment_name = os.path.join(
+                "save", "kaggle", book_code, "baseline"
+            )
             save_path = os.path.join(experiment_name, f"chapter_{chapter}.json")
             print("save_path : ", save_path)
             logger = JSONLogger(save_path)
             coocurrences = get_cooccurences_with_aliases_and_gpt(path, logger)
             graph_manager.add_cooccurrences(coocurrences)
             df_dict["ID"].append(f"{book_code}{chapter-1}")
-            df_dict["graphml"].append("".join(html.unescape(s) if isinstance(s, str) else s for s in graph_manager.generate_graph()))
+            df_dict["graphml"].append(
+                "".join(
+                    html.unescape(s) if isinstance(s, str) else s
+                    for s in graph_manager.generate_graph()
+                )
+            )
 
     df = pd.DataFrame(df_dict)
     df.set_index("ID", inplace=True)

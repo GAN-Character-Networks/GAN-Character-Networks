@@ -13,6 +13,7 @@ class GPTTokenizer:
     A wrapper for the GPT tokenizer.
     It allows to tokenize a text and count the number of tokens.
     """
+
     def __init__(self, model: str = "gpt-4") -> None:
         self.encoding = tiktoken.encoding_for_model(model)
 
