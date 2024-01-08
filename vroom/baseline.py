@@ -54,7 +54,7 @@ def find_cooccurences_aliases(cooccurences, aliases):
 
     for cooccurence in cooccurences:
         cooc_1_aliases = [
-            alias
+            alias 
             for alias in aliases
             if cooccurence[0].lower() in [a.lower() for a in alias]
         ]
@@ -164,24 +164,6 @@ Fais-le pour les personnes suivantes et essaie de trouver les meilleurs regroupe
     entities, chunks = get_entities_from_file(path, device="cuda")
     cooccurences = get_cooccurences(chunks, entities)
     entities = [entity for sublist in entities for entity in sublist]
-    entities_to_remove = [
-        "Spacetown",
-        "ah",
-        "le Spacien",
-        "cle",
-        "Ciel",
-        "Williamsburg",
-        # "B... Baley",
-        "Trantor",
-        "Il",
-        "Aurora",
-        "Novigor",
-        "Bande",
-        "Deux",
-        "Qu"
-    ]
-    entities = [entity for entity in entities if entity["word"] not in entities_to_remove]
-
     word_entities = [entity["word"] for entity in entities]
     print("entities = ", set(word_entities))
     user_prompt = """
