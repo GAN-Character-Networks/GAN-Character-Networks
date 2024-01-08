@@ -1,5 +1,13 @@
+r""" This script allows to generate a submission file for the Kaggle competition based on a baseline with ChatGPT.
+
+Authors
+-------
+    * Gabriel DESBOUIS 2023
+"""
+
 import html
 import json
+import os
 import re
 
 import nltk
@@ -11,7 +19,9 @@ from vroom.GPTTokenizer import GPTTokenizer
 from vroom.GraphManager import GraphManager
 from vroom.NER import chunk_text
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+if not OPENAI_API_KEY:
+    raise ValueError("La clé API OpenAI n'est pas définie dans les variables d'environnement.")
 total_tokens_sent = 0
 total_tokens_received = 0
 client = OpenAI(api_key=OPENAI_API_KEY)
